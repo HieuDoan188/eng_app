@@ -6,7 +6,7 @@ const path = require('path');
 const BC = require('../js/basics-core.js');
 const { BOOKS } = require('../scripts/build-books.js');
 
-const FILES = { ko: 'ko.js', ja: 'ja.js', 'zh-CN': 'zh.js', ru: 'ru.js', es: 'es.js' };
+const FILES = { ko: 'ko.js', ja: 'ja.js', 'zh-CN': 'zh.js', ru: 'ru.js', es: 'es.js', en: 'en.js' };
 const window = {};
 for (const f of Object.values(FILES)) {
   new Function('window', fs.readFileSync(path.join(__dirname, '../data/basics', f), 'utf8'))(window);

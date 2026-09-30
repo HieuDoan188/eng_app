@@ -72,6 +72,18 @@ const BOOKS = [
     romLabel: null, // Spanish is written in Latin script; the book has no pronunciation column
     meaningLang: 'vi',
   },
+  {
+    id: 'english-1000',
+    raw: 'data/raw/english-1000.txt',
+    title: '1000 Câu Tiếng Anh Thông Dụng Nhất',
+    subtitle: '1000 most common English sentences',
+    language: 'English',
+    flag: '🇬🇧',
+    lang: 'en',
+    ttsLang: 'en-US',
+    romLabel: null, // the book has no pronunciation column
+    meaningLang: 'vi',
+  },
 ];
 
 function parseBook(text) {

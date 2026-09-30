@@ -3,7 +3,7 @@
 A personal language-study app. It teaches the vocabulary and sentences in your study books with spaced repetition, and it tracks your daily study routine.
 
 **Phase 1:** learn the sentences in a book (flashcards, a quiz and audio) and track your progress.
-Five books are included. Each has 1000 common sentences with Vietnamese meanings:
+Six books are included. Each has 1000 common sentences with Vietnamese meanings:
 
 | Language | Book | Pronunciation | Chapters |
 |---|---|---|---|
@@ -12,6 +12,7 @@ Five books are included. Each has 1000 common sentences with Vietnamese meanings
 | 🇨🇳 Chinese | 1000 Câu Tiếng Trung Thông Dụng Nhất | pinyin | 14 |
 | 🇷🇺 Russian | 1000 Câu Tiếng Nga Thông Dụng Nhất | transliteration | 34 |
 | 🇪🇸 Spanish | 1000 Câu Tiếng Tây Ban Nha Thông Dụng Nhất | (none) | 51 |
+| 🇬🇧 English | 1000 Câu Tiếng Anh Thông Dụng Nhất | (none) | 71 |
 
 Switch language with the selector in the top bar. Each language keeps its own progress and its own daily new-sentence limit. The streak and daily goal count all languages together.
 
@@ -24,8 +25,9 @@ Switch language with the selector in the top bar. Each language keeps its own pr
     - Chinese: tones, initials, finals and 20 common radicals.
     - Russian: Cyrillic letters in 3 groups (familiar, look-alikes that sound different, new).
     - Spanish: vowels, familiar consonants and special letters.
-  - **Pronunciation & reading**: 5 lessons per language covering reading rules such as liaison and nasalization (Korean), long vowels and っ (Japanese), tone sandhi (Chinese), stress and vowel reduction (Russian), and stress and accent marks (Spanish).
-  - **Core grammar**: 10–11 lessons per language with explanations, patterns, conjugation tables, examples with audio, and check questions. A lesson is done when you answer all its questions correctly.
+    - English: the alphabet (letter names), and IPA vowels, diphthongs and tricky consonants.
+  - **Pronunciation & reading**: 5–6 lessons per language covering reading rules such as liaison and nasalization (Korean), long vowels and っ (Japanese), tone sandhi (Chinese), stress and vowel reduction (Russian), stress and accent marks (Spanish), and long/short vowels, TH, -s/-ed endings, word stress, linking and silent letters (English).
+  - **Core grammar**: 10–12 lessons per language with explanations, patterns, conjugation tables, examples with audio, and check questions. A lesson is done when you answer all its questions correctly.
   - The Today page shows your Basics progress and the next step.
 
 - **Today dashboard**: a daily goal ring, your study streak, cards due now, book progress, a **Your languages** overview (progress, what's due and a Study button for each language) and an activity heatmap.
@@ -63,7 +65,7 @@ Updates arrive in the background: open the app once while online, and the new ve
 
 Progress is stored on the device. To move it between devices, use Settings → Export / Import.
 
-> Audio uses the voices installed on your device. If a language has no voice, install one in your OS language settings. Android and iOS include voices for all five languages.
+> Audio uses the voices installed on your device. If a language has no voice, install one in your OS language settings. Android and iOS include voices for all six languages.
 
 ## Project layout
 
@@ -122,6 +124,6 @@ npm run build:data   # regenerate data/books after editing data/raw
 
 ## Roadmap
 
-- **Phase 1 (done):** sentence learning from books with SRS, quiz, audio and routine tracking. Five languages: Korean, Japanese, Chinese, Russian and Spanish.
+- **Phase 1 (done):** sentence learning from books with SRS, quiz, audio and routine tracking. Six languages: Korean, Japanese, Chinese, Russian, Spanish and English.
 - **Basics (done):** alphabet and sound practice, pronunciation rules and core grammar for each language.
-- **Next ideas:** more books (English vocabulary books), typing and dictation practice, word-level vocabulary extracted from the sentences, a study reminder and calendar, sync across devices, and an installable PWA for offline use.
+- **Next ideas:** more books, typing and dictation practice, word-level vocabulary extracted from the sentences, a study reminder and calendar, and sync across devices.

@@ -3,7 +3,7 @@
 // first and refreshed from the network in the background, so an update
 // shows up the next time the app is opened. Bump VERSION when adding or
 // removing files in ASSETS.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = 'langtrack-' + VERSION;
 
 const ASSETS = [
@@ -20,11 +20,13 @@ const ASSETS = [
   'data/books/chinese-1000.js',
   'data/books/russian-1000.js',
   'data/books/spanish-1000.js',
+  'data/books/english-1000.js',
   'data/basics/ko.js',
   'data/basics/ja.js',
   'data/basics/zh.js',
   'data/basics/ru.js',
   'data/basics/es.js',
+  'data/basics/en.js',
   'js/srs.js',
   'js/basics-core.js',
   'js/tracker.js',

@@ -1,0 +1,1073 @@
+# Format: "## <chapter no>|<Vietnamese title>|<English title>" starts a chapter;
+# each sentence line is "<no>|<English>|<romanization (empty for English)>|<Vietnamese>".
+## 1|Chào hỏi & Giới thiệu|Greetings & Introductions
+1|Hello!||Xin chào!
+2|Hi there!||Chào bạn!
+3|Good morning!||Chào buổi sáng!
+4|Good afternoon!||Chào buổi chiều!
+5|Good evening!||Chào buổi tối!
+6|Good night!||Chúc ngủ ngon!
+7|How are you?||Bạn có khỏe không?
+8|I'm fine, thank you.||Tôi khỏe, cảm ơn bạn.
+9|Nice to meet you.||Rất vui được gặp bạn.
+10|What's your name?||Tên bạn là gì?
+11|My name is John.||Tên tôi là John.
+12|Where are you from?||Bạn đến từ đâu?
+13|I'm from Vietnam.||Tôi đến từ Việt Nam.
+14|How old are you?||Bạn bao nhiêu tuổi?
+15|I'm twenty-five years old.||Tôi hai mươi lăm tuổi.
+16|What do you do for a living?||Bạn làm nghề gì?
+17|I'm a teacher.||Tôi là giáo viên.
+18|It's nice to see you again.||Thật vui khi gặp lại bạn.
+19|Long time no see!||Lâu rồi không gặp!
+20|How have you been?||Dạo này bạn thế nào?
+## 2|Lịch sự & Phép xã giao|Polite Expressions
+21|Please.||Làm ơn.
+22|Thank you.||Cảm ơn bạn.
+23|Thank you very much.||Cảm ơn bạn rất nhiều.
+24|You're welcome.||Không có gì.
+25|I'm sorry.||Tôi xin lỗi.
+26|Excuse me.||Xin lỗi / Xin phép.
+27|Pardon me.||Xin lỗi.
+28|No problem.||Không vấn đề gì.
+29|Of course.||Tất nhiên.
+30|Certainly.||Chắc chắn rồi.
+31|That's okay.||Không sao.
+32|Don't worry about it.||Đừng lo lắng về điều đó.
+33|It's my pleasure.||Đó là niềm vui của tôi.
+34|After you.||Mời bạn đi trước.
+35|Please go ahead.||Xin mời bạn cứ tự nhiên.
+36|Could you please help me?||Bạn có thể giúp tôi không?
+37|Would you mind...?||Bạn có phiền không nếu...?
+38|May I ask you something?||Tôi có thể hỏi bạn điều gì không?
+39|I appreciate your help.||Tôi trân trọng sự giúp đỡ của bạn.
+40|That's very kind of you.||Bạn thật tốt bụng.
+## 3|Hỏi đường & Địa điểm|Asking for Directions
+41|Where is the bathroom?||Phòng tắm ở đâu?
+42|How do I get to the airport?||Làm sao để đến sân bay?
+43|Is it far from here?||Nó có xa đây không?
+44|Turn left at the corner.||Rẽ trái ở góc đường.
+45|Turn right at the traffic light.||Rẽ phải ở đèn giao thông.
+46|Go straight ahead.||Đi thẳng.
+47|It's on the right side.||Nó ở phía bên phải.
+48|It's on the left side.||Nó ở phía bên trái.
+49|It's across the street.||Nó ở bên kia đường.
+50|It's next to the bank.||Nó ở cạnh ngân hàng.
+51|It's behind the supermarket.||Nó ở phía sau siêu thị.
+52|How far is it?||Nó cách bao xa?
+53|Can you show me on the map?||Bạn có thể chỉ cho tôi trên bản đồ không?
+54|I'm lost.||Tôi bị lạc.
+55|Where am I?||Tôi đang ở đâu?
+56|Is there a hotel nearby?||Có khách sạn nào gần đây không?
+57|Take the first street on the left.||Rẽ vào con đường đầu tiên bên trái.
+58|Walk two blocks and then turn right.||Đi hai dãy nhà rồi rẽ phải.
+59|You can't miss it.||Bạn sẽ không bỏ qua được đâu.
+60|It's about ten minutes' walk.||Đi bộ khoảng mười phút.
+## 4|Mua sắm|Shopping
+61|How much does this cost?||Cái này giá bao nhiêu?
+62|That's too expensive.||Đắt quá.
+63|Do you have a discount?||Bạn có giảm giá không?
+64|Can I try this on?||Tôi có thể thử cái này không?
+65|Do you have this in a different size?||Bạn có cái này với kích cỡ khác không?
+66|I'll take it.||Tôi sẽ lấy cái này.
+67|Where can I pay?||Tôi có thể thanh toán ở đâu?
+68|Do you accept credit cards?||Bạn có chấp nhận thẻ tín dụng không?
+69|Can I have a receipt, please?||Làm ơn cho tôi hóa đơn.
+70|I'd like to return this.||Tôi muốn trả lại cái này.
+71|Do you have anything cheaper?||Bạn có cái gì rẻ hơn không?
+72|I'm just looking, thanks.||Tôi chỉ xem thôi, cảm ơn.
+73|What size do you need?||Bạn cần kích cỡ nào?
+74|We're out of stock.||Chúng tôi đã hết hàng.
+75|This is on sale.||Cái này đang được giảm giá.
+76|Can you wrap it as a gift?||Bạn có thể gói nó làm quà không?
+77|I'd like to exchange this.||Tôi muốn đổi cái này.
+78|Is this the final price?||Đây có phải giá cuối cùng không?
+79|Do you have a loyalty card?||Bạn có thẻ khách hàng thân thiết không?
+80|Where are the fitting rooms?||Phòng thử đồ ở đâu?
+## 5|Nhà hàng & Ăn uống|Restaurant & Food
+81|A table for two, please.||Làm ơn cho một bàn hai người.
+82|Can I see the menu, please?||Làm ơn cho tôi xem thực đơn.
+83|I'd like to order, please.||Tôi muốn đặt món.
+84|What do you recommend?||Bạn có gì để giới thiệu không?
+85|I'm allergic to peanuts.||Tôi bị dị ứng với lạc.
+86|Is this dish spicy?||Món này có cay không?
+87|Can I have the bill, please?||Làm ơn cho tôi hóa đơn.
+88|The food was delicious.||Thức ăn rất ngon.
+89|I'd like a glass of water.||Tôi muốn một ly nước.
+90|Can we get some more bread?||Chúng tôi có thể có thêm bánh mì không?
+91|I'm a vegetarian.||Tôi ăn chay.
+92|Could you make it less spicy?||Bạn có thể làm cho nó ít cay hơn không?
+93|What are today's specials?||Hôm nay có món đặc biệt gì?
+94|I'd like my steak well-done.||Tôi muốn bít tết chín kỹ.
+95|Could we have separate bills?||Chúng tôi có thể thanh toán riêng không?
+96|This is not what I ordered.||Đây không phải món tôi đặt.
+97|The service was excellent.||Dịch vụ rất xuất sắc.
+98|Do you have a children's menu?||Bạn có thực đơn trẻ em không?
+99|I'd like to make a reservation.||Tôi muốn đặt bàn trước.
+100|Can I have a takeaway box?||Tôi có thể có hộp mang về không?
+## 6|Giao thông & Du lịch|Transportation & Travel
+101|Where is the nearest bus stop?||Trạm xe buýt gần nhất ở đâu?
+102|What time does the train leave?||Tàu khởi hành lúc mấy giờ?
+103|How long does the journey take?||Hành trình mất bao lâu?
+104|I'd like a one-way ticket.||Tôi muốn một vé một chiều.
+105|I'd like a round-trip ticket.||Tôi muốn một vé khứ hồi.
+106|Is this seat taken?||Chỗ này có ai ngồi không?
+107|Which platform does the train leave from?||Tàu khởi hành từ sân ga nào?
+108|Can you call a taxi for me?||Bạn có thể gọi taxi cho tôi không?
+109|Please take me to this address.||Làm ơn đưa tôi đến địa chỉ này.
+110|How much is the fare?||Giá vé là bao nhiêu?
+111|I missed my flight.||Tôi đã lỡ chuyến bay.
+112|My luggage is lost.||Hành lý của tôi bị thất lạc.
+113|Where do I check in?||Tôi làm thủ tục ở đâu?
+114|Do I need to transfer?||Tôi có cần chuyển tuyến không?
+115|Is this the right bus for downtown?||Đây có phải xe buýt đến trung tâm thành phố không?
+116|The next stop is Main Street.||Trạm tiếp theo là Phố Chính.
+117|Can I board here?||Tôi có thể lên xe ở đây không?
+118|Where should I get off?||Tôi nên xuống ở đâu?
+119|Is there a direct flight?||Có chuyến bay thẳng không?
+120|I'd like a window seat.||Tôi muốn ngồi ghế cạnh cửa sổ.
+## 7|Sức khỏe & Bệnh viện|Health & Hospital
+121|I don't feel well.||Tôi cảm thấy không khỏe.
+122|I have a headache.||Tôi bị đau đầu.
+123|I have a stomachache.||Tôi bị đau bụng.
+124|I have a fever.||Tôi bị sốt.
+125|I need to see a doctor.||Tôi cần gặp bác sĩ.
+126|Where is the nearest hospital?||Bệnh viện gần nhất ở đâu?
+127|Call an ambulance!||Gọi xe cấp cứu!
+128|I'm having trouble breathing.||Tôi đang khó thở.
+129|I'm allergic to this medicine.||Tôi bị dị ứng với thuốc này.
+130|How many times a day should I take this?||Tôi nên uống thuốc này mấy lần một ngày?
+131|Can you prescribe something for the pain?||Bạn có thể kê đơn thuốc giảm đau không?
+132|I need to make an appointment.||Tôi cần đặt lịch hẹn.
+133|I've been feeling this way for three days.||Tôi đã cảm thấy như thế này được ba ngày.
+134|Do I need surgery?||Tôi có cần phẫu thuật không?
+135|Is it serious?||Có nghiêm trọng không?
+136|I hurt my leg.||Tôi bị đau chân.
+137|I have a sore throat.||Tôi bị đau họng.
+138|Take this medicine twice a day.||Uống thuốc này hai lần một ngày.
+139|You should rest for a few days.||Bạn nên nghỉ ngơi vài ngày.
+140|I need a prescription.||Tôi cần đơn thuốc.
+## 8|Công việc & Văn phòng|Work & Office
+141|What time does the meeting start?||Cuộc họp bắt đầu lúc mấy giờ?
+142|Can you send me the report?||Bạn có thể gửi cho tôi báo cáo không?
+143|I'll be late today.||Hôm nay tôi sẽ đến muộn.
+144|The deadline is tomorrow.||Hạn chót là ngày mai.
+145|Can we reschedule?||Chúng ta có thể sắp xếp lại lịch không?
+146|I need to take a day off.||Tôi cần nghỉ một ngày.
+147|Please review this document.||Làm ơn xem lại tài liệu này.
+148|The printer is out of paper.||Máy in hết giấy rồi.
+149|I have a job interview today.||Hôm nay tôi có phỏng vấn xin việc.
+150|When is payday?||Ngày trả lương là khi nào?
+151|Can I work from home today?||Hôm nay tôi có thể làm việc ở nhà không?
+152|I need your signature on this.||Tôi cần chữ ký của bạn trên cái này.
+153|The system is down.||Hệ thống đang bị lỗi.
+154|Could you explain that again?||Bạn có thể giải thích lại không?
+155|I'll get back to you on that.||Tôi sẽ phản hồi lại cho bạn sau.
+156|Let's set up a conference call.||Hãy thiết lập một cuộc gọi hội nghị.
+157|Can you cover for me?||Bạn có thể làm thay tôi không?
+158|I'd like to apply for this position.||Tôi muốn ứng tuyển vào vị trí này.
+159|Please CC me on that email.||Làm ơn CC tôi vào email đó.
+160|The project is on track.||Dự án đang đúng tiến độ.
+## 9|Học tập & Giáo dục|Study & Education
+161|Can you repeat that, please?||Bạn có thể nhắc lại không?
+162|I don't understand.||Tôi không hiểu.
+163|Could you speak more slowly?||Bạn có thể nói chậm hơn không?
+164|How do you spell that?||Từ đó đánh vần như thế nào?
+165|What does this word mean?||Từ này có nghĩa là gì?
+166|Can I borrow your pen?||Tôi có thể mượn bút của bạn không?
+167|When is the exam?||Khi nào thi?
+168|I need to study more.||Tôi cần học nhiều hơn.
+169|Can you help me with my homework?||Bạn có thể giúp tôi làm bài tập không?
+170|What chapter are we on?||Chúng ta đang học chương mấy?
+171|Is this going to be on the test?||Cái này có trong bài kiểm tra không?
+172|I failed the exam.||Tôi trượt kỳ thi.
+173|I passed with flying colors.||Tôi đậu với điểm xuất sắc.
+174|Where is the library?||Thư viện ở đâu?
+175|Can I borrow this book?||Tôi có thể mượn quyển sách này không?
+176|Please hand in your assignment.||Làm ơn nộp bài tập của bạn.
+177|The class is cancelled today.||Hôm nay lớp học bị hủy.
+178|I'm majoring in economics.||Tôi đang học chuyên ngành kinh tế.
+179|When does the semester start?||Học kỳ bắt đầu khi nào?
+180|I need to apply for a scholarship.||Tôi cần nộp đơn xin học bổng.
+## 10|Điện thoại & Công nghệ|Phone & Technology
+181|Can I use your phone?||Tôi có thể dùng điện thoại của bạn không?
+182|My phone is dead.||Điện thoại của tôi hết pin rồi.
+183|Can I charge my phone here?||Tôi có thể sạc điện thoại ở đây không?
+184|Do you have Wi-Fi here?||Ở đây có Wi-Fi không?
+185|What's the Wi-Fi password?||Mật khẩu Wi-Fi là gì?
+186|My computer crashed.||Máy tính của tôi bị treo.
+187|Can you send me a text?||Bạn có thể nhắn tin cho tôi không?
+188|I'll call you back.||Tôi sẽ gọi lại cho bạn.
+189|Leave me a message.||Để lại tin nhắn cho tôi.
+190|The connection is bad.||Kết nối rất kém.
+191|Can you hear me?||Bạn có nghe tôi không?
+192|I'll send you an email.||Tôi sẽ gửi email cho bạn.
+193|My internet is slow.||Internet của tôi chậm lắm.
+194|Can you install this app?||Bạn có thể cài đặt ứng dụng này không?
+195|The website is down.||Trang web đang bị lỗi.
+196|I forgot my password.||Tôi quên mật khẩu rồi.
+197|How do I download this?||Làm sao để tải cái này?
+198|My phone keeps freezing.||Điện thoại của tôi cứ bị đơ.
+199|Can you video call me?||Bạn có thể gọi video cho tôi không?
+200|The printer won't connect.||Máy in không kết nối được.
+## 11|Cảm xúc & Trạng thái|Emotions & States
+201|I'm happy.||Tôi hạnh phúc.
+202|I'm sad.||Tôi buồn.
+203|I'm tired.||Tôi mệt.
+204|I'm hungry.||Tôi đói.
+205|I'm thirsty.||Tôi khát.
+206|I'm bored.||Tôi chán.
+207|I'm excited.||Tôi hào hứng.
+208|I'm nervous.||Tôi hồi hộp.
+209|I'm angry.||Tôi tức giận.
+210|I'm confused.||Tôi bối rối.
+211|I'm surprised.||Tôi ngạc nhiên.
+212|I'm disappointed.||Tôi thất vọng.
+213|I'm grateful.||Tôi biết ơn.
+214|I'm proud of you.||Tôi tự hào về bạn.
+215|I feel lonely.||Tôi cảm thấy cô đơn.
+216|I feel great today.||Hôm nay tôi cảm thấy tuyệt vời.
+217|I'm stressed out.||Tôi đang bị căng thẳng.
+218|I'm in a good mood.||Tôi đang có tâm trạng tốt.
+219|I'm worried about you.||Tôi lo lắng cho bạn.
+220|I can't help but laugh.||Tôi không nhịn cười được.
+## 12|Thời tiết|Weather
+221|What's the weather like today?||Thời tiết hôm nay như thế nào?
+222|It's sunny today.||Hôm nay trời nắng.
+223|It's raining.||Trời đang mưa.
+224|It's very cold today.||Hôm nay trời rất lạnh.
+225|It's hot and humid.||Trời nóng và ẩm.
+226|There's a storm coming.||Có bão đang đến.
+227|Will it rain tomorrow?||Ngày mai có mưa không?
+228|It's snowing outside.||Bên ngoài đang có tuyết rơi.
+229|Bring an umbrella.||Mang ô theo nhé.
+230|The weather is nice today.||Thời tiết hôm nay đẹp.
+231|It's windy.||Trời có gió.
+232|The fog is thick this morning.||Sáng nay sương mù dày đặc.
+233|It's freezing cold.||Trời lạnh cóng.
+234|What's the temperature today?||Nhiệt độ hôm nay là bao nhiêu?
+235|The sun is setting.||Mặt trời đang lặn.
+236|There's a rainbow!||Có cầu vồng kìa!
+237|The weather forecast says rain.||Dự báo thời tiết nói sẽ có mưa.
+238|It's getting dark.||Trời đang tối dần.
+239|The sky is clear.||Bầu trời trong xanh.
+240|It's a beautiful day!||Thật là một ngày đẹp trời!
+## 13|Gia đình & Mối quan hệ|Family & Relationships
+241|Do you have any siblings?||Bạn có anh chị em không?
+242|I have two brothers.||Tôi có hai người anh.
+243|Are you married?||Bạn đã kết hôn chưa?
+244|I'm single.||Tôi còn độc thân.
+245|How many children do you have?||Bạn có mấy đứa con?
+246|My parents are retired.||Bố mẹ tôi đã nghỉ hưu.
+247|I miss my family.||Tôi nhớ gia đình.
+248|We're getting married next year.||Chúng tôi sẽ kết hôn vào năm tới.
+249|She's my girlfriend.||Cô ấy là bạn gái của tôi.
+250|He's my husband.||Anh ấy là chồng tôi.
+251|We have a lot in common.||Chúng tôi có nhiều điểm chung.
+252|I grew up in Hanoi.||Tôi lớn lên ở Hà Nội.
+253|My grandmother is very old.||Bà ngoại tôi rất cao tuổi.
+254|We're close friends.||Chúng tôi là bạn thân.
+255|She's like a sister to me.||Cô ấy như chị gái của tôi vậy.
+256|We broke up last year.||Chúng tôi chia tay năm ngoái.
+257|They're expecting a baby.||Họ đang chờ đón em bé.
+258|My son is five years old.||Con trai tôi năm tuổi.
+259|I'm an only child.||Tôi là con một.
+260|Family comes first.||Gia đình là trên hết.
+## 14|Sở thích & Hoạt động|Hobbies & Activities
+261|What do you like to do in your free time?||Bạn thích làm gì lúc rảnh?
+262|I enjoy reading books.||Tôi thích đọc sách.
+263|I love listening to music.||Tôi thích nghe nhạc.
+264|Do you play any sports?||Bạn có chơi thể thao không?
+265|I go jogging every morning.||Tôi chạy bộ mỗi sáng.
+266|I like watching movies.||Tôi thích xem phim.
+267|I'm learning to cook.||Tôi đang học nấu ăn.
+268|I enjoy traveling.||Tôi thích du lịch.
+269|I play the guitar.||Tôi chơi đàn guitar.
+270|I like painting.||Tôi thích vẽ tranh.
+271|I do yoga three times a week.||Tôi tập yoga ba lần một tuần.
+272|I'm a big fan of football.||Tôi là fan lớn của bóng đá.
+273|I enjoy hiking in nature.||Tôi thích đi bộ trong tự nhiên.
+274|I spend a lot of time gaming.||Tôi dành nhiều thời gian chơi game.
+275|I collect stamps.||Tôi sưu tập tem.
+276|I like photography.||Tôi thích chụp ảnh.
+277|I swim every weekend.||Tôi bơi mỗi cuối tuần.
+278|I take dance classes.||Tôi học lớp nhảy.
+279|I enjoy gardening.||Tôi thích làm vườn.
+280|I like volunteering.||Tôi thích tình nguyện.
+## 15|Hẹn hò & Kế hoạch|Making Plans
+281|Are you free tonight?||Tối nay bạn rảnh không?
+282|Would you like to have dinner?||Bạn có muốn đi ăn tối không?
+283|Let's meet at seven o'clock.||Hãy gặp nhau lúc bảy giờ.
+284|Where shall we meet?||Chúng ta nên gặp nhau ở đâu?
+285|I'll be there in ten minutes.||Tôi sẽ đến trong mười phút nữa.
+286|Can we meet tomorrow instead?||Chúng ta có thể gặp nhau vào ngày mai thay không?
+287|I'm sorry, I can't make it.||Xin lỗi, tôi không thể đến được.
+288|Let's go to the cinema.||Hãy đi xem phim.
+289|What time works for you?||Mấy giờ tiện cho bạn?
+290|I'll pick you up at eight.||Tôi sẽ đón bạn lúc tám giờ.
+291|Don't be late!||Đừng đến muộn!
+292|Let's grab a coffee.||Hãy đi uống cà phê.
+293|Are you coming to the party?||Bạn có đến bữa tiệc không?
+294|I'll join you later.||Tôi sẽ đến cùng bạn sau.
+295|It starts at eight pm.||Nó bắt đầu lúc tám giờ tối.
+296|I have plans already.||Tôi đã có kế hoạch rồi.
+297|Let's do it next week.||Hãy làm vào tuần tới.
+298|Sounds like a plan!||Nghe có vẻ hay đó!
+299|I'm looking forward to it.||Tôi rất mong đợi điều đó.
+300|See you then!||Hẹn gặp lại nhé!
+## 16|Ý kiến & Quan điểm|Opinions & Views
+301|In my opinion...||Theo ý kiến của tôi...
+302|I think that...||Tôi nghĩ rằng...
+303|I believe...||Tôi tin rằng...
+304|I agree with you.||Tôi đồng ý với bạn.
+305|I disagree.||Tôi không đồng ý.
+306|That's a good point.||Đó là một điểm hay.
+307|I see your point.||Tôi hiểu quan điểm của bạn.
+308|I'm not sure about that.||Tôi không chắc về điều đó.
+309|I have mixed feelings.||Tôi có cảm giác lẫn lộn.
+310|That makes sense.||Điều đó có lý.
+311|That doesn't make sense.||Điều đó không có lý.
+312|I couldn't agree more.||Tôi hoàn toàn đồng ý.
+313|To be honest...||Thành thật mà nói...
+314|From my perspective...||Theo góc nhìn của tôi...
+315|That's a matter of opinion.||Đó là vấn đề quan điểm.
+316|I'd have to disagree with that.||Tôi phải không đồng ý với điều đó.
+317|You make a good argument.||Bạn đưa ra luận điểm tốt.
+318|I never thought about it that way.||Tôi chưa bao giờ nghĩ theo cách đó.
+319|What do you think about this?||Bạn nghĩ gì về điều này?
+320|Let me think about it.||Để tôi suy nghĩ về điều đó.
+## 17|Khẩn cấp & An toàn|Emergency & Safety
+321|Help!||Cứu tôi với!
+322|Call the police!||Gọi cảnh sát!
+323|There's been an accident.||Đã xảy ra tai nạn.
+324|Is anyone hurt?||Có ai bị thương không?
+325|I need help immediately.||Tôi cần giúp đỡ ngay lập tức.
+326|Don't move!||Đừng cử động!
+327|Stand back!||Đứng lui ra!
+328|I've been robbed.||Tôi bị cướp rồi.
+329|I lost my wallet.||Tôi bị mất ví.
+330|My passport was stolen.||Hộ chiếu của tôi bị đánh cắp.
+331|Fire!||Cháy!
+332|Get out of the building!||Thoát khỏi tòa nhà!
+333|Where is the emergency exit?||Lối thoát khẩn cấp ở đâu?
+334|I need to contact my embassy.||Tôi cần liên hệ với đại sứ quán của tôi.
+335|Please stay calm.||Làm ơn bình tĩnh.
+336|I've been in an accident.||Tôi vừa gặp tai nạn.
+337|Is there a doctor here?||Ở đây có bác sĩ không?
+338|Can you call for help?||Bạn có thể gọi giúp đỡ không?
+339|Keep the area clear.||Giữ khu vực thông thoáng.
+340|Do not panic.||Đừng hoảng loạn.
+## 18|Thời gian & Lịch|Time & Calendar
+341|What time is it?||Bây giờ là mấy giờ?
+342|It's three o'clock.||Bây giờ là ba giờ.
+343|What day is it today?||Hôm nay là thứ mấy?
+344|Today is Monday.||Hôm nay là thứ Hai.
+345|What's today's date?||Hôm nay là ngày mấy?
+346|It's the fifteenth of April.||Hôm nay là ngày mười lăm tháng Tư.
+347|I'll see you next week.||Tuần tới gặp lại nhé.
+348|I have a meeting in an hour.||Tôi có cuộc họp sau một tiếng nữa.
+349|I'll be back in a moment.||Tôi sẽ quay lại ngay.
+350|I was born in 1995.||Tôi sinh năm 1995.
+351|It's almost midnight.||Gần nửa đêm rồi.
+352|The store opens at nine.||Cửa hàng mở cửa lúc chín giờ.
+353|I'll be there by noon.||Tôi sẽ đến trước buổi trưa.
+354|Can we meet early in the morning?||Chúng ta có thể gặp nhau sáng sớm không?
+355|It happened last year.||Điều đó xảy ra năm ngoái.
+356|I'll finish this by the end of the day.||Tôi sẽ hoàn thành điều này trước cuối ngày.
+357|We have plenty of time.||Chúng ta có nhiều thời gian.
+358|Time flies.||Thời gian trôi qua nhanh quá.
+359|I'm running late.||Tôi đang bị trễ.
+360|Please be on time.||Làm ơn đến đúng giờ.
+## 19|Nhà ở & Nơi sống|Housing & Living
+361|Do you rent or own?||Bạn thuê hay sở hữu nhà?
+362|How much is the rent?||Tiền thuê nhà là bao nhiêu?
+363|Is the apartment furnished?||Căn hộ có nội thất không?
+364|When is the lease up?||Hợp đồng thuê hết hạn khi nào?
+365|I need to find a roommate.||Tôi cần tìm người ở chung.
+366|The heating isn't working.||Máy sưởi không hoạt động.
+367|Can I have a look at the place?||Tôi có thể xem qua chỗ ở không?
+368|Is it close to public transport?||Nó có gần phương tiện công cộng không?
+369|What floor is the apartment on?||Căn hộ ở tầng mấy?
+370|Is parking included?||Có bao gồm chỗ đậu xe không?
+371|The pipe is leaking.||Ống nước đang bị rò rỉ.
+372|Can I paint the walls?||Tôi có thể sơn tường không?
+373|Is there a laundry room?||Có phòng giặt ủi không?
+374|How many bedrooms does it have?||Nó có mấy phòng ngủ?
+375|The landlord needs to fix this.||Chủ nhà cần sửa cái này.
+376|I'd like to move in next month.||Tôi muốn dọn vào tháng tới.
+377|Is there a gym in the building?||Trong tòa nhà có phòng gym không?
+378|The neighborhood is very quiet.||Khu phố rất yên tĩnh.
+379|I need to cancel my lease.||Tôi cần hủy hợp đồng thuê.
+380|Please don't make too much noise.||Làm ơn đừng gây quá nhiều tiếng ồn.
+## 20|Ngân hàng & Tài chính|Banking & Finance
+381|I'd like to open an account.||Tôi muốn mở tài khoản.
+382|I need to transfer money.||Tôi cần chuyển tiền.
+383|What is my account balance?||Số dư tài khoản của tôi là bao nhiêu?
+384|I'd like to withdraw cash.||Tôi muốn rút tiền mặt.
+385|Where is the nearest ATM?||ATM gần nhất ở đâu?
+386|My card was declined.||Thẻ của tôi bị từ chối.
+387|I need to report a lost card.||Tôi cần báo cáo mất thẻ.
+388|What is the exchange rate?||Tỷ giá hối đoái là bao nhiêu?
+389|Can I pay by installment?||Tôi có thể trả góp không?
+390|I have a loan to pay off.||Tôi có khoản vay cần trả.
+391|What are the interest rates?||Lãi suất là bao nhiêu?
+392|Can I cash this check?||Tôi có thể đổi séc này thành tiền mặt không?
+393|I'd like to set up automatic payments.||Tôi muốn thiết lập thanh toán tự động.
+394|My account was hacked.||Tài khoản của tôi bị hack rồi.
+395|I need to update my personal information.||Tôi cần cập nhật thông tin cá nhân.
+396|Is there a fee for this transaction?||Có phí giao dịch này không?
+397|I'd like to apply for a credit card.||Tôi muốn đăng ký thẻ tín dụng.
+398|When will the payment be processed?||Khi nào khoản thanh toán sẽ được xử lý?
+399|I need a bank statement.||Tôi cần sao kê ngân hàng.
+400|Can I increase my credit limit?||Tôi có thể tăng hạn mức tín dụng không?
+## 21|Thức ăn & Đồ uống|Food & Drinks
+401|I'm starving.||Tôi đói lắm rồi.
+402|This tastes amazing.||Cái này ngon tuyệt vời.
+403|Can I have some more?||Tôi có thể lấy thêm không?
+404|I don't eat meat.||Tôi không ăn thịt.
+405|What's in this dish?||Món này có những gì?
+406|I love spicy food.||Tôi thích đồ ăn cay.
+407|This is too salty.||Cái này mặn quá.
+408|Can I have some sugar?||Tôi có thể lấy đường không?
+409|I'd like a cup of coffee, please.||Làm ơn cho tôi một tách cà phê.
+410|The bread is freshly baked.||Bánh mì vừa mới nướng xong.
+411|I'm on a diet.||Tôi đang ăn kiêng.
+412|Let's cook dinner together.||Hãy cùng nhau nấu bữa tối.
+413|Can you pass the salt?||Bạn có thể chuyền muối không?
+414|This soup is too hot.||Món súp này nóng quá.
+415|I need to go grocery shopping.||Tôi cần đi mua thực phẩm.
+416|What's for breakfast?||Bữa sáng có gì?
+417|I prefer tea over coffee.||Tôi thích trà hơn cà phê.
+418|This fruit is very sweet.||Trái cây này rất ngọt.
+419|Do you want dessert?||Bạn có muốn tráng miệng không?
+420|I'll have the same as you.||Tôi sẽ gọi giống bạn.
+## 22|Màu sắc, Hình dạng & Mô tả|Colors, Shapes & Descriptions
+421|What color is it?||Nó màu gì?
+422|It's bright red.||Nó màu đỏ tươi.
+423|The sky is blue.||Bầu trời màu xanh.
+424|I like the green one.||Tôi thích cái màu xanh lá.
+425|It's round in shape.||Nó có hình tròn.
+426|This is too big for me.||Cái này quá to đối với tôi.
+427|That's too small.||Cái đó quá nhỏ.
+428|The room is very bright.||Căn phòng rất sáng.
+429|It's long and narrow.||Nó dài và hẹp.
+430|This fabric is very soft.||Vải này rất mềm.
+431|The surface is smooth.||Bề mặt rất mịn.
+432|It's very heavy.||Nó rất nặng.
+433|This is lighter than I expected.||Cái này nhẹ hơn tôi nghĩ.
+434|The texture is rough.||Kết cấu thô ráp.
+435|It's transparent.||Nó trong suốt.
+436|This is brand new.||Cái này mới toanh.
+437|It looks old and worn out.||Nó trông cũ và mòn cũ.
+438|The design is very modern.||Thiết kế rất hiện đại.
+439|It's quite ordinary.||Nó khá bình thường.
+440|This is absolutely beautiful.||Cái này thực sự rất đẹp.
+## 23|Số đếm & Toán học|Numbers & Math
+441|How many do you need?||Bạn cần bao nhiêu?
+442|Can you count these for me?||Bạn có thể đếm những cái này cho tôi không?
+443|There are fifty people here.||Ở đây có năm mươi người.
+444|I need at least ten.||Tôi cần ít nhất mười cái.
+445|That's more than enough.||Nhiều hơn đủ rồi.
+446|Divide it into three parts.||Chia nó thành ba phần.
+447|What's two plus two?||Hai cộng hai bằng mấy?
+448|That equals four.||Đó bằng bốn.
+449|Ten percent discount.||Giảm giá mười phần trăm.
+450|I need the exact amount.||Tôi cần số lượng chính xác.
+## 24|Phương tiện truyền thông & Giải trí|Media & Entertainment
+451|Have you seen this movie?||Bạn đã xem bộ phim này chưa?
+452|What kind of music do you like?||Bạn thích thể loại nhạc gì?
+453|The concert was amazing.||Buổi hòa nhạc thật tuyệt vời.
+454|I recommend reading this book.||Tôi giới thiệu bạn đọc cuốn sách này.
+455|What's your favorite TV show?||Chương trình TV yêu thích của bạn là gì?
+456|The ending was unexpected.||Kết thúc thật bất ngờ.
+457|I follow this channel on YouTube.||Tôi theo dõi kênh này trên YouTube.
+458|The graphics in this game are incredible.||Đồ họa trong trò chơi này thật đáng kinh ngạc.
+459|I listen to podcasts every day.||Tôi nghe podcast mỗi ngày.
+460|This song has been stuck in my head.||Bài hát này cứ vang vẳng trong đầu tôi.
+461|The plot twist was amazing.||Bước ngoặt cốt truyện thật tuyệt vời.
+462|I stream everything online.||Tôi xem mọi thứ trực tuyến.
+463|He's my favorite actor.||Anh ấy là diễn viên yêu thích của tôi.
+464|The album just came out.||Album vừa mới ra.
+465|I'm addicted to this series.||Tôi nghiện bộ phim này rồi.
+466|The documentary was eye-opening.||Bộ phim tài liệu thật mở mang tầm mắt.
+467|I prefer classical music.||Tôi thích nhạc cổ điển hơn.
+468|Let's watch something together.||Hãy cùng nhau xem gì đó.
+469|I read the book before seeing the movie.||Tôi đọc sách trước khi xem phim.
+470|The live performance was breathtaking.||Buổi biểu diễn trực tiếp thật ngoạn mục.
+## 25|Chính trị & Xã hội|Society & Social Issues
+471|Everyone deserves equal rights.||Mọi người đều xứng đáng có quyền bình đẳng.
+472|Education is important.||Giáo dục rất quan trọng.
+473|We should protect the environment.||Chúng ta nên bảo vệ môi trường.
+474|Climate change is a real problem.||Biến đổi khí hậu là vấn đề thật sự.
+475|I vote in every election.||Tôi bỏ phiếu trong mỗi kỳ bầu cử.
+476|Poverty is a global issue.||Đói nghèo là vấn đề toàn cầu.
+477|We need to support each other.||Chúng ta cần hỗ trợ lẫn nhau.
+478|Discrimination is wrong.||Phân biệt đối xử là sai.
+479|Peace is priceless.||Hòa bình là vô giá.
+480|We live in a diverse world.||Chúng ta sống trong một thế giới đa dạng.
+## 26|Thiên nhiên & Môi trường|Nature & Environment
+481|The forest is beautiful in autumn.||Rừng rất đẹp vào mùa thu.
+482|We should reduce plastic use.||Chúng ta nên giảm sử dụng nhựa.
+483|Recycle whenever you can.||Hãy tái chế bất cứ khi nào bạn có thể.
+484|The ocean is full of life.||Đại dương chứa đầy sự sống.
+485|I love being in nature.||Tôi thích ở trong thiên nhiên.
+486|The mountains are breathtaking.||Những ngọn núi thật ngoạn mục.
+487|Save water, save life.||Tiết kiệm nước, tiết kiệm cuộc sống.
+488|The birds are singing.||Những con chim đang hót.
+489|There's a lot of wildlife here.||Có rất nhiều động vật hoang dã ở đây.
+490|Let's go for a hike.||Hãy cùng đi bộ leo núi.
+## 27|Thể thao & Thể dục|Sports & Exercise
+491|Let's play football.||Hãy chơi bóng đá.
+492|I go to the gym every day.||Tôi đi gym mỗi ngày.
+493|Who won the match?||Ai thắng trận đấu?
+494|The score is two to one.||Tỷ số là hai một.
+495|I'm training for a marathon.||Tôi đang luyện tập cho một cuộc thi marathon.
+496|She broke the world record.||Cô ấy đã phá kỷ lục thế giới.
+497|I prefer swimming to running.||Tôi thích bơi hơn chạy bộ.
+498|The team played really well.||Đội chơi thực sự tốt.
+499|I need to warm up first.||Tôi cần khởi động trước.
+500|Don't give up!||Đừng bỏ cuộc!
+## 28|Diễn đạt hằng ngày|Everyday Expressions
+501|Really?||Thật sao?
+502|No way!||Không thể nào!
+503|Are you kidding me?||Bạn đang đùa tôi à?
+504|That's awesome!||Tuyệt vời quá!
+505|That's terrible.||Thật kinh khủng.
+506|Well done!||Làm tốt lắm!
+507|Good luck!||Chúc may mắn!
+508|Take care!||Bảo trọng nhé!
+509|Have a great day!||Chúc bạn một ngày tốt lành!
+510|Same to you!||Bạn cũng vậy nhé!
+511|What a pity!||Thật đáng tiếc!
+512|That's amazing!||Thật tuyệt vời!
+513|I can't believe it!||Tôi không thể tin được!
+514|You're right.||Bạn đúng rồi.
+515|Never mind.||Thôi bỏ qua đi.
+516|It's up to you.||Tùy bạn thôi.
+517|Whatever you say.||Bất cứ điều gì bạn nói.
+518|I have no idea.||Tôi không có ý kiến gì.
+519|You got it!||Bạn hiểu rồi đó!
+520|Let's go!||Nào, đi thôi!
+## 29|Câu phức tạp & Cụm từ nâng cao|Complex Sentences & Advanced Phrases
+521|Could you elaborate on that?||Bạn có thể nói rõ hơn về điều đó không?
+522|I'd like to clarify something.||Tôi muốn làm rõ điều gì đó.
+523|Let me put it another way.||Để tôi nói theo cách khác.
+524|To sum up, ...||Tóm lại, ...
+525|On the other hand, ...||Mặt khác, ...
+526|In contrast, ...||Ngược lại, ...
+527|As a result, ...||Do đó, ...
+528|However, I must say...||Tuy nhiên, tôi phải nói...
+529|I'd like to point out that...||Tôi muốn chỉ ra rằng...
+530|Generally speaking, ...||Nói chung, ...
+531|First of all, ...||Trước tiên, ...
+532|In addition to that, ...||Ngoài ra, ...
+533|On the contrary, ...||Trái lại, ...
+534|It goes without saying that...||Không cần phải nói thì cũng biết rằng...
+535|It's worth noting that...||Đáng chú ý là...
+536|As far as I know, ...||Theo như tôi biết, ...
+537|Speaking of which, ...||Nhân tiện nói đến điều đó, ...
+538|All things considered, ...||Xét tất cả các yếu tố, ...
+539|More often than not, ...||Thường thì, ...
+540|Without a doubt, ...||Không còn nghi ngờ gì, ...
+## 30|Nói về quá khứ|Talking About the Past
+541|I used to live in the city.||Tôi đã từng sống ở thành phố.
+542|When I was young, I loved dancing.||Khi còn nhỏ, tôi rất thích nhảy.
+543|We met five years ago.||Chúng tôi gặp nhau năm năm trước.
+544|I've never been to Japan.||Tôi chưa bao giờ đến Nhật.
+545|Have you ever tried sushi?||Bạn đã bao giờ thử sushi chưa?
+546|I forgot to call you yesterday.||Hôm qua tôi quên gọi cho bạn.
+547|She moved to London last year.||Cô ấy chuyển đến London năm ngoái.
+548|I lost my keys this morning.||Sáng nay tôi mất chìa khóa.
+549|We had a great time at the party.||Chúng tôi đã có khoảng thời gian tuyệt vời ở bữa tiệc.
+550|I was still in school then.||Khi đó tôi vẫn còn đi học.
+## 31|Nói về tương lai|Talking About the Future
+551|I'm going to travel next summer.||Tôi sẽ đi du lịch mùa hè tới.
+552|She will be back soon.||Cô ấy sẽ sớm quay lại.
+553|We're planning to move.||Chúng tôi đang lên kế hoạch chuyển nhà.
+554|I hope things get better.||Tôi hy vọng mọi thứ sẽ tốt hơn.
+555|He's going to graduate next year.||Anh ấy sẽ tốt nghiệp vào năm tới.
+556|We will figure it out.||Chúng ta sẽ tìm ra cách.
+557|The future looks bright.||Tương lai trông thật tươi sáng.
+558|Don't worry, it'll be fine.||Đừng lo, mọi thứ sẽ ổn thôi.
+559|I'll do my best.||Tôi sẽ cố gắng hết sức.
+560|We'll talk about it later.||Chúng ta sẽ nói về điều đó sau.
+## 32|Yêu cầu & Đề nghị|Requests & Offers
+561|Can you do me a favor?||Bạn có thể giúp tôi một việc không?
+562|Would you like some help?||Bạn có muốn được giúp đỡ không?
+563|Let me know if you need anything.||Hãy cho tôi biết nếu bạn cần gì.
+564|Could you pass me that?||Bạn có thể chuyền cái đó cho tôi không?
+565|Can I offer you something to drink?||Tôi có thể mời bạn uống gì đó không?
+566|I'd like to make a suggestion.||Tôi muốn đề xuất một ý kiến.
+567|Would you mind opening the window?||Bạn có phiền mở cửa sổ không?
+568|May I use your bathroom?||Tôi có thể dùng phòng tắm của bạn không?
+569|Can you lend me some money?||Bạn có thể cho tôi mượn tiền không?
+570|Would you like to join us?||Bạn có muốn tham gia cùng chúng tôi không?
+## 33|Tả người|Describing People
+571|She has long brown hair.||Cô ấy có mái tóc dài màu nâu.
+572|He's tall and athletic.||Anh ấy cao và vận động.
+573|She looks like her mother.||Cô ấy trông giống mẹ cô ấy.
+574|He has a great sense of humor.||Anh ấy có khiếu hài hước tuyệt vời.
+575|She's very kind-hearted.||Cô ấy rất tốt bụng.
+576|He's a hard-working person.||Anh ấy là người chăm chỉ.
+577|She's outgoing and friendly.||Cô ấy hướng ngoại và thân thiện.
+578|He can be very stubborn.||Anh ấy có thể rất cứng đầu.
+579|She's the most creative person I know.||Cô ấy là người sáng tạo nhất tôi biết.
+580|He's always there when I need him.||Anh ấy luôn ở đó khi tôi cần.
+## 34|Chúc mừng & Dịp đặc biệt|Celebrations & Special Occasions
+581|Happy Birthday!||Chúc mừng sinh nhật!
+582|Congratulations!||Chúc mừng!
+583|Merry Christmas!||Giáng sinh vui vẻ!
+584|Happy New Year!||Chúc năm mới hạnh phúc!
+585|Happy Anniversary!||Chúc mừng kỷ niệm!
+586|Best wishes!||Lời chúc tốt đẹp nhất!
+587|Have a wonderful wedding!||Chúc tiệc cưới thật tuyệt vời!
+588|Wishing you all the best.||Chúc bạn mọi điều tốt đẹp nhất.
+589|Here's to your success!||Chúc mừng sự thành công của bạn!
+590|You deserve it!||Bạn xứng đáng với điều đó!
+## 35|Điều kiện & Giả định|Conditions & Hypotheticals
+591|If I were you, I would...||Nếu tôi là bạn, tôi sẽ...
+592|What would you do if...?||Bạn sẽ làm gì nếu...?
+593|Unless it rains, we'll go out.||Trừ khi trời mưa, chúng tôi sẽ ra ngoài.
+594|I wish I could travel more.||Tôi ước tôi có thể đi du lịch nhiều hơn.
+595|If only I had known sooner.||Giá mà tôi biết sớm hơn.
+596|Provided that you agree...||Miễn là bạn đồng ý...
+597|As long as you try your best...||Miễn là bạn cố gắng hết sức...
+598|Suppose you had a million dollars...||Giả sử bạn có một triệu đô la...
+599|Even if it's difficult, don't give up.||Dù khó khăn, đừng bỏ cuộc.
+600|What if we tried a different approach?||Nếu chúng ta thử một cách tiếp cận khác thì sao?
+## 36|Ẩm thực & Nấu ăn|Cooking & Kitchen
+601|How do you make this dish?||Bạn làm món này như thế nào?
+602|Preheat the oven to 180 degrees.||Làm nóng lò nướng đến 180 độ.
+603|Add a pinch of salt.||Thêm một chút muối.
+604|Stir the mixture well.||Khuấy đều hỗn hợp.
+605|Let it simmer for twenty minutes.||Để nó sôi nhỏ lửa trong hai mươi phút.
+606|Chop the vegetables finely.||Thái nhỏ rau củ.
+607|The cake needs to cool down.||Bánh cần được làm nguội.
+608|Taste it and add seasoning as needed.||Nếm thử và thêm gia vị khi cần.
+609|Can I have the recipe?||Tôi có thể có công thức không?
+610|This is my grandmother's recipe.||Đây là công thức của bà ngoại tôi.
+## 37|Khách sạn & Lưu trú|Hotel & Accommodation
+611|I have a reservation.||Tôi có đặt phòng.
+612|Do you have any rooms available?||Bạn có phòng trống không?
+613|How much is it per night?||Mỗi đêm bao nhiêu tiền?
+614|Does the price include breakfast?||Giá có bao gồm bữa sáng không?
+615|I'd like a single room.||Tôi muốn phòng đơn.
+616|Can I get a late checkout?||Tôi có thể trả phòng muộn không?
+617|The air conditioning isn't working.||Điều hòa không hoạt động.
+618|Can I have an extra blanket?||Tôi có thể có thêm chăn không?
+619|What time is check-in?||Mấy giờ nhận phòng?
+620|Can I store my luggage here?||Tôi có thể gửi hành lý ở đây không?
+## 38|Mô tả địa điểm|Describing Places
+621|This city is very lively.||Thành phố này rất náo nhiệt.
+622|The beach is gorgeous.||Bãi biển thật tuyệt đẹp.
+623|The market is crowded.||Chợ rất đông người.
+624|The park is peaceful.||Công viên rất yên bình.
+625|This neighborhood is safe.||Khu phố này an toàn.
+626|The streets are very clean.||Các con đường rất sạch.
+627|The view from the top is stunning.||Cảnh nhìn từ trên đỉnh thật ấn tượng.
+628|The museum is very educational.||Bảo tàng rất có tính giáo dục.
+629|This village is so charming.||Ngôi làng này thật quyến rũ.
+630|The historical sites are fascinating.||Các địa điểm lịch sử thật thú vị.
+## 39|Khoa học & Công nghệ|Science & Technology
+631|Technology is advancing rapidly.||Công nghệ đang phát triển nhanh chóng.
+632|Artificial intelligence is changing everything.||Trí tuệ nhân tạo đang thay đổi mọi thứ.
+633|We rely heavily on smartphones.||Chúng ta phụ thuộc nhiều vào điện thoại thông minh.
+634|The experiment was successful.||Thí nghiệm thành công rồi.
+635|Science helps us understand the world.||Khoa học giúp chúng ta hiểu thế giới.
+636|The new software has many features.||Phần mềm mới có nhiều tính năng.
+637|Data privacy is very important.||Quyền riêng tư dữ liệu rất quan trọng.
+638|Electric cars are becoming popular.||Xe điện đang trở nên phổ biến.
+639|Space exploration excites me.||Khám phá vũ trụ làm tôi hứng thú.
+640|The internet has changed our lives.||Internet đã thay đổi cuộc sống của chúng ta.
+## 40|Triết học & Cuộc sống|Philosophy & Life
+641|Life is short, enjoy it.||Cuộc sống ngắn ngủi, hãy tận hưởng nó.
+642|Everything happens for a reason.||Mọi thứ đều có lý do.
+643|Never stop learning.||Đừng bao giờ ngừng học hỏi.
+644|Be kind to others.||Hãy tử tế với người khác.
+645|Actions speak louder than words.||Hành động hùng hồn hơn lời nói.
+646|Every cloud has a silver lining.||Sau cơn mưa trời lại sáng.
+647|The journey matters, not just the destination.||Hành trình mới quan trọng, không chỉ điểm đến.
+648|Failure is a stepping stone to success.||Thất bại là bước đệm để thành công.
+649|Treat others how you want to be treated.||Đối xử với người khác như cách bạn muốn được đối xử.
+650|Happiness is a choice.||Hạnh phúc là một lựa chọn.
+## 41|Biểu đạt đồng ý & Không đồng ý|Agreeing & Disagreeing
+651|Absolutely!||Chắc chắn rồi!
+652|I totally agree.||Tôi hoàn toàn đồng ý.
+653|That's exactly what I think.||Đó chính xác là điều tôi nghĩ.
+654|I'm not so sure about that.||Tôi không chắc lắm về điều đó.
+655|I beg to differ.||Tôi xin phép không đồng ý.
+656|That's debatable.||Điều đó còn phải bàn cãi.
+657|You've got a point.||Bạn có lý đó.
+658|I see things differently.||Tôi nhìn nhận mọi thứ khác đi.
+659|I can't argue with that.||Tôi không thể tranh luận về điều đó.
+660|Fair enough.||Hợp lý thôi.
+## 42|Hỏi & Trả lời|Questions & Answers
+661|What do you mean?||Bạn có ý gì?
+662|Can you explain that?||Bạn có thể giải thích không?
+663|How does that work?||Điều đó hoạt động như thế nào?
+664|Why do you think that?||Tại sao bạn nghĩ vậy?
+665|When did it happen?||Khi nào điều đó xảy ra?
+666|Who told you that?||Ai nói với bạn điều đó?
+667|Where did you hear that?||Bạn nghe điều đó ở đâu?
+668|What are you talking about?||Bạn đang nói về điều gì?
+669|Have you decided yet?||Bạn đã quyết định chưa?
+670|Did you finish it?||Bạn đã hoàn thành chưa?
+## 43|Giải thích & Làm rõ|Explaining & Clarifying
+671|What I mean is...||Điều tôi muốn nói là...
+672|In other words, ...||Nói cách khác, ...
+673|To give an example, ...||Để đưa ra một ví dụ, ...
+674|That is to say, ...||Tức là, ...
+675|Let me rephrase that.||Để tôi diễn đạt lại điều đó.
+676|What I'm trying to say is...||Điều tôi đang cố gắng nói là...
+677|To clarify, ...||Để làm rõ, ...
+678|I should add that...||Tôi nên thêm rằng...
+679|What I mean by that is...||Điều tôi có ý là...
+680|In short, ...||Tóm lại, ...
+## 44|Sự đồng cảm & Ủng hộ|Empathy & Support
+681|I understand how you feel.||Tôi hiểu cảm giác của bạn.
+682|That must be really hard.||Điều đó chắc hẳn rất khó khăn.
+683|I'm here for you.||Tôi ở đây vì bạn.
+684|You're not alone.||Bạn không cô đơn.
+685|I'm sorry to hear that.||Tôi rất tiếc khi nghe điều đó.
+686|Take your time.||Bạn cứ từ từ.
+687|Everything will be okay.||Mọi thứ sẽ ổn thôi.
+688|You can count on me.||Bạn có thể tin tưởng vào tôi.
+689|I believe in you.||Tôi tin vào bạn.
+690|You're stronger than you think.||Bạn mạnh mẽ hơn bạn nghĩ đấy.
+## 45|Mua bán & Thương lượng|Bargaining & Negotiation
+691|Let's find a middle ground.||Hãy tìm điểm trung gian.
+692|Can we negotiate the price?||Chúng ta có thể thương lượng giá không?
+693|I can offer you this amount.||Tôi có thể đề nghị số tiền này.
+694|That's my final offer.||Đó là đề nghị cuối cùng của tôi.
+695|We need to compromise.||Chúng ta cần thỏa hiệp.
+696|Is there any flexibility?||Có chỗ linh hoạt không?
+697|Let's split the difference.||Hãy chia đôi sự chênh lệch.
+698|Do we have a deal?||Chúng ta có thỏa thuận không?
+699|I'll think about it.||Tôi sẽ suy nghĩ về điều đó.
+700|That works for me.||Điều đó phù hợp với tôi.
+## 46|Ngành nghề & Nghề nghiệp|Jobs & Professions
+701|I'm a doctor.||Tôi là bác sĩ.
+702|She works as an engineer.||Cô ấy làm kỹ sư.
+703|He's a software developer.||Anh ấy là lập trình viên.
+704|I'd like to change careers.||Tôi muốn chuyển đổi nghề nghiệp.
+705|She runs her own business.||Cô ấy điều hành doanh nghiệp của mình.
+706|I applied for the job yesterday.||Hôm qua tôi nộp đơn xin việc.
+707|I got the promotion!||Tôi được thăng chức rồi!
+708|I'm self-employed.||Tôi tự kinh doanh.
+709|He just retired.||Anh ấy vừa nghỉ hưu.
+710|What are the working hours?||Giờ làm việc là như thế nào?
+## 47|Phong tục & Văn hóa|Customs & Culture
+711|It's a tradition in our culture.||Đó là truyền thống trong văn hóa của chúng tôi.
+712|We celebrate this every year.||Chúng tôi tổ chức lễ này mỗi năm.
+713|That's a local custom.||Đó là phong tục địa phương.
+714|I'd like to learn more about your culture.||Tôi muốn tìm hiểu thêm về văn hóa của bạn.
+715|Food is a big part of our identity.||Thức ăn là một phần quan trọng của bản sắc chúng tôi.
+716|We wear traditional clothing on this day.||Chúng tôi mặc trang phục truyền thống vào ngày này.
+717|Music connects us to our roots.||Âm nhạc kết nối chúng ta với cội nguồn.
+718|Respecting elders is very important.||Kính trọng người lớn tuổi rất quan trọng.
+719|This is a very meaningful ceremony.||Đây là một nghi lễ rất có ý nghĩa.
+720|Every culture has something beautiful.||Mọi nền văn hóa đều có điều gì đó đẹp đẽ.
+## 48|Tình yêu & Quan hệ lãng mạn|Love & Romance
+721|I love you.||Tôi yêu bạn.
+722|You mean a lot to me.||Bạn có ý nghĩa rất lớn với tôi.
+723|I miss you.||Tôi nhớ bạn.
+724|You make me happy.||Bạn làm tôi hạnh phúc.
+725|Will you go out with me?||Bạn có muốn hẹn hò với tôi không?
+726|I think about you all the time.||Tôi nghĩ đến bạn mọi lúc.
+727|You're very special to me.||Bạn rất đặc biệt với tôi.
+728|I'm falling for you.||Tôi đang yêu bạn.
+729|We're meant to be together.||Chúng ta sinh ra là để dành cho nhau.
+730|Let's grow old together.||Hãy cùng nhau già đi nhé.
+## 49|Câu tục ngữ & Thành ngữ|Proverbs & Idioms
+731|It's raining cats and dogs.||Trời đang mưa như trút nước.
+732|Break a leg!||Chúc may mắn!
+733|Hit the nail on the head.||Nói trúng vào điểm mấu chốt.
+734|Bite the bullet.||Chấp nhận tình huống khó khăn.
+735|Cost an arm and a leg.||Giá cắt cổ.
+736|Under the weather.||Không được khỏe.
+737|Once in a blue moon.||Rất hiếm khi.
+738|Better late than never.||Muộn còn hơn không.
+739|The ball is in your court.||Quyết định là của bạn.
+740|A piece of cake.||Dễ như ăn bánh.
+## 50|Kết thúc cuộc trò chuyện|Ending Conversations
+741|It was great talking to you.||Thật vui khi được nói chuyện với bạn.
+742|I have to go now.||Tôi phải đi rồi.
+743|Let's keep in touch.||Hãy giữ liên lạc nhé.
+744|Talk to you soon.||Sớm nói chuyện lại nhé.
+745|Take care of yourself.||Hãy chăm sóc bản thân.
+746|Say hi to your family.||Hãy chào hỏi gia đình bạn.
+747|It was a pleasure.||Thật vui được gặp bạn.
+748|Goodbye!||Tạm biệt!
+749|See you later!||Hẹn gặp lại!
+750|Until next time!||Đến lần sau nhé!
+## 51|Câu phức & Diễn đạt học thuật|Academic & Complex Expressions
+751|This phenomenon can be explained by...||Hiện tượng này có thể được giải thích bởi...
+752|Research suggests that...||Nghiên cứu cho thấy rằng...
+753|According to recent studies...||Theo các nghiên cứu gần đây...
+754|The evidence clearly shows...||Bằng chứng cho thấy rõ ràng...
+755|It is widely believed that...||Nhiều người tin rằng...
+756|From a scientific perspective...||Từ góc độ khoa học...
+757|This raises an important question.||Điều này đặt ra một câu hỏi quan trọng.
+758|The data supports this conclusion.||Dữ liệu hỗ trợ kết luận này.
+759|Further investigation is needed.||Cần điều tra thêm.
+760|This contradicts the previous findings.||Điều này mâu thuẫn với những phát hiện trước đó.
+## 52|Biểu đạt thán từ & Cảm thán|Exclamations
+761|Wow!||Ồ!
+762|Oh no!||Ôi không!
+763|That's incredible!||Thật không thể tin được!
+764|What a surprise!||Thật bất ngờ!
+765|Oh my goodness!||Trời ơi!
+766|Unbelievable!||Không thể tin được!
+767|Fantastic!||Tuyệt vời!
+768|Brilliant!||Xuất sắc!
+769|What a mess!||Thật lộn xộn!
+770|How interesting!||Thú vị quá!
+## 53|Mô tả hành động|Describing Actions
+771|She's running fast.||Cô ấy đang chạy nhanh.
+772|He's reading quietly.||Anh ấy đang đọc sách yên lặng.
+773|They're working together.||Họ đang làm việc cùng nhau.
+774|The baby is sleeping.||Em bé đang ngủ.
+775|She's laughing loudly.||Cô ấy đang cười to.
+776|He's speaking on the phone.||Anh ấy đang nói chuyện điện thoại.
+777|They're dancing gracefully.||Họ đang nhảy múa uyển chuyển.
+778|She's cooking something delicious.||Cô ấy đang nấu thứ gì đó thơm ngon.
+779|He's fixing the car.||Anh ấy đang sửa xe.
+780|They're celebrating together.||Họ đang cùng nhau ăn mừng.
+## 54|Quần áo & Thời trang|Clothes & Fashion
+781|What should I wear tonight?||Tôi nên mặc gì tối nay?
+782|That shirt looks great on you.||Chiếc áo đó trông rất hợp với bạn.
+783|I need to buy new clothes.||Tôi cần mua quần áo mới.
+784|Is this outfit appropriate?||Bộ trang phục này có phù hợp không?
+785|She has a great fashion sense.||Cô ấy có khiếu thời trang tuyệt vời.
+786|Can I try this in a medium?||Tôi có thể thử cái này cỡ vừa không?
+787|This dress is too formal.||Bộ váy này quá trang trọng.
+788|I prefer casual wear.||Tôi thích trang phục thường ngày hơn.
+789|These shoes are very comfortable.||Đôi giày này rất thoải mái.
+790|I'm looking for something elegant.||Tôi đang tìm thứ gì đó thanh lịch.
+## 55|Phàn nàn & Phản hồi|Complaints & Feedback
+791|I'm not satisfied with this.||Tôi không hài lòng với điều này.
+792|This is not what I expected.||Đây không phải những gì tôi mong đợi.
+793|There's a problem with my order.||Có vấn đề với đơn hàng của tôi.
+794|This product is defective.||Sản phẩm này bị lỗi.
+795|I'd like to speak to the manager.||Tôi muốn nói chuyện với quản lý.
+796|The service was very slow.||Dịch vụ rất chậm.
+797|I've been waiting for over an hour.||Tôi đã chờ hơn một tiếng đồng hồ.
+798|This is unacceptable.||Điều này không thể chấp nhận được.
+799|I'd like a refund, please.||Tôi muốn hoàn tiền.
+800|Can you fix this issue?||Bạn có thể khắc phục vấn đề này không?
+## 56|Ngoại giao & Lịch sự hơn nữa|More Diplomacy & Tact
+801|With all due respect...||Với tất cả sự tôn trọng...
+802|I don't mean to be rude, but...||Tôi không có ý thô lỗ, nhưng...
+803|If you don't mind me saying...||Nếu bạn không phiền tôi nói...
+804|I understand your frustration.||Tôi hiểu sự thất vọng của bạn.
+805|Let's approach this calmly.||Hãy tiếp cận điều này một cách bình tĩnh.
+806|I'd appreciate your patience.||Tôi trân trọng sự kiên nhẫn của bạn.
+807|That's a valid concern.||Đó là mối lo ngại hợp lý.
+808|I'll do my best to help.||Tôi sẽ cố gắng hết sức để giúp.
+809|We value your feedback.||Chúng tôi trân trọng phản hồi của bạn.
+810|I hope we can resolve this.||Tôi hy vọng chúng ta có thể giải quyết điều này.
+## 57|Câu điều kiện & Giả thuyết nâng cao|Advanced Conditionals
+811|Had I known earlier, I would have acted sooner.||Nếu tôi biết sớm hơn, tôi đã hành động sớm hơn.
+812|Were I in your shoes, I'd reconsider.||Nếu tôi ở vị trí của bạn, tôi sẽ xem xét lại.
+813|Should you need anything, call me.||Nếu bạn cần gì, hãy gọi cho tôi.
+814|If it weren't for you, I'd be lost.||Nếu không có bạn, tôi đã bị lạc rồi.
+815|Had he studied harder, he would have passed.||Nếu anh ấy học chăm hơn, anh ấy đã đậu rồi.
+816|If I had more time, I'd learn a new language.||Nếu tôi có nhiều thời gian hơn, tôi sẽ học một ngôn ngữ mới.
+817|Whether or not it rains, we'll proceed.||Dù có mưa hay không, chúng tôi sẽ tiến hành.
+818|Even if I tried, I couldn't do it alone.||Dù tôi có cố, tôi cũng không thể làm một mình.
+819|As long as we work together, we'll succeed.||Miễn là chúng ta làm việc cùng nhau, chúng ta sẽ thành công.
+820|Assuming everything goes well, we'll be done by Friday.||Giả sử mọi thứ diễn ra tốt đẹp, chúng ta sẽ hoàn thành vào thứ Sáu.
+## 58|Câu ghép & Câu phức hợp|Complex Compound Sentences
+821|Not only is she talented, but she's also hardworking.||Không chỉ có tài năng, cô ấy còn rất chăm chỉ.
+822|The more you practice, the better you get.||Bạn luyện tập càng nhiều, bạn càng giỏi hơn.
+823|Despite the challenges, they succeeded.||Dù có khó khăn, họ vẫn thành công.
+824|Although he was tired, he kept working.||Dù mệt mỏi, anh ấy vẫn tiếp tục làm việc.
+825|While I agree with you, I have some concerns.||Dù tôi đồng ý với bạn, tôi vẫn có một số lo ngại.
+826|She studied hard so that she could pass.||Cô ấy học chăm chỉ để có thể đậu.
+827|He not only finished first but also scored highest.||Anh ấy không chỉ hoàn thành đầu tiên mà còn đạt điểm cao nhất.
+828|The faster we work, the sooner we finish.||Chúng ta làm việc nhanh hơn, chúng ta hoàn thành sớm hơn.
+829|Since she's experienced, she handles it well.||Vì cô ấy có kinh nghiệm, cô ấy xử lý tốt.
+830|We'll do it provided everyone agrees.||Chúng ta sẽ làm nếu tất cả mọi người đồng ý.
+## 59|Câu hỏi đuôi|Tag Questions
+831|It's a beautiful day, isn't it?||Hôm nay thời tiết đẹp phải không?
+832|You're coming tonight, aren't you?||Bạn sẽ đến tối nay phải không?
+833|She didn't say that, did she?||Cô ấy không nói điều đó phải không?
+834|He can drive, can't he?||Anh ấy biết lái xe phải không?
+835|They haven't left yet, have they?||Họ chưa đi phải không?
+836|You won't tell anyone, will you?||Bạn sẽ không nói với ai phải không?
+837|We've met before, haven't we?||Chúng ta đã gặp nhau rồi phải không?
+838|She isn't angry, is she?||Cô ấy không tức giận phải không?
+839|It won't take long, will it?||Sẽ không mất nhiều thời gian phải không?
+840|You could help me, couldn't you?||Bạn có thể giúp tôi phải không?
+## 60|Diễn đạt khi viết & Thuyết trình|Writing & Presentation Expressions
+841|I'd like to begin by saying...||Tôi muốn bắt đầu bằng cách nói...
+842|The purpose of this presentation is...||Mục đích của bài thuyết trình này là...
+843|Let me draw your attention to...||Hãy để tôi thu hút sự chú ý của bạn đến...
+844|As you can see from the chart...||Như bạn có thể thấy từ biểu đồ...
+845|To conclude, I would like to say...||Để kết luận, tôi muốn nói...
+846|Do you have any questions?||Bạn có câu hỏi nào không?
+847|Please feel free to interrupt me.||Hãy thoải mái ngắt lời tôi.
+848|Moving on to the next point...||Chuyển sang điểm tiếp theo...
+849|In summary, the key findings are...||Tóm lại, những phát hiện chính là...
+850|Thank you for your attention.||Cảm ơn sự chú ý của bạn.
+## 61|Ngôn ngữ & Học ngoại ngữ|Language Learning
+851|How do you say this in English?||Tiếng Anh nói điều này như thế nào?
+852|Could you say that again?||Bạn có thể nói lại không?
+853|I'm learning English.||Tôi đang học tiếng Anh.
+854|My English is still improving.||Tiếng Anh của tôi vẫn đang cải thiện.
+855|Can you correct my mistake?||Bạn có thể sửa lỗi của tôi không?
+856|How do you pronounce this word?||Từ này phát âm như thế nào?
+857|I don't know this expression.||Tôi không biết cụm từ này.
+858|Languages are the key to culture.||Ngôn ngữ là chìa khóa của văn hóa.
+859|I understand a little.||Tôi hiểu một chút.
+860|Immersion is the best way to learn.||Đắm mình vào môi trường là cách học tốt nhất.
+## 62|Câu biểu đạt sắc thái|Nuanced Expressions
+861|It depends on the situation.||Nó phụ thuộc vào tình huống.
+862|That's easier said than done.||Nói thì dễ nhưng làm thì khó.
+863|There's more to it than meets the eye.||Có nhiều thứ hơn là những gì ta thấy bên ngoài.
+864|It's not black and white.||Không phải chuyện đơn giản trắng đen.
+865|This is a double-edged sword.||Đây là con dao hai lưỡi.
+866|It's a blessing in disguise.||Đây là điều may mắn trá hình.
+867|Things aren't always what they seem.||Mọi thứ không phải lúc nào cũng như vẻ bề ngoài.
+868|There are two sides to every story.||Mọi câu chuyện đều có hai mặt.
+869|Let's not jump to conclusions.||Đừng vội kết luận.
+870|We'll cross that bridge when we come to it.||Đến đâu tính đến đó.
+## 63|Câu ghép với liên từ|Conjunctions in Sentences
+871|I want to go, but I'm too tired.||Tôi muốn đi nhưng tôi quá mệt.
+872|She speaks both English and French.||Cô ấy nói được cả tiếng Anh lẫn tiếng Pháp.
+873|Either you help me or I'll ask someone else.||Bạn giúp tôi hoặc tôi sẽ hỏi người khác.
+874|Neither option seems good.||Không có lựa chọn nào có vẻ tốt.
+875|I'll go as long as you come too.||Tôi sẽ đi miễn là bạn cũng đến.
+876|She worked hard so that she could succeed.||Cô ấy làm việc chăm chỉ để có thể thành công.
+877|We'll continue unless it rains.||Chúng ta sẽ tiếp tục trừ khi trời mưa.
+878|The movie was long yet entertaining.||Bộ phim dài nhưng giải trí.
+879|He arrived late because of traffic.||Anh ấy đến muộn vì tắc đường.
+880|I'll help you whenever you need.||Tôi sẽ giúp bạn bất cứ khi nào bạn cần.
+## 64|Câu hỏi tu từ & Diễn đạt mang tính triết học|Rhetorical & Philosophical
+881|What is the meaning of life?||Ý nghĩa của cuộc sống là gì?
+882|Are we truly free?||Chúng ta có thực sự tự do không?
+883|What makes us human?||Điều gì làm cho chúng ta trở thành con người?
+884|Can money buy happiness?||Tiền có mua được hạnh phúc không?
+885|What is true success?||Thành công thực sự là gì?
+886|Is it better to be loved or respected?||Tốt hơn là được yêu hay được tôn trọng?
+887|Does history repeat itself?||Lịch sử có tự lặp lại không?
+888|Is change always good?||Thay đổi có phải lúc nào cũng tốt không?
+889|What is our responsibility to future generations?||Trách nhiệm của chúng ta đối với thế hệ tương lai là gì?
+890|Can one person truly make a difference?||Một người có thể thực sự tạo ra sự khác biệt không?
+## 65|Câu diễn đạt thói quen|Habits & Routines
+891|I wake up at six every morning.||Tôi thức dậy lúc sáu giờ mỗi sáng.
+892|I always drink coffee first thing.||Tôi luôn uống cà phê đầu tiên.
+893|She goes for a walk after dinner.||Cô ấy đi dạo sau bữa tối.
+894|He reads before going to bed.||Anh ấy đọc sách trước khi đi ngủ.
+895|They exercise three times a week.||Họ tập thể dục ba lần một tuần.
+896|I usually eat lunch at noon.||Tôi thường ăn trưa vào buổi trưa.
+897|She checks her email every morning.||Cô ấy kiểm tra email mỗi sáng.
+898|I never skip breakfast.||Tôi không bao giờ bỏ bữa sáng.
+899|He meditates for ten minutes daily.||Anh ấy thiền mười phút mỗi ngày.
+900|We have a family dinner every Sunday.||Chúng tôi có bữa tối gia đình mỗi Chủ Nhật.
+## 66|Câu về ước muốn & Mơ ước|Wishes & Dreams
+901|I wish I could speak five languages.||Tôi ước tôi có thể nói năm ngôn ngữ.
+902|My dream is to travel the world.||Ước mơ của tôi là đi vòng quanh thế giới.
+903|I hope to own a house someday.||Tôi hy vọng sẽ có nhà riêng một ngày nào đó.
+904|If only I had more time.||Giá như tôi có nhiều thời gian hơn.
+905|I've always wanted to learn painting.||Tôi luôn muốn học vẽ.
+906|She dreams of becoming a scientist.||Cô ấy mơ ước trở thành nhà khoa học.
+907|Wouldn't it be amazing if...?||Sẽ thật tuyệt vời nếu...?
+908|I hope one day we'll all live in peace.||Tôi hy vọng một ngày nào đó chúng ta sẽ sống trong hòa bình.
+909|My biggest dream is to make a difference.||Ước mơ lớn nhất của tôi là tạo ra sự thay đổi.
+910|If I could go back in time, I'd...||Nếu tôi có thể quay lại thời gian, tôi sẽ...
+## 67|Câu so sánh|Comparisons
+911|This is better than that.||Cái này tốt hơn cái đó.
+912|She's taller than her sister.||Cô ấy cao hơn chị gái.
+913|This is the best I've ever had.||Đây là điều tốt nhất tôi từng trải qua.
+914|He runs faster than anyone.||Anh ấy chạy nhanh hơn bất kỳ ai.
+915|Today is hotter than yesterday.||Hôm nay nóng hơn hôm qua.
+916|This method is far more efficient.||Phương pháp này hiệu quả hơn nhiều.
+917|It's not as hard as I thought.||Nó không khó như tôi nghĩ.
+918|The more, the merrier.||Càng đông càng vui.
+919|This is twice as expensive.||Cái này đắt gấp đôi.
+920|She is by far the most talented.||Cô ấy cho đến nay là người tài năng nhất.
+## 68|Câu diễn đạt ngoại giao|Diplomatic Language
+921|I see your perspective.||Tôi hiểu quan điểm của bạn.
+922|I appreciate your honesty.||Tôi trân trọng sự thành thật của bạn.
+923|Let's try to find a solution.||Hãy cố gắng tìm giải pháp.
+924|I hear what you're saying.||Tôi nghe thấy điều bạn đang nói.
+925|Let's agree to disagree.||Hãy chấp nhận sự khác biệt.
+926|Perhaps we can revisit this later.||Có lẽ chúng ta có thể xem xét lại điều này sau.
+927|I'm open to other ideas.||Tôi cởi mở với những ý kiến khác.
+928|Let's table this for now.||Hãy để điều này lại sau.
+929|I think we're making progress.||Tôi nghĩ chúng ta đang có tiến triển.
+930|Thank you for being so understanding.||Cảm ơn bạn đã rất thông cảm.
+## 69|Câu nâng cao về tư duy phản biện|Critical Thinking
+931|Let's look at both sides of the argument.||Hãy nhìn vào cả hai phía của lập luận.
+932|The evidence doesn't support this claim.||Bằng chứng không hỗ trợ tuyên bố này.
+933|We should question our assumptions.||Chúng ta nên đặt câu hỏi về những giả định của mình.
+934|Correlation doesn't imply causation.||Tương quan không có nghĩa là quan hệ nhân quả.
+935|This argument has a logical flaw.||Lập luận này có lỗ hổng logic.
+936|Let's examine the facts more carefully.||Hãy xem xét các sự kiện kỹ lưỡng hơn.
+937|What are the underlying assumptions here?||Những giả định cơ bản ở đây là gì?
+938|We need more data before concluding.||Chúng ta cần thêm dữ liệu trước khi kết luận.
+939|The argument is compelling but flawed.||Lập luận có sức thuyết phục nhưng còn nhiều thiếu sót.
+940|Think critically before accepting this.||Hãy suy nghĩ phê phán trước khi chấp nhận điều này.
+## 70|Câu kết & Tổng hợp|Summary & Closing Sentences
+941|In conclusion, we can say that...||Kết lại, chúng ta có thể nói rằng...
+942|To wrap up, the main point is...||Để tóm lại, điểm chính là...
+943|This experience taught me a lot.||Kinh nghiệm này dạy tôi rất nhiều điều.
+944|Looking back, I have no regrets.||Nhìn lại, tôi không có hối tiếc.
+945|All in all, it was a great day.||Nhìn chung, đó là một ngày tuyệt vời.
+946|At the end of the day, what matters most is...||Cuối cùng, điều quan trọng nhất là...
+947|Everything considered, I made the right choice.||Xét tất cả mọi thứ, tôi đã đưa ra lựa chọn đúng.
+948|The bottom line is that we need to act.||Điểm mấu chốt là chúng ta cần hành động.
+949|We've come a long way, but there's still much to do.||Chúng ta đã đi được một chặng đường dài, nhưng vẫn còn nhiều việc phải làm.
+950|Keep going — you're almost there!||Tiếp tục đi — bạn gần đến rồi!
+## 71|Câu bổ sung cuối|Final Supplementary Sentences
+951|I appreciate your time and effort.||Tôi đánh giá cao thời gian và công sức của bạn.
+952|Would you like some advice?||Bạn có muốn một số lời khuyên không?
+953|I'm happy to help anytime.||Tôi vui lòng giúp đỡ bất cứ lúc nào.
+954|Please don't hesitate to ask.||Đừng ngần ngại hỏi.
+955|That's an interesting idea.||Đó là một ý kiến thú vị.
+956|Let me know what you think.||Hãy cho tôi biết bạn nghĩ gì.
+957|I'll do it right away.||Tôi sẽ làm ngay bây giờ.
+958|This is just my suggestion.||Đây chỉ là đề xuất của tôi.
+959|You know best.||Bạn biết rõ nhất.
+960|I trust your judgment.||Tôi tin vào phán đoán của bạn.
+961|Please keep me updated.||Hãy cập nhật cho tôi.
+962|I'll take that into consideration.||Tôi sẽ xem xét điều đó.
+963|That's an option worth exploring.||Đó là một lựa chọn đáng khám phá.
+964|I'm open to feedback.||Tôi cởi mở với phản hồi.
+965|Your input is valuable.||Ý kiến đóng góp của bạn rất quý giá.
+966|Let's move forward together.||Hãy cùng nhau tiến về phía trước.
+967|This is just the beginning.||Đây chỉ là mới bắt đầu.
+968|The best is yet to come.||Điều tốt nhất vẫn còn đang ở phía trước.
+969|Together we can achieve great things.||Cùng nhau chúng ta có thể đạt được những điều tuyệt vời.
+970|Knowledge is power.||Kiến thức là sức mạnh.
+971|Practice makes perfect.||Luyện tập làm cho hoàn hảo.
+972|Every day is a new opportunity.||Mỗi ngày là một cơ hội mới.
+973|Don't be afraid to make mistakes.||Đừng sợ mắc lỗi.
+974|Believe in yourself.||Hãy tin vào bản thân.
+975|Hard work always pays off.||Sự chăm chỉ luôn được đền đáp.
+976|Success requires patience.||Thành công đòi hỏi sự kiên nhẫn.
+977|Stay positive, no matter what.||Hãy giữ tinh thần lạc quan dù thế nào.
+978|Small steps lead to big changes.||Những bước nhỏ dẫn đến những thay đổi lớn.
+979|The world needs more compassion.||Thế giới cần thêm sự đồng cảm.
+980|Be the change you wish to see.||Hãy là sự thay đổi mà bạn muốn thấy.
+981|Kindness costs nothing.||Lòng tốt không tốn kém gì.
+982|Learning never stops.||Việc học không bao giờ dừng lại.
+983|Courage is not the absence of fear.||Can đảm không phải là không có sợ hãi.
+984|It's okay to ask for help.||Không sao khi nhờ giúp đỡ.
+985|You are enough.||Bạn như vậy là đủ rồi.
+986|Chase your dreams, not your fears.||Hãy theo đuổi ước mơ, không phải nỗi sợ hãi.
+987|Life is what you make of it.||Cuộc sống là những gì bạn tạo ra.
+988|Be grateful for what you have.||Hãy biết ơn những gì bạn có.
+989|Today is a gift.||Hôm nay là một món quà.
+990|Spread love wherever you go.||Hãy lan tỏa tình yêu thương bất cứ nơi nào bạn đến.
+991|The best time to start is now.||Thời điểm tốt nhất để bắt đầu là bây giờ.
+992|You have the power to change your story.||Bạn có sức mạnh để thay đổi câu chuyện của mình.
+993|Never underestimate yourself.||Đừng bao giờ đánh giá thấp bản thân.
+994|Every failure is a lesson.||Mỗi thất bại là một bài học.
+995|Your attitude determines your direction.||Thái độ của bạn quyết định hướng đi của bạn.
+996|Keep dreaming, keep believing.||Hãy tiếp tục mơ, hãy tiếp tục tin tưởng.
+997|The greatest adventure is life itself.||Cuộc phiêu lưu vĩ đại nhất chính là cuộc sống.
+998|Live fully, love deeply.||Sống trọn vẹn, yêu sâu sắc.
+999|Make each day count.||Hãy làm cho mỗi ngày đều có ý nghĩa.
+1000|The journey of a thousand miles begins with a single step.||Hành trình ngàn dặm bắt đầu từ một bước chân.
