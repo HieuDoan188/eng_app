@@ -1,0 +1,1052 @@
+# Format: "## <chapter no>|<Vietnamese title>|<French title>" starts a chapter;
+# each sentence line is "<no>|<French>|<romanization (empty for French)>|<Vietnamese>".
+## 1|Chào hỏi & Giới thiệu|Salutations et présentations
+1|Bonjour!||Xin chào!
+2|Salut, ça va?||Chào bạn, khỏe không?
+3|Bonsoir, comment allez-vous?||Chào buổi tối, bạn khỏe không?
+4|Enchanté de faire votre connaissance.||Rất hân hạnh được làm quen.
+5|Ravi de vous rencontrer.||Rất vui được gặp bạn.
+6|Comment vous appelez-vous?||Bạn tên là gì?
+7|Je m'appelle Lan.||Tôi tên là Lan.
+8|Quel est votre nom?||Tên của bạn là gì?
+9|D'où venez-vous?||Bạn đến từ đâu?
+10|Je viens du Vietnam.||Tôi đến từ Việt Nam.
+11|Où habitez-vous?||Bạn sống ở đâu?
+12|J'habite à Hanoï.||Tôi sống ở Hà Nội.
+13|Vous parlez français?||Bạn nói tiếng Pháp không?
+14|Je parle un peu français.||Tôi nói được một chút tiếng Pháp.
+15|Je ne parle pas très bien français.||Tôi nói tiếng Pháp chưa giỏi lắm.
+16|Pouvez-vous parler plus lentement?||Bạn có thể nói chậm hơn không?
+17|Je suis content de vous voir.||Tôi rất vui được gặp bạn.
+18|Cela fait longtemps.||Lâu rồi không gặp.
+19|Comment s'est passée votre journée?||Ngày hôm nay của bạn thế nào?
+20|À bientôt!||Hẹn gặp lại!
+## 2|Lịch sự & Phép xã giao|Politesse
+21|S'il vous plaît.||Làm ơn.
+22|Merci beaucoup.||Cảm ơn bạn rất nhiều.
+23|Merci pour votre aide.||Cảm ơn sự giúp đỡ của bạn.
+24|Je vous en prie.||Không có gì.
+25|De rien.||Không có gì.
+26|Excusez-moi.||Xin lỗi / Xin phép.
+27|Pardon.||Xin lỗi.
+28|Je suis désolé.||Tôi xin lỗi.
+29|Ce n'est pas grave.||Không sao đâu.
+30|Pas de problème.||Không vấn đề gì.
+31|Avec plaisir.||Rất sẵn lòng.
+32|Puis-je vous aider?||Tôi có thể giúp bạn không?
+33|C'est très gentil.||Bạn thật tốt bụng.
+34|Je vous remercie.||Tôi cảm ơn bạn.
+35|Après vous.||Mời bạn đi trước.
+36|Je vous souhaite une bonne journée.||Chúc bạn một ngày tốt lành.
+37|Félicitations!||Chúc mừng!
+38|Bon courage!||Cố lên nhé!
+39|Bonne chance!||Chúc may mắn!
+40|Prenez soin de vous.||Hãy giữ gìn sức khỏe.
+## 3|Thông tin cá nhân|Informations personnelles
+41|Mon nom complet est Nguyen Van Nam.||Họ tên đầy đủ của tôi là Nguyễn Văn Nam.
+42|J'ai vingt-cinq ans.||Tôi hai mươi lăm tuổi.
+43|Je suis vietnamien.||Tôi là người Việt Nam.
+44|Je suis célibataire.||Tôi còn độc thân.
+45|Je suis marié.||Tôi đã kết hôn.
+46|J'habite à Hô Chi Minh-Ville.||Tôi sống ở Thành phố Hồ Chí Minh.
+47|Mon adresse est rue Pasteur.||Địa chỉ của tôi là đường Pasteur.
+48|Mon numéro de téléphone est le 0900 123 456.||Số điện thoại của tôi là 0900 123 456.
+49|Mon adresse e-mail est facile à retenir.||Địa chỉ email của tôi dễ nhớ.
+50|Je travaille comme ingénieur.||Tôi làm kỹ sư.
+51|Je suis étudiant.||Tôi là sinh viên.
+52|Je suis né à Da Nang.||Tôi sinh ra ở Đà Nẵng.
+53|Mon anniversaire est en mai.||Sinh nhật của tôi vào tháng Năm.
+54|Je vis avec ma famille.||Tôi sống cùng gia đình.
+55|J'aime apprendre les langues.||Tôi thích học ngoại ngữ.
+56|Je voyage souvent pour le travail.||Tôi thường đi công tác.
+57|Je suis ici pour étudier.||Tôi ở đây để học.
+58|Je suis ici pour travailler.||Tôi ở đây để làm việc.
+59|Voici ma carte d'identité.||Đây là căn cước của tôi.
+60|Voici mes coordonnées.||Đây là thông tin liên hệ của tôi.
+## 4|Gia đình|Famille
+61|Ma famille aime ma mère.||Gia đình tôi thích mẹ tôi.
+62|Ma famille aime mon père.||Gia đình tôi thích bố tôi.
+63|Ma famille aime ma sœur.||Gia đình tôi thích chị/em gái tôi.
+64|Ma famille aime mon frère.||Gia đình tôi thích anh/em trai tôi.
+65|Je parle souvent avec ma mère.||Tôi thường nói chuyện với mẹ tôi.
+66|Je parle souvent avec mon père.||Tôi thường nói chuyện với bố tôi.
+67|Je parle souvent avec ma sœur.||Tôi thường nói chuyện với chị/em gái tôi.
+68|Je parle souvent avec mon frère.||Tôi thường nói chuyện với anh/em trai tôi.
+69|Ma mère habite près de chez moi.||Mẹ tôi sống gần nhà tôi.
+70|Mon père habite près de chez moi.||Bố tôi sống gần nhà tôi.
+71|Ma sœur habite près de chez moi.||Chị/em gái tôi sống gần nhà tôi.
+72|Mon frère habite près de chez moi.||Anh/em trai tôi sống gần nhà tôi.
+73|Je vais rendre visite à ma mère.||Tôi sẽ đến thăm mẹ tôi.
+74|Je vais rendre visite à mon père.||Tôi sẽ đến thăm bố tôi.
+75|Je vais rendre visite à ma sœur.||Tôi sẽ đến thăm chị/em gái tôi.
+76|Je vais rendre visite à mon frère.||Tôi sẽ đến thăm anh/em trai tôi.
+77|Je suis fier de ma mère.||Tôi tự hào về mẹ tôi.
+78|Je suis fier de mon père.||Tôi tự hào về bố tôi.
+79|Je suis fier de ma sœur.||Tôi tự hào về chị/em gái tôi.
+80|Je suis fier de mon frère.||Tôi tự hào về anh/em trai tôi.
+## 5|Bạn bè & Quan hệ|Amis et relations
+81|Je retrouve mon meilleur ami ce soir.||Tối nay tôi gặp bạn thân nhất của tôi.
+82|Je retrouve ma collègue ce soir.||Tối nay tôi gặp đồng nghiệp nữ của tôi.
+83|Je retrouve mon voisin ce soir.||Tối nay tôi gặp hàng xóm của tôi.
+84|Je retrouve notre professeur ce soir.||Tối nay tôi gặp giáo viên của chúng tôi.
+85|Je fais confiance à mon meilleur ami.||Tôi tin tưởng bạn thân nhất của tôi.
+86|Je fais confiance à ma collègue.||Tôi tin tưởng đồng nghiệp nữ của tôi.
+87|Je fais confiance à mon voisin.||Tôi tin tưởng hàng xóm của tôi.
+88|Je fais confiance à notre professeur.||Tôi tin tưởng giáo viên của chúng tôi.
+89|Je connais mon meilleur ami depuis longtemps.||Tôi biết bạn thân nhất của tôi từ lâu.
+90|Je connais ma collègue depuis longtemps.||Tôi biết đồng nghiệp nữ của tôi từ lâu.
+91|Je connais mon voisin depuis longtemps.||Tôi biết hàng xóm của tôi từ lâu.
+92|Je connais notre professeur depuis longtemps.||Tôi biết giáo viên của chúng tôi từ lâu.
+93|Je voudrais présenter mon meilleur ami.||Tôi muốn giới thiệu bạn thân nhất của tôi.
+94|Je voudrais présenter ma collègue.||Tôi muốn giới thiệu đồng nghiệp nữ của tôi.
+95|Je voudrais présenter mon voisin.||Tôi muốn giới thiệu hàng xóm của tôi.
+96|Je voudrais présenter notre professeur.||Tôi muốn giới thiệu giáo viên của chúng tôi.
+97|Je vais envoyer un message à mon meilleur ami.||Tôi sẽ nhắn tin cho bạn thân nhất của tôi.
+98|Je vais envoyer un message à ma collègue.||Tôi sẽ nhắn tin cho đồng nghiệp nữ của tôi.
+99|Je vais envoyer un message à mon voisin.||Tôi sẽ nhắn tin cho hàng xóm của tôi.
+100|Je vais envoyer un message à notre professeur.||Tôi sẽ nhắn tin cho giáo viên của chúng tôi.
+## 6|Thời gian|Temps et heure
+101|Il est huit heures.||Bây giờ là tám giờ.
+102|Il est midi.||Bây giờ là buổi trưa.
+103|Il est quinze heures trente.||Bây giờ là mười lăm giờ ba mươi.
+104|Il est minuit.||Bây giờ là nửa đêm.
+105|Le rendez-vous est à huit heures.||Cuộc hẹn vào lúc tám giờ.
+106|Le rendez-vous est à midi.||Cuộc hẹn vào lúc buổi trưa.
+107|Le rendez-vous est à quinze heures trente.||Cuộc hẹn vào lúc mười lăm giờ ba mươi.
+108|Le rendez-vous est à minuit.||Cuộc hẹn vào lúc nửa đêm.
+109|Je serai prêt à huit heures.||Tôi sẽ sẵn sàng lúc tám giờ.
+110|Je serai prêt à midi.||Tôi sẽ sẵn sàng lúc buổi trưa.
+111|Je serai prêt à quinze heures trente.||Tôi sẽ sẵn sàng lúc mười lăm giờ ba mươi.
+112|Je serai prêt à minuit.||Tôi sẽ sẵn sàng lúc nửa đêm.
+113|Le magasin ouvre à huit heures.||Cửa hàng mở cửa lúc tám giờ.
+114|Le magasin ouvre à midi.||Cửa hàng mở cửa lúc buổi trưa.
+115|Le magasin ouvre à quinze heures trente.||Cửa hàng mở cửa lúc mười lăm giờ ba mươi.
+116|Le magasin ouvre à minuit.||Cửa hàng mở cửa lúc nửa đêm.
+117|Le train part à huit heures.||Tàu khởi hành lúc tám giờ.
+118|Le train part à midi.||Tàu khởi hành lúc buổi trưa.
+119|Le train part à quinze heures trente.||Tàu khởi hành lúc mười lăm giờ ba mươi.
+120|Le train part à minuit.||Tàu khởi hành lúc nửa đêm.
+## 7|Ngày tháng & Lịch hẹn|Dates et rendez-vous
+121|Nous avons rendez-vous lundi.||Chúng ta có hẹn thứ Hai.
+122|Nous avons rendez-vous demain matin.||Chúng ta có hẹn sáng mai.
+123|Nous avons rendez-vous ce week-end.||Chúng ta có hẹn cuối tuần này.
+124|Nous avons rendez-vous le mois prochain.||Chúng ta có hẹn tháng sau.
+125|Je suis disponible lundi.||Tôi rảnh thứ Hai.
+126|Je suis disponible demain matin.||Tôi rảnh sáng mai.
+127|Je suis disponible ce week-end.||Tôi rảnh cuối tuần này.
+128|Je suis disponible le mois prochain.||Tôi rảnh tháng sau.
+129|Pouvez-vous venir lundi?||Bạn có thể đến thứ Hai không?
+130|Pouvez-vous venir demain matin?||Bạn có thể đến sáng mai không?
+131|Pouvez-vous venir ce week-end?||Bạn có thể đến cuối tuần này không?
+132|Pouvez-vous venir le mois prochain?||Bạn có thể đến tháng sau không?
+133|La réunion aura lieu lundi.||Cuộc họp sẽ diễn ra thứ Hai.
+134|La réunion aura lieu demain matin.||Cuộc họp sẽ diễn ra sáng mai.
+135|La réunion aura lieu ce week-end.||Cuộc họp sẽ diễn ra cuối tuần này.
+136|La réunion aura lieu le mois prochain.||Cuộc họp sẽ diễn ra tháng sau.
+137|Je préfère reporter à lundi.||Tôi muốn dời sang thứ Hai.
+138|Je préfère reporter à demain matin.||Tôi muốn dời sang sáng mai.
+139|Je préfère reporter à ce week-end.||Tôi muốn dời sang cuối tuần này.
+140|Je préfère reporter à le mois prochain.||Tôi muốn dời sang tháng sau.
+## 8|Thời tiết|Météo
+141|Aujourd'hui, il fait beau.||Hôm nay trời đẹp.
+142|Aujourd'hui, il fait chaud.||Hôm nay trời nóng.
+143|Aujourd'hui, il fait froid.||Hôm nay trời lạnh.
+144|Aujourd'hui, il fait mauvais.||Hôm nay trời xấu.
+145|Je pense qu'il va faire beau.||Tôi nghĩ trời sẽ đẹp.
+146|Je pense qu'il va faire chaud.||Tôi nghĩ trời sẽ nóng.
+147|Je pense qu'il va faire froid.||Tôi nghĩ trời sẽ lạnh.
+148|Je pense qu'il va faire mauvais.||Tôi nghĩ trời sẽ xấu.
+149|Il vaut mieux sortir quand il fait beau.||Tốt hơn nên ra ngoài khi trời đẹp.
+150|Il vaut mieux sortir quand il fait chaud.||Tốt hơn nên ra ngoài khi trời nóng.
+151|Il vaut mieux sortir quand il fait froid.||Tốt hơn nên ra ngoài khi trời lạnh.
+152|Il vaut mieux sortir quand il fait mauvais.||Tốt hơn nên ra ngoài khi trời xấu.
+153|Je n'aime pas conduire quand il fait beau.||Tôi không thích lái xe khi trời đẹp.
+154|Je n'aime pas conduire quand il fait chaud.||Tôi không thích lái xe khi trời nóng.
+155|Je n'aime pas conduire quand il fait froid.||Tôi không thích lái xe khi trời lạnh.
+156|Je n'aime pas conduire quand il fait mauvais.||Tôi không thích lái xe khi trời xấu.
+157|Préparez-vous, il fait beau.||Hãy chuẩn bị, trời đẹp.
+158|Préparez-vous, il fait chaud.||Hãy chuẩn bị, trời nóng.
+159|Préparez-vous, il fait froid.||Hãy chuẩn bị, trời lạnh.
+160|Préparez-vous, il fait mauvais.||Hãy chuẩn bị, trời xấu.
+## 9|Hoạt động hằng ngày|Routine quotidienne
+161|Je fais la vaisselle tous les jours.||Tôi làm việc rửa bát mỗi ngày.
+162|Je fais le ménage tous les jours.||Tôi làm việc dọn dẹp mỗi ngày.
+163|Je fais du sport tous les jours.||Tôi làm việc tập thể thao mỗi ngày.
+164|Je fais mes devoirs tous les jours.||Tôi làm bài tập của tôi mỗi ngày.
+165|Je dois faire la vaisselle avant de sortir.||Tôi phải làm việc rửa bát trước khi ra ngoài.
+166|Je dois faire le ménage avant de sortir.||Tôi phải làm việc dọn dẹp trước khi ra ngoài.
+167|Je dois faire du sport avant de sortir.||Tôi phải làm việc tập thể thao trước khi ra ngoài.
+168|Je dois faire mes devoirs avant de sortir.||Tôi phải làm bài tập của tôi trước khi ra ngoài.
+169|Je viens de faire la vaisselle.||Tôi vừa làm việc rửa bát.
+170|Je viens de faire le ménage.||Tôi vừa làm việc dọn dẹp.
+171|Je viens de faire du sport.||Tôi vừa làm việc tập thể thao.
+172|Je viens de faire mes devoirs.||Tôi vừa làm bài tập của tôi.
+173|Je n'ai pas encore fait la vaisselle.||Tôi chưa làm việc rửa bát.
+174|Je n'ai pas encore fait le ménage.||Tôi chưa làm việc dọn dẹp.
+175|Je n'ai pas encore fait du sport.||Tôi chưa làm việc tập thể thao.
+176|Je n'ai pas encore fait mes devoirs.||Tôi chưa làm bài tập của tôi.
+177|Je préfère faire la vaisselle le matin.||Tôi thích làm việc rửa bát vào buổi sáng.
+178|Je préfère faire le ménage le matin.||Tôi thích làm việc dọn dẹp vào buổi sáng.
+179|Je préfère faire du sport le matin.||Tôi thích làm việc tập thể thao vào buổi sáng.
+180|Je préfère faire mes devoirs le matin.||Tôi thích làm bài tập của tôi vào buổi sáng.
+## 10|Ở nhà|À la maison
+181|Je cherche la table.||Tôi đang tìm cái bàn.
+182|Je cherche la fenêtre.||Tôi đang tìm cửa sổ.
+183|Je cherche la porte.||Tôi đang tìm cửa ra vào.
+184|Je cherche le canapé.||Tôi đang tìm ghế sofa.
+185|Pouvez-vous nettoyer la table?||Bạn có thể lau dọn cái bàn không?
+186|Pouvez-vous nettoyer la fenêtre?||Bạn có thể lau dọn cửa sổ không?
+187|Pouvez-vous nettoyer la porte?||Bạn có thể lau dọn cửa ra vào không?
+188|Pouvez-vous nettoyer le canapé?||Bạn có thể lau dọn ghế sofa không?
+189|Il y a quelque chose sur la table.||Có gì đó trên cái bàn.
+190|Il y a quelque chose sur la fenêtre.||Có gì đó trên cửa sổ.
+191|Il y a quelque chose sur la porte.||Có gì đó trên cửa ra vào.
+192|Il y a quelque chose sur le canapé.||Có gì đó trên ghế sofa.
+193|J'ai laissé mes clés près de la table.||Tôi để chìa khóa gần cái bàn.
+194|J'ai laissé mes clés près de la fenêtre.||Tôi để chìa khóa gần cửa sổ.
+195|J'ai laissé mes clés près de la porte.||Tôi để chìa khóa gần cửa ra vào.
+196|J'ai laissé mes clés près de le canapé.||Tôi để chìa khóa gần ghế sofa.
+197|Nous devons réparer la table.||Chúng ta cần sửa cái bàn.
+198|Nous devons réparer la fenêtre.||Chúng ta cần sửa cửa sổ.
+199|Nous devons réparer la porte.||Chúng ta cần sửa cửa ra vào.
+200|Nous devons réparer le canapé.||Chúng ta cần sửa ghế sofa.
+## 11|Đồ ăn|Nourriture
+201|Je voudrais manger du riz.||Tôi muốn ăn cơm.
+202|Je voudrais manger du pain.||Tôi muốn ăn bánh mì.
+203|Je voudrais manger du poulet.||Tôi muốn ăn thịt gà.
+204|Je voudrais manger des légumes.||Tôi muốn ăn rau.
+205|Avez-vous du riz?||Bạn có cơm không?
+206|Avez-vous du pain?||Bạn có bánh mì không?
+207|Avez-vous du poulet?||Bạn có thịt gà không?
+208|Avez-vous des légumes?||Bạn có rau không?
+209|Je préfère du riz.||Tôi thích cơm hơn.
+210|Je préfère du pain.||Tôi thích bánh mì hơn.
+211|Je préfère du poulet.||Tôi thích thịt gà hơn.
+212|Je préfère des légumes.||Tôi thích rau hơn.
+213|Pouvez-vous ajouter du riz?||Bạn có thể thêm cơm không?
+214|Pouvez-vous ajouter du pain?||Bạn có thể thêm bánh mì không?
+215|Pouvez-vous ajouter du poulet?||Bạn có thể thêm thịt gà không?
+216|Pouvez-vous ajouter des légumes?||Bạn có thể thêm rau không?
+217|Je ne mange pas du riz.||Tôi không ăn cơm.
+218|Je ne mange pas du pain.||Tôi không ăn bánh mì.
+219|Je ne mange pas du poulet.||Tôi không ăn thịt gà.
+220|Je ne mange pas des légumes.||Tôi không ăn rau.
+## 12|Đồ uống|Boissons
+221|Je voudrais boire de l'eau.||Tôi muốn uống nước.
+222|Je voudrais boire du café.||Tôi muốn uống cà phê.
+223|Je voudrais boire du thé.||Tôi muốn uống trà.
+224|Je voudrais boire du jus d'orange.||Tôi muốn uống nước cam.
+225|Servez-moi de l'eau, s'il vous plaît.||Làm ơn cho tôi nước.
+226|Servez-moi du café, s'il vous plaît.||Làm ơn cho tôi cà phê.
+227|Servez-moi du thé, s'il vous plaît.||Làm ơn cho tôi trà.
+228|Servez-moi du jus d'orange, s'il vous plaît.||Làm ơn cho tôi nước cam.
+229|Je prends de l'eau sans sucre.||Tôi dùng nước không đường.
+230|Je prends du café sans sucre.||Tôi dùng cà phê không đường.
+231|Je prends du thé sans sucre.||Tôi dùng trà không đường.
+232|Je prends du jus d'orange sans sucre.||Tôi dùng nước cam không đường.
+233|Est-ce que de l'eau est froid?||Nước có lạnh không?
+234|Est-ce que du café est froid?||Cà phê có lạnh không?
+235|Est-ce que du thé est froid?||Trà có lạnh không?
+236|Est-ce que du jus d'orange est froid?||Nước cam có lạnh không?
+237|Je vais commander de l'eau.||Tôi sẽ gọi nước.
+238|Je vais commander du café.||Tôi sẽ gọi cà phê.
+239|Je vais commander du thé.||Tôi sẽ gọi trà.
+240|Je vais commander du jus d'orange.||Tôi sẽ gọi nước cam.
+## 13|Nhà hàng|Au restaurant
+241|Je voudrais réserver deux personnes.||Tôi muốn đặt hai người.
+242|Je voudrais réserver ce soir.||Tôi muốn đặt tối nay.
+243|Je voudrais réserver une bouteille d'eau.||Tôi muốn đặt một chai nước.
+244|Je voudrais réserver notre table.||Tôi muốn đặt bàn của chúng tôi.
+245|La table pour deux personnes est-elle prête?||Bàn cho hai người đã sẵn sàng chưa?
+246|La table pour ce soir est-elle prête?||Bàn cho tối nay đã sẵn sàng chưa?
+247|La table pour une bouteille d'eau est-elle prête?||Bàn cho một chai nước đã sẵn sàng chưa?
+248|La table pour notre table est-elle prête?||Bàn cho bàn của chúng tôi đã sẵn sàng chưa?
+249|Pouvez-vous apporter deux personnes?||Bạn có thể mang hai người ra không?
+250|Pouvez-vous apporter ce soir?||Bạn có thể mang tối nay ra không?
+251|Pouvez-vous apporter une bouteille d'eau?||Bạn có thể mang một chai nước ra không?
+252|Pouvez-vous apporter notre table?||Bạn có thể mang bàn của chúng tôi ra không?
+253|Il manque deux personnes.||Thiếu hai người.
+254|Il manque ce soir.||Thiếu tối nay.
+255|Il manque une bouteille d'eau.||Thiếu một chai nước.
+256|Il manque notre table.||Thiếu bàn của chúng tôi.
+257|L'addition pour deux personnes, s'il vous plaît.||Làm ơn tính tiền cho hai người.
+258|L'addition pour ce soir, s'il vous plaît.||Làm ơn tính tiền cho tối nay.
+259|L'addition pour une bouteille d'eau, s'il vous plaît.||Làm ơn tính tiền cho một chai nước.
+260|L'addition pour notre table, s'il vous plaît.||Làm ơn tính tiền cho bàn của chúng tôi.
+## 14|Mua sắm|Achats
+261|Combien coûte cette chemise?||Chiếc áo sơ mi này giá bao nhiêu?
+262|Combien coûte ces chaussures?||Đôi giày này giá bao nhiêu?
+263|Combien coûte ce sac?||Cái túi này giá bao nhiêu?
+264|Combien coûte ce téléphone?||Chiếc điện thoại này giá bao nhiêu?
+265|Je cherche cette chemise.||Tôi đang tìm chiếc áo sơ mi này.
+266|Je cherche ces chaussures.||Tôi đang tìm đôi giày này.
+267|Je cherche ce sac.||Tôi đang tìm cái túi này.
+268|Je cherche ce téléphone.||Tôi đang tìm chiếc điện thoại này.
+269|Avez-vous cette chemise en promotion?||Bạn có khuyến mãi cho chiếc áo sơ mi này không?
+270|Avez-vous ces chaussures en promotion?||Bạn có khuyến mãi cho đôi giày này không?
+271|Avez-vous ce sac en promotion?||Bạn có khuyến mãi cho cái túi này không?
+272|Avez-vous ce téléphone en promotion?||Bạn có khuyến mãi cho chiếc điện thoại này không?
+273|Je vais prendre cette chemise.||Tôi sẽ lấy chiếc áo sơ mi này.
+274|Je vais prendre ces chaussures.||Tôi sẽ lấy đôi giày này.
+275|Je vais prendre ce sac.||Tôi sẽ lấy cái túi này.
+276|Je vais prendre ce téléphone.||Tôi sẽ lấy chiếc điện thoại này.
+277|Puis-je échanger cette chemise?||Tôi có thể đổi chiếc áo sơ mi này không?
+278|Puis-je échanger ces chaussures?||Tôi có thể đổi đôi giày này không?
+279|Puis-je échanger ce sac?||Tôi có thể đổi cái túi này không?
+280|Puis-je échanger ce téléphone?||Tôi có thể đổi chiếc điện thoại này không?
+## 15|Quần áo|Vêtements
+281|Je voudrais essayer ce pantalon.||Tôi muốn thử chiếc quần này.
+282|Je voudrais essayer cette robe.||Tôi muốn thử chiếc váy này.
+283|Je voudrais essayer cette veste.||Tôi muốn thử áo khoác này.
+284|Je voudrais essayer ce t-shirt.||Tôi muốn thử áo thun này.
+285|Ce pantalon est trop grand.||Chiếc quần này quá rộng.
+286|Cette robe est trop grand.||Chiếc váy này quá rộng.
+287|Cette veste est trop grand.||Áo khoác này quá rộng.
+288|Ce t-shirt est trop grand.||Áo thun này quá rộng.
+289|Ce pantalon est trop petit.||Chiếc quần này quá chật.
+290|Cette robe est trop petit.||Chiếc váy này quá chật.
+291|Cette veste est trop petit.||Áo khoác này quá chật.
+292|Ce t-shirt est trop petit.||Áo thun này quá chật.
+293|Avez-vous ce pantalon en noir?||Bạn có chiếc quần này màu đen không?
+294|Avez-vous cette robe en noir?||Bạn có chiếc váy này màu đen không?
+295|Avez-vous cette veste en noir?||Bạn có áo khoác này màu đen không?
+296|Avez-vous ce t-shirt en noir?||Bạn có áo thun này màu đen không?
+297|Je porte souvent ce pantalon.||Tôi thường mặc chiếc quần này.
+298|Je porte souvent cette robe.||Tôi thường mặc chiếc váy này.
+299|Je porte souvent cette veste.||Tôi thường mặc áo khoác này.
+300|Je porte souvent ce t-shirt.||Tôi thường mặc áo thun này.
+## 16|Tiền bạc & Thanh toán|Argent et paiement
+301|Je paie avec ma carte bancaire.||Tôi thanh toán bằng thẻ ngân hàng của tôi.
+302|Je paie avec de l'argent liquide.||Tôi thanh toán bằng tiền mặt.
+303|Je paie avec un reçu.||Tôi thanh toán bằng hóa đơn.
+304|Je paie avec cent euros.||Tôi thanh toán bằng một trăm euro.
+305|Acceptez-vous ma carte bancaire?||Bạn có nhận thẻ ngân hàng của tôi không?
+306|Acceptez-vous de l'argent liquide?||Bạn có nhận tiền mặt không?
+307|Acceptez-vous un reçu?||Bạn có nhận hóa đơn không?
+308|Acceptez-vous cent euros?||Bạn có nhận một trăm euro không?
+309|J'ai besoin de ma carte bancaire.||Tôi cần thẻ ngân hàng của tôi.
+310|J'ai besoin de de l'argent liquide.||Tôi cần tiền mặt.
+311|J'ai besoin de un reçu.||Tôi cần hóa đơn.
+312|J'ai besoin de cent euros.||Tôi cần một trăm euro.
+313|Pouvez-vous me donner ma carte bancaire?||Bạn có thể đưa tôi thẻ ngân hàng của tôi không?
+314|Pouvez-vous me donner de l'argent liquide?||Bạn có thể đưa tôi tiền mặt không?
+315|Pouvez-vous me donner un reçu?||Bạn có thể đưa tôi hóa đơn không?
+316|Pouvez-vous me donner cent euros?||Bạn có thể đưa tôi một trăm euro không?
+317|Je voudrais retirer ma carte bancaire.||Tôi muốn rút thẻ ngân hàng của tôi.
+318|Je voudrais retirer de l'argent liquide.||Tôi muốn rút tiền mặt.
+319|Je voudrais retirer un reçu.||Tôi muốn rút hóa đơn.
+320|Je voudrais retirer cent euros.||Tôi muốn rút một trăm euro.
+## 17|Đi lại trong thành phố|Transport urbain
+321|Où puis-je prendre le bus?||Tôi có thể bắt xe buýt ở đâu?
+322|Où puis-je prendre le métro?||Tôi có thể bắt tàu điện ngầm ở đâu?
+323|Où puis-je prendre le taxi?||Tôi có thể bắt taxi ở đâu?
+324|Où puis-je prendre le tramway?||Tôi có thể bắt tàu điện ở đâu?
+325|Je vais prendre le bus.||Tôi sẽ đi xe buýt.
+326|Je vais prendre le métro.||Tôi sẽ đi tàu điện ngầm.
+327|Je vais prendre le taxi.||Tôi sẽ đi taxi.
+328|Je vais prendre le tramway.||Tôi sẽ đi tàu điện.
+329|Combien coûte le billet pour le bus?||Vé cho xe buýt giá bao nhiêu?
+330|Combien coûte le billet pour le métro?||Vé cho tàu điện ngầm giá bao nhiêu?
+331|Combien coûte le billet pour le taxi?||Vé cho taxi giá bao nhiêu?
+332|Combien coûte le billet pour le tramway?||Vé cho tàu điện giá bao nhiêu?
+333|Est-ce que le bus va au centre-ville?||Xe buýt có đi vào trung tâm không?
+334|Est-ce que le métro va au centre-ville?||Tàu điện ngầm có đi vào trung tâm không?
+335|Est-ce que le taxi va au centre-ville?||Taxi có đi vào trung tâm không?
+336|Est-ce que le tramway va au centre-ville?||Tàu điện có đi vào trung tâm không?
+337|J'attends le bus.||Tôi đang chờ xe buýt.
+338|J'attends le métro.||Tôi đang chờ tàu điện ngầm.
+339|J'attends le taxi.||Tôi đang chờ taxi.
+340|J'attends le tramway.||Tôi đang chờ tàu điện.
+## 18|Hỏi đường|Demander son chemin
+341|Où est la gare?||Nhà ga ở đâu?
+342|Où est la banque?||Ngân hàng ở đâu?
+343|Où est l'hôtel?||Khách sạn ở đâu?
+344|Où est le musée?||Bảo tàng ở đâu?
+345|Comment aller à la gare?||Đi đến nhà ga như thế nào?
+346|Comment aller à la banque?||Đi đến ngân hàng như thế nào?
+347|Comment aller à l'hôtel?||Đi đến khách sạn như thế nào?
+348|Comment aller à le musée?||Đi đến bảo tàng như thế nào?
+349|Est-ce loin de la gare?||Có xa nhà ga không?
+350|Est-ce loin de la banque?||Có xa ngân hàng không?
+351|Est-ce loin de l'hôtel?||Có xa khách sạn không?
+352|Est-ce loin de le musée?||Có xa bảo tàng không?
+353|Tournez à droite après la gare.||Rẽ phải sau nhà ga.
+354|Tournez à droite après la banque.||Rẽ phải sau ngân hàng.
+355|Tournez à droite après l'hôtel.||Rẽ phải sau khách sạn.
+356|Tournez à droite après le musée.||Rẽ phải sau bảo tàng.
+357|Continuez tout droit jusqu'à la gare.||Đi thẳng đến nhà ga.
+358|Continuez tout droit jusqu'à la banque.||Đi thẳng đến ngân hàng.
+359|Continuez tout droit jusqu'à l'hôtel.||Đi thẳng đến khách sạn.
+360|Continuez tout droit jusqu'à le musée.||Đi thẳng đến bảo tàng.
+## 19|Du lịch|Voyage
+361|Je voyage avec mon passeport.||Tôi đi du lịch với hộ chiếu của tôi.
+362|Je voyage avec ma valise.||Tôi đi du lịch với vali của tôi.
+363|Je voyage avec mon billet.||Tôi đi du lịch với vé của tôi.
+364|Je voyage avec mon itinéraire.||Tôi đi du lịch với lịch trình của tôi.
+365|Je prépare mon passeport.||Tôi chuẩn bị hộ chiếu của tôi.
+366|Je prépare ma valise.||Tôi chuẩn bị vali của tôi.
+367|Je prépare mon billet.||Tôi chuẩn bị vé của tôi.
+368|Je prépare mon itinéraire.||Tôi chuẩn bị lịch trình của tôi.
+369|J'ai oublié mon passeport.||Tôi quên hộ chiếu của tôi.
+370|J'ai oublié ma valise.||Tôi quên vali của tôi.
+371|J'ai oublié mon billet.||Tôi quên vé của tôi.
+372|J'ai oublié mon itinéraire.||Tôi quên lịch trình của tôi.
+373|Je dois vérifier mon passeport.||Tôi phải kiểm tra hộ chiếu của tôi.
+374|Je dois vérifier ma valise.||Tôi phải kiểm tra vali của tôi.
+375|Je dois vérifier mon billet.||Tôi phải kiểm tra vé của tôi.
+376|Je dois vérifier mon itinéraire.||Tôi phải kiểm tra lịch trình của tôi.
+377|Je garde mon passeport dans mon sac.||Tôi giữ hộ chiếu của tôi trong túi.
+378|Je garde ma valise dans mon sac.||Tôi giữ vali của tôi trong túi.
+379|Je garde mon billet dans mon sac.||Tôi giữ vé của tôi trong túi.
+380|Je garde mon itinéraire dans mon sac.||Tôi giữ lịch trình của tôi trong túi.
+## 20|Sân bay|À l'aéroport
+381|Où est le comptoir pour Paris?||Quầy cho Paris ở đâu?
+382|Où est le comptoir pour mon bagage?||Quầy cho hành lý của tôi ở đâu?
+383|Où est le comptoir pour l'embarquement?||Quầy cho việc lên máy bay ở đâu?
+384|Où est le comptoir pour le contrôle de sécurité?||Quầy cho kiểm tra an ninh ở đâu?
+385|Je dois enregistrer Paris.||Tôi cần làm thủ tục cho Paris.
+386|Je dois enregistrer mon bagage.||Tôi cần làm thủ tục cho hành lý của tôi.
+387|Je dois enregistrer l'embarquement.||Tôi cần làm thủ tục cho việc lên máy bay.
+388|Je dois enregistrer le contrôle de sécurité.||Tôi cần làm thủ tục cho kiểm tra an ninh.
+389|Mon vol pour Paris est-il à l'heure?||Chuyến bay đến Paris của tôi có đúng giờ không?
+390|Mon vol pour mon bagage est-il à l'heure?||Chuyến bay đến hành lý của tôi của tôi có đúng giờ không?
+391|Mon vol pour l'embarquement est-il à l'heure?||Chuyến bay đến việc lên máy bay của tôi có đúng giờ không?
+392|Mon vol pour le contrôle de sécurité est-il à l'heure?||Chuyến bay đến kiểm tra an ninh của tôi có đúng giờ không?
+393|Je cherche la porte pour Paris.||Tôi đang tìm cổng cho Paris.
+394|Je cherche la porte pour mon bagage.||Tôi đang tìm cổng cho hành lý của tôi.
+395|Je cherche la porte pour l'embarquement.||Tôi đang tìm cổng cho việc lên máy bay.
+396|Je cherche la porte pour le contrôle de sécurité.||Tôi đang tìm cổng cho kiểm tra an ninh.
+397|Combien de temps avant Paris?||Còn bao lâu trước Paris?
+398|Combien de temps avant mon bagage?||Còn bao lâu trước hành lý của tôi?
+399|Combien de temps avant l'embarquement?||Còn bao lâu trước việc lên máy bay?
+400|Combien de temps avant le contrôle de sécurité?||Còn bao lâu trước kiểm tra an ninh?
+## 21|Khách sạn|À l'hôtel
+401|J'ai une réservation pour deux nuits.||Tôi có đặt phòng cho hai đêm.
+402|J'ai une réservation pour un grand lit.||Tôi có đặt phòng cho một giường lớn.
+403|J'ai une réservation pour des serviettes.||Tôi có đặt phòng cho khăn tắm.
+404|J'ai une réservation pour le petit déjeuner.||Tôi có đặt phòng cho bữa sáng.
+405|Je voudrais une chambre avec deux nuits.||Tôi muốn một phòng có hai đêm.
+406|Je voudrais une chambre avec un grand lit.||Tôi muốn một phòng có một giường lớn.
+407|Je voudrais une chambre avec des serviettes.||Tôi muốn một phòng có khăn tắm.
+408|Je voudrais une chambre avec le petit déjeuner.||Tôi muốn một phòng có bữa sáng.
+409|Pouvez-vous envoyer deux nuits?||Bạn có thể gửi hai đêm lên không?
+410|Pouvez-vous envoyer un grand lit?||Bạn có thể gửi một giường lớn lên không?
+411|Pouvez-vous envoyer des serviettes?||Bạn có thể gửi khăn tắm lên không?
+412|Pouvez-vous envoyer le petit déjeuner?||Bạn có thể gửi bữa sáng lên không?
+413|Il y a un problème avec deux nuits.||Có vấn đề với hai đêm.
+414|Il y a un problème avec un grand lit.||Có vấn đề với một giường lớn.
+415|Il y a un problème avec des serviettes.||Có vấn đề với khăn tắm.
+416|Il y a un problème avec le petit déjeuner.||Có vấn đề với bữa sáng.
+417|À quelle heure est deux nuits?||Hai đêm lúc mấy giờ?
+418|À quelle heure est un grand lit?||Một giường lớn lúc mấy giờ?
+419|À quelle heure est des serviettes?||Khăn tắm lúc mấy giờ?
+420|À quelle heure est le petit déjeuner?||Bữa sáng lúc mấy giờ?
+## 22|Công việc|Travail
+421|Je travaille sur ce projet.||Tôi đang làm về dự án này.
+422|Je travaille sur le rapport.||Tôi đang làm về báo cáo.
+423|Je travaille sur le budget.||Tôi đang làm về ngân sách.
+424|Je travaille sur le contrat.||Tôi đang làm về hợp đồng.
+425|Je dois terminer ce projet.||Tôi phải hoàn thành dự án này.
+426|Je dois terminer le rapport.||Tôi phải hoàn thành báo cáo.
+427|Je dois terminer le budget.||Tôi phải hoàn thành ngân sách.
+428|Je dois terminer le contrat.||Tôi phải hoàn thành hợp đồng.
+429|Pouvez-vous vérifier ce projet?||Bạn có thể kiểm tra dự án này không?
+430|Pouvez-vous vérifier le rapport?||Bạn có thể kiểm tra báo cáo không?
+431|Pouvez-vous vérifier le budget?||Bạn có thể kiểm tra ngân sách không?
+432|Pouvez-vous vérifier le contrat?||Bạn có thể kiểm tra hợp đồng không?
+433|Nous devons discuter de ce projet.||Chúng ta cần thảo luận về dự án này.
+434|Nous devons discuter de le rapport.||Chúng ta cần thảo luận về báo cáo.
+435|Nous devons discuter de le budget.||Chúng ta cần thảo luận về ngân sách.
+436|Nous devons discuter de le contrat.||Chúng ta cần thảo luận về hợp đồng.
+437|J'ai une question sur ce projet.||Tôi có câu hỏi về dự án này.
+438|J'ai une question sur le rapport.||Tôi có câu hỏi về báo cáo.
+439|J'ai une question sur le budget.||Tôi có câu hỏi về ngân sách.
+440|J'ai une question sur le contrat.||Tôi có câu hỏi về hợp đồng.
+## 23|Họp hành|Réunions
+441|La réunion commence à neuf heures.||Cuộc họp bắt đầu lúc chín giờ.
+442|La réunion commence à l'écran.||Cuộc họp bắt đầu lúc màn hình.
+443|La réunion commence à un point important.||Cuộc họp bắt đầu lúc một điểm quan trọng.
+444|La réunion commence à votre présentation.||Cuộc họp bắt đầu lúc bài trình bày của bạn.
+445|Pouvez-vous partager neuf heures?||Bạn có thể chia sẻ chín giờ không?
+446|Pouvez-vous partager l'écran?||Bạn có thể chia sẻ màn hình không?
+447|Pouvez-vous partager un point important?||Bạn có thể chia sẻ một điểm quan trọng không?
+448|Pouvez-vous partager votre présentation?||Bạn có thể chia sẻ bài trình bày của bạn không?
+449|Je voudrais ajouter neuf heures.||Tôi muốn thêm chín giờ.
+450|Je voudrais ajouter l'écran.||Tôi muốn thêm màn hình.
+451|Je voudrais ajouter un point important.||Tôi muốn thêm một điểm quan trọng.
+452|Je voudrais ajouter votre présentation.||Tôi muốn thêm bài trình bày của bạn.
+453|Nous allons parler de neuf heures.||Chúng ta sẽ nói về chín giờ.
+454|Nous allons parler de l'écran.||Chúng ta sẽ nói về màn hình.
+455|Nous allons parler de un point important.||Chúng ta sẽ nói về một điểm quan trọng.
+456|Nous allons parler de votre présentation.||Chúng ta sẽ nói về bài trình bày của bạn.
+457|Merci pour neuf heures.||Cảm ơn vì chín giờ.
+458|Merci pour l'écran.||Cảm ơn vì màn hình.
+459|Merci pour un point important.||Cảm ơn vì một điểm quan trọng.
+460|Merci pour votre présentation.||Cảm ơn vì bài trình bày của bạn.
+## 24|Học tập|Études
+461|J'étudie le français.||Tôi học tiếng Pháp.
+462|J'étudie la grammaire.||Tôi học ngữ pháp.
+463|J'étudie cet exercice.||Tôi học bài tập này.
+464|J'étudie l'examen.||Tôi học kỳ thi.
+465|Je révise le français.||Tôi ôn tiếng Pháp.
+466|Je révise la grammaire.||Tôi ôn ngữ pháp.
+467|Je révise cet exercice.||Tôi ôn bài tập này.
+468|Je révise l'examen.||Tôi ôn kỳ thi.
+469|Je ne comprends pas le français.||Tôi không hiểu tiếng Pháp.
+470|Je ne comprends pas la grammaire.||Tôi không hiểu ngữ pháp.
+471|Je ne comprends pas cet exercice.||Tôi không hiểu bài tập này.
+472|Je ne comprends pas l'examen.||Tôi không hiểu kỳ thi.
+473|Pouvez-vous expliquer le français?||Bạn có thể giải thích tiếng Pháp không?
+474|Pouvez-vous expliquer la grammaire?||Bạn có thể giải thích ngữ pháp không?
+475|Pouvez-vous expliquer cet exercice?||Bạn có thể giải thích bài tập này không?
+476|Pouvez-vous expliquer l'examen?||Bạn có thể giải thích kỳ thi không?
+477|J'ai réussi le français.||Tôi đã vượt qua tiếng Pháp.
+478|J'ai réussi la grammaire.||Tôi đã vượt qua ngữ pháp.
+479|J'ai réussi cet exercice.||Tôi đã vượt qua bài tập này.
+480|J'ai réussi l'examen.||Tôi đã vượt qua kỳ thi.
+## 25|Lớp học|En classe
+481|Puis-je poser une question sur la page dix?||Tôi có thể hỏi một câu về trang mười không?
+482|Puis-je poser une question sur cette phrase?||Tôi có thể hỏi một câu về câu này không?
+483|Puis-je poser une question sur la prononciation?||Tôi có thể hỏi một câu về phát âm không?
+484|Puis-je poser une question sur le dialogue?||Tôi có thể hỏi một câu về đoạn hội thoại không?
+485|Ouvrez votre livre à la page dix.||Mở sách của bạn ở trang mười.
+486|Ouvrez votre livre à cette phrase.||Mở sách của bạn ở câu này.
+487|Ouvrez votre livre à la prononciation.||Mở sách của bạn ở phát âm.
+488|Ouvrez votre livre à le dialogue.||Mở sách của bạn ở đoạn hội thoại.
+489|Écrivez la page dix.||Hãy viết trang mười.
+490|Écrivez cette phrase.||Hãy viết câu này.
+491|Écrivez la prononciation.||Hãy viết phát âm.
+492|Écrivez le dialogue.||Hãy viết đoạn hội thoại.
+493|Répétez la page dix, s'il vous plaît.||Làm ơn lặp lại trang mười.
+494|Répétez cette phrase, s'il vous plaît.||Làm ơn lặp lại câu này.
+495|Répétez la prononciation, s'il vous plaît.||Làm ơn lặp lại phát âm.
+496|Répétez le dialogue, s'il vous plaît.||Làm ơn lặp lại đoạn hội thoại.
+497|Nous allons pratiquer la page dix.||Chúng ta sẽ luyện trang mười.
+498|Nous allons pratiquer cette phrase.||Chúng ta sẽ luyện câu này.
+499|Nous allons pratiquer la prononciation.||Chúng ta sẽ luyện phát âm.
+500|Nous allons pratiquer le dialogue.||Chúng ta sẽ luyện đoạn hội thoại.
+## 26|Sức khỏe|Santé
+501|J'ai mal à la tête.||Tôi đau đầu.
+502|J'ai mal à la gorge.||Tôi đau cổ họng.
+503|J'ai mal à l'estomac.||Tôi đau dạ dày.
+504|J'ai mal à le dos.||Tôi đau lưng.
+505|Je dois consulter un médecin pour la tête.||Tôi cần đi khám bác sĩ vì đầu.
+506|Je dois consulter un médecin pour la gorge.||Tôi cần đi khám bác sĩ vì cổ họng.
+507|Je dois consulter un médecin pour l'estomac.||Tôi cần đi khám bác sĩ vì dạ dày.
+508|Je dois consulter un médecin pour le dos.||Tôi cần đi khám bác sĩ vì lưng.
+509|Depuis quand avez-vous mal à la tête?||Bạn đau đầu từ khi nào?
+510|Depuis quand avez-vous mal à la gorge?||Bạn đau cổ họng từ khi nào?
+511|Depuis quand avez-vous mal à l'estomac?||Bạn đau dạ dày từ khi nào?
+512|Depuis quand avez-vous mal à le dos?||Bạn đau lưng từ khi nào?
+513|Prenez ce médicament pour la tête.||Hãy uống thuốc này cho đầu.
+514|Prenez ce médicament pour la gorge.||Hãy uống thuốc này cho cổ họng.
+515|Prenez ce médicament pour l'estomac.||Hãy uống thuốc này cho dạ dày.
+516|Prenez ce médicament pour le dos.||Hãy uống thuốc này cho lưng.
+517|Je me repose à cause de la tête.||Tôi nghỉ ngơi vì đầu.
+518|Je me repose à cause de la gorge.||Tôi nghỉ ngơi vì cổ họng.
+519|Je me repose à cause de l'estomac.||Tôi nghỉ ngơi vì dạ dày.
+520|Je me repose à cause de le dos.||Tôi nghỉ ngơi vì lưng.
+## 27|Nhà thuốc|À la pharmacie
+521|Avez-vous quelque chose pour la toux?||Bạn có thuốc gì cho ho không?
+522|Avez-vous quelque chose pour la fièvre?||Bạn có thuốc gì cho sốt không?
+523|Avez-vous quelque chose pour le rhume?||Bạn có thuốc gì cho cảm lạnh không?
+524|Avez-vous quelque chose pour l'aspirine?||Bạn có thuốc gì cho aspirin không?
+525|Je cherche un médicament contre la toux.||Tôi tìm thuốc chống ho.
+526|Je cherche un médicament contre la fièvre.||Tôi tìm thuốc chống sốt.
+527|Je cherche un médicament contre le rhume.||Tôi tìm thuốc chống cảm lạnh.
+528|Je cherche un médicament contre l'aspirine.||Tôi tìm thuốc chống aspirin.
+529|Combien de fois par jour pour la toux?||Dùng cho ho mấy lần mỗi ngày?
+530|Combien de fois par jour pour la fièvre?||Dùng cho sốt mấy lần mỗi ngày?
+531|Combien de fois par jour pour le rhume?||Dùng cho cảm lạnh mấy lần mỗi ngày?
+532|Combien de fois par jour pour l'aspirine?||Dùng cho aspirin mấy lần mỗi ngày?
+533|Ce médicament est-il bon pour la toux?||Thuốc này có tốt cho ho không?
+534|Ce médicament est-il bon pour la fièvre?||Thuốc này có tốt cho sốt không?
+535|Ce médicament est-il bon pour le rhume?||Thuốc này có tốt cho cảm lạnh không?
+536|Ce médicament est-il bon pour l'aspirine?||Thuốc này có tốt cho aspirin không?
+537|Je suis allergique à la toux.||Tôi dị ứng với ho.
+538|Je suis allergique à la fièvre.||Tôi dị ứng với sốt.
+539|Je suis allergique à le rhume.||Tôi dị ứng với cảm lạnh.
+540|Je suis allergique à l'aspirine.||Tôi dị ứng với aspirin.
+## 28|Tình huống khẩn cấp|Urgences
+541|Appelez la police, s'il vous plaît.||Làm ơn gọi cảnh sát.
+542|Appelez une ambulance, s'il vous plaît.||Làm ơn gọi xe cứu thương.
+543|Appelez la sortie, s'il vous plaît.||Làm ơn gọi lối ra.
+544|Appelez le feu, s'il vous plaît.||Làm ơn gọi đám cháy.
+545|J'ai besoin de la police.||Tôi cần cảnh sát.
+546|J'ai besoin de une ambulance.||Tôi cần xe cứu thương.
+547|J'ai besoin de la sortie.||Tôi cần lối ra.
+548|J'ai besoin de le feu.||Tôi cần đám cháy.
+549|Où est la police?||Cảnh sát ở đâu?
+550|Où est une ambulance?||Xe cứu thương ở đâu?
+551|Où est la sortie?||Lối ra ở đâu?
+552|Où est le feu?||Đám cháy ở đâu?
+553|Il y a un problème avec la police.||Có vấn đề với cảnh sát.
+554|Il y a un problème avec une ambulance.||Có vấn đề với xe cứu thương.
+555|Il y a un problème avec la sortie.||Có vấn đề với lối ra.
+556|Il y a un problème avec le feu.||Có vấn đề với đám cháy.
+557|Ne touchez pas à la police.||Đừng chạm vào cảnh sát.
+558|Ne touchez pas à une ambulance.||Đừng chạm vào xe cứu thương.
+559|Ne touchez pas à la sortie.||Đừng chạm vào lối ra.
+560|Ne touchez pas à le feu.||Đừng chạm vào đám cháy.
+## 29|Điện thoại|Téléphone
+561|Je vais appeler ma mère.||Tôi sẽ gọi mẹ tôi.
+562|Je vais appeler plus tard.||Tôi sẽ gọi sau.
+563|Je vais appeler votre voix.||Tôi sẽ gọi giọng của bạn.
+564|Je vais appeler mon téléphone.||Tôi sẽ gọi điện thoại của tôi.
+565|Pouvez-vous rappeler ma mère?||Bạn có thể gọi lại mẹ tôi không?
+566|Pouvez-vous rappeler plus tard?||Bạn có thể gọi lại sau không?
+567|Pouvez-vous rappeler votre voix?||Bạn có thể gọi lại giọng của bạn không?
+568|Pouvez-vous rappeler mon téléphone?||Bạn có thể gọi lại điện thoại của tôi không?
+569|Je n'entends pas bien ma mère.||Tôi nghe mẹ tôi không rõ.
+570|Je n'entends pas bien plus tard.||Tôi nghe sau không rõ.
+571|Je n'entends pas bien votre voix.||Tôi nghe giọng của bạn không rõ.
+572|Je n'entends pas bien mon téléphone.||Tôi nghe điện thoại của tôi không rõ.
+573|Envoyez-moi ma mère.||Hãy gửi cho tôi mẹ tôi.
+574|Envoyez-moi plus tard.||Hãy gửi cho tôi sau.
+575|Envoyez-moi votre voix.||Hãy gửi cho tôi giọng của bạn.
+576|Envoyez-moi mon téléphone.||Hãy gửi cho tôi điện thoại của tôi.
+577|Je dois charger ma mère.||Tôi phải sạc mẹ tôi.
+578|Je dois charger plus tard.||Tôi phải sạc sau.
+579|Je dois charger votre voix.||Tôi phải sạc giọng của bạn.
+580|Je dois charger mon téléphone.||Tôi phải sạc điện thoại của tôi.
+## 30|Internet & Công nghệ|Internet et technologie
+581|Je n'arrive pas à ouvrir le site web.||Tôi không mở được trang web.
+582|Je n'arrive pas à ouvrir le fichier.||Tôi không mở được tệp.
+583|Je n'arrive pas à ouvrir mon mot de passe.||Tôi không mở được mật khẩu của tôi.
+584|Je n'arrive pas à ouvrir l'application.||Tôi không mở được ứng dụng.
+585|Pouvez-vous m'envoyer le site web?||Bạn có thể gửi cho tôi trang web không?
+586|Pouvez-vous m'envoyer le fichier?||Bạn có thể gửi cho tôi tệp không?
+587|Pouvez-vous m'envoyer mon mot de passe?||Bạn có thể gửi cho tôi mật khẩu của tôi không?
+588|Pouvez-vous m'envoyer l'application?||Bạn có thể gửi cho tôi ứng dụng không?
+589|J'ai oublié le site web.||Tôi quên trang web.
+590|J'ai oublié le fichier.||Tôi quên tệp.
+591|J'ai oublié mon mot de passe.||Tôi quên mật khẩu của tôi.
+592|J'ai oublié l'application.||Tôi quên ứng dụng.
+593|La connexion à le site web est lente.||Kết nối với trang web bị chậm.
+594|La connexion à le fichier est lente.||Kết nối với tệp bị chậm.
+595|La connexion à mon mot de passe est lente.||Kết nối với mật khẩu của tôi bị chậm.
+596|La connexion à l'application est lente.||Kết nối với ứng dụng bị chậm.
+597|Je dois mettre à jour le site web.||Tôi phải cập nhật trang web.
+598|Je dois mettre à jour le fichier.||Tôi phải cập nhật tệp.
+599|Je dois mettre à jour mon mot de passe.||Tôi phải cập nhật mật khẩu của tôi.
+600|Je dois mettre à jour l'application.||Tôi phải cập nhật ứng dụng.
+## 31|Cảm xúc|Émotions
+601|Je me sens heureux.||Tôi cảm thấy vui.
+602|Je me sens fatigué.||Tôi cảm thấy mệt.
+603|Je me sens inquiet.||Tôi cảm thấy lo lắng.
+604|Je me sens calme.||Tôi cảm thấy bình tĩnh.
+605|Pourquoi êtes-vous heureux?||Tại sao bạn vui?
+606|Pourquoi êtes-vous fatigué?||Tại sao bạn mệt?
+607|Pourquoi êtes-vous inquiet?||Tại sao bạn lo lắng?
+608|Pourquoi êtes-vous calme?||Tại sao bạn bình tĩnh?
+609|Je suis un peu heureux aujourd'hui.||Hôm nay tôi hơi vui.
+610|Je suis un peu fatigué aujourd'hui.||Hôm nay tôi hơi mệt.
+611|Je suis un peu inquiet aujourd'hui.||Hôm nay tôi hơi lo lắng.
+612|Je suis un peu calme aujourd'hui.||Hôm nay tôi hơi bình tĩnh.
+613|Cette nouvelle me rend heureux.||Tin này làm tôi vui.
+614|Cette nouvelle me rend fatigué.||Tin này làm tôi mệt.
+615|Cette nouvelle me rend inquiet.||Tin này làm tôi lo lắng.
+616|Cette nouvelle me rend calme.||Tin này làm tôi bình tĩnh.
+617|J'espère que vous serez heureux.||Tôi hy vọng bạn sẽ vui.
+618|J'espère que vous serez fatigué.||Tôi hy vọng bạn sẽ mệt.
+619|J'espère que vous serez inquiet.||Tôi hy vọng bạn sẽ lo lắng.
+620|J'espère que vous serez calme.||Tôi hy vọng bạn sẽ bình tĩnh.
+## 32|Sở thích|Loisirs
+621|J'aime la photographie.||Tôi thích nhiếp ảnh.
+622|J'aime la natation.||Tôi thích bơi lội.
+623|J'aime la cuisine.||Tôi thích nấu ăn.
+624|J'aime la guitare.||Tôi thích đàn guitar.
+625|Je fais la photographie le week-end.||Tôi làm nhiếp ảnh vào cuối tuần.
+626|Je fais la natation le week-end.||Tôi làm bơi lội vào cuối tuần.
+627|Je fais la cuisine le week-end.||Tôi làm nấu ăn vào cuối tuần.
+628|Je fais la guitare le week-end.||Tôi làm đàn guitar vào cuối tuần.
+629|Voulez-vous faire la photographie avec moi?||Bạn muốn làm nhiếp ảnh với tôi không?
+630|Voulez-vous faire la natation avec moi?||Bạn muốn làm bơi lội với tôi không?
+631|Voulez-vous faire la cuisine avec moi?||Bạn muốn làm nấu ăn với tôi không?
+632|Voulez-vous faire la guitare avec moi?||Bạn muốn làm đàn guitar với tôi không?
+633|Je suis débutant en la photographie.||Tôi là người mới trong nhiếp ảnh.
+634|Je suis débutant en la natation.||Tôi là người mới trong bơi lội.
+635|Je suis débutant en la cuisine.||Tôi là người mới trong nấu ăn.
+636|Je suis débutant en la guitare.||Tôi là người mới trong đàn guitar.
+637|Je voudrais apprendre la photographie.||Tôi muốn học nhiếp ảnh.
+638|Je voudrais apprendre la natation.||Tôi muốn học bơi lội.
+639|Je voudrais apprendre la cuisine.||Tôi muốn học nấu ăn.
+640|Je voudrais apprendre la guitare.||Tôi muốn học đàn guitar.
+## 33|Thể thao|Sport
+641|Je joue au football.||Tôi chơi bóng đá.
+642|Je joue au tennis.||Tôi chơi quần vợt.
+643|Je joue au basket.||Tôi chơi bóng rổ.
+644|Je joue au yoga.||Tôi chơi yoga.
+645|Je regarde un match de football.||Tôi xem một trận bóng đá.
+646|Je regarde un match de tennis.||Tôi xem một trận quần vợt.
+647|Je regarde un match de basket.||Tôi xem một trận bóng rổ.
+648|Je regarde un match de yoga.||Tôi xem một trận yoga.
+649|Je m'entraîne pour football.||Tôi tập luyện cho bóng đá.
+650|Je m'entraîne pour tennis.||Tôi tập luyện cho quần vợt.
+651|Je m'entraîne pour basket.||Tôi tập luyện cho bóng rổ.
+652|Je m'entraîne pour yoga.||Tôi tập luyện cho yoga.
+653|Avez-vous déjà essayé football?||Bạn đã từng thử bóng đá chưa?
+654|Avez-vous déjà essayé tennis?||Bạn đã từng thử quần vợt chưa?
+655|Avez-vous déjà essayé basket?||Bạn đã từng thử bóng rổ chưa?
+656|Avez-vous déjà essayé yoga?||Bạn đã từng thử yoga chưa?
+657|Je préfère football.||Tôi thích bóng đá hơn.
+658|Je préfère tennis.||Tôi thích quần vợt hơn.
+659|Je préfère basket.||Tôi thích bóng rổ hơn.
+660|Je préfère yoga.||Tôi thích yoga hơn.
+## 34|Giải trí|Divertissement
+661|Je veux regarder ce film.||Tôi muốn xem bộ phim này.
+662|Je veux regarder cette série.||Tôi muốn xem loạt phim này.
+663|Je veux regarder cette chanson.||Tôi muốn xem bài hát này.
+664|Je veux regarder ce spectacle.||Tôi muốn xem buổi biểu diễn này.
+665|As-tu aimé ce film?||Bạn có thích bộ phim này không?
+666|As-tu aimé cette série?||Bạn có thích loạt phim này không?
+667|As-tu aimé cette chanson?||Bạn có thích bài hát này không?
+668|As-tu aimé ce spectacle?||Bạn có thích buổi biểu diễn này không?
+669|Je recommande ce film.||Tôi đề xuất bộ phim này.
+670|Je recommande cette série.||Tôi đề xuất loạt phim này.
+671|Je recommande cette chanson.||Tôi đề xuất bài hát này.
+672|Je recommande ce spectacle.||Tôi đề xuất buổi biểu diễn này.
+673|Nous allons écouter ce film.||Chúng ta sẽ nghe bộ phim này.
+674|Nous allons écouter cette série.||Chúng ta sẽ nghe loạt phim này.
+675|Nous allons écouter cette chanson.||Chúng ta sẽ nghe bài hát này.
+676|Nous allons écouter ce spectacle.||Chúng ta sẽ nghe buổi biểu diễn này.
+677|Je n'ai pas encore vu ce film.||Tôi chưa xem bộ phim này.
+678|Je n'ai pas encore vu cette série.||Tôi chưa xem loạt phim này.
+679|Je n'ai pas encore vu cette chanson.||Tôi chưa xem bài hát này.
+680|Je n'ai pas encore vu ce spectacle.||Tôi chưa xem buổi biểu diễn này.
+## 35|Lời mời|Invitations
+681|Voulez-vous venir à la fête?||Bạn muốn đến bữa tiệc không?
+682|Voulez-vous venir à mon anniversaire?||Bạn muốn đến sinh nhật của tôi không?
+683|Voulez-vous venir à notre dîner?||Bạn muốn đến bữa tối của chúng ta không?
+684|Voulez-vous venir à la cérémonie?||Bạn muốn đến buổi lễ không?
+685|Je vous invite à la fête.||Tôi mời bạn đến bữa tiệc.
+686|Je vous invite à mon anniversaire.||Tôi mời bạn đến sinh nhật của tôi.
+687|Je vous invite à notre dîner.||Tôi mời bạn đến bữa tối của chúng ta.
+688|Je vous invite à la cérémonie.||Tôi mời bạn đến buổi lễ.
+689|Merci pour l'invitation à la fête.||Cảm ơn lời mời đến bữa tiệc.
+690|Merci pour l'invitation à mon anniversaire.||Cảm ơn lời mời đến sinh nhật của tôi.
+691|Merci pour l'invitation à notre dîner.||Cảm ơn lời mời đến bữa tối của chúng ta.
+692|Merci pour l'invitation à la cérémonie.||Cảm ơn lời mời đến buổi lễ.
+693|Je ne peux pas venir à la fête.||Tôi không thể đến bữa tiệc.
+694|Je ne peux pas venir à mon anniversaire.||Tôi không thể đến sinh nhật của tôi.
+695|Je ne peux pas venir à notre dîner.||Tôi không thể đến bữa tối của chúng ta.
+696|Je ne peux pas venir à la cérémonie.||Tôi không thể đến buổi lễ.
+697|À quelle heure commence la fête?||Bữa tiệc bắt đầu lúc mấy giờ?
+698|À quelle heure commence mon anniversaire?||Sinh nhật của tôi bắt đầu lúc mấy giờ?
+699|À quelle heure commence notre dîner?||Bữa tối của chúng ta bắt đầu lúc mấy giờ?
+700|À quelle heure commence la cérémonie?||Buổi lễ bắt đầu lúc mấy giờ?
+## 36|Kế hoạch|Projets et plans
+701|Je prévois de faire un voyage.||Tôi dự định làm một chuyến đi.
+702|Je prévois de faire une réunion.||Tôi dự định làm một cuộc họp.
+703|Je prévois de faire le programme.||Tôi dự định làm chương trình.
+704|Je prévois de faire la réservation.||Tôi dự định làm việc đặt chỗ.
+705|Nous allons organiser un voyage.||Chúng tôi sẽ tổ chức một chuyến đi.
+706|Nous allons organiser une réunion.||Chúng tôi sẽ tổ chức một cuộc họp.
+707|Nous allons organiser le programme.||Chúng tôi sẽ tổ chức chương trình.
+708|Nous allons organiser la réservation.||Chúng tôi sẽ tổ chức việc đặt chỗ.
+709|Il faut préparer un voyage.||Cần chuẩn bị một chuyến đi.
+710|Il faut préparer une réunion.||Cần chuẩn bị một cuộc họp.
+711|Il faut préparer le programme.||Cần chuẩn bị chương trình.
+712|Il faut préparer la réservation.||Cần chuẩn bị việc đặt chỗ.
+713|Je dois annuler un voyage.||Tôi phải hủy một chuyến đi.
+714|Je dois annuler une réunion.||Tôi phải hủy một cuộc họp.
+715|Je dois annuler le programme.||Tôi phải hủy chương trình.
+716|Je dois annuler la réservation.||Tôi phải hủy việc đặt chỗ.
+717|Je confirme un voyage.||Tôi xác nhận một chuyến đi.
+718|Je confirme une réunion.||Tôi xác nhận một cuộc họp.
+719|Je confirme le programme.||Tôi xác nhận chương trình.
+720|Je confirme la réservation.||Tôi xác nhận việc đặt chỗ.
+## 37|Ý kiến|Opinions
+721|Je pense que cette idée est important.||Tôi nghĩ ý tưởng này quan trọng.
+722|Je pense que votre opinion est important.||Tôi nghĩ ý kiến của bạn quan trọng.
+723|Je pense que cette solution est important.||Tôi nghĩ giải pháp này quan trọng.
+724|Je pense que ce choix est important.||Tôi nghĩ lựa chọn này quan trọng.
+725|À mon avis, cette idée est utile.||Theo ý tôi, ý tưởng này hữu ích.
+726|À mon avis, votre opinion est utile.||Theo ý tôi, ý kiến của bạn hữu ích.
+727|À mon avis, cette solution est utile.||Theo ý tôi, giải pháp này hữu ích.
+728|À mon avis, ce choix est utile.||Theo ý tôi, lựa chọn này hữu ích.
+729|Je ne suis pas d'accord avec cette idée.||Tôi không đồng ý với ý tưởng này.
+730|Je ne suis pas d'accord avec votre opinion.||Tôi không đồng ý với ý kiến của bạn.
+731|Je ne suis pas d'accord avec cette solution.||Tôi không đồng ý với giải pháp này.
+732|Je ne suis pas d'accord avec ce choix.||Tôi không đồng ý với lựa chọn này.
+733|Je comprends cette idée.||Tôi hiểu ý tưởng này.
+734|Je comprends votre opinion.||Tôi hiểu ý kiến của bạn.
+735|Je comprends cette solution.||Tôi hiểu giải pháp này.
+736|Je comprends ce choix.||Tôi hiểu lựa chọn này.
+737|Je préfère cette idée.||Tôi thích ý tưởng này hơn.
+738|Je préfère votre opinion.||Tôi thích ý kiến của bạn hơn.
+739|Je préfère cette solution.||Tôi thích giải pháp này hơn.
+740|Je préfère ce choix.||Tôi thích lựa chọn này hơn.
+## 38|Đồng ý & Từ chối|Accord et refus
+741|Oui, j'accepte votre proposition.||Vâng, tôi chấp nhận đề xuất của bạn.
+742|Oui, j'accepte cette date.||Vâng, tôi chấp nhận ngày này.
+743|Oui, j'accepte ce prix.||Vâng, tôi chấp nhận giá này.
+744|Oui, j'accepte cette invitation.||Vâng, tôi chấp nhận lời mời này.
+745|D'accord pour votre proposition.||Đồng ý về đề xuất của bạn.
+746|D'accord pour cette date.||Đồng ý về ngày này.
+747|D'accord pour ce prix.||Đồng ý về giá này.
+748|D'accord pour cette invitation.||Đồng ý về lời mời này.
+749|Je refuse poliment votre proposition.||Tôi lịch sự từ chối đề xuất của bạn.
+750|Je refuse poliment cette date.||Tôi lịch sự từ chối ngày này.
+751|Je refuse poliment ce prix.||Tôi lịch sự từ chối giá này.
+752|Je refuse poliment cette invitation.||Tôi lịch sự từ chối lời mời này.
+753|Je ne peux pas accepter votre proposition.||Tôi không thể chấp nhận đề xuất của bạn.
+754|Je ne peux pas accepter cette date.||Tôi không thể chấp nhận ngày này.
+755|Je ne peux pas accepter ce prix.||Tôi không thể chấp nhận giá này.
+756|Je ne peux pas accepter cette invitation.||Tôi không thể chấp nhận lời mời này.
+757|Réfléchissons encore à votre proposition.||Hãy suy nghĩ thêm về đề xuất của bạn.
+758|Réfléchissons encore à cette date.||Hãy suy nghĩ thêm về ngày này.
+759|Réfléchissons encore à ce prix.||Hãy suy nghĩ thêm về giá này.
+760|Réfléchissons encore à cette invitation.||Hãy suy nghĩ thêm về lời mời này.
+## 39|Yêu cầu & Nhờ vả|Demandes
+761|Pouvez-vous m'aider avec ce formulaire?||Bạn có thể giúp tôi với mẫu đơn này không?
+762|Pouvez-vous m'aider avec mes bagages?||Bạn có thể giúp tôi với hành lý của tôi không?
+763|Pouvez-vous m'aider avec la porte?||Bạn có thể giúp tôi với cửa không?
+764|Pouvez-vous m'aider avec ce dossier?||Bạn có thể giúp tôi với hồ sơ này không?
+765|J'ai besoin d'aide pour ce formulaire.||Tôi cần giúp đỡ về mẫu đơn này.
+766|J'ai besoin d'aide pour mes bagages.||Tôi cần giúp đỡ về hành lý của tôi.
+767|J'ai besoin d'aide pour la porte.||Tôi cần giúp đỡ về cửa.
+768|J'ai besoin d'aide pour ce dossier.||Tôi cần giúp đỡ về hồ sơ này.
+769|Pourriez-vous vérifier ce formulaire?||Bạn có thể kiểm tra mẫu đơn này không?
+770|Pourriez-vous vérifier mes bagages?||Bạn có thể kiểm tra hành lý của tôi không?
+771|Pourriez-vous vérifier la porte?||Bạn có thể kiểm tra cửa không?
+772|Pourriez-vous vérifier ce dossier?||Bạn có thể kiểm tra hồ sơ này không?
+773|Merci de préparer ce formulaire.||Cảm ơn bạn chuẩn bị mẫu đơn này.
+774|Merci de préparer mes bagages.||Cảm ơn bạn chuẩn bị hành lý của tôi.
+775|Merci de préparer la porte.||Cảm ơn bạn chuẩn bị cửa.
+776|Merci de préparer ce dossier.||Cảm ơn bạn chuẩn bị hồ sơ này.
+777|Je vous demande de garder ce formulaire.||Tôi nhờ bạn giữ mẫu đơn này.
+778|Je vous demande de garder mes bagages.||Tôi nhờ bạn giữ hành lý của tôi.
+779|Je vous demande de garder la porte.||Tôi nhờ bạn giữ cửa.
+780|Je vous demande de garder ce dossier.||Tôi nhờ bạn giữ hồ sơ này.
+## 40|Ở ngân hàng|À la banque
+781|Je voudrais ouvrir un compte.||Tôi muốn mở một tài khoản.
+782|Je voudrais ouvrir ma carte.||Tôi muốn mở thẻ của tôi.
+783|Je voudrais ouvrir ce document.||Tôi muốn mở tài liệu này.
+784|Je voudrais ouvrir ce bénéficiaire.||Tôi muốn mở người thụ hưởng này.
+785|Je voudrais fermer un compte.||Tôi muốn đóng một tài khoản.
+786|Je voudrais fermer ma carte.||Tôi muốn đóng thẻ của tôi.
+787|Je voudrais fermer ce document.||Tôi muốn đóng tài liệu này.
+788|Je voudrais fermer ce bénéficiaire.||Tôi muốn đóng người thụ hưởng này.
+789|Je dois signer un compte.||Tôi phải ký một tài khoản.
+790|Je dois signer ma carte.||Tôi phải ký thẻ của tôi.
+791|Je dois signer ce document.||Tôi phải ký tài liệu này.
+792|Je dois signer ce bénéficiaire.||Tôi phải ký người thụ hưởng này.
+793|Pouvez-vous vérifier un compte?||Bạn có thể kiểm tra một tài khoản không?
+794|Pouvez-vous vérifier ma carte?||Bạn có thể kiểm tra thẻ của tôi không?
+795|Pouvez-vous vérifier ce document?||Bạn có thể kiểm tra tài liệu này không?
+796|Pouvez-vous vérifier ce bénéficiaire?||Bạn có thể kiểm tra người thụ hưởng này không?
+797|Je veux transférer de l'argent vers un compte.||Tôi muốn chuyển tiền đến một tài khoản.
+798|Je veux transférer de l'argent vers ma carte.||Tôi muốn chuyển tiền đến thẻ của tôi.
+799|Je veux transférer de l'argent vers ce document.||Tôi muốn chuyển tiền đến tài liệu này.
+800|Je veux transférer de l'argent vers ce bénéficiaire.||Tôi muốn chuyển tiền đến người thụ hưởng này.
+## 41|Bưu điện & Giao hàng|Poste et livraison
+801|Je voudrais envoyer une lettre.||Tôi muốn gửi một lá thư.
+802|Je voudrais envoyer un colis.||Tôi muốn gửi một bưu kiện.
+803|Je voudrais envoyer ma commande.||Tôi muốn gửi đơn hàng của tôi.
+804|Je voudrais envoyer ce paquet.||Tôi muốn gửi gói hàng này.
+805|Combien coûte l'envoi de une lettre?||Gửi một lá thư tốn bao nhiêu?
+806|Combien coûte l'envoi de un colis?||Gửi một bưu kiện tốn bao nhiêu?
+807|Combien coûte l'envoi de ma commande?||Gửi đơn hàng của tôi tốn bao nhiêu?
+808|Combien coûte l'envoi de ce paquet?||Gửi gói hàng này tốn bao nhiêu?
+809|Quand arrivera une lettre?||Một lá thư sẽ đến khi nào?
+810|Quand arrivera un colis?||Một bưu kiện sẽ đến khi nào?
+811|Quand arrivera ma commande?||Đơn hàng của tôi sẽ đến khi nào?
+812|Quand arrivera ce paquet?||Gói hàng này sẽ đến khi nào?
+813|Je dois récupérer une lettre.||Tôi phải nhận một lá thư.
+814|Je dois récupérer un colis.||Tôi phải nhận một bưu kiện.
+815|Je dois récupérer ma commande.||Tôi phải nhận đơn hàng của tôi.
+816|Je dois récupérer ce paquet.||Tôi phải nhận gói hàng này.
+817|Voici le numéro de suivi pour une lettre.||Đây là mã theo dõi cho một lá thư.
+818|Voici le numéro de suivi pour un colis.||Đây là mã theo dõi cho một bưu kiện.
+819|Voici le numéro de suivi pour ma commande.||Đây là mã theo dõi cho đơn hàng của tôi.
+820|Voici le numéro de suivi pour ce paquet.||Đây là mã theo dõi cho gói hàng này.
+## 42|Thuê nhà|Location
+821|Je cherche un appartement.||Tôi đang tìm một căn hộ.
+822|Je cherche une chambre.||Tôi đang tìm một căn phòng.
+823|Je cherche ce studio.||Tôi đang tìm căn studio này.
+824|Je cherche la cuisine.||Tôi đang tìm nhà bếp.
+825|Le loyer pour un appartement est-il négociable?||Tiền thuê cho một căn hộ có thương lượng được không?
+826|Le loyer pour une chambre est-il négociable?||Tiền thuê cho một căn phòng có thương lượng được không?
+827|Le loyer pour ce studio est-il négociable?||Tiền thuê cho căn studio này có thương lượng được không?
+828|Le loyer pour la cuisine est-il négociable?||Tiền thuê cho nhà bếp có thương lượng được không?
+829|Puis-je visiter un appartement?||Tôi có thể xem một căn hộ không?
+830|Puis-je visiter une chambre?||Tôi có thể xem một căn phòng không?
+831|Puis-je visiter ce studio?||Tôi có thể xem căn studio này không?
+832|Puis-je visiter la cuisine?||Tôi có thể xem nhà bếp không?
+833|Je voudrais signer le contrat pour un appartement.||Tôi muốn ký hợp đồng cho một căn hộ.
+834|Je voudrais signer le contrat pour une chambre.||Tôi muốn ký hợp đồng cho một căn phòng.
+835|Je voudrais signer le contrat pour ce studio.||Tôi muốn ký hợp đồng cho căn studio này.
+836|Je voudrais signer le contrat pour la cuisine.||Tôi muốn ký hợp đồng cho nhà bếp.
+837|Il y a un problème dans un appartement.||Có vấn đề trong một căn hộ.
+838|Il y a un problème dans une chambre.||Có vấn đề trong một căn phòng.
+839|Il y a un problème dans ce studio.||Có vấn đề trong căn studio này.
+840|Il y a un problème dans la cuisine.||Có vấn đề trong nhà bếp.
+## 43|Dịch vụ & Sửa chữa|Services et réparations
+841|Pouvez-vous réparer la climatisation?||Bạn có thể sửa máy lạnh không?
+842|Pouvez-vous réparer la machine à laver?||Bạn có thể sửa máy giặt không?
+843|Pouvez-vous réparer le robinet?||Bạn có thể sửa vòi nước không?
+844|Pouvez-vous réparer l'ampoule?||Bạn có thể sửa bóng đèn không?
+845|Quand pouvez-vous venir pour la climatisation?||Khi nào bạn có thể đến để xử lý máy lạnh?
+846|Quand pouvez-vous venir pour la machine à laver?||Khi nào bạn có thể đến để xử lý máy giặt?
+847|Quand pouvez-vous venir pour le robinet?||Khi nào bạn có thể đến để xử lý vòi nước?
+848|Quand pouvez-vous venir pour l'ampoule?||Khi nào bạn có thể đến để xử lý bóng đèn?
+849|Combien coûte la réparation de la climatisation?||Sửa máy lạnh hết bao nhiêu?
+850|Combien coûte la réparation de la machine à laver?||Sửa máy giặt hết bao nhiêu?
+851|Combien coûte la réparation de le robinet?||Sửa vòi nước hết bao nhiêu?
+852|Combien coûte la réparation de l'ampoule?||Sửa bóng đèn hết bao nhiêu?
+853|La climatisation ne fonctionne pas.||Máy lạnh không hoạt động.
+854|La machine à laver ne fonctionne pas.||Máy giặt không hoạt động.
+855|Le robinet ne fonctionne pas.||Vòi nước không hoạt động.
+856|L'ampoule ne fonctionne pas.||Bóng đèn không hoạt động.
+857|Je voudrais remplacer la climatisation.||Tôi muốn thay máy lạnh.
+858|Je voudrais remplacer la machine à laver.||Tôi muốn thay máy giặt.
+859|Je voudrais remplacer le robinet.||Tôi muốn thay vòi nước.
+860|Je voudrais remplacer l'ampoule.||Tôi muốn thay bóng đèn.
+## 44|Màu sắc & Mô tả|Couleurs et descriptions
+861|Je cherche quelque chose de bleu.||Tôi đang tìm thứ gì đó màu xanh dương.
+862|Je cherche quelque chose de clair.||Tôi đang tìm thứ gì đó sáng.
+863|Je cherche quelque chose de grand.||Tôi đang tìm thứ gì đó lớn.
+864|Je cherche quelque chose de simple.||Tôi đang tìm thứ gì đó đơn giản.
+865|Cette couleur est trop bleu.||Màu này quá màu xanh dương.
+866|Cette couleur est trop clair.||Màu này quá sáng.
+867|Cette couleur est trop grand.||Màu này quá lớn.
+868|Cette couleur est trop simple.||Màu này quá đơn giản.
+869|Je préfère le modèle bleu.||Tôi thích mẫu màu xanh dương hơn.
+870|Je préfère le modèle clair.||Tôi thích mẫu sáng hơn.
+871|Je préfère le modèle grand.||Tôi thích mẫu lớn hơn.
+872|Je préfère le modèle simple.||Tôi thích mẫu đơn giản hơn.
+873|Avez-vous une taille plus bleu?||Bạn có cỡ màu xanh dương hơn không?
+874|Avez-vous une taille plus clair?||Bạn có cỡ sáng hơn không?
+875|Avez-vous une taille plus grand?||Bạn có cỡ lớn hơn không?
+876|Avez-vous une taille plus simple?||Bạn có cỡ đơn giản hơn không?
+877|Cela me semble bleu.||Tôi thấy cái đó màu xanh dương.
+878|Cela me semble clair.||Tôi thấy cái đó sáng.
+879|Cela me semble grand.||Tôi thấy cái đó lớn.
+880|Cela me semble simple.||Tôi thấy cái đó đơn giản.
+## 45|Số lượng & Đo lường|Quantités et mesures
+881|Je voudrais un kilo.||Tôi muốn một ký.
+882|Je voudrais deux bouteilles.||Tôi muốn hai chai.
+883|Je voudrais trois places.||Tôi muốn ba chỗ.
+884|Je voudrais un peu de sel.||Tôi muốn một chút muối.
+885|Il me faut un kilo.||Tôi cần một ký.
+886|Il me faut deux bouteilles.||Tôi cần hai chai.
+887|Il me faut trois places.||Tôi cần ba chỗ.
+888|Il me faut un peu de sel.||Tôi cần một chút muối.
+889|Ajoutez un kilo, s'il vous plaît.||Làm ơn thêm một ký.
+890|Ajoutez deux bouteilles, s'il vous plaît.||Làm ơn thêm hai chai.
+891|Ajoutez trois places, s'il vous plaît.||Làm ơn thêm ba chỗ.
+892|Ajoutez un peu de sel, s'il vous plaît.||Làm ơn thêm một chút muối.
+893|Enlevez un kilo, s'il vous plaît.||Làm ơn bớt một ký.
+894|Enlevez deux bouteilles, s'il vous plaît.||Làm ơn bớt hai chai.
+895|Enlevez trois places, s'il vous plaît.||Làm ơn bớt ba chỗ.
+896|Enlevez un peu de sel, s'il vous plaît.||Làm ơn bớt một chút muối.
+897|Nous avons seulement un kilo.||Chúng tôi chỉ có một ký.
+898|Nous avons seulement deux bouteilles.||Chúng tôi chỉ có hai chai.
+899|Nous avons seulement trois places.||Chúng tôi chỉ có ba chỗ.
+900|Nous avons seulement un peu de sel.||Chúng tôi chỉ có một chút muối.
+## 46|So sánh|Comparaisons
+901|Ce choix est meilleur.||Lựa chọn này tốt hơn.
+902|Cet hôtel est meilleur.||Khách sạn này tốt hơn.
+903|Ce chemin est meilleur.||Đường này tốt hơn.
+904|Cette méthode est meilleur.||Phương pháp này tốt hơn.
+905|Ce choix est plus cher.||Lựa chọn này đắt hơn.
+906|Cet hôtel est plus cher.||Khách sạn này đắt hơn.
+907|Ce chemin est plus cher.||Đường này đắt hơn.
+908|Cette méthode est plus cher.||Phương pháp này đắt hơn.
+909|Ce choix est moins loin.||Lựa chọn này ít xa hơn.
+910|Cet hôtel est moins loin.||Khách sạn này ít xa hơn.
+911|Ce chemin est moins loin.||Đường này ít xa hơn.
+912|Cette méthode est moins loin.||Phương pháp này ít xa hơn.
+913|Je trouve ce choix plus pratique.||Tôi thấy lựa chọn này tiện hơn.
+914|Je trouve cet hôtel plus pratique.||Tôi thấy khách sạn này tiện hơn.
+915|Je trouve ce chemin plus pratique.||Tôi thấy đường này tiện hơn.
+916|Je trouve cette méthode plus pratique.||Tôi thấy phương pháp này tiện hơn.
+917|Ce choix est aussi important.||Lựa chọn này cũng quan trọng.
+918|Cet hôtel est aussi important.||Khách sạn này cũng quan trọng.
+919|Ce chemin est aussi important.||Đường này cũng quan trọng.
+920|Cette méthode est aussi important.||Phương pháp này cũng quan trọng.
+## 47|Nguyên nhân & Kết quả|Causes et conséquences
+921|Je suis en retard à cause de la pluie.||Tôi đến muộn vì mưa.
+922|Je suis en retard à cause de votre aide.||Tôi đến muộn vì sự giúp đỡ của bạn.
+923|Je suis en retard à cause de le trafic.||Tôi đến muộn vì giao thông.
+924|Je suis en retard à cause de cette erreur.||Tôi đến muộn vì lỗi này.
+925|Grâce à la pluie, tout va mieux.||Nhờ mưa, mọi thứ tốt hơn.
+926|Grâce à votre aide, tout va mieux.||Nhờ sự giúp đỡ của bạn, mọi thứ tốt hơn.
+927|Grâce à le trafic, tout va mieux.||Nhờ giao thông, mọi thứ tốt hơn.
+928|Grâce à cette erreur, tout va mieux.||Nhờ lỗi này, mọi thứ tốt hơn.
+929|Nous devons changer le plan à cause de la pluie.||Chúng ta phải đổi kế hoạch vì mưa.
+930|Nous devons changer le plan à cause de votre aide.||Chúng ta phải đổi kế hoạch vì sự giúp đỡ của bạn.
+931|Nous devons changer le plan à cause de le trafic.||Chúng ta phải đổi kế hoạch vì giao thông.
+932|Nous devons changer le plan à cause de cette erreur.||Chúng ta phải đổi kế hoạch vì lỗi này.
+933|La pluie a causé un problème.||Mưa đã gây ra một vấn đề.
+934|Votre aide a causé un problème.||Sự giúp đỡ của bạn đã gây ra một vấn đề.
+935|Le trafic a causé un problème.||Giao thông đã gây ra một vấn đề.
+936|Cette erreur a causé un problème.||Lỗi này đã gây ra một vấn đề.
+937|Je suis content grâce à la pluie.||Tôi vui nhờ mưa.
+938|Je suis content grâce à votre aide.||Tôi vui nhờ sự giúp đỡ của bạn.
+939|Je suis content grâce à le trafic.||Tôi vui nhờ giao thông.
+940|Je suis content grâce à cette erreur.||Tôi vui nhờ lỗi này.
+## 48|Giải thích & Làm rõ|Explications
+941|Cela signifie la même chose.||Điều đó có nghĩa là cùng một điều.
+942|Cela signifie cette règle.||Điều đó có nghĩa là quy tắc này.
+943|Cela signifie ce mot.||Điều đó có nghĩa là từ này.
+944|Cela signifie plus simple.||Điều đó có nghĩa là đơn giản hơn.
+945|Pouvez-vous expliquer la même chose?||Bạn có thể giải thích cùng một điều không?
+946|Pouvez-vous expliquer cette règle?||Bạn có thể giải thích quy tắc này không?
+947|Pouvez-vous expliquer ce mot?||Bạn có thể giải thích từ này không?
+948|Pouvez-vous expliquer plus simple?||Bạn có thể giải thích đơn giản hơn không?
+949|Je veux dire la même chose.||Ý tôi là cùng một điều.
+950|Je veux dire cette règle.||Ý tôi là quy tắc này.
+951|Je veux dire ce mot.||Ý tôi là từ này.
+952|Je veux dire plus simple.||Ý tôi là đơn giản hơn.
+953|Je ne comprends pas la même chose.||Tôi không hiểu cùng một điều.
+954|Je ne comprends pas cette règle.||Tôi không hiểu quy tắc này.
+955|Je ne comprends pas ce mot.||Tôi không hiểu từ này.
+956|Je ne comprends pas plus simple.||Tôi không hiểu đơn giản hơn.
+957|En d'autres termes, c'est la même chose.||Nói cách khác, đó là cùng một điều.
+958|En d'autres termes, c'est cette règle.||Nói cách khác, đó là quy tắc này.
+959|En d'autres termes, c'est ce mot.||Nói cách khác, đó là từ này.
+960|En d'autres termes, c'est plus simple.||Nói cách khác, đó là đơn giản hơn.
+## 49|Tin nhắn & Email|Messages et e-mails
+961|Je vais envoyer un message.||Tôi sẽ gửi một tin nhắn.
+962|Je vais envoyer mon e-mail.||Tôi sẽ gửi email của tôi.
+963|Je vais envoyer le fichier.||Tôi sẽ gửi tệp.
+964|Je vais envoyer votre demande.||Tôi sẽ gửi yêu cầu của bạn.
+965|Avez-vous reçu un message?||Bạn đã nhận một tin nhắn chưa?
+966|Avez-vous reçu mon e-mail?||Bạn đã nhận email của tôi chưa?
+967|Avez-vous reçu le fichier?||Bạn đã nhận tệp chưa?
+968|Avez-vous reçu votre demande?||Bạn đã nhận yêu cầu của bạn chưa?
+969|Merci de répondre à un message.||Vui lòng trả lời một tin nhắn.
+970|Merci de répondre à mon e-mail.||Vui lòng trả lời email của tôi.
+971|Merci de répondre à le fichier.||Vui lòng trả lời tệp.
+972|Merci de répondre à votre demande.||Vui lòng trả lời yêu cầu của bạn.
+973|Je joins un message.||Tôi đính kèm một tin nhắn.
+974|Je joins mon e-mail.||Tôi đính kèm email của tôi.
+975|Je joins le fichier.||Tôi đính kèm tệp.
+976|Je joins votre demande.||Tôi đính kèm yêu cầu của bạn.
+977|Je vais transférer un message.||Tôi sẽ chuyển tiếp một tin nhắn.
+978|Je vais transférer mon e-mail.||Tôi sẽ chuyển tiếp email của tôi.
+979|Je vais transférer le fichier.||Tôi sẽ chuyển tiếp tệp.
+980|Je vais transférer votre demande.||Tôi sẽ chuyển tiếp yêu cầu của bạn.
+## 50|Tạm biệt & Kết thúc|Au revoir et clôture
+981|Au revoir!||Tạm biệt!
+982|À bientôt!||Hẹn sớm gặp lại!
+983|À demain!||Hẹn gặp ngày mai!
+984|À la prochaine!||Hẹn lần sau!
+985|Bonne journée!||Chúc một ngày tốt lành!
+986|Bonne soirée!||Chúc buổi tối vui vẻ!
+987|Bonne nuit!||Chúc ngủ ngon!
+988|Bon week-end!||Chúc cuối tuần vui vẻ!
+989|Bon voyage!||Chúc chuyến đi vui vẻ!
+990|Rentrez bien.||Về nhà an toàn nhé.
+991|Merci pour votre temps.||Cảm ơn bạn đã dành thời gian.
+992|Merci encore pour votre aide.||Cảm ơn một lần nữa vì sự giúp đỡ của bạn.
+993|J'espère vous revoir bientôt.||Tôi hy vọng sớm gặp lại bạn.
+994|On reste en contact.||Chúng ta giữ liên lạc nhé.
+995|Envoyez-moi un message quand vous arrivez.||Hãy nhắn cho tôi khi bạn đến nơi.
+996|Je vous appellerai plus tard.||Tôi sẽ gọi cho bạn sau.
+997|Prenez soin de vous.||Hãy giữ gìn sức khỏe.
+998|Passez une excellente journée.||Chúc bạn một ngày thật tuyệt.
+999|Ce fut un plaisir de vous parler.||Rất vui được nói chuyện với bạn.
+1000|À très bientôt.||Hẹn gặp lại thật sớm.

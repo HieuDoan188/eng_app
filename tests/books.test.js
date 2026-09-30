@@ -13,6 +13,7 @@ const SCRIPT = {
   ru: /[Ѐ-ӿ]/, // Cyrillic
   es: /[A-Za-zÁÉÍÓÚÑáéíóúñ]/, // Latin
   en: /[A-Za-z]/, // Latin
+  fr: /[A-Za-zÀ-ÿœŒ]/, // Latin
 };
 
 const loadGenerated = (id) => {
@@ -21,8 +22,8 @@ const loadGenerated = (id) => {
   return window.LT_BOOKS[0];
 };
 
-test('six books are registered, each with the metadata the app needs', () => {
-  assert.deepStrictEqual(BOOKS.map((b) => b.lang), ['ko', 'ja', 'zh-CN', 'ru', 'es', 'en']);
+test('seven books are registered, each with the metadata the app needs', () => {
+  assert.deepStrictEqual(BOOKS.map((b) => b.lang), ['ko', 'ja', 'zh-CN', 'ru', 'es', 'en', 'fr']);
   for (const b of BOOKS) {
     for (const f of ['id', 'title', 'language', 'flag', 'lang', 'ttsLang', 'meaningLang']) assert.ok(b[f], `${b.id}.${f}`);
   }

@@ -84,6 +84,18 @@ const BOOKS = [
     romLabel: null, // the book has no pronunciation column
     meaningLang: 'vi',
   },
+  {
+    id: 'french-1000',
+    raw: 'data/raw/french-1000.txt',
+    title: '1000 Câu Tiếng Pháp Thông Dụng Nhất',
+    subtitle: '1000 most common French sentences',
+    language: 'French',
+    flag: '🇫🇷',
+    lang: 'fr',
+    ttsLang: 'fr-FR',
+    romLabel: null, // the book has no pronunciation column
+    meaningLang: 'vi',
+  },
 ];
 
 function parseBook(text) {
