@@ -1,0 +1,1028 @@
+# Format: "## <chapter no>|<Vietnamese title>|<Japanese title>" starts a chapter;
+# each sentence line is "<no>|<Japanese>|<romaji>|<Vietnamese>".
+## 1|Chào hỏi & Giới thiệu|挨拶・自己紹介
+1|こんにちは。|Konnichiwa|Xin chào.
+2|おはようございます。|Ohayou gozaimasu|Chào buổi sáng.
+3|こんばんは。|Konbanwa|Chào buổi tối.
+4|おやすみなさい。|Oyasumi nasai|Chúc ngủ ngon.
+5|はじめまして。|Hajimemashite|Rất vui được gặp bạn.
+6|よろしくおねがいします。|Yoroshiku onegaishimasu|Rất mong được nhờ vả.
+7|おなまえは？|Onamae wa?|Tên bạn là gì?
+8|わたしの なまえは 〜です。|Watashi no namae wa ~desu|Tên tôi là ~.
+9|おげんきですか？|Ogenki desu ka?|Bạn có khỏe không?
+10|はい、げんきです。|Hai, genki desu|Vâng, tôi khỏe.
+11|どちらから いらっしゃいますか？|Dochira kara irasshaimasu ka?|Bạn đến từ đâu?
+12|ベトナムから きました。|Betonamu kara kimashita|Tôi đến từ Việt Nam.
+13|おひさしぶりです。|Ohisashiburi desu|Lâu rồi không gặp.
+14|いってきます。|Ittekimasu|Tôi đi đây nhé.
+15|いってらっしゃい。|Itterasshai|Đi cẩn thận nhé.
+16|ただいま。|Tadaima|Tôi về rồi.
+17|おかえりなさい。|Okaerinasai|Chào mừng bạn về nhà.
+18|しつれいします。|Shitsurei shimasu|Xin lỗi khi làm phiền.
+19|またね。|Mata ne|Gặp lại nhé.
+20|さようなら。|Sayounara|Tạm biệt.
+## 2|Lịch sự & Phép xã giao|礼儀
+21|ありがとうございます。|Arigatou gozaimasu|Cảm ơn bạn rất nhiều.
+22|どういたしまして。|Dou itashimashite|Không có gì.
+23|すみません。|Sumimasen|Xin lỗi / Xin phép.
+24|ごめんなさい。|Gomennasai|Tôi xin lỗi.
+25|もうしわけありません。|Moushiwake arimasen|Tôi thành thật xin lỗi.
+26|おねがいします。|Onegaishimasu|Làm ơn.
+27|はい。|Hai|Vâng.
+28|いいえ。|Iie|Không.
+29|そうですね。|Sou desu ne|Đúng vậy nhỉ.
+30|わかりました。|Wakarimashita|Tôi hiểu rồi.
+31|かしこまりました。|Kashikomarimashita|Vâng, tôi hiểu ạ (trang trọng).
+32|おさきにどうぞ。|Osaki ni douzo|Mời bạn đi trước.
+33|どうぞ。|Douzo|Mời bạn.
+34|おまたせしました。|Omatase shimashita|Xin lỗi đã để bạn chờ.
+35|たいへんおせわになりました。|Taihen osewa ni narimashita|Cảm ơn vì đã quan tâm.
+36|おじゃまします。|Ojama shimasu|Xin phép vào.
+37|いただきます。|Itadakimasu|Tôi xin phép dùng bữa.
+38|ごちそうさまでした。|Gochisousama deshita|Cảm ơn vì bữa ăn ngon.
+39|きをつけて。|Ki wo tsukete|Bảo trọng nhé.
+40|おだいじに。|Odaiji ni|Giữ gìn sức khỏe.
+## 3|Hỏi đường|道を聞く
+41|〜はどこですか？|~wa doko desu ka?|~ ở đâu?
+42|トイレはどこですか？|Toire wa doko desu ka?|Nhà vệ sinh ở đâu?
+43|まっすぐいってください。|Massugu itte kudasai|Đi thẳng.
+44|みぎにまがってください。|Migi ni magatte kudasai|Rẽ phải.
+45|ひだりにまがってください。|Hidari ni magatte kudasai|Rẽ trái.
+46|ちかいですか？|Chikai desu ka?|Gần không?
+47|とおいですか？|Tooi desu ka?|Xa không?
+48|ここはどこですか？|Koko wa doko desu ka?|Đây là ở đâu?
+49|まよってしまいました。|Mayotte shimaimashita|Tôi bị lạc rồi.
+50|ちかくに〜はありますか？|Chikaku ni ~wa arimasu ka?|Gần đây có ~ không?
+51|〜のとなりです。|~no tonari desu|Nó ở cạnh ~.
+52|〜のまえです。|~no mae desu|Nó ở phía trước ~.
+53|〜のうしろです。|~no ushiro desu|Nó ở phía sau ~.
+54|かどをまがって。|Kado wo magatte|Rẽ ở góc đường.
+55|〜ぷん あるきます。|~fun arukimasu|Đi bộ ~ phút.
+56|ちずをみせてもらえますか？|Chizu wo misete moraemasu ka?|Cho tôi xem bản đồ được không?
+57|あるいていけますか？|Aruite ikemasu ka?|Đi bộ được không?
+58|〜へのみちをおしえてください。|~e no michi wo oshiete kudasai|Chỉ đường đến ~ cho tôi.
+59|この じゅうしょへ いきたいのですが。|Kono juusho e ikitai no desu ga|Tôi muốn đến địa chỉ này.
+60|〜はここからどのくらいですか？|~wa koko kara dono kurai desu ka?|~ cách đây bao xa?
+## 4|Mua sắm|買い物
+61|これはいくらですか？|Kore wa ikura desu ka?|Cái này giá bao nhiêu?
+62|たかすぎます。|Takasugi masu|Đắt quá.
+63|もっとやすいものはありますか？|Motto yasui mono wa arimasu ka?|Có cái gì rẻ hơn không?
+64|これをください。|Kore wo kudasai|Tôi muốn cái này.
+65|ちがうサイズはありますか？|Chigau saizu wa arimasu ka?|Có kích cỡ khác không?
+66|しちゃくしてもいいですか？|Shichaku shite mo ii desu ka?|Tôi có thể thử không?
+67|クレジットカードはつかえますか？|Kurejitto kaado wa tsukaemasu ka?|Có thể dùng thẻ tín dụng không?
+68|レシートをください。|Reshiito wo kudasai|Làm ơn cho tôi hóa đơn.
+69|へんぴんしたいのですが。|Henpin shitai no desu ga|Tôi muốn trả hàng.
+70|ふくろはいりますか？|Fukuro wa irimasu ka?|Bạn có cần túi không?
+71|このいろはありますか？|Kono iro wa arimasu ka?|Màu này có không?
+72|わりびきしてもらえますか？|Waribiki shite moraemasu ka?|Bạn có thể giảm giá không?
+73|おつりをください。|Otsuri wo kudasai|Làm ơn trả tiền thừa.
+74|ざいこはありますか？|Zaiko wa arimasu ka?|Còn hàng không?
+75|セールはいつですか？|Seeru wa itsu desu ka?|Khi nào có bán hàng giảm giá?
+76|ギフトラップをおねがいします。|Gifuto rappu wo onegaishimasu|Gói quà tặng hộ tôi.
+77|めんぜいはできますか？|Menzei wa dekimasu ka?|Có miễn thuế không?
+78|まどぐちはどこですか？|Madoguchi wa doko desu ka?|Quầy thanh toán ở đâu?
+79|このねだんはさいごですか？|Kono nedan wa saigo desu ka?|Đây có phải giá cuối không?
+80|ほかのしなものはありますか？|Hoka no shinamono wa arimasu ka?|Có hàng khác không?
+## 5|Nhà hàng & Ăn uống|食事
+81|ふたりです。|Futari desu|Hai người.
+82|メニューをみせてください。|Menyuu wo misete kudasai|Cho tôi xem menu.
+83|ちゅうもんをおねがいします。|Chuumon wo onegaishimasu|Tôi muốn đặt món.
+84|おすすめはなんですか？|Osusume wa nan desu ka?|Bạn giới thiệu gì?
+85|からいですか？|Karai desu ka?|Có cay không?
+86|アレルギーがあります。|Arerugii ga arimasu|Tôi bị dị ứng.
+87|おかんじょうをおねがいします。|Okanjou wo onegaishimasu|Cho tôi hóa đơn.
+88|おいしかったです。|Oishikatta desu|Rất ngon.
+89|みずをください。|Mizu wo kudasai|Cho tôi nước.
+90|にくなしでおねがいします。|Niku nashi de onegaishimasu|Không có thịt.
+91|からくしないでください。|Karaku shinai de kudasai|Không làm cay.
+92|べつべつにおかんじょうをおねがいします。|Betsubetsu ni okanjou wo onegaishimasu|Thanh toán riêng.
+93|よやくしたいのですが。|Yoyaku shitai no desu ga|Tôi muốn đặt bàn.
+94|もちかえりはできますか？|Mochikaeri wa dekimasu ka?|Có thể mang về không?
+95|きょうのおすすめはなんですか？|Kyou no osusume wa nan desu ka?|Hôm nay có món đặc biệt gì?
+96|このりょうりはなんですか？|Kono ryouri wa nan desu ka?|Món này là gì?
+97|さらをください。|Sara wo kudasai|Cho tôi thêm đĩa.
+98|もうすこしまってください。|Mousukoshi matte kudasai|Chờ một chút.
+99|とてもおいしかったです。|Totemo oishikatta desu|Rất ngon.
+100|おひとりさまですか？|Ohitorisama desu ka?|Bạn ăn một mình?
+## 6|Giao thông & Du lịch|交通・旅行
+101|〜いきのきっぷをください。|~yuki no kippu wo kudasai|Cho tôi vé đến ~.
+102|でんしゃはなんじにでますか？|Densha wa nanji ni demasu ka?|Tàu xuất phát lúc mấy giờ?
+103|かたみちきっぷ。|Katamichi kippu|Vé một chiều.
+104|おうふくきっぷ。|Oufuku kippu|Vé khứ hồi.
+105|このせきはあいていますか？|Kono seki wa aite imasu ka?|Chỗ này có trống không?
+106|なんばんせんですか？|Nanban sen desu ka?|Sân ga số mấy?
+107|タクシーをよんでください。|Takushii wo yonde kudasai|Gọi taxi hộ tôi.
+108|このじゅうしょへいってください。|Kono juusho e itte kudasai|Đưa tôi đến địa chỉ này.
+109|りょうきんはいくらですか？|Ryoukin wa ikura desu ka?|Giá vé bao nhiêu?
+110|ひこうきにのりおくれました。|Hikouki ni nori okuremashita|Tôi lỡ máy bay.
+111|てにもつがみあたりません。|Nimotsu ga mitsukarimasen|Không tìm thấy hành lý.
+112|チェックインはどこですか？|Chekkuin wa doko desu ka?|Chỗ làm thủ tục ở đâu?
+113|のりかえはありますか？|Norikae wa arimasu ka?|Có phải chuyển tuyến không?
+114|まどがわのせきをおねがいします。|Madogawa no seki wo onegaishimasu|Tôi muốn ghế cạnh cửa sổ.
+115|どこでおりればいいですか？|Doko de orireba ii desu ka?|Tôi nên xuống ở đâu?
+116|ちょくせつびんはありますか？|Chokusetsu bin wa arimasu ka?|Có chuyến bay thẳng không?
+117|バスていはどこですか？|Basutei wa doko desu ka?|Trạm xe buýt ở đâu?
+118|つぎのえきは〜です。|Tsugi no eki wa ~desu|Ga tiếp theo là ~.
+119|このでんしゃは〜にとまりますか？|Kono densha wa ~ni tomarimasu ka?|Tàu này dừng ở ~ không?
+120|〜えきまでいくらですか？|~eki made ikura desu ka?|Đến ga ~ bao nhiêu tiền?
+## 7|Sức khỏe & Bệnh viện|健康・病院
+121|きぶんがわるいです。|Kibun ga warui desu|Tôi cảm thấy không khỏe.
+122|あたまがいたいです。|Atama ga itai desu|Tôi bị đau đầu.
+123|おなかがいたいです。|Onaka ga itai desu|Tôi bị đau bụng.
+124|ねつがあります。|Netsu ga arimasu|Tôi bị sốt.
+125|いしゃにみてもらいたいです。|Isha ni mite moraitai desu|Tôi muốn gặp bác sĩ.
+126|きゅうきゅうしゃをよんでください。|Kyuukyuusha wo yonde kudasai|Gọi xe cấp cứu.
+127|いたいです。|Itai desu|Tôi đau.
+128|このくすりにアレルギーがあります。|Kono kusuri ni arerugii ga arimasu|Tôi dị ứng thuốc này.
+129|いちにちなんかいのむのですか？|Ichinichi nankai nomu no desu ka?|Uống mấy lần một ngày?
+130|しょほうせんをかいてください。|Shohousen wo kaite kudasai|Làm ơn kê đơn thuốc.
+131|よやくをしたいのですが。|Yoyaku wo shitai no desu ga|Tôi muốn đặt lịch hẹn.
+132|いたいのはどこですか？|Itai no wa doko desu ka?|Đau ở đâu?
+133|ちゅうしゃがひつようですか？|Chuusha ga hitsuyou desu ka?|Có cần tiêm không?
+134|じゅうびょうですか？|Juubyou desu ka?|Có nghiêm trọng không?
+135|あしをけがしました。|Ashi wo kega shimashita|Tôi bị thương ở chân.
+136|のどがいたいです。|Nodo ga itai desu|Tôi đau họng.
+137|くすりをいちにちにかいのんでください。|Kusuri wo ichinichi ni kai nonde kudasai|Uống thuốc hai lần một ngày.
+138|すこしやすんでください。|Sukoshi yasunde kudasai|Hãy nghỉ ngơi một chút.
+139|にゅういんしなければなりません。|Nyuuin shinakereba narimasen|Phải nhập viện.
+140|はやくよくなってください。|Hayaku yoku natte kudasai|Mau khỏe lại nhé.
+## 8|Công việc & Văn phòng|仕事・オフィス
+141|かいぎはなんじからですか？|Kaigi wa nanji kara desu ka?|Cuộc họp bắt đầu lúc mấy giờ?
+142|ほうこくしょをおくってください。|Houkokusho wo okutte kudasai|Gửi báo cáo cho tôi.
+143|きょうはおくれます。|Kyou wa okuremasu|Hôm nay tôi đến muộn.
+144|しめきりはあしたです。|Shimekiri wa ashita desu|Hạn chót là ngày mai.
+145|よていをかえてもいいですか？|Yotei wo kaete mo ii desu ka?|Có thể đổi lịch không?
+146|やすみをとりたいです。|Yasumi wo toritai desu|Tôi muốn nghỉ.
+147|このしょるいをかくにんしてください。|Kono shorui wo kakunin shite kudasai|Kiểm tra tài liệu này.
+148|プリンターがこしょうしました。|Purintaa ga koshou shimashita|Máy in bị hỏng.
+149|きょうめんせつがあります。|Kyou mensetsu ga arimasu|Hôm nay tôi có phỏng vấn.
+150|きゅうりょうびはいつですか？|Kyuuryoubi wa itsu desu ka?|Ngày trả lương là khi nào?
+151|きょうはざいたくきんむできますか？|Kyou wa zaitaku kinmu dekimasu ka?|Hôm nay làm việc ở nhà được không?
+152|ここにサインをおねがいします。|Koko ni sain wo onegaishimasu|Ký vào đây.
+153|システムがダウンしています。|Shisutemu ga daun shite imasu|Hệ thống đang bị lỗi.
+154|もういちどせつめいしてもらえますか？|Mou ichido setsumei shite moraemasu ka?|Giải thích lại một lần được không?
+155|あとでれんらくします。|Ato de renraku shimasu|Tôi sẽ liên lạc sau.
+156|テレカンをせっていしましょう。|Terekan wo settei shimashou|Hãy thiết lập cuộc gọi hội nghị.
+157|このしごとにおうぼしたいです。|Kono shigoto ni oubo shitai desu|Tôi muốn ứng tuyển vào công việc này.
+158|CCにいれてください。|CC ni irete kudasai|Hãy CC cho tôi.
+159|プロジェクトはよていどおりです。|Purojekuto wa yoteidouri desu|Dự án đúng tiến độ.
+160|かいしゃにもどります。|Kaisha ni modorimasu|Tôi quay lại công ty.
+## 9|Học tập & Giáo dục|学習・教育
+161|もういちどいってください。|Mou ichido itte kudasai|Nói lại một lần nữa.
+162|わかりません。|Wakarimasen|Tôi không hiểu.
+163|もっとゆっくりはなしてください。|Motto yukkuri hanashite kudasai|Nói chậm hơn.
+164|どうよみますか？|Dou yomimasu ka?|Đọc như thế nào?
+165|このことばのいみはなんですか？|Kono kotoba no imi wa nan desu ka?|Từ này có nghĩa là gì?
+166|ペンをかしてもらえますか？|Pen wo kashite moraemasu ka?|Mượn bút được không?
+167|しけんはいつですか？|Shiken wa itsu desu ka?|Khi nào thi?
+168|もっとべんきょうしなければなりません。|Motto benkyou shinakereba narimasen|Phải học nhiều hơn.
+169|しゅくだいをてつだってください。|Shukudai wo tetsudatte kudasai|Giúp tôi làm bài tập.
+170|しけんにおちてしまいました。|Shiken ni ochite shimaimashita|Tôi trượt thi.
+171|ごうかくしました！|Goukaku shimashita!|Tôi đậu rồi!
+172|としょかんはどこですか？|Toshokan wa doko desu ka?|Thư viện ở đâu?
+173|ほんをかしてもらえますか？|Hon wo kashite moraemasu ka?|Mượn sách được không?
+174|しゅくだいをていしゅつしてください。|Shukudai wo teishutsu shite kudasai|Nộp bài tập.
+175|きょうはじゅぎょうがありません。|Kyou wa jugyou ga arimasen|Hôm nay không có lớp.
+176|けいざいをせんこうしています。|Keizai wo senkou shite imasu|Tôi học chuyên ngành kinh tế.
+177|がっきはいつはじまりますか？|Gakki wa itsu hajimarimasu ka?|Học kỳ bắt đầu khi nào?
+178|しょうがくきんにおうぼしたいです。|Shougakukin ni oubo shitai desu|Tôi muốn đăng ký học bổng.
+179|このへやはなんしょうですか？|Kono heya wa nanshou desu ka?|Phòng này là chương nào?
+180|これはしけんにでますか？|Kore wa shiken ni demasu ka?|Cái này có trong bài kiểm tra không?
+## 10|Điện thoại & Công nghệ|電話・テクノロジー
+181|でんわをかしてもらえますか？|Denwa wo kashite moraemasu ka?|Mượn điện thoại được không?
+182|けいたいのでんちがきれました。|Keitai no denchi ga kiremashita|Điện thoại hết pin.
+183|ここでじゅうでんできますか？|Koko de juuden dekimasu ka?|Sạc điện ở đây được không?
+184|Wi-Fiはありますか？|Wi-Fi wa arimasu ka?|Có Wi-Fi không?
+185|Wi-Fiのパスワードはなんですか？|Wi-Fi no pasuwaado wa nan desu ka?|Mật khẩu Wi-Fi là gì?
+186|パソコンがこしょうしました。|Pasokon ga koshou shimashita|Máy tính bị hỏng.
+187|メッセージをおくってください。|Messeeji wo okutte kudasai|Gửi tin nhắn.
+188|あとでかけなおします。|Ato de kakenao shimasu|Tôi sẽ gọi lại.
+189|きこえますか？|Kikoemasu ka?|Bạn có nghe thấy không?
+190|メールをおくります。|Meeru wo okurimasu|Tôi sẽ gửi email.
+191|インターネットがおそいです。|Intaanetto ga osoi desu|Internet chậm.
+192|パスワードをわすれました。|Pasuwaado wo wasuremashita|Tôi quên mật khẩu.
+193|どうやってダウンロードしますか？|Dou yatte daunroodo shimasu ka?|Tải về như thế nào?
+194|けいたいがかたまってしまいました。|Keitai ga katamatte shimaimashita|Điện thoại bị đơ.
+195|ビデオつうわできますか？|Bideo tsuuwa dekimasu ka?|Gọi video được không?
+196|プリンターがつながりません。|Purintaa ga tsunagarimasen|Máy in không kết nối được.
+197|ウェブサイトがひらけません。|Uebusaito ga hirakemasen|Không mở được trang web.
+198|このアプリをインストールできますか？|Kono apuri wo insutooru dekimasu ka?|Cài app này được không?
+199|でんぱがわるいです。|Denpa ga warui desu|Sóng kém.
+200|るすばんでんわにメッセージをのこしてください。|Rusuban denwa ni messeeji wo nokoshite kudasai|Để lại tin nhắn trên hộp thư thoại.
+## 11|Cảm xúc & Trạng thái|感情・状態
+201|うれしいです。|Ureshii desu|Tôi vui.
+202|かなしいです。|Kanashii desu|Tôi buồn.
+203|つかれました。|Tsukaremashita|Tôi mệt rồi.
+204|おなかがすきました。|Onaka ga sukimashita|Tôi đói rồi.
+205|のどがかわきました。|Nodo ga kawakimashita|Tôi khát rồi.
+206|たいくつです。|Taikutsu desu|Tôi chán.
+207|わくわくしています。|Wakuwaku shite imasu|Tôi đang hào hứng.
+208|きんちょうしています。|Kinchou shite imasu|Tôi hồi hộp.
+209|おこっています。|Okotte imasu|Tôi đang tức giận.
+210|こんわくしています。|Konwaku shite imasu|Tôi đang bối rối.
+211|おどろきました。|Odorokimashita|Tôi ngạc nhiên.
+212|がっかりしました。|Gakkari shimashita|Tôi thất vọng.
+213|かんしゃしています。|Kansha shite imasu|Tôi biết ơn.
+214|あなたをほこりにおもいます。|Anata wo hokori ni omoimasu|Tôi tự hào về bạn.
+215|さびしいです。|Sabishii desu|Tôi cô đơn.
+216|きょうはとてもいいきぶんです。|Kyou wa totemo ii kibun desu|Hôm nay tôi cảm thấy rất tốt.
+217|ストレスがたまっています。|Sutoresu ga tamatte imasu|Tôi đang bị căng thẳng.
+218|きもちがいいです。|Kimochi ga ii desu|Cảm giác tốt.
+219|しんぱいしています。|Shinpai shite imasu|Tôi đang lo lắng.
+220|わらいがとまりません。|Warai ga tomarimasen|Tôi không nhịn cười được.
+## 12|Thời tiết|天気
+221|きょうのてんきはどうですか？|Kyou no tenki wa dou desu ka?|Thời tiết hôm nay thế nào?
+222|はれています。|Harete imasu|Trời nắng.
+223|あめがふっています。|Ame ga futte imasu|Đang mưa.
+224|きょうはとてもさむいです。|Kyou wa totemo samui desu|Hôm nay rất lạnh.
+225|むしあついです。|Mushiatsui desu|Nóng và ẩm.
+226|たいふうがきます。|Taifuu ga kimasu|Có bão đến.
+227|あしたはあめですか？|Ashita wa ame desu ka?|Ngày mai có mưa không?
+228|ゆきがふっています。|Yuki ga futte imasu|Đang có tuyết rơi.
+229|かさをもっていってください。|Kasa wo motte itte kudasai|Mang ô theo.
+230|いいてんきですね。|Ii tenki desu ne|Thời tiết đẹp nhỉ.
+231|かぜがふいています。|Kaze ga fuite imasu|Trời có gió.
+232|きりがこいです。|Kiri ga koi desu|Sương mù dày.
+233|とてもさむいです。|Totemo samui desu|Rất lạnh.
+234|きょうのきおんはなんどですか？|Kyou no kion wa nando desu ka?|Nhiệt độ hôm nay là bao nhiêu?
+235|にじがでています。|Niji ga dete imasu|Có cầu vồng.
+236|てんきよほうでは〜です。|Tenkiyohou de wa ~desu|Dự báo thời tiết nói ~.
+237|そらがくもっています。|Sora ga kumotte imasu|Trời âm u.
+238|はれのちくもり。|Hare nochi kumori|Nắng rồi mây.
+239|ゆきがつもっています。|Yuki ga tsumotte imasu|Tuyết đang tích tụ.
+240|いいひになりますように。|Ii hi ni narimasu you ni|Chúc một ngày tốt lành.
+## 13|Các chủ đề tiếp theo|その他の話題
+241|きょうだいはいますか？|Kyoudai wa imasu ka?|Bạn có anh chị em không?
+242|おとうとがふたりいます。|Otouto ga futari imasu|Tôi có hai em trai.
+243|けっこんしていますか？|Kekkon shite imasu ka?|Bạn đã kết hôn chưa?
+244|どくしんです。|Dokushin desu|Tôi còn độc thân.
+245|こどもはなんにんいますか？|Kodomo wa nannin imasu ka?|Bạn có mấy con?
+246|りょうしんはたいしょくしました。|Ryoushin wa taishoku shimashita|Bố mẹ tôi đã về hưu.
+247|かぞくがなつかしいです。|Kazoku ga natsukashii desu|Tôi nhớ gia đình.
+248|らいねんけっこんします。|Rainen kekkon shimasu|Năm sau chúng tôi kết hôn.
+249|かのじょはわたしのガールフレンドです。|Kanojo wa watashi no gaarufurendo desu|Cô ấy là bạn gái tôi.
+250|かれはわたしのおっとです。|Kare wa watashi no otto desu|Anh ấy là chồng tôi.
+251|わたしたちはきょうつうてんがおおいです。|Watashitachi wa kyoutsuten ga ooi desu|Chúng tôi có nhiều điểm chung.
+252|ハノイでそだちました。|Hanoi de sodachimashita|Tôi lớn lên ở Hà Nội.
+253|そぼはとしをとっています。|Sobo wa toshi wo totte imasu|Bà tôi rất cao tuổi.
+254|わたしたちはしんゆうです。|Watashitachi wa shinyuu desu|Chúng tôi là bạn thân.
+255|わかれました。|Wakaremashita|Chúng tôi chia tay.
+256|あかちゃんをたいきしています。|Akachan wo taiki shite imasu|Họ đang chờ đón em bé.
+257|むすこはいつつです。|Musuko wa itsutsu desu|Con trai tôi năm tuổi.
+258|ひとりっこです。|Hitorikko desu|Tôi là con một.
+259|かぞくがいちばんです。|Kazoku ga ichiban desu|Gia đình là trên hết.
+260|かのじょはわたしのしまいのようです。|Kanojo wa watashi no shimai no you desu|Cô ấy như chị em của tôi.
+261|ひまなとき、なにをしますか？|Hima na toki, nani wo shimasu ka?|Rảnh bạn làm gì?
+262|ほんをよむのがすきです。|Hon wo yomu no ga suki desu|Tôi thích đọc sách.
+263|おんがくをきくのがだいすきです。|Ongaku wo kiku no ga daisuki desu|Tôi rất thích nghe nhạc.
+264|スポーツをしますか？|Supootsu wo shimasu ka?|Bạn có chơi thể thao không?
+265|まいあさジョギングします。|Maiasa jogingu shimasu|Tôi chạy bộ mỗi sáng.
+266|えいがをみるのがすきです。|Eiga wo miru no ga suki desu|Tôi thích xem phim.
+267|りょうりをならっています。|Ryouri wo naratte imasu|Tôi đang học nấu ăn.
+268|りょこうがすきです。|Ryokou ga suki desu|Tôi thích du lịch.
+269|ギターをひきます。|Gitaa wo hikimasu|Tôi chơi đàn guitar.
+270|えをかくのがすきです。|E wo kaku no ga suki desu|Tôi thích vẽ.
+271|しゅうにさんかいヨガをします。|Shuu ni sankai yooga wo shimasu|Tôi tập yoga ba lần một tuần.
+272|サッカーのおおきなファンです。|Sakkaa no ooki na fan desu|Tôi là fan lớn của bóng đá.
+273|しぜんのなかをハイキングするのがすきです。|Shizen no naka wo haikingu suru no ga suki desu|Tôi thích đi bộ trong tự nhiên.
+274|ゲームによくじかんをつかいます。|Geemu ni yoku jikan wo tsukaimasu|Tôi dành nhiều thời gian chơi game.
+275|きってをあつめています。|Kitte wo atsumete imasu|Tôi sưu tập tem.
+276|しゃしんをとるのがすきです。|Shashin wo toru no ga suki desu|Tôi thích chụp ảnh.
+277|まいしゅうまつにおよぎます。|Maishuu matsu ni oyogimasu|Tôi bơi mỗi cuối tuần.
+278|ダンスのクラスにかよっています。|Dansu no kurasu ni kayotte imasu|Tôi học lớp nhảy.
+279|にわいじりがすきです。|Niwaijiri ga suki desu|Tôi thích làm vườn.
+280|ボランティアがすきです。|Borantia ga suki desu|Tôi thích tình nguyện.
+281|こんばんひまですか？|Konban hima desu ka?|Tối nay bạn rảnh không?
+282|しょくじにいきませんか？|Shokuji ni ikimasen ka?|Đi ăn tối không?
+283|しちじにあいましょう。|Shichiji ni aimashou|Gặp nhau lúc bảy giờ nhé.
+284|どこであいましょうか？|Doko de aimashou ka?|Gặp nhau ở đâu nhé?
+285|じっぷんでつきます。|Juppun de tsukimasu|Mười phút nữa đến.
+286|あしたにしませんか？|Ashita ni shimasen ka?|Chuyển sang ngày mai được không?
+287|すみません、いけません。|Sumimasen, ikemasen|Xin lỗi, tôi không đến được.
+288|えいがをみにいきましょう。|Eiga wo mi ni ikimashou|Đi xem phim nhé.
+289|いつがつごうがいいですか？|Itsu ga tsugo ga ii desu ka?|Khi nào tiện cho bạn?
+290|はちじにむかえにいきます。|Hachiji ni mukae ni ikimasu|Tôi đón bạn lúc tám giờ.
+291|おそくならないでね。|Osoku naranai de ne|Đừng đến muộn nhé.
+292|コーヒーでものみませんか？|Koohii demo nomimasen ka?|Đi uống cà phê không?
+293|パーティーにきますか？|Paatii ni kimasu ka?|Bạn có đến bữa tiệc không?
+294|あとで合流します。|Ato de gouryu shimasu|Tôi đến sau.
+295|よるのはちじからです。|Yoru no hachiji kara desu|Bắt đầu lúc tám giờ tối.
+296|もうよていがあります。|Mou yotei ga arimasu|Tôi đã có kế hoạch rồi.
+297|らいしゅうにしましょう。|Raishuu ni shimashou|Để tuần sau nhé.
+298|いいですね！|Ii desu ne!|Nghe hay đó!
+299|たのしみにしています。|Tanoshimi ni shite imasu|Tôi rất mong đợi.
+300|それじゃあ、またね！|Soreja, mata ne!|Vậy thì, hẹn gặp lại!
+## 14|Ý kiến & Quan điểm|意見・考え
+301|わたしのいけんでは。|Watashi no iken dewa|Theo ý kiến của tôi.
+302|〜とおもいます。|~to omoimasu|Tôi nghĩ rằng ~.
+303|どういします。|Doui shimasu|Tôi đồng ý.
+304|どういしません。|Doui shimasen|Tôi không đồng ý.
+305|いいてんですね。|Ii ten desu ne|Điểm tốt đó.
+306|おっしゃるとおりです。|Ossharu toori desu|Đúng như bạn nói.
+307|それはどうかな。|Sore wa dou ka na|Điều đó liệu có đúng không nhỉ.
+308|かんがえてみます。|Kangaete mimasu|Để tôi suy nghĩ.
+309|それはりにかなっています。|Sore wa ri ni kanatte imasu|Điều đó có lý.
+310|まったくどういします。|Mattaku doui shimasu|Tôi hoàn toàn đồng ý.
+311|しょうじきにいうと。|Shoujiki ni iu to|Thành thật mà nói.
+312|わたしのかんてんからは。|Watashi no kanten kara wa|Theo góc nhìn của tôi.
+313|それはひとそれぞれです。|Sore wa hito sorezore desu|Điều đó tùy từng người.
+314|いちがいにはいえません。|Ichigai ni wa iemasen|Không thể nói đơn giản như vậy.
+315|いいろんですね。|Ii ron desu ne|Lập luận tốt nhỉ.
+316|そういうかんがえかたはしたことがなかったです。|Sou iu kangaekata wa shita koto ga nakatta desu|Tôi chưa nghĩ theo cách đó.
+317|これについてどうおもいますか？|Kore ni tsuite dou omoimasu ka?|Bạn nghĩ gì về điều này?
+318|もうすこしかんがえさせてください。|Mou sukoshi kangaesasete kudasai|Cho tôi suy nghĩ thêm.
+319|〜とかんがえます。|~to kangaemasu|Tôi cho rằng ~.
+320|それはおかしいとおもいます。|Sore wa okashii to omoimasu|Tôi nghĩ điều đó sai.
+## 15|Khẩn cấp & An toàn|緊急・安全
+321|たすけて！|Tasukete!|Cứu tôi với!
+322|けいさつをよんでください！|Keisatsu wo yonde kudasai!|Gọi cảnh sát!
+323|じこがありました。|Jiko ga arimashita|Đã xảy ra tai nạn.
+324|けがをしたひとはいますか？|Kega wo shita hito wa imasu ka?|Có ai bị thương không?
+325|すぐにたすけがひつようです。|Sugu ni tasuke ga hitsuyou desu|Tôi cần giúp đỡ ngay.
+326|うごかないでください！|Ugokanai de kudasai!|Đừng cử động!
+327|あぶない！|Abunai!|Nguy hiểm!
+328|すりにあいました。|Suri ni aimashita|Tôi bị móc túi.
+329|さいふをなくしました。|Saifu wo nakushimashita|Tôi mất ví.
+330|パスポートがぬすまれました。|Pasupooto ga nusumaremashita|Hộ chiếu bị đánh cắp.
+331|かじだ！|Kaji da!|Cháy!
+332|たてものからでてください！|Tatemono kara dete kudasai!|Thoát khỏi tòa nhà!
+333|ひじょうぐちはどこですか？|Hijouguchi wa doko desu ka?|Lối thoát khẩn cấp ở đâu?
+334|たいしかんにれんらくしなければなりません。|Taishikan ni renraku shinakereba narimasen|Tôi phải liên hệ đại sứ quán.
+335|おちついてください。|Ochitsuite kudasai|Bình tĩnh lại.
+336|じこにあいました。|Jiko ni aimashita|Tôi vừa gặp tai nạn.
+337|ここにおいしゃさんはいますか？|Koko ni oishasan wa imasu ka?|Ở đây có bác sĩ không?
+338|たすけをよんでもらえますか？|Tasuke wo yonde moraemasu ka?|Gọi giúp đỡ được không?
+339|あわてないでください。|Awatenai de kudasai|Đừng hoảng loạn.
+340|あのひとからはなれてください。|Ano hito kara hanarete kudasai|Tránh xa người đó.
+## 16|Thời gian & Lịch|時間・カレンダー
+341|いまなんじですか？|Ima nanji desu ka?|Bây giờ là mấy giờ?
+342|さんじです。|Sanji desu|Ba giờ.
+343|きょうはなんようびですか？|Kyou wa nanyoubi desu ka?|Hôm nay là thứ mấy?
+344|きょうはげつようびです。|Kyou wa getsuyoubi desu|Hôm nay là thứ Hai.
+345|きょうはなんにちですか？|Kyou wa nannichi desu ka?|Hôm nay là ngày mấy?
+346|しがつじゅうごにちです。|Shigatsu juugonichi desu|Ngày mười lăm tháng Tư.
+347|らいしゅうまたあいましょう。|Raishuu mata aimashou|Tuần sau gặp lại nhé.
+348|いちじかんごにかいぎがあります。|Ichijikan go ni kaigi ga arimasu|Một tiếng nữa có cuộc họp.
+349|すぐもどります。|Sugu modorimasu|Tôi sẽ quay lại ngay.
+350|1995ねんにうまれました。|1995 nen ni umaremashita|Tôi sinh năm 1995.
+351|もうすぐまよなかです。|Mousugu mayonaka desu|Gần nửa đêm rồi.
+352|みせはくじにあきます。|Mise wa kuji ni akimasu|Cửa hàng mở lúc chín giờ.
+353|ひるまでにいきます。|Hiru made ni ikimasu|Đến trước buổi trưa.
+354|はやいちょうにあえますか？|Hayai asa ni aemasu ka?|Có thể gặp sáng sớm không?
+355|きょねんのことです。|Kyonen no koto desu|Chuyện năm ngoái.
+356|きょうじゅうにおわらせます。|Kyoujuu ni owarasemasu|Hoàn thành trong hôm nay.
+357|じかんはたっぷりあります。|Jikan wa tappuri arimasu|Thời gian rất dư dả.
+358|じかんはたつのがはやいですね。|Jikan wa tatsu no ga hayai desu ne|Thời gian trôi nhanh nhỉ.
+359|おくれています。|Okurete imasu|Tôi đang trễ.
+360|じかんどおりにきてください。|Jikan doori ni kite kudasai|Hãy đến đúng giờ.
+## 17|Nhà ở & Ngân hàng|住居・銀行
+361|ちんたいですか、じたくですか？|Chintai desu ka, jitaku desu ka?|Bạn thuê hay sở hữu nhà?
+362|やちんはいくらですか？|Yachin wa ikura desu ka?|Tiền thuê nhà là bao nhiêu?
+363|かぐつきですか？|Kagu tsuki desu ka?|Có nội thất không?
+364|ルームメイトをさがしています。|Ruumumeito wo sagashite imasu|Tôi đang tìm người ở chung.
+365|だんぼうがこわれています。|Danbou ga kowarete imasu|Máy sưởi bị hỏng.
+366|なんかいですか？|Nankai desu ka?|Ở tầng mấy?
+367|ちゅうしゃじょうはついていますか？|Chuushajou wa tsuite imasu ka?|Có chỗ đỗ xe không?
+368|パイプからみずがもれています。|Paipu kara mizu ga morete imasu|Ống nước đang rò rỉ.
+369|しんしつはいくつありますか？|Shinshitsu wa ikutsu arimasu ka?|Có mấy phòng ngủ?
+370|このきんじょはしずかです。|Kono kinjo wa shizuka desu|Khu phố này yên tĩnh.
+371|こうざをひらきたいです。|Kouza wo hirakitai desu|Tôi muốn mở tài khoản.
+372|おかねをふりこみたいです。|Okane wo furikomi tai desu|Tôi muốn chuyển tiền.
+373|ざんだかをしりたいです。|Zandaka wo shiritai desu|Tôi muốn biết số dư.
+374|げんきんをひきだしたいです。|Genkin wo hikidashitai desu|Tôi muốn rút tiền.
+375|いちばんちかいATMはどこですか？|Ichiban chikai ATM wa doko desu ka?|ATM gần nhất ở đâu?
+376|カードがつかえませんでした。|Kaado ga tsukaemasen deshita|Thẻ bị từ chối.
+377|かわせレートはいくらですか？|Kawase reeto wa ikura desu ka?|Tỷ giá là bao nhiêu?
+378|ぶんかつばらいできますか？|Bunkatsu barai dekimasu ka?|Có thể trả góp không?
+379|きんりはいくらですか？|Kinri wa ikura desu ka?|Lãi suất là bao nhiêu?
+380|てすりょうはかかりますか？|Tesuuryou wa kakarimasu ka?|Có phí giao dịch không?
+## 18|Ăn uống & Sở thích bổ sung|食事・趣味（追加）
+381|おなかがぺこぺこです。|Onaka ga pekopeko desu|Tôi đói lắm rồi.
+382|これはとてもおいしいです。|Kore wa totemo oishii desu|Cái này rất ngon.
+383|にくはたべません。|Niku wa tabemasen|Tôi không ăn thịt.
+384|このりょうりにはなにがはいっていますか？|Kono ryouri ni wa nani ga haitte imasu ka?|Món này có những gì?
+385|からいものがすきです。|Karai mono ga suki desu|Tôi thích đồ ăn cay.
+386|しおからすぎます。|Shiokarasugi masu|Mặn quá.
+387|さとうをいただけますか？|Satou wo itadakemasu ka?|Cho tôi đường.
+388|コーヒーをいっぱいください。|Koohii wo ippai kudasai|Cho tôi một tách cà phê.
+389|ダイエット中です。|Daietto chuu desu|Tôi đang ăn kiêng.
+390|いっしょにばんごはんをつくりましょう。|Issho ni bangohan wo tsukurimashou|Cùng nhau nấu bữa tối nhé.
+391|このえいがをみましたか？|Kono eiga wo mimashita ka?|Bạn xem phim này chưa?
+392|どんなおんがくがすきですか？|Donna ongaku ga suki desu ka?|Bạn thích thể loại nhạc gì?
+393|コンサートはすばらしかったです。|Konsaato wa subarashikatta desu|Buổi hòa nhạc thật tuyệt vời.
+394|すきなテレビばんぐみはなんですか？|Suki na terebi bangumi wa nan desu ka?|Chương trình TV yêu thích là gì?
+395|けつまつはよそうがいでした。|Ketsumatsu wa yosougai deshita|Kết thúc thật bất ngờ.
+396|まいにちポッドキャストをきいています。|Mainichi poddokyasuto wo kiite imasu|Tôi nghe podcast mỗi ngày.
+397|このうたがあたまからはなれません。|Kono uta ga atama kara hanare masen|Bài hát này cứ vang trong đầu.
+398|サッカーをしましょう。|Sakkaa wo shimashou|Chơi bóng đá nào.
+399|まいにちジムにいっています。|Mainichi jimu ni itte imasu|Tôi đi gym mỗi ngày.
+400|あきらめないで！|Akirame nai de!|Đừng bỏ cuộc!
+## 19|Diễn đạt hàng ngày|日常表現
+401|ほんとうに？|Hontou ni?|Thật sao?
+402|うそでしょ！|Uso desho!|Không thể nào!
+403|じょうだんでしょ？|Joudan desho?|Bạn đùa à?
+404|すごい！|Sugoi!|Tuyệt vời!
+405|ひどいですね。|Hidoi desu ne|Thật tệ nhỉ.
+406|よくできました！|Yoku dekimashita!|Làm tốt lắm!
+407|がんばって！|Ganbatte!|Cố gắng lên!
+408|おきをつけて！|Oki wo tsukete!|Bảo trọng!
+409|よいいちにちを！|Yoi ichinichi wo!|Chúc một ngày tốt lành!
+410|あなたもね！|Anata mo ne!|Bạn cũng vậy nhé!
+411|それはりにかなっています。|Sore wa ri ni kanatte imasu|Điều đó có lý.
+412|きにしないでください。|Ki ni shinai de kudasai|Đừng bận tâm.
+413|もちろんです。|Mochiron desu|Dĩ nhiên.
+414|りょうかいです。|Ryoukai desu|Hiểu rồi.
+415|おまかせください。|Omakase kudasai|Hãy để tôi lo.
+416|それはむずかしいですね。|Sore wa muzukashii desu ne|Cái đó khó nhỉ.
+417|なんとかなります。|Nantoka narimasu|Sẽ ổn thôi.
+418|だいじょうぶです。|Daijoubu desu|Không sao.
+419|きっとうまくいきます。|Kitto umaku ikimasu|Nhất định sẽ ổn.
+420|ゆっくりかんがえましょう。|Yukkuri kangaemashou|Hãy suy nghĩ từ từ.
+## 20|Câu diễn đạt nâng cao|上級表現
+421|じんせいはながいたびです。|Jinsei wa nagai tabi desu|Cuộc đời là một chuyến hành trình dài.
+422|いのちはみじかいです、たのしみましょう。|Inochi wa mijikai desu, tanoshimimashou|Cuộc sống ngắn ngủi, hãy tận hưởng.
+423|すべてにはりゆうがあります。|Subete ni wa riyuu ga arimasu|Mọi thứ đều có lý do.
+424|まなびつづけましょう。|Manabi tsudzukemashou|Hãy tiếp tục học hỏi.
+425|ひとにやさしくしましょう。|Hito ni yasashiku shimashou|Hãy tử tế với người khác.
+426|こうどうはことばよりもゆうべんです。|Koudou wa kotoba yori mo yuuben desu|Hành động hùng hồn hơn lời nói.
+427|しっぱいはせいこうのもとです。|Shippai wa seikou no moto desu|Thất bại là mẹ thành công.
+428|じぶんがされたいようにひとにしなさい。|Jibun ga saretai you ni hito ni shinasai|Đối xử với người như bạn muốn được đối xử.
+429|しあわせはえらぶものです。|Shiawase wa erabu mono desu|Hạnh phúc là một lựa chọn.
+430|いちごいちえ。|Ichigo ichie|Mỗi khoảnh khắc chỉ xảy ra một lần.
+431|このせつめいでわかりましたか？|Kono setsumei de wakarimashita ka?|Với giải thích này bạn hiểu chưa?
+432|もっとくわしくおしえてもらえますか？|Motto kuwashiku oshiete moraemasu ka?|Giải thích chi tiết hơn được không?
+433|れいをあげるとすると。|Rei wo ageru to suru to|Nếu đưa ra ví dụ.
+434|つまり〜ということです。|Tsumari ~to iu koto desu|Nghĩa là ~.
+435|べつのいいかたをすると。|Betsu no iikata wo suru to|Nói theo cách khác.
+436|ようするに。|You suru ni|Tóm lại.
+437|ほかにつけたしたいことがあります。|Hoka ni tsuketashi tai koto ga arimasu|Tôi muốn thêm điều này.
+438|せつめいになりましたか？|Setsumei ni narimashita ka?|Giải thích có rõ không?
+439|ほかにしつもんはありますか？|Hoka ni shitsumon wa arimasu ka?|Có câu hỏi nào khác không?
+440|いじょうです。|Ijou desu|Hết rồi. / Đó là tất cả.
+## 21|Văn hóa & Nhật Bản|文化・日本
+441|にほんのぶんかがすきです。|Nihon no bunka ga suki desu|Tôi thích văn hóa Nhật.
+442|さくらはきれいですね。|Sakura wa kirei desu ne|Hoa anh đào đẹp nhỉ.
+443|おすしがだいすきです。|Osushi ga daisuki desu|Tôi rất thích sushi.
+444|ラーメンはおいしいです。|Raamen wa oishii desu|Ramen rất ngon.
+445|にほんのでんしゃはじかんどおりです。|Nihon no densha wa jikan doori desu|Tàu điện Nhật đúng giờ.
+446|このまちはとてもきれいです。|Kono machi wa totemo kirei desu|Thành phố này rất sạch đẹp.
+447|にほんじんはとてもれいぎただしいです。|Nihonjin wa totemo reigi tadashii desu|Người Nhật rất lịch sự.
+448|おまつりはたのしかったです。|Omatsuri wa tanoshikatta desu|Lễ hội thật vui.
+449|にほんりょうりはとてもおいしいです。|Nihon ryouri wa totemo oishii desu|Ẩm thực Nhật rất ngon.
+450|はなびがすきです。|Hanabi ga suki desu|Tôi thích pháo hoa.
+451|おんせんにはいってみたいです。|Onsen ni haitte mitai desu|Tôi muốn thử tắm suối nước nóng.
+452|ふじさんにのぼりたいです。|Fujisan ni nobori tai desu|Tôi muốn leo núi Phú Sĩ.
+453|きょうとはこじんてきにすきなまちです。|Kyouto wa kojinteki ni suki na machi desu|Kyoto là thành phố tôi yêu thích nhất.
+454|コンビニはほんとうにべんりです。|Konbini wa hontou ni benri desu|Cửa hàng tiện lợi thực sự tiện lợi.
+455|にほんじんはやさしいです。|Nihonjin wa yasashii desu|Người Nhật rất tốt bụng.
+456|おもてなしのこころがすきです。|Omotenashi no kokoro ga suki desu|Tôi thích tinh thần hiếu khách của Nhật.
+457|にほんのしきはうつくしいです。|Nihon no shiki wa utsukushii desu|Bốn mùa của Nhật thật đẹp.
+458|にほんのよいところはたくさんあります。|Nihon no yoi tokoro wa takusan arimasu|Nhật Bản có nhiều điều tốt đẹp.
+459|また にほんに きたいです。|Mata Nihon ni kitai desu|Tôi muốn đến Nhật lần nữa.
+460|にほんにはじめてきました。|Nihon ni hajimete kimashita|Tôi đến Nhật lần đầu tiên.
+## 22|Học tiếng Nhật|日本語学習
+461|にほんごをべんきょうしています。|Nihongo wo benkyou shite imasu|Tôi đang học tiếng Nhật.
+462|にほんごはむずかしいですが、おもしろいです。|Nihongo wa muzukashii desu ga, omoshiroi desu|Tiếng Nhật khó nhưng thú vị.
+463|もっとれんしゅうしなければなりません。|Motto renshuu shinakereba narimasen|Phải luyện tập nhiều hơn.
+464|かんじをいくつしっていますか？|Kanji wo ikutsu shitte imasu ka?|Bạn biết bao nhiêu chữ kanji?
+465|JLPT にちょうせんしています。|JLPT ni chousen shite imasu|Tôi đang thách thức kỳ thi JLPT.
+466|にほんごのドラマでべんきょうします。|Nihongo no dorama de benkyou shimasu|Tôi học bằng cách xem phim Nhật.
+467|アニメがすきでにほんごをはじめました。|Anime ga suki de nihongo wo hajimemashita|Tôi bắt đầu học tiếng Nhật vì thích anime.
+468|まんがをにほんごでよめるようになりました。|Manga wo nihongo de yomeru you ni narimashita|Tôi đọc được manga bằng tiếng Nhật rồi.
+469|にほんじんのともだちをつくりたいです。|Nihonjin no tomodachi wo tsukuritai desu|Tôi muốn kết bạn với người Nhật.
+470|ランゲージエクスチェンジをしています。|Rangeeji ekusuchieenji wo shite imasu|Tôi đang trao đổi ngôn ngữ.
+471|まちがえることをおそれません。|Machigaeru koto wo osore masen|Tôi không sợ mắc lỗi.
+472|はずかしがらずにはなしましょう。|Hazukashigarazu ni hanashimashou|Hãy nói mà đừng ngại ngùng.
+473|ちいさなまえしんでもいいです。|Chiisa na maeshin demo ii desu|Tiến bộ nhỏ cũng tốt.
+474|きのうよりもすこしうまくなりました。|Kinou yori mo sukoshi umaku narimashita|Tôi tốt hơn một chút so với hôm qua.
+475|にほんごはむずかしいですが、あきらめません。|Nihongo wa muzukashii desu ga, akirame masen|Tiếng Nhật khó nhưng tôi không bỏ cuộc.
+476|つたわることがだいじです。|Tsutawaru koto ga daiji desu|Điều quan trọng là truyền đạt được.
+477|すこしずつじょうずになっています。|Sukoshi zutsu jouzu ni natte imasu|Đang dần dần tiến bộ.
+478|ネイティブスピーカーとはなしたいです。|Neitibu supiikaa to hanashitai desu|Tôi muốn nói chuyện với người bản ngữ.
+479|にほんごのくらすにかよっています。|Nihongo no kurasu ni kayotte imasu|Tôi đang theo lớp học tiếng Nhật.
+480|まいにちあたらしいことばをひとつおぼえます。|Mainichi atarashii kotoba wo hitotsu oboemasu|Mỗi ngày học một từ mới.
+## 23|Cảm xúc & Triết lý|感情・哲学
+481|じぶんをしんじて。|Jibun wo shinjite|Hãy tin vào bản thân.
+482|あなたならできます。|Anata nara dekimasu|Bạn nhất định làm được.
+483|あきらめないで、もうすこしです。|Akirame nai de, mousukoshi desu|Đừng bỏ cuộc, chỉ còn một chút nữa.
+484|しっぱいをこわがらない。|Shippai wo kowagara nai|Không sợ thất bại.
+485|まいにちがあたらしいはじまりです。|Mainichi ga atarashii hajimari desu|Mỗi ngày là một khởi đầu mới.
+486|いまのあなたで じゅうぶんです。|Ima no anata de juubun desu|Bạn hiện tại là đủ rồi.
+487|あなたはひとりじゃない。|Anata wa hitori janai|Bạn không cô đơn.
+488|そのままのあなたがすきです。|Sono mama no anata ga suki desu|Tôi thích bạn như bạn vốn là.
+489|じぶんのよさをみつけましょう。|Jibun no yosa wo mitsukemashou|Hãy tìm ra điểm tốt của bản thân.
+490|だれもがとくべつなそんざいです。|Dare mo ga tokubetsu na sonzai desu|Mỗi người đều là sự tồn tại đặc biệt.
+491|えがおをわすれずに。|Egao wo wasurezu ni|Đừng quên nụ cười.
+492|いのちをたいせつに。|Inochi wo taisetsu ni|Hãy trân trọng sinh mệnh.
+493|やさしいせかいをつくりましょう。|Yasashii sekai wo tsukurimashou|Hãy cùng tạo ra một thế giới tử tế.
+494|ちいさなこうどうがせかいをかえる。|Chiisana koudou ga sekai wo kaeru|Hành động nhỏ thay đổi thế giới.
+495|みんなでいっしょに。|Minna de issho ni|Tất cả cùng nhau.
+496|あしたもいいひになりますように。|Ashita mo ii hi ni narimasu you ni|Mong ngày mai cũng là ngày tốt lành.
+497|ゆめのつづきはあした。|Yume no tsuzuki wa ashita|Tiếp nối giấc mơ vào ngày mai.
+498|ことばはこころのかがみです。|Kotoba wa kokoro no kagami desu|Ngôn ngữ là gương phản chiếu tâm hồn.
+499|にほんごでゆめをかなえます。|Nihongo de yume wo kanaemasu|Tôi sẽ thực hiện ước mơ bằng tiếng Nhật.
+500|いつまでもまなびつづけます。|Itsumademo manabi tsudzukemasu|Tôi sẽ mãi mãi không ngừng học hỏi.
+## 24|Câu nâng cao (501–600)|上級フレーズ
+501|さいごに。|Saigo ni|Cuối cùng.
+502|まとめると。|Matomeru to|Tóm lại.
+503|けつろんをいうと。|Ketsuron wo iu to|Kết luận lại.
+504|このけいけんからまなんだことは。|Kono keiken kara mananda koto wa|Điều tôi học được từ kinh nghiệm này.
+505|ふりかえってみると。|Furikaette miru to|Nhìn lại thì.
+506|いちばんたいせつなことは。|Ichiban taisetsu na koto wa|Điều quan trọng nhất là.
+507|すべてをかんがえると。|Subete wo kangaeru to|Xét tất cả.
+508|むすびに。|Musubi ni|Để kết lại.
+509|おわりよければすべてよし。|Owari yokereba subete yoshi|Cuối tốt là tất cả đều tốt.
+510|はじまりがあればおわりがある。|Hajimari ga areba owari ga aru|Có bắt đầu thì có kết thúc.
+511|おつかれさまでした。|Otsukaresama deshita|Cảm ơn vì đã làm việc chăm chỉ.
+512|おかげさまで。|Okage sama de|Nhờ có bạn.
+513|こちらこそ。|Kochira koso|Tôi mới là người phải cảm ơn.
+514|またいつでもどうぞ。|Mata itsudemo douzo|Lúc nào cũng được, mời bạn.
+515|なんなりとおっしゃってください。|Nannari to osshatte kudasai|Cứ tự nhiên nói.
+516|りょうかいです。|Ryoukai desu|Hiểu rồi. / Nhận lệnh.
+517|もちろんです。|Mochiron desu|Dĩ nhiên.
+518|はっきりいいます。|Hakkiri iimasu|Tôi nói thẳng.
+519|むりはいいません。|Muri wa iimasen|Tôi không nói điều không thể.
+520|しんぱいいりません。|Shinpai irimasen|Không cần lo lắng.
+521|きぼうどおりにします。|Kibou doori ni shimasu|Tôi sẽ làm đúng như bạn mong.
+522|さいぜんをつくします。|Saizen wo tsukushimasu|Tôi sẽ cố gắng hết sức.
+523|ぜったいにやりとげます。|Zettai ni yaritogemasu|Tôi nhất định sẽ hoàn thành.
+524|まかせてください。|Makasete kudasai|Hãy tin tưởng vào tôi.
+525|かならずやります。|Kanarazu yarimasu|Tôi nhất định sẽ làm.
+526|しごとよりけんこうがたいせつです。|Shigoto yori kenkou ga taisetsu desu|Sức khỏe quan trọng hơn công việc.
+527|やすむことも、しごとのうちです。|Yasumu koto mo, shigoto no uchi desu|Nghỉ ngơi cũng là một phần công việc.
+528|バランスをたいせつにしましょう。|Baransu wo taisetsu ni shimashou|Hãy coi trọng sự cân bằng.
+529|こころのけんこうもたいせつです。|Kokoro no kenkou mo taisetsu desu|Sức khỏe tâm thần cũng quan trọng.
+530|じぶんのきもちにしょうじきになりましょう。|Jibun no kimochi ni shoujiki ni narimashou|Hãy trung thực với cảm xúc của bản thân.
+531|だれかにきもちをはなしましょう。|Dare ka ni kimochi wo hanashimashou|Hãy chia sẻ cảm xúc với ai đó.
+532|ひとりでかかえこまないで。|Hitori de kakaekomai de|Đừng một mình gánh chịu.
+533|あなたのそばにいます。|Anata no soba ni imasu|Tôi ở bên cạnh bạn.
+534|いっしょにのりこえましょう。|Issho ni norikoemashou|Hãy cùng nhau vượt qua.
+535|だいじょうぶ、きっとうまくいく。|Daijoubu, kitto umaku iku|Ổn thôi, nhất định sẽ ổn.
+536|どんなことがあっても、まえをむいて。|Donna koto ga atte mo, mae wo muite|Dù có chuyện gì, hãy nhìn về phía trước.
+537|あなたをいつもおうえんしています。|Anata wo itsumo ouen shite imasu|Tôi luôn cổ vũ bạn.
+538|けいぞくはちからなり。|Keizoku wa chikara nari|Kiên trì là sức mạnh.
+539|いまをたいせつにしましょう。|Ima wo taisetsu ni shimashou|Hãy trân trọng hiện tại.
+540|しあわせはこころのなかにあります。|Shiawase wa kokoro no naka ni arimasu|Hạnh phúc nằm trong tâm hồn.
+541|わらいはいちばんのくすりです。|Warai wa ichiban no kusuri desu|Nụ cười là liều thuốc tốt nhất.
+542|こころをひらいていきましょう。|Kokoro wo hiraite ikimashou|Hãy mở rộng tâm hồn.
+543|ひとはひとりじゃない。|Hito wa hitori ja nai|Con người không cô đơn.
+544|たすけあうことがたいせつです。|Tasukeau koto ga taisetsu desu|Giúp đỡ nhau là điều quan trọng.
+545|やさしいことばはこころをなごませます。|Yasashii kotoba wa kokoro wo nagomase masu|Lời nói dịu dàng làm dịu tâm hồn.
+546|まわりのひとをしあわせにしたい。|Mawari no hito wo shiawase ni shitai|Muốn làm mọi người xung quanh hạnh phúc.
+547|しんせつにすることはかんたんです。|Shinsetsu ni suru koto wa kantan desu|Làm điều tử tế rất đơn giản.
+548|いつまでもこころのなかにいます。|Itsumademo kokoro no naka ni imasu|Tôi luôn ở trong tâm trí bạn.
+549|たがいにささえあいましょう。|Tagai ni sasaeaimashou|Hãy hỗ trợ nhau.
+550|あなたがいてよかったです。|Anata ga ite yokatta desu|May mà có bạn.
+551|これからもよいともでいましょう。|Kore kara mo yoi tomo de imashou|Hãy mãi là bạn tốt.
+552|きずながふかまりましたね。|Kizuna ga fukamari mashita ne|Mối quan hệ chúng ta sâu sắc hơn rồi nhỉ.
+553|あなたのことをおもうとほっこりします。|Anata no koto wo omou to hokkori shimasu|Nghĩ đến bạn tôi cảm thấy ấm lòng.
+554|なにがあっても、ここにいます。|Nani ga atte mo, koko ni imasu|Dù có chuyện gì, tôi vẫn ở đây.
+555|ずっとよいともでいましょう。|Zutto yoi tomo de imashou|Hãy mãi mãi là bạn tốt.
+556|いつかまたかならずあいましょう。|Itsuka mata kanarazu aimashou|Nhất định sẽ gặp lại một ngày nào đó.
+557|ながいじんせいをともに。|Nagai jinsei wo tomo ni|Cùng nhau trong cuộc sống dài.
+558|こころからのわらいをわすれずに。|Kokoro kara no warai wo wasurezu ni|Đừng quên nụ cười từ đáy lòng.
+559|あなたのじんせいをいきてください。|Anata no jinsei wo ikite kudasai|Hãy sống cuộc đời của chính bạn.
+560|あなたのしあわせはあなたがきめる。|Anata no shiawase wa anata ga kimeru|Hạnh phúc của bạn do chính bạn quyết định.
+561|きょうもいちにちよくがんばりました。|Kyou mo ichinichi yoku ganbarimashita|Hôm nay cũng đã cố gắng cả ngày.
+562|じぶんをほめてあげましょう。|Jibun wo homete agemashou|Hãy khen ngợi bản thân.
+563|きょうもありがとう、じぶん。|Kyou mo arigatou, jibun|Hôm nay cũng cảm ơn bản thân nhé.
+564|あしたはもっとよくなります。|Ashita wa motto yoku narimasu|Ngày mai sẽ tốt hơn.
+565|まいにちすこしずつせいちょうします。|Mainichi sukoshi zutsu seichou shimasu|Mỗi ngày phát triển một chút.
+566|きょうのじぶんはきのうよりすこしつよい。|Kyou no jibun wa kinou yori sukoshi tsuyoi|Bản thân hôm nay mạnh hơn hôm qua một chút.
+567|じぶんのペースでいい。|Jibun no peesu de ii|Theo nhịp độ của bản thân là được.
+568|きょうもいいひになりますように。|Kyou mo ii hi ni narimasu you ni|Mong hôm nay cũng là ngày tốt lành.
+569|さいごまでよんでいただきありがとうございました。|Saigo made yonde itadaki arigatou gozaimashita|Cảm ơn đã đọc đến cuối.
+570|これからもよろしくおねがいします。|Kore kara mo yoroshiku onegai shimasu|Mong tiếp tục nhờ vả.
+571|おつかれさまです。|Otsukaresama desu|Bạn đã vất vả rồi.
+572|きょうはありがとうございました。|Kyou wa arigatou gozaimashita|Hôm nay cảm ơn bạn.
+573|またよろしくおねがいします。|Mata yoroshiku onegaishimasu|Lần sau lại nhờ vả.
+574|おわかれはさびしいです。|Owakare wa sabishii desu|Chia tay thật buồn.
+575|またいつかあいましょう。|Mata itsuka aimashou|Hẹn gặp lại một ngày nào đó.
+576|げんきでいてください。|Genki de ite kudasai|Hãy giữ gìn sức khỏe.
+577|しあわせになってください。|Shiawase ni natte kudasai|Hãy hạnh phúc nhé.
+578|またあそびにきてください。|Mata asobi ni kite kudasai|Hãy đến chơi nữa nhé.
+579|いつでもれんらくしてください。|Itsudemo renraku shite kudasai|Liên lạc bất cứ lúc nào.
+580|ながいあいだおせわになりました。|Nagai aida osewa ni narimashita|Cảm ơn đã chăm sóc tôi lâu nay.
+581|あいしています。|Aishite imasu|Tôi yêu bạn.
+582|あなたはわたしにとってとてもたいせつです。|Anata wa watashi ni totte totemo taisetsu desu|Bạn rất quan trọng với tôi.
+583|あなたがこいしいです。|Anata ga koishii desu|Tôi nhớ bạn.
+584|あなたといるとしあわせです。|Anata to iru to shiawase desu|Ở cạnh bạn tôi hạnh phúc.
+585|つきあってくれませんか？|Tsukiatte kuremasen ka?|Bạn có muốn hẹn hò với tôi không?
+586|いつもあなたのことをかんがえています。|Itsumo anata no koto wo kangaete imasu|Tôi luôn nghĩ về bạn.
+587|あなたはとてもとくべつです。|Anata wa totemo tokubetsu desu|Bạn rất đặc biệt.
+588|あなたにひかれています。|Anata ni hikarete imasu|Tôi đang cảm mến bạn.
+589|ふたりはあわせものです。|Futari wa awasemono desu|Hai người chúng ta hợp với nhau.
+590|いつまでもいっしょにいましょう。|Itsumademo issho ni imashou|Hãy luôn ở bên nhau mãi.
+591|にほんごのたびはながいです。|Nihongo no tabi wa nagai desu|Hành trình tiếng Nhật thật dài.
+592|でも、たのしいたびです。|Demo, tanoshii tabi desu|Nhưng đó là hành trình vui vẻ.
+593|いっしょにあるきましょう。|Issho ni arukimashou|Hãy cùng nhau bước đi.
+594|ゴールはちかいです。|Gooru wa chikai desu|Mục tiêu đã gần rồi.
+595|がんばれば、かならずできます。|Ganbare ba, kanarazu dekimasu|Nếu cố gắng, nhất định sẽ được.
+596|ゆめはかならずかなう。|Yume wa kanarazu kanau|Ước mơ nhất định sẽ thành hiện thực.
+597|にほんごをとおしてせかいがひろがります。|Nihongo wo tooshite sekai ga hirogarimasu|Qua tiếng Nhật, thế giới mở rộng.
+598|ことばをしることは、ひとをしること。|Kotoba wo shiru koto wa, hito wo shiru koto|Biết ngôn ngữ là biết con người.
+599|げんごはこころとこころをつなぎます。|Gengo wa kokoro to kokoro wo tsunagimasu|Ngôn ngữ kết nối tâm hồn với tâm hồn.
+600|べんきょうはつらいけど、たのしい。|Benkyou wa tsurai kedo, tanoshii|Học tập vất vả nhưng vui vẻ.
+## 25|Câu tổng hợp cuối (601–830)|総合フレーズ
+601|にほんごはわたしのいきがいです。|Nihongo ga watashi no ikigai desu|Tiếng Nhật là lý do sống của tôi.
+602|ことばとともにせいちょうします。|Kotoba to tomo ni seichou shimasu|Tôi cùng lớn lên với ngôn ngữ.
+603|にほんごができてよかったです。|Nihongo ga dekite yokatta desu|Thật tốt khi biết tiếng Nhật.
+604|まなぶよろこびをわすれずに。|Manabu yorokobi wo wasurezu ni|Đừng quên niềm vui học hỏi.
+605|こんなにがんばっているじぶんをほめる。|Konna ni ganbatte iru jibun wo homeru|Khen ngợi bản thân đã cố gắng đến vậy.
+606|にほんごのせかいはひろいです。|Nihongo no sekai wa hiroi desu|Thế giới tiếng Nhật thật rộng lớn.
+607|まだまだたのしいことがまっています。|Mada mada tanoshii koto ga matte imasu|Vẫn còn nhiều điều thú vị đang chờ.
+608|さあ、つぎのステージへ！|Saa, tsugi no suteeji e!|Nào, đến giai đoạn tiếp theo!
+609|あきらめずにすすみます。|Akiramezu ni susumimasu|Không bỏ cuộc, tiếp tục tiến.
+610|どんなにむずかしくても、すすみます。|Donna ni muzukashikute mo, susumimasu|Dù khó đến đâu, tôi vẫn tiến.
+611|ことしもたくさんがんばりました。|Kotoshi mo takusan ganbarimashita|Năm nay cũng đã cố gắng nhiều.
+612|らいねんはもっとよくなりたいです。|Rainen wa motto yoku naritai desu|Năm tới tôi muốn tốt hơn.
+613|ゆめにむかってすすみます。|Yume ni mukatte susumimasu|Tôi sẽ tiến về phía ước mơ.
+614|あたらしいちょうせんをたのしみます。|Atarashii chousen wo tanoshimimasu|Tôi sẽ tận hưởng những thách thức mới.
+615|まいにちをたいせつにいきます。|Mainichi wo taisetsu ni ikimasu|Tôi sẽ sống trân trọng mỗi ngày.
+616|かこをいかして、みらいにすすむ。|Kako wo ikashite, mirai ni susumu|Tận dụng quá khứ, tiến vào tương lai.
+617|じぶんのものがたりをつづけます。|Jibun no monogatari wo tsudzukemasu|Tôi sẽ tiếp tục câu chuyện của mình.
+618|だれかのきぼうになれたらうれしいです。|Dare ka no kibou ni nareta ra ureshii desu|Thật vui nếu tôi có thể trở thành hy vọng của ai đó.
+619|せかいにやさしさをひろめましょう。|Sekai ni yasashisa wo hiromemashou|Hãy lan tỏa sự tử tế ra thế giới.
+620|すべてのいのちをたいせつに。|Subete no inochi wo taisetsu ni|Hãy trân trọng tất cả sinh mệnh.
+621|テクノロジーはすごいいきおいでしんぽしています。|Tekunorojii wa sugoi ikio de shinpo shite imasu|Công nghệ đang phát triển nhanh chóng.
+622|じんこうちのうはすべてをかえています。|Jinkou chinou wa subete wo kaete imasu|Trí tuệ nhân tạo đang thay đổi mọi thứ.
+623|スマートフォンにひどくたよっています。|Sumaatofon ni hidoku tayotte imasu|Chúng ta phụ thuộc nhiều vào điện thoại.
+624|じっけんはせいこうでした。|Jikken wa seikou deshita|Thí nghiệm thành công.
+625|かがくはせかいをりかいするてだすけをします。|Kagaku wa sekai wo rikai suru tedasuke wo shimasu|Khoa học giúp ta hiểu thế giới.
+626|データプライバシーはとてもたいせつです。|Deeta puraibashii wa totemo taisetsu desu|Quyền riêng tư dữ liệu rất quan trọng.
+627|でんきじどうしゃはにんきがでてきました。|Denki jidousha wa ninki ga dete kimashita|Xe điện đang trở nên phổ biến.
+628|うちゅうたんさにわくわくします。|Uchuu tansa ni wakuwaku shimasu|Khám phá vũ trụ làm tôi hứng thú.
+629|インターネットはわたしたちのせいかつをかえました。|Intaanetto wa watashitachi no seikatsu wo kaemashita|Internet đã thay đổi cuộc sống của chúng ta.
+630|あたらしいソフトウェアはたくさんのきのうがあります。|Atarashii sofutouea wa takusan no kinou ga arimasu|Phần mềm mới có nhiều tính năng.
+631|みんなびょうどうのけんりをもつべきです。|Minna byoudou no kenri wo motsu beki desu|Mọi người đều xứng đáng có quyền bình đẳng.
+632|きょういくはたいせつです。|Kyouiku wa taisetsu desu|Giáo dục rất quan trọng.
+633|かんきょうをまもるべきです。|Kankyou wo mamoru beki desu|Nên bảo vệ môi trường.
+634|きこうへんどうはほんとうのもんだいです。|Kikou hendou wa hontou no mondai desu|Biến đổi khí hậu là vấn đề thực sự.
+635|びんぼうはせかいのもんだいです。|Binbou wa sekai no mondai desu|Đói nghèo là vấn đề toàn cầu.
+636|おたがいにたすけあうべきです。|Otagai ni tasukeau beki desu|Chúng ta nên hỗ trợ lẫn nhau.
+637|さべつはよくないです。|Sabetsu wa yokunai desu|Phân biệt đối xử là sai.
+638|へいわはかけがえのないものです。|Heiwa wa kakegae no nai mono desu|Hòa bình là vô giá.
+639|わたしたちはたようなせかいにすんでいます。|Watashitachi wa tayou na sekai ni sunde imasu|Chúng ta sống trong một thế giới đa dạng.
+640|プラスチックのしようをへらすべきです。|Purasuchikku no shiyou wo herasu beki desu|Nên giảm sử dụng nhựa.
+641|できるかぎりリサイクルしましょう。|Dekiru kagiri risaikuru shimashou|Hãy tái chế bất cứ khi nào có thể.
+642|うみにはたくさんのいのちがあります。|Umi ni wa takusan no inochi ga arimasu|Đại dương chứa đầy sự sống.
+643|しぜんがだいすきです。|Shizen ga daisuki desu|Tôi rất yêu thiên nhiên.
+644|やまはとてもすばらしいです。|Yama wa totemo subarashii desu|Những ngọn núi thật ngoạn mục.
+645|みずをたいせつにしましょう。|Mizu wo taisetsu ni shimashou|Hãy tiết kiệm nước.
+646|ことりがなっています。|Kotori ga natte imasu|Những con chim đang hót.
+647|ここにはたくさんのやせいどうぶつがいます。|Koko ni wa takusan no yasei doubutsu ga imasu|Có rất nhiều động vật hoang dã ở đây.
+648|ハイキングにいきましょう。|Haikingu ni ikimashou|Hãy đi bộ leo núi.
+649|あきのもりはうつくしいです。|Aki no mori wa utsukushii desu|Rừng rất đẹp vào mùa thu.
+650|ほしぞらをみあげましょう。|Hoshizora wo miagemashou|Hãy ngước nhìn bầu trời sao.
+651|なにがしたいですか？|Nani ga shitai desu ka?|Bạn muốn làm gì?
+652|どこにすんでいますか？|Doko ni sunde imasu ka?|Bạn sống ở đâu?
+653|とうきょうにすんでいます。|Toukyou ni sunde imasu|Tôi sống ở Tokyo.
+654|にほんにきてどのくらいになりますか？|Nihon ni kite dono kurai ni narimasu ka?|Bạn đến Nhật được bao lâu rồi?
+655|おてあらいはどこですか？|Otearai wa doko desu ka?|Nhà vệ sinh ở đâu?
+656|えいごはなせますか？|Eigo hanasemasu ka?|Bạn nói được tiếng Anh không?
+657|にほんごしかはなせません。|Nihongo shika hanasemasen|Tôi chỉ nói được tiếng Nhật.
+658|いみがわかりません。|Imi ga wakarimasen|Tôi không hiểu nghĩa.
+659|なんとよみますか？|Nanto yomimasu ka?|Đọc như thế nào?
+660|かんじがよめません。|Kanji ga yomemasen|Tôi không đọc được kanji.
+661|しょうらいはいしゃになりたいです。|Shourai wa isha ni naritai desu|Tương lai tôi muốn trở thành bác sĩ.
+662|ビジネスをはじめたいです。|Bijinesu wo hajimetai desu|Tôi muốn bắt đầu kinh doanh.
+663|かいがいにしごとにいきたいです。|Kaigai ni shigoto ni ikitai desu|Tôi muốn đi làm ở nước ngoài.
+664|こどもたちのためにはたらきたいです。|Kodomotachi no tame ni hatarakitai desu|Tôi muốn làm việc vì trẻ em.
+665|しゃかいにこうけんしたいです。|Shakai ni kouken shitai desu|Tôi muốn đóng góp cho xã hội.
+666|せかいをよりよくしたいです。|Sekai wo yori yoku shitai desu|Tôi muốn làm cho thế giới tốt đẹp hơn.
+667|ひとをたすけるしごとがしたいです。|Hito wo tasukeru shigoto ga shitai desu|Tôi muốn làm công việc giúp đỡ người khác.
+668|じぶんのみせをひらきたいです。|Jibun no mise wo hirakitai desu|Tôi muốn mở cửa hàng riêng.
+669|えいかいわのせんせいになりたいです。|Eikaiwa no sensei ni naritai desu|Tôi muốn trở thành giáo viên tiếng Anh.
+670|ITのしごとがしたいです。|IT no shigoto ga shitai desu|Tôi muốn làm việc trong lĩnh vực IT.
+671|ことわざをしっていますか？|Kotowaza wo shitte imasu ka?|Bạn có biết tục ngữ không?
+672|いしのうえにもさんねん。|Ishi no ue ni mo sannen|Kiên trì ba năm trên đá (Kiên nhẫn sẽ thành công).
+673|なせばなる。|Naseba naru|Muốn là được.
+674|はじめのいっぽ。|Hajime no ippo|Bước đi đầu tiên (Vạn sự khởi đầu nan).
+675|まけるがかち。|Makeru ga kachi|Thua là thắng (Lùi một bước tiến ba bước).
+676|ちりもつもればやまとなる。|Chiri mo tsumoreba yama to naru|Tích tiểu thành đại.
+677|はなよりだんご。|Hana yori dango|Thực tế hơn hình thức.
+678|おわりよければすべてよし。|Owari yokereba subete yoshi|Cuối tốt là tất cả đều tốt.
+679|ながいたびはちかみちにいざなわれる。|Nagai tabi wa chikamichi ni izanawareru|Hành trình dài có lối tắt cám dỗ.
+680|いちにちいちぜん。|Ichinichi ichizen|Mỗi ngày một điều tốt.
+681|〜をさがしています。|~wo sagashite imasu|Tôi đang tìm ~.
+682|〜がほしいです。|~ga hoshii desu|Tôi muốn có ~.
+683|〜をかしてもらえませんか？|~wo kashite moraemasen ka?|Cho mượn ~ được không?
+684|〜はどこでかえますか？|~wa doko de kaemasu ka?|Có thể mua ~ ở đâu?
+685|〜をみたいです。|~wo mitai desu|Tôi muốn xem ~.
+686|〜にいったことがあります。|~ni itta koto ga arimasu|Tôi đã từng đến ~.
+687|〜にいってみたいです。|~ni itte mitai desu|Tôi muốn thử đến ~.
+688|〜がとくいです。|~ga tokui desu|Tôi giỏi ~.
+689|〜がにがてです。|~ga nigate desu|Tôi kém ~.
+690|〜かもしれません。|~kamo shiremasen|Có lẽ ~.
+691|〜したいとおもいます。|~shitai to omoimasu|Tôi nghĩ muốn ~.
+692|〜すればよかったです。|~sureba yokatta desu|Giá mà tôi đã ~.
+693|〜するつもりです。|~suru tsumori desu|Tôi có ý định ~.
+694|〜しなければなりません。|~shinakereba narimasen|Tôi phải ~.
+695|〜してもいいですか？|~shite mo ii desu ka?|Tôi có thể ~ không?
+696|〜してはいけません。|~shite wa ikemasen|Không được ~.
+697|〜のほうがいいです。|~no hou ga ii desu|~ thì tốt hơn.
+698|〜したことがありますか？|~shita koto ga arimasu ka?|Bạn đã từng ~ chưa?
+699|〜できればよかったのに。|~dekireba yokatta no ni|Giá mà có thể ~.
+700|〜てもいいですか？|~te mo ii desu ka?|Được không nếu ~?
+701|ゆめをもちつづけてください。|Yume wo mochi tsudzukete kudasai|Hãy tiếp tục giữ ước mơ.
+702|まいにちがかけがえないものです。|Mainichi ga kakegae nai mono desu|Mỗi ngày là điều không thể thay thế.
+703|いまこのしゅんかんをたいせつに。|Ima kono shunkan wo taisetsu ni|Hãy trân trọng khoảnh khắc hiện tại này.
+704|だれかのためではなく、じぶんのために。|Dare ka no tame de wa naku, jibun no tame ni|Không phải vì ai khác, mà vì bản thân.
+705|さあ、あしたへ！|Saa, ashita e!|Nào, hướng đến ngày mai!
+706|こんにちはからさようならまで、ありがとう。|Konnichiwa kara sayounara made, arigatou|Từ xin chào đến tạm biệt, cảm ơn.
+707|にほんごとともにすてきなじんせいを。|Nihongo to tomo ni suteki na jinsei wo|Cuộc đời tươi đẹp cùng tiếng Nhật.
+708|てをとりあってすすみましょう。|Te wo toriatte susumimashou|Hãy nắm tay nhau tiến về phía trước.
+709|ことばはひとをつなぐものです。|Kotoba wa hito wo tsunagu mono desu|Ngôn ngữ là cầu nối giữa người với người.
+710|げんごをまなぶことはたのしいです。|Gengo wo manabu koto wa tanoshii desu|Học ngôn ngữ rất thú vị.
+711|JLPT N1をめざしています。|JLPT N1 wo mezashite imasu|Tôi đang hướng đến JLPT N1.
+712|リスニングがじょうずになりたいです。|Risuningu ga jouzu ni naritai desu|Tôi muốn giỏi nghe.
+713|スピーキングのれんしゅうをもっとします。|Supiikingu no renshuu wo motto shimasu|Tôi sẽ luyện nói nhiều hơn.
+714|かきとりのれんしゅうもします。|Kakitori no renshuu mo shimasu|Tôi cũng luyện nghe và chép.
+715|にほんごができてよかった、ほんとうに。|Nihongo ga dekite yokatta, hontou ni|Thực sự thật tốt khi biết tiếng Nhật.
+716|ランゲージアプリをつかっています。|Rangeeji apuri wo tsukatte imasu|Tôi dùng app học ngôn ngữ.
+717|ネイティブにちかいはつおんをめざします。|Neitibu ni chikai hatsuon wo mezashimasu|Tôi hướng đến phát âm gần với người bản ngữ.
+718|まいにちにっきをにほんごでかきます。|Mainichi nikki wo nihongo de kakimasu|Tôi viết nhật ký bằng tiếng Nhật mỗi ngày.
+719|にほんごのうたをうたいます。|Nihongo no uta wo utaimasu|Tôi hát bài hát tiếng Nhật.
+720|カラオケがたのしいです。|Karaoke ga tanoshii desu|Karaoke rất vui.
+721|このへんにいいレストランはありますか？|Kono hen ni ii resutoran wa arimasu ka?|Gần đây có nhà hàng ngon không?
+722|おすすめのばしょはどこですか？|Osusume no basho wa doko desu ka?|Địa điểm bạn giới thiệu là đâu?
+723|にほんのりょかんにとまってみたいです。|Nihon no ryokan ni tomatte mitai desu|Tôi muốn thử ở nhà trọ kiểu Nhật.
+724|ゆかたをきてみたいです。|Yukata wo kite mitai desu|Tôi muốn thử mặc yukata.
+725|ちゃどうにきょうみがあります。|Chadou ni kyoumi ga arimasu|Tôi có hứng thú với trà đạo.
+726|いけばなをならってみたい。|Ikebana wo naratte mitai|Tôi muốn học cắm hoa Nhật.
+727|しょどうはうつくしいですね。|Shodou wa utsukushii desu ne|Thư pháp thật đẹp nhỉ.
+728|にほんのまんががだいすきです。|Nihon no manga ga daisuki desu|Tôi rất thích manga Nhật.
+729|アニメはたのしいです。|Anime wa tanoshii desu|Anime rất vui.
+730|にほんのゲームはせかいいちです。|Nihon no geemu wa sekai ichi desu|Game Nhật là số một thế giới.
+731|かみさまにおまいりしました。|Kamisama ni omairi shimashita|Tôi đã đến viếng thần đền.
+732|てんしんをひろいました。|Tenchin wo hiroimashita|Tôi nhặt được may mắn.
+733|おみくじをひきました。|Omikuji wo hikimashita|Tôi rút quẻ may mắn.
+734|だいきちでした！|Daikichi deshita!|Đại cát! (Rất may mắn!)
+735|えまにねがいをかきました。|Ema ni negai wo kakimashita|Tôi viết ước nguyện lên bảng gỗ.
+736|にじゅうさんやさいです。|Nijuu san sai desu|Tôi hai mươi ba tuổi.
+737|にほんごをよんでいます。|Nihongo wo yonde imasu|Tôi đang đọc tiếng Nhật.
+738|かいわのれんしゅうをしています。|Kaiwa no renshuu wo shite imasu|Tôi đang luyện hội thoại.
+739|ぶんぽうをおぼえています。|Bunpou wo oboete imasu|Tôi đang học ngữ pháp.
+740|たんごのかずをふやしています。|Tango no kazu wo fuyashite imasu|Tôi đang tăng số từ vựng.
+741|あたらしいかんじをおぼえました。|Atarashii kanji wo oboemashita|Tôi học được kanji mới.
+742|むずかしいかんじですね。|Muzukashii kanji desu ne|Chữ kanji khó nhỉ.
+743|ひらがなはかんたんです。|Hiragana wa kantan desu|Hiragana thì dễ.
+744|カタカナもおぼえました。|Katakana mo oboemashita|Tôi cũng học xong katakana rồi.
+745|これからもよろしく、にほんご！|Kore kara mo yoroshiku, nihongo!|Từ nay về sau mong nhờ vả nhé, tiếng Nhật!
+746|どうもありがとうございました。|Doumo arigatou gozaimashita|Thành thật cảm ơn.
+747|またいつかどこかで、あいましょう。|Mata itsuka doko ka de, aimashou|Hẹn gặp lại ở đâu đó một ngày nào đó.
+748|にほんごはおもしろいです。|Nihongo wa omoshiroi desu|Tiếng Nhật thật thú vị.
+749|かんじはむずかしいですがきれいです。|Kanji wa muzukashii desu ga kirei desu|Chữ kanji khó nhưng đẹp.
+750|にほんごのぶんぽうはとくとくです。|Nihongo no bunpou wa tokutoku desu|Ngữ pháp tiếng Nhật rất độc đáo.
+751|けいごはむずかしいです。|Keigo wa muzukashii desu|Kính ngữ thật khó.
+752|じょしがむずかしいです。|Joshi ga muzukashii desu|Trợ từ thật khó.
+753|にほんごはふかいです。|Nihongo wa fukai desu|Tiếng Nhật rất sâu sắc.
+754|おんよみとくんよみがあります。|Onyomi to kunyomi ga arimasu|Có âm On và âm Kun.
+755|ちゃんとはなせるようになりたい。|Chanto hanaseru you ni naritai|Tôi muốn nói được đúng chuẩn.
+756|スピーキングはリスニングよりむずかしいです。|Supiikingu wa risunigu yori muzukashii desu|Nói khó hơn nghe.
+757|じまくなしでみれるようになりたい。|Jimaku nashi de mireru you ni naritai|Tôi muốn xem được không cần phụ đề.
+758|にほんごのほんをよみます。|Nihongo no hon wo yomimasu|Tôi đọc sách tiếng Nhật.
+759|まいにちひとつあたらしいことばをおぼえます。|Mainichi hitotsu atarashii kotoba wo oboemasu|Mỗi ngày học một từ mới.
+760|にほんごでともだちができました。|Nihongo de tomodachi ga dekimashita|Tôi kết bạn được qua tiếng Nhật.
+761|さいごまでよんでいただきありがとうございました。|Saigo made yonde itadaki arigatou gozaimashita|Cảm ơn đã đọc đến cuối.
+762|おやすみなさい、いいゆめを。|Oyasuminasai, ii yume wo|Chúc ngủ ngon, mơ đẹp nhé.
+763|あしたもげんきでいてください。|Ashita mo genki de ite kudasai|Ngày mai cũng hãy khỏe mạnh.
+764|またあしたはなしましょう。|Mata ashita hanashimashou|Ngày mai nói chuyện tiếp nhé.
+765|きょうはほんとうにありがとうございました。|Kyou wa hontou ni arigatou gozaimashita|Hôm nay thực sự cảm ơn bạn.
+766|あなたとはなせてよかったです。|Anata to hanasete yokatta desu|Thật vui khi được nói chuyện với bạn.
+767|にほんごをこよなくあいしています。|Nihongo wo konoyonaku aishite imasu|Tôi yêu tiếng Nhật hết mực.
+768|このごにあったことをしあわせにおもいます。|Kono go ni atta koto wo shiawase ni omoimasu|Tôi cảm thấy hạnh phúc khi gặp ngôn ngữ này.
+769|これからもずっとまなびつづけます。|Kore kara mo zutto manabi tsudzukemasu|Sẽ tiếp tục học mãi mãi.
+770|あきらめずにすすむことがいちばんたいせつです。|Akiramezu ni susumu koto ga ichiban taisetsu desu|Điều quan trọng nhất là không bỏ cuộc mà tiếp tục tiến.
+771|ゆっくりでいいです、かならずできます。|Yukkuri de ii desu, kanarazu dekimasu|Từ từ cũng được, nhất định sẽ làm được.
+772|すこしずつでいい、すすんでいれば。|Sukoshi zutsu de ii, susunde ireba|Từng bước nhỏ cũng được, miễn là tiến về phía trước.
+773|たびはまだつづきます。|Tabi wa mada tsudzukimasu|Hành trình vẫn còn tiếp tục.
+774|にほんごのたびはずっとつづきます。|Nihongo no tabi wa zutto tsudzukimasu|Hành trình tiếng Nhật sẽ tiếp tục mãi.
+775|いっしょにがんばりましょう！|Issho ni ganbarimashou!|Hãy cùng nhau cố gắng!
+776|あなたのにほんごはうつくしいです。|Anata no nihongo wa utsukushii desu|Tiếng Nhật của bạn rất đẹp.
+777|まいにちすこしずつ、かならずじょうたつします。|Mainichi sukoshi zutsu, kanarazu joutatsu shimasu|Mỗi ngày một chút, nhất định sẽ tiến bộ.
+778|ことばのちからをかんじてください。|Kotoba no chikara wo kanjite kudasai|Hãy cảm nhận sức mạnh của ngôn ngữ.
+779|げんごはこころをひらくかぎです。|Gengo wa kokoro wo hiraku kagi desu|Ngôn ngữ là chìa khóa mở rộng tâm hồn.
+780|にほんごでしあわせになれます。|Nihongo de shiawase ni naremasu|Có thể hạnh phúc nhờ tiếng Nhật.
+781|おたがいのことばをそんちょうしましょう。|Otagai no kotoba wo sonchou shimashou|Hãy tôn trọng ngôn ngữ của nhau.
+782|たくさんのことばをしることはたくさんのせかいをもつことです。|Takusan no kotoba wo shiru koto wa takusan no sekai wo motsu koto desu|Biết nhiều ngôn ngữ là có nhiều thế giới.
+783|にほんごはわたしにあたらしいせかいをくれました。|Nihongo wa watashi ni atarashii sekai wo kuremashita|Tiếng Nhật đã cho tôi một thế giới mới.
+784|ことばをとおしてひとがつながります。|Kotoba wo tooshite hito ga tsunagarimasu|Qua ngôn ngữ, người với người kết nối.
+785|にほんごにであったことに、かんしゃします。|Nihongo ni deatta koto ni, kansha shimasu|Tôi biết ơn vì đã gặp tiếng Nhật.
+786|これからもにほんごをたいせつにします。|Kore kara mo nihongo wo taisetsu ni shimasu|Từ nay, tôi sẽ trân trọng tiếng Nhật.
+787|にほんごはわたしのたからものです。|Nihongo wa watashi no takaramono desu|Tiếng Nhật là báu vật của tôi.
+788|ことばのたびはおわりません。|Kotoba no tabi wa owarimasen|Hành trình của ngôn ngữ không bao giờ kết thúc.
+789|まだまだまなぶことがたくさんあります。|Madamada manabu koto ga takusan arimasu|Vẫn còn rất nhiều thứ để học.
+790|いっしょにひとつひとつせいちょうしましょう。|Issho ni hitotsu hitotsu seichou shimashou|Cùng nhau phát triển từng bước.
+791|にほんごのかいわがじょうずになりました。|Nihongo no kaiwa ga jouzu ni narimashita|Hội thoại tiếng Nhật đã tiến bộ rồi.
+792|もっとじょうずになりたいです。|Motto jouzu ni naritai desu|Tôi muốn giỏi hơn nữa.
+793|にほんごのえいがをみます。|Nihongo no eiga wo mimasu|Tôi xem phim tiếng Nhật.
+794|あたらしいたんごをまいにちおぼえます。|Atarashii tango wo mainichi oboemasu|Tôi học từ mới mỗi ngày.
+795|フラッシュカードでたんごをおぼえます。|Furasshuu kaado de tango wo oboemasu|Tôi học từ bằng flash card.
+796|にほんのニュースをよみます。|Nihon no nyuusu wo yomimasu|Tôi đọc tin tức tiếng Nhật.
+797|このぶんのかたちをかくにんします。|Kono bun no katachi wo kakunin shimasu|Tôi kiểm tra cấu trúc câu này.
+798|じしょをひきます。|Jisho wo hikimasu|Tôi tra từ điển.
+799|にほんごをつかってせかいをひろげます。|Nihongo wo tsukatte sekai wo hirogemasu|Tôi sẽ mở rộng thế giới bằng tiếng Nhật.
+800|にほんごのことばのちからをしんじています。|Nihongo no kotoba no chikara wo shinjite imasu|Tôi tin vào sức mạnh của ngôn ngữ tiếng Nhật.
+801|さあ、はじめましょう！|Saa, hajimemashou!|Nào, hãy bắt đầu!
+802|もっとがんばります！|Motto ganbarimasu!|Tôi sẽ cố gắng hơn!
+803|ゆめをあきらめません。|Yume wo akirame masen|Tôi không từ bỏ ước mơ.
+804|にほんごでゆめをかなえます。|Nihongo de yume wo kanaemasu|Tôi sẽ thực hiện ước mơ bằng tiếng Nhật.
+805|いっしょにがんばれる、ありがとう。|Issho ni ganbareru, arigatou|Có thể cùng nhau cố gắng, cảm ơn.
+806|あなたがいるから、がんばれます。|Anata ga iru kara, ganbaremasu|Vì có bạn, tôi có thể cố gắng.
+807|にほんごのちからをかんじています。|Nihongo no chikara wo kanjite imasu|Tôi đang cảm nhận sức mạnh của tiếng Nhật.
+808|まいにちがたのしいです、にほんごのおかげで。|Mainichi ga tanoshii desu, nihongo no okage de|Mỗi ngày rất vui, nhờ có tiếng Nhật.
+809|これからもいっしょにまなびましょう。|Kore kara mo issho ni manabimashou|Từ nay hãy cùng nhau học hỏi.
+810|にほんごでせかいがつながります。|Nihongo de sekai ga tsunagarimasu|Qua tiếng Nhật, thế giới kết nối.
+811|にほんごをしることは、にほんをしること。|Nihongo wo shiru koto wa, nihon wo shiru koto|Biết tiếng Nhật là biết Nhật Bản.
+812|にほんごでこころがつながります。|Nihongo de kokoro ga tsunagarimasu|Qua tiếng Nhật, tâm hồn kết nối.
+813|ことばはたからものです。|Kotoba wa takaramono desu|Ngôn ngữ là báu vật.
+814|げんごはたのしいです。|Gengo wa tanoshii desu|Ngôn ngữ thật vui.
+815|ひとつのことばでせかいがかわります。|Hitotsu no kotoba de sekai ga kawarimasu|Một ngôn ngữ thay đổi thế giới.
+816|にほんごとともに、たびつづけましょう。|Nihongo to tomo ni, tabi tsudzukemashou|Cùng với tiếng Nhật, hãy tiếp tục hành trình.
+817|がんばりましょう、いっしょに！|Ganbarimashou, issho ni!|Cùng nhau cố gắng!
+818|あきらめない、それがいちばんたいせつ。|Akirame nai, sore ga ichiban taisetsu|Không bỏ cuộc, đó là điều quan trọng nhất.
+819|すべてのどりょくはむだにならない。|Subete no doryoku wa muda ni naranai|Mọi nỗ lực đều không vô ích.
+820|ゆめはかならずかなうものです。|Yume wa kanarazu kanau mono desu|Ước mơ nhất định sẽ thành hiện thực.
+821|しんらいできるひとがそばにいてよかった。|Shinrai dekiru hito ga soba ni ite yokatta|Thật tốt khi có người đáng tin bên cạnh.
+822|ともにいきることのよろこびをかんじて。|Tomo ni ikiru koto no yorokobi wo kanjite|Hãy cảm nhận niềm vui khi sống cùng nhau.
+823|いのちのたいせつさをわすれないで。|Inochi no taisetsusa wo wasure nai de|Đừng quên sự quý giá của sinh mệnh.
+824|ひとのやさしさにこころがあたたまる。|Hito no yasashisa ni kokoro ga atatamaru|Sự tử tế của người khác làm ấm lòng.
+825|せかいはうつくしい、そのことをわすれないで。|Sekai wa utsukushii, sono koto wo wasure nai de|Thế giới thật đẹp, đừng quên điều đó.
+826|あなたのえがおがせかいをあかるくする。|Anata no egao ga sekai wo akaruku suru|Nụ cười của bạn làm sáng thế giới.
+827|まいにちひとつのやさしさをわすれずに。|Mainichi hitotsu no yasashisa wo wasurezu ni|Mỗi ngày đừng quên một lần tử tế.
+828|ちいさなやさしさがせかいをかえる。|Chiisana yasashisa ga sekai wo kaeru|Sự tử tế nhỏ bé thay đổi thế giới.
+829|あなたのいきかたがせかいをかえる。|Anata no ikikata ga sekai wo kaeru|Cách sống của bạn thay đổi thế giới.
+830|いっしょにすてきなせかいをつくりましょう。|Issho ni suteki na sekai wo tsukurimashou|Hãy cùng nhau tạo ra một thế giới tươi đẹp.
+## 26|Câu bổ sung (831–1000)|追加フレーズ
+831|ありがとう、にほんご！|Arigatou, nihongo!|Cảm ơn, tiếng Nhật!
+832|これからもずっとがんばります。|Kore kara mo zutto ganbarimasu|Tôi sẽ cố gắng mãi mãi.
+833|にほんごをつかってせかいをひろげます。|Nihongo wo tsukatte sekai wo hirogemasu|Tôi sẽ mở rộng thế giới bằng tiếng Nhật.
+834|ことばのちからをしんじています。|Kotoba no chikara wo shinjite imasu|Tôi tin vào sức mạnh của ngôn ngữ.
+835|にほんごでゆめをかなえます。|Nihongo de yume wo kanaemasu|Tôi sẽ thực hiện ước mơ bằng tiếng Nhật.
+836|てをとりあってすすみましょう。|Te wo toriatte susumimashou|Hãy nắm tay nhau tiến về phía trước.
+837|いつまでもまなびつづけます。|Itsumademo manabi tsudzukemasu|Tôi sẽ mãi mãi không ngừng học hỏi.
+838|ことばはこころのかがみです。|Kotoba wa kokoro no kagami desu|Ngôn ngữ là gương phản chiếu tâm hồn.
+839|にほんごでこころをつたえます。|Nihongo de kokoro wo tsutaemasu|Tôi truyền đạt tâm hồn bằng tiếng Nhật.
+840|どんなにむずかしくてもつづけます。|Donna ni muzukashikute mo tsudzukemasu|Dù khó đến đâu tôi cũng sẽ tiếp tục.
+841|ひとはひとりじゃない。|Hito wa hitori ja nai|Con người không cô đơn.
+842|たすけあうことがたいせつです。|Tasukeau koto ga taisetsu desu|Giúp đỡ nhau là điều quan trọng.
+843|やさしいことばはこころをなごませます。|Yasashii kotoba wa kokoro wo nagomase masu|Lời nói dịu dàng làm dịu tâm hồn.
+844|こえをかけることがたいせつです。|Koe wo kakeru koto ga taisetsu desu|Lên tiếng gọi nhau là điều quan trọng.
+845|だれかのために。|Dare ka no tame ni|Vì ai đó.
+846|まわりのひとをしあわせにしたい。|Mawari no hito wo shiawase ni shitai|Muốn làm mọi người xung quanh hạnh phúc.
+847|しんせつにすることはかんたんです。|Shinsetsu ni suru koto wa kantan desu|Làm điều tử tế rất đơn giản.
+848|えがおをわすれずに。|Egao wo wasurezu ni|Đừng quên nụ cười.
+849|いのちをたいせつに。|Inochi wo taisetsu ni|Hãy trân trọng sinh mệnh.
+850|ひとつひとつのであいをたいせつに。|Hitotsu hitotsu no deai wo taisetsu ni|Trân trọng từng cuộc gặp gỡ.
+851|きょうのじぶんはきのうよりすこしつよい。|Kyou no jibun wa kinou yori sukoshi tsuyoi|Bản thân hôm nay mạnh hơn hôm qua một chút.
+852|あしたはもっとよくなります。|Ashita wa motto yoku narimasu|Ngày mai sẽ tốt hơn.
+853|まいにちすこしずつせいちょうします。|Mainichi sukoshi zutsu seichou shimasu|Mỗi ngày phát triển một chút.
+854|しっぱいをこわがらない。|Shippai wo kowagara nai|Không sợ thất bại.
+855|しっぱいはせいこうへのとびらです。|Shippai wa seikou e no tobira desu|Thất bại là cánh cửa đến thành công.
+856|たとえときにたおれても、またたちあがれる。|Tatoe toki ni taore temo, mata tachiagareru|Dù có ngã xuống, vẫn có thể đứng dậy.
+857|じぶんのペースでいい。|Jibun no peesu de ii|Theo nhịp độ của bản thân là được.
+858|きょうもいちにちよくがんばりました。|Kyou mo ichinichi yoku ganbarimashita|Hôm nay cũng đã cố gắng cả ngày.
+859|じぶんをほめてあげましょう。|Jibun wo homete agemashou|Hãy khen ngợi bản thân.
+860|きょうもありがとう、じぶん。|Kyou mo arigatou, jibun|Hôm nay cũng cảm ơn bản thân nhé.
+861|しごとよりけんこうがたいせつです。|Shigoto yori kenkou ga taisetsu desu|Sức khỏe quan trọng hơn công việc.
+862|やすむことも、しごとのうちです。|Yasumu koto mo, shigoto no uchi desu|Nghỉ ngơi cũng là một phần của công việc.
+863|バランスをたいせつにしましょう。|Baransu wo taisetsu ni shimashou|Hãy coi trọng sự cân bằng.
+864|こころのけんこうもたいせつです。|Kokoro no kenkou mo taisetsu desu|Sức khỏe tâm thần cũng quan trọng.
+865|じぶんのきもちにしょうじきになりましょう。|Jibun no kimochi ni shoujiki ni narimashou|Hãy trung thực với cảm xúc của bản thân.
+866|だれかにきもちをはなしましょう。|Dare ka ni kimochi wo hanashimashou|Hãy chia sẻ cảm xúc với ai đó.
+867|ひとりでかかえこまないで。|Hitori de kakaekomai de|Đừng một mình gánh chịu.
+868|あなたのそばにいます。|Anata no soba ni imasu|Tôi ở bên cạnh bạn.
+869|いっしょにのりこえましょう。|Issho ni norikoemashou|Hãy cùng nhau vượt qua.
+870|だいじょうぶ、きっとうまくいく。|Daijoubu, kitto umaku iku|Ổn thôi, nhất định sẽ ổn.
+871|どんなことがあっても、まえをむいて。|Donna koto ga atte mo, mae wo muite|Dù có chuyện gì, hãy nhìn về phía trước.
+872|いまのあなたで じゅうぶんです。|Ima no anata de juubun desu|Bạn hiện tại là đủ rồi.
+873|あなたはひとりじゃない。|Anata wa hitori janai|Bạn không cô đơn.
+874|いつでも こころのなかにいます。|Itsudemo kokoro no naka ni imasu|Tôi luôn ở trong tâm trí bạn.
+875|あなたのことをいつもおうえんしています。|Anata no koto wo itsumo ouen shite imasu|Tôi luôn cổ vũ bạn.
+876|そのままのあなたがすきです。|Sono mama no anata ga suki desu|Tôi thích bạn như bạn vốn là.
+877|かわらないでいてください。|Kawaranai de ite kudasai|Hãy giữ nguyên như vậy.
+878|あなたのよさをしっています。|Anata no yosa wo shitte imasu|Tôi biết điểm tốt của bạn.
+879|じぶんのよさをみつけましょう。|Jibun no yosa wo mitsukemashou|Hãy tìm ra điểm tốt của bản thân.
+880|だれもがとくべつなそんざいです。|Dare mo ga tokubetsu na sonzai desu|Mỗi người đều là sự tồn tại đặc biệt.
+881|このよのなかにはうつくしいものがたくさんあります。|Kono yo no naka ni wa utsukushii mono ga takusan arimasu|Trên đời này có rất nhiều điều đẹp đẽ.
+882|ちいさなしあわせをみつけましょう。|Chiisana shiawase wo mitsukemashou|Hãy tìm thấy hạnh phúc nhỏ bé.
+883|きょうのひかりをかんじてください。|Kyou no hikari wo kanjite kudasai|Hãy cảm nhận ánh sáng hôm nay.
+884|はなのうつくしさにきづいていますか？|Hana no utsukushisa ni kizuite imasu ka?|Bạn có nhận ra vẻ đẹp của hoa không?
+885|しぜんのなかにこころのやすらぎがあります。|Shizen no naka ni kokoro no yasuragi ga arimasu|Trong thiên nhiên có sự bình yên tâm hồn.
+886|かぜのおとをきいていますか？|Kaze no oto wo kiite imasu ka?|Bạn có nghe tiếng gió không?
+887|ほしぞらをみあげましょう。|Hoshizora wo miagemashou|Hãy ngước nhìn bầu trời sao.
+888|たいようのあたたかさをかんじて。|Taiyou no atatakasa wo kanjite|Hãy cảm nhận hơi ấm của mặt trời.
+889|うみのひろさのようにこころをひろく。|Umi no hirosa no you ni kokoro wo hiroku|Mở rộng tâm hồn như biển cả rộng lớn.
+890|たいちのちからをかんじて、すすもう。|Taichi no chikara wo kanjite, susumou|Cảm nhận sức mạnh của đất, tiến lên.
+891|ことしもたくさんがんばりました。|Kotoshi mo takusan ganbarimashita|Năm nay cũng đã cố gắng nhiều.
+892|らいねんはもっとよくなりたいです。|Rainen wa motto yoku naritai desu|Năm tới tôi muốn tốt hơn.
+893|ゆめにむかってすすみます。|Yume ni mukatte susumimasu|Tôi sẽ tiến về phía ước mơ.
+894|あたらしいちょうせんをたのしみます。|Atarashii chousen wo tanoshimimasu|Tôi sẽ tận hưởng những thách thức mới.
+895|まいにちをたいせつにいきます。|Mainichi wo taisetsu ni ikimasu|Tôi sẽ sống trân trọng mỗi ngày.
+896|かこをいかして、みらいにすすむ。|Kako wo ikashite, mirai ni susumu|Tận dụng quá khứ, tiến vào tương lai.
+897|じぶんのものがたりをつづけます。|Jibun no monogatari wo tsudzukemasu|Tôi sẽ tiếp tục câu chuyện của mình.
+898|だれかのきぼうになれたらうれしいです。|Dare ka no kibou ni nareta ra ureshii desu|Thật vui nếu tôi có thể trở thành hy vọng của ai đó.
+899|せかいにやさしさをひろめましょう。|Sekai ni yasashisa wo hiromemashou|Hãy lan tỏa sự tử tế ra thế giới.
+900|すべてのいのちをたいせつに。|Subete no inochi wo taisetsu ni|Hãy trân trọng tất cả sinh mệnh.
+901|にほんごはおもしろいです。|Nihongo wa omoshiroi desu|Tiếng Nhật thật thú vị.
+902|かんじはむずかしいですがきれいです。|Kanji wa muzukashii desu ga kirei desu|Chữ kanji khó nhưng đẹp.
+903|ひらがなはかわいいもじです。|Hiragana wa kawaii moji desu|Hiragana là chữ dễ thương.
+904|カタカナはがいらいごにつかいます。|Katakana wa gairaigo ni tsukaimasu|Katakana dùng cho từ ngoại lai.
+905|にほんごのぶんぽうはとくとくです。|Nihongo no bunpou wa tokutoku desu|Ngữ pháp tiếng Nhật rất độc đáo.
+906|けいごはむずかしいです。|Keigo wa muzukashii desu|Kính ngữ thật khó.
+907|にほんごにはおくりがなもあります。|Nihongo ni wa okurigana mo arimasu|Tiếng Nhật còn có okurigana.
+908|おんよみとくんよみがあります。|Onyomi to kunyomi ga arimasu|Có âm On và âm Kun.
+909|じょしがむずかしいです。|Joshi ga muzukashii desu|Trợ từ thật khó.
+910|にほんごはふかいです。|Nihongo wa fukai desu|Tiếng Nhật rất sâu sắc.
+911|ちゃんとはなせるようになりたい。|Chanto hanaseru you ni naritai|Tôi muốn nói được đúng chuẩn.
+912|ヒアリングをもっとれんしゅうします。|Hiaringu wo motto renshuu shimasu|Tôi sẽ luyện nghe nhiều hơn.
+913|スピーキングはじっさいにつかうのがいちばん。|Supiikingu wa jissai ni tsukau no ga ichiban|Thực hành nói là tốt nhất.
+914|ライティングもたいせつです。|Raiteingu mo taisetsu desu|Viết cũng quan trọng.
+915|リーディングでたんごをふやします。|Riidingu de tango wo fuyashimasu|Tôi tăng từ vựng qua đọc.
+916|にほんのどうがをみてべんきょうします。|Nihon no douga wo mite benkyou shimasu|Tôi học bằng cách xem video Nhật.
+917|オンラインでにほんじんとはなします。|Onrain de nihonjin to hanashimasu|Tôi nói chuyện với người Nhật online.
+918|ランゲージアプリをつかっています。|Rangeeji apuri wo tsukatte imasu|Tôi dùng app học ngôn ngữ.
+919|ことばをそのまましっかりおぼえます。|Kotoba wo sono mama shikkari oboemasu|Tôi ghi nhớ từ ngữ một cách chắc chắn.
+920|にほんごのかいわれんしゅうをします。|Nihongo no kaiwa renshuu wo shimasu|Tôi luyện hội thoại tiếng Nhật.
+921|かいわがじょうずになりました。|Kaiwa ga jouzu ni narimashita|Hội thoại đã tiến bộ rồi.
+922|もっとじょうずになりたいです。|Motto jouzu ni naritai desu|Tôi muốn giỏi hơn nữa.
+923|にほんごのえいがをみます。|Nihongo no eiga wo mimasu|Tôi xem phim tiếng Nhật.
+924|じまくなしでみれるようになりたい。|Jimaku nashi de mireru you ni naritai|Tôi muốn xem được không cần phụ đề.
+925|にほんごのほんをよみます。|Nihongo no hon wo yomimasu|Tôi đọc sách tiếng Nhật.
+926|もじをきれいにかきたい。|Moji wo kirei ni kakitai|Tôi muốn viết chữ đẹp.
+927|しょどうにきょうみがあります。|Shodou ni kyoumi ga arimasu|Tôi có hứng thú với thư pháp.
+928|にほんごのうたをうたいます。|Nihongo no uta wo utaimasu|Tôi hát bài hát tiếng Nhật.
+929|カラオケがたのしいです。|Karaoke ga tanoshii desu|Karaoke rất vui.
+930|にほんごでおわらいをたのしみます。|Nihongo de owarai wo tanoshimimasu|Tôi thưởng thức hài kịch bằng tiếng Nhật.
+931|むずかしいことばもあきらめずにおぼえます。|Muzukashii kotoba mo akiramezu ni oboemasu|Không bỏ cuộc, học cả những từ khó.
+932|まいにちひとつあたらしいことばをおぼえます。|Mainichi hitotsu atarashii kotoba wo oboemasu|Mỗi ngày học một từ mới.
+933|にほんごのたびはながいです。|Nihongo no tabi wa nagai desu|Hành trình tiếng Nhật thật dài.
+934|でも、たのしいたびです。|Demo, tanoshii tabi desu|Nhưng đó là hành trình vui vẻ.
+935|いっしょにあるきましょう。|Issho ni arukimashou|Hãy cùng nhau bước đi.
+936|ゴールはちかいです。|Gooru wa chikai desu|Mục tiêu đã gần rồi.
+937|あとすこしでN1です！|Ato sukoshi de N1 desu!|Chỉ còn một chút nữa là N1!
+938|がんばれば、かならずできます。|Ganbare ba, kanarazu dekimasu|Nếu cố gắng, nhất định sẽ được.
+939|ゆめはかならずかなう。|Yume wa kanarazu kanau|Ước mơ nhất định sẽ thành hiện thực.
+940|にほんごをとおしてせかいがひろがります。|Nihongo wo tooshite sekai ga hirogarimasu|Qua tiếng Nhật, thế giới mở rộng.
+941|ことばをしることは、ひとをしること。|Kotoba wo shiru koto wa, hito wo shiru koto|Biết ngôn ngữ là biết con người.
+942|にほんごでともだちができました。|Nihongo de tomodachi ga dekimashita|Tôi kết bạn được qua tiếng Nhật.
+943|げんごはこころとこころをつなぎます。|Gengo wa kokoro to kokoro wo tsunagimasu|Ngôn ngữ kết nối tâm hồn với tâm hồn.
+944|べんきょうはつらいけど、たのしい。|Benkyou wa tsurai kedo, tanoshii|Học tập vất vả nhưng vui vẻ.
+945|まなぶよろこびをわすれずに。|Manabu yorokobi wo wasurezu ni|Đừng quên niềm vui học hỏi.
+946|こんなにがんばっているじぶんをほめる。|Konna ni ganbatte iru jibun wo homeru|Khen ngợi bản thân đã cố gắng đến vậy.
+947|にほんごができてよかった、ほんとうに。|Nihongo ga dekite yokatta, hontou ni|Thực sự thật tốt khi biết tiếng Nhật.
+948|これからもずっとまなびつづけます。|Kore kara mo zutto manabi tsudzukemasu|Sẽ tiếp tục học mãi mãi.
+949|にほんごのせかいはひろいです。|Nihongo no sekai wa hiroi desu|Thế giới tiếng Nhật thật rộng lớn.
+950|まだまだたのしいことがまっています。|Mada mada tanoshii koto ga matte imasu|Vẫn còn nhiều điều thú vị đang chờ.
+951|さあ、つぎのステージへ！|Saa, tsugi no suteeji e!|Nào, đến giai đoạn tiếp theo!
+952|あきらめずにすすみます。|Akiramezu ni susumimasu|Không bỏ cuộc, tiếp tục tiến.
+953|こんかいのもくひょうをたっせいしました。|Konkai no mokuhyou wo tassei shimashita|Đã đạt được mục tiêu lần này.
+954|つぎのもくひょうをきめます。|Tsugi no mokuhyou wo kimemasu|Tôi sẽ đặt mục tiêu tiếp theo.
+955|どんなにむずかしくても、すすみます。|Donna ni muzukashikute mo, susumimasu|Dù khó đến đâu, tôi vẫn tiến.
+956|にほんごをこよなくあいしています。|Nihongo wo konoyonaku aishite imasu|Tôi yêu tiếng Nhật hết mực.
+957|このごにあったことをしあわせにおもいます。|Kono go ni atta koto wo shiawase ni omoimasu|Tôi cảm thấy hạnh phúc khi gặp ngôn ngữ này.
+958|ことばとともにせいちょうします。|Kotoba to tomo ni seichou shimasu|Tôi cùng lớn lên với ngôn ngữ.
+959|にほんごがわたしのいきがいです。|Nihongo ga watashi no ikigai desu|Tiếng Nhật là lý do sống của tôi.
+960|これからもよろしく、にほんご！|Kore kara mo yoroshiku, nihongo!|Từ nay về sau mong nhờ vả nhé, tiếng Nhật!
+961|どうもありがとうございました。|Doumo arigatou gozaimashita|Thành thật cảm ơn.
+962|おかげさまで。|Okage sama de|Nhờ có bạn.
+963|こちらこそ。|Kochira koso|Tôi mới là người phải cảm ơn.
+964|またいつでもどうぞ。|Mata itsudemo douzo|Lúc nào cũng được, mời bạn.
+965|なんなりとおっしゃってください。|Nannari to osshatte kudasai|Cứ tự nhiên nói.
+966|おまかせください。|Omakase kudasai|Hãy để tôi lo.
+967|りょうかいです。|Ryoukai desu|Hiểu rồi. / Nhận lệnh.
+968|もちろんです。|Mochiron desu|Dĩ nhiên.
+969|はっきりいいます。|Hakkiri iimasu|Tôi nói thẳng.
+970|むりはいいません。|Muri wa iimasen|Tôi không nói điều không thể.
+971|しんぱいいりません。|Shinpai irimasen|Không cần lo lắng.
+972|おまかせを。|Omakase wo|Cứ để tôi lo.
+973|きぼうどおりにします。|Kibou doori ni shimasu|Tôi sẽ làm đúng như bạn mong.
+974|さいぜんをつくします。|Saizen wo tsukushimasu|Tôi sẽ cố gắng hết sức.
+975|いっしょうけんめいやります。|Isshoukenmei yarimasu|Tôi sẽ làm với tất cả sức lực.
+976|ぜったいにやりとげます。|Zettai ni yaritogemasu|Tôi nhất định sẽ hoàn thành.
+977|まかせてください。|Makasete kudasai|Hãy tin tưởng vào tôi.
+978|しっかりやります。|Shikkari yarimasu|Tôi sẽ làm chắc chắn.
+979|ぜんりょくでとりくみます。|Zenryoku de torikumimasu|Tôi sẽ dốc hết sức.
+980|かならずやります。|Kanarazu yarimasu|Tôi nhất định sẽ làm.
+981|おわりよければすべてよし。|Owari yokereba subete yoshi|Cuối tốt là tất cả đều tốt.
+982|はじまりがあればおわりがある。|Hajimari ga areba owari ga aru|Có bắt đầu thì có kết thúc.
+983|じんせいはながいたびです。|Jinsei wa nagai tabi desu|Cuộc đời là một chuyến hành trình dài.
+984|そのたびをたのしんでください。|Sono tabi wo tanoshinde kudasai|Hãy tận hưởng chuyến hành trình đó.
+985|まいにちがかけがえないものです。|Mainichi ga kakegae nai mono desu|Mỗi ngày là điều không thể thay thế.
+986|いまこのしゅんかんをたいせつに。|Ima kono shunkan wo taisetsu ni|Hãy trân trọng khoảnh khắc hiện tại này.
+987|あなたのじんせいをいきてください。|Anata no jinsei wo ikite kudasai|Hãy sống cuộc đời của chính bạn.
+988|だれかのためではなく、じぶんのために。|Dare ka no tame de wa naku, jibun no tame ni|Không phải vì ai khác, mà vì bản thân.
+989|あなたのしあわせはあなたがきめる。|Anata no shiawase wa anata ga kimeru|Hạnh phúc của bạn do chính bạn quyết định.
+990|こころからのわらいをわすれずに。|Kokoro kara no warai wo wasurezu ni|Đừng quên nụ cười từ đáy lòng.
+991|やさしいせかいをつくりましょう。|Yasashii sekai wo tsukurimashou|Hãy cùng tạo ra một thế giới tử tế.
+992|みんなでいっしょに。|Minna de issho ni|Tất cả cùng nhau.
+993|ちいさなこうどうがせかいをかえる。|Chiisana koudou ga sekai wo kaeru|Hành động nhỏ thay đổi thế giới.
+994|あなたのいちほがせかいをうごかす。|Anata no ichiho ga sekai wo ugokasu|Một bước của bạn làm chuyển động thế giới.
+995|あしたもいいひになりますように。|Ashita mo ii hi ni narimasu you ni|Mong ngày mai cũng là ngày tốt lành.
+996|ゆめのつづきはあした。|Yume no tsuzuki wa ashita|Tiếp nối giấc mơ vào ngày mai.
+997|さあ、あしたへ！|Saa, ashita e!|Nào, hướng đến ngày mai!
+998|こんにちはからさようならまで、ありがとう。|Konnichiwa kara sayounara made, arigatou|Từ xin chào đến tạm biệt, cảm ơn.
+999|にほんごとともにすてきなじんせいを。|Nihongo to tomo ni suteki na jinsei wo|Cuộc đời tươi đẹp cùng tiếng Nhật.
+1000|またいつかどこかで、あいましょう。|Mata itsuka doko ka de, aimashou|Hẹn gặp lại ở đâu đó một ngày nào đó.

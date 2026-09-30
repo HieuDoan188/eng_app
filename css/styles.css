@@ -100,6 +100,8 @@ p { margin: 0 0 .75rem; }
   border-bottom: 1px solid var(--border);
 }
 .brand { font-weight: 700; text-decoration: none; color: var(--text); }
+.lang-switch select { width: auto; min-height: 34px; padding: .25rem .5rem; font-size: .9rem; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .nav { display: flex; gap: .25rem; overflow-x: auto; }
 .nav a {
   padding: .35rem .65rem; border-radius: 8px;
@@ -182,7 +184,11 @@ p { margin: 0 0 .75rem; }
 .table th { color: var(--text-2); font-weight: 600; font-size: .8rem; }
 .table td.num, .table th.num { text-align: right; font-variant-numeric: tabular-nums; }
 .table-wrap { overflow-x: auto; }
-.ko { font-size: 1.05rem; font-weight: 600; }
+.target { font-size: 1.05rem; font-weight: 600; }
+/* Pick the right CJK glyphs and fonts per language */
+:lang(ja) { font-family: system-ui, "Hiragino Sans", "Yu Gothic", "Noto Sans JP", "Noto Sans CJK JP", sans-serif; }
+:lang(zh-CN) { font-family: system-ui, "PingFang SC", "Microsoft YaHei", "Noto Sans SC", "Noto Sans CJK SC", sans-serif; }
+:lang(ko) { font-family: system-ui, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", "Noto Sans CJK KR", sans-serif; }
 .rom { color: var(--muted); font-size: .85rem; font-style: italic; }
 .badge { display: inline-block; font-size: .72rem; padding: .1rem .45rem; border-radius: 999px; border: 1px solid var(--border); color: var(--text-2); white-space: nowrap; }
 .badge.learning { border-color: var(--warn); color: var(--warn); }
@@ -233,6 +239,7 @@ input[type="range"] { width: 100%; }
 @media (max-width: 560px) {
   .topbar { gap: .4rem; }
   .nav { width: 100%; }
+  .lang-switch { margin-left: auto; }
   .nav { justify-content: space-between; }
   .nav a { padding: .3rem .4rem; font-size: .85rem; }
   .tile .value { font-size: 1.35rem; }

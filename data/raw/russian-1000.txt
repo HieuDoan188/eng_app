@@ -1,0 +1,1036 @@
+# Format: "## <chapter no>|<Vietnamese title>|<Russian title>" starts a chapter;
+# each sentence line is "<no>|<Russian>|<transliteration>|<Vietnamese>".
+## 1|Chào hỏi & Giới thiệu|Приветствия и знакомство
+1|Привет!|Privet!|Xin chào! (thân mật)
+2|Здравствуйте!|Zdravstvuyte!|Xin chào! (trang trọng)
+3|Доброе утро!|Dobroye utro!|Chào buổi sáng!
+4|Добрый день!|Dobryy den'!|Chào buổi chiều!
+5|Добрый вечер!|Dobryy vecher!|Chào buổi tối!
+6|Спокойной ночи!|Spokoynoy nochi!|Chúc ngủ ngon!
+7|Как тебя зовут?|Kak tebya zovut?|Tên bạn là gì? (thân mật)
+8|Как вас зовут?|Kak vas zovut?|Tên bạn là gì? (trang trọng)
+9|Меня зовут ~.|Menya zovut ~|Tên tôi là ~.
+10|Как дела?|Kak dela?|Bạn có khỏe không?
+11|Хорошо, спасибо.|Khorosho, spasibo|Tôi khỏe, cảm ơn.
+12|А у тебя?|A u tebya?|Còn bạn?
+13|Откуда вы?|Otkuda vy?|Bạn đến từ đâu?
+14|Я из Вьетнама.|Ya iz V'yetnama|Tôi đến từ Việt Nam.
+15|Очень приятно.|Ochen' priyatno|Rất vui được gặp bạn.
+16|Приятно познакомиться.|Priyatno poznakomit'sya|Rất hân hạnh được làm quen.
+17|Давно не виделись!|Davno ne videlis'!|Lâu rồi không gặp!
+18|Как поживаешь?|Kak pozhivayesh'?|Dạo này thế nào?
+19|Войдите, пожалуйста.|Voydite, pozhaluysta|Xin mời vào.
+20|Добро пожаловать!|Dobro pozhalovat'!|Chào mừng!
+21|До свидания.|Do svidaniya|Tạm biệt.
+22|Пока!|Poka!|Tạm biệt! (thân mật)
+23|До скорого!|Do skorogo!|Hẹn gặp sớm!
+24|Увидимся!|Uvidimsya!|Gặp lại nhé!
+25|Берегите себя.|Beregite sebya|Bảo trọng nhé.
+## 2|Lịch sự & Phép xã giao|Вежливые выражения
+26|Спасибо.|Spasibo|Cảm ơn.
+27|Большое спасибо.|Bol'shoye spasibo|Cảm ơn rất nhiều.
+28|Пожалуйста.|Pozhaluysta|Làm ơn / Không có gì.
+29|Не за что.|Ne za chto|Không có gì.
+30|Извините.|Izvinite|Xin lỗi.
+31|Простите.|Prostite|Xin thứ lỗi.
+32|Ничего страшного.|Nichego strashnogo|Không sao.
+33|Всё в порядке.|Vsyo v poryadke|Mọi thứ ổn thôi.
+34|Конечно.|Konechno|Tất nhiên.
+35|Разумеется.|Razumeyetsya|Dĩ nhiên.
+36|Хорошо.|Khorosho|Được rồi / Tốt.
+37|Понятно.|Ponyatno|Tôi hiểu rồi.
+38|Нет проблем.|Net problem|Không vấn đề.
+39|Проходите, пожалуйста.|Prokhodite, pozhaluysta|Mời bạn đi trước.
+40|Я угощаю.|Ya ugoshchayu|Tôi mời.
+41|Спасибо за помощь.|Spasibo za pomoshch'|Cảm ơn vì sự giúp đỡ.
+42|Вы очень добры.|Vy ochen' dobry|Bạn thật tốt bụng.
+43|Приятного аппетита!|Priyatnogo appetita!|Chúc ăn ngon!
+44|За ваше здоровье!|Za vashe zdorov'ye!|Chúc sức khỏe!
+45|Будьте здоровы.|Bud'te zdorovy|Giữ gìn sức khỏe.
+46|Пожалуйста, присаживайтесь.|Pozhaluysta, prisazhivaytes'|Mời bạn ngồi.
+47|Спасибо за всё.|Spasibo za vsyo|Cảm ơn vì tất cả.
+48|Вы правы.|Vy pravy|Bạn nói đúng.
+49|Удачи!|Udachi!|Chúc may mắn!
+50|Всего хорошего!|Vsego khoroshego!|Mọi điều tốt lành!
+## 3|Hỏi đường|Как пройти
+51|Где находится ~?|Gde nakhoditsya ~?|~ ở đâu?
+52|Где туалет?|Gde tualet?|Nhà vệ sinh ở đâu?
+53|Есть ли ~ поблизости?|Est' li ~ poblizosti?|Gần đây có ~ không?
+54|Я заблудился/заблудилась.|Ya zabludilsya/zabludilas'|Tôi bị lạc rồi.
+55|Как добраться до ~?|Kak dobrat'sya do ~?|Làm thế nào để đến ~?
+56|Идите прямо.|Idite pryamo|Đi thẳng.
+57|Поверните направо.|Povernite napravo|Rẽ phải.
+58|Поверните налево.|Povernite nalevo|Rẽ trái.
+59|Это далеко?|Eto daleko?|Có xa không?
+60|Это близко?|Eto blizko?|Có gần không?
+61|Можно дойти пешком?|Mozhno doyti peshkom?|Đi bộ được không?
+62|Покажите на карте, пожалуйста.|Pokazhite na karte, pozhaluysta|Chỉ trên bản đồ hộ tôi.
+63|Где я нахожусь?|Gde ya nakhozhus'?|Tôi đang ở đâu?
+64|Это рядом с ~.|Eto ryadom s ~|Nó ở cạnh ~.
+65|Это перед ~.|Eto pered ~|Nó ở phía trước ~.
+66|Это за ~.|Eto za ~|Nó ở phía sau ~.
+67|Поверните на углу.|Povernite na uglu|Rẽ ở góc đường.
+68|Идти ~ минут.|Idti ~ minut|Đi bộ ~ phút.
+69|Где станция метро?|Gde stantsiya metro?|Ga tàu điện ngầm ở đâu?
+70|Где автобусная остановка?|Gde avtobusnaya ostanovka?|Trạm xe buýt ở đâu?
+## 4|Mua sắm|Покупки
+71|Сколько это стоит?|Skol'ko eto stoit?|Cái này giá bao nhiêu?
+72|Это очень дорого.|Eto ochen' dorogo|Đắt quá.
+73|Есть что-нибудь подешевле?|Est' chto-nibud' podeshevle?|Có cái gì rẻ hơn không?
+74|Я возьму это.|Ya voz'mu eto|Tôi lấy cái này.
+75|Есть другой размер?|Est' drugoy razmer?|Có kích cỡ khác không?
+76|Можно примерить?|Mozhno primerit'?|Tôi có thể thử không?
+77|Вы принимаете кредитные карты?|Vy prinimaete kreditnyye karty?|Có nhận thẻ tín dụng không?
+78|Дайте чек, пожалуйста.|Dayte chek, pozhaluysta|Cho tôi hóa đơn.
+79|Я хочу вернуть товар.|Ya khochu vernut' tovar|Tôi muốn trả hàng.
+80|Я хочу обменять товар.|Ya khochu obmenyat' tovar|Tôi muốn đổi hàng.
+81|Дайте пакет, пожалуйста.|Dayte paket, pozhaluysta|Cho tôi túi.
+82|Есть этот цвет?|Est' etot tsvet?|Màu này có không?
+83|Можно скидку?|Mozhno skidku?|Có thể giảm giá không?
+84|Дайте сдачу.|Dayte sdachu|Trả tiền thừa.
+85|Есть в наличии?|Est' v nalichii?|Còn hàng không?
+86|Когда распродажа?|Kogda rasprodazha?|Khi nào có giảm giá?
+87|Упакуйте как подарок.|Upakuyte kak podarok|Gói quà tặng hộ tôi.
+88|Есть налоговый возврат?|Est' nalogovyy vozvrat?|Có miễn thuế không?
+89|Где касса?|Gde kassa?|Quầy thanh toán ở đâu?
+90|Я просто смотрю.|Ya prosto smotryu|Tôi chỉ xem thôi.
+## 5|Nhà hàng & Ăn uống|В ресторане
+91|Столик на двоих, пожалуйста.|Stolik na dvoikh, pozhaluysta|Một bàn hai người.
+92|Принесите меню, пожалуйста.|Prinesite menyu, pozhaluysta|Cho tôi xem menu.
+93|Я хочу заказать.|Ya khochu zakazat'|Tôi muốn đặt món.
+94|Что вы рекомендуете?|Chto vy rekomenduete?|Bạn giới thiệu gì?
+95|Это острое?|Eto ostroye?|Có cay không?
+96|У меня аллергия на ~.|U menya allergiya na ~|Tôi bị dị ứng với ~.
+97|Принесите счёт, пожалуйста.|Prinesite schyot, pozhaluysta|Cho tôi hóa đơn.
+98|Очень вкусно!|Ochen' vkusno!|Rất ngon!
+99|Воды, пожалуйста.|Vody, pozhaluysta|Cho tôi nước.
+100|Без мяса, пожалуйста.|Bez myasa, pozhaluysta|Không có thịt.
+101|Поменьше острого.|Pomen'she ostrogo|Ít cay hơn.
+102|Раздельный счёт.|Razdel'nyy schyot|Thanh toán riêng.
+103|Я хочу забронировать столик.|Ya khochu zabronirovat' stolik|Tôi muốn đặt bàn.
+104|На вынос, пожалуйста.|Na vynos, pozhaluysta|Gói mang về.
+105|Какое блюдо дня?|Kakoye blyudo dnya?|Hôm nay có món đặc biệt gì?
+106|Что это за блюдо?|Chto eto za blyudo?|Món này là gì?
+107|Ещё хлеба, пожалуйста.|Yeshchyo khleba, pozhaluysta|Thêm bánh mì.
+108|Одну минуту.|Odnu minutu|Chờ một chút.
+109|Было очень вкусно.|Bylo ochen' vkusno|Thực sự rất ngon.
+110|Вы один/одна?|Vy odin/odna?|Bạn ăn một mình?
+## 6|Giao thông & Du lịch|Транспорт и путешествия
+111|Один билет до ~, пожалуйста.|Odin bilet do ~, pozhaluysta|Cho tôi một vé đến ~.
+112|Когда отправляется поезд?|Kogda otpravlyayetsya poyezd?|Tàu khởi hành lúc mấy giờ?
+113|Билет в одну сторону.|Bilet v odnu storonu|Vé một chiều.
+114|Билет туда и обратно.|Bilet tuda i obratno|Vé khứ hồi.
+115|Это место занято?|Eto mesto zanyato?|Chỗ này có ai ngồi không?
+116|С какой платформы?|S kakoy platformy?|Từ sân ga nào?
+117|Вызовите такси, пожалуйста.|Vyzovite taksi, pozhaluysta|Gọi taxi hộ tôi.
+118|Отвезите меня по этому адресу.|Otvesite menya po etomu adresu|Đưa tôi đến địa chỉ này.
+119|Сколько стоит проезд?|Skol'ko stoit proyezd?|Giá vé bao nhiêu?
+120|Я опоздал/опоздала на самолёт.|Ya opozdal/opozdala na samolyet|Tôi lỡ máy bay.
+121|Мой багаж потерялся.|Moy bagazh poteryalsya|Tôi mất hành lý.
+122|Где регистрация?|Gde registratsiya?|Làm thủ tục ở đâu?
+123|Нужна ли пересадка?|Nuzhna li peresadka?|Có phải chuyển tuyến không?
+124|Место у окна, пожалуйста.|Mesto u okna, pozhaluysta|Ghế cạnh cửa sổ.
+125|Где выйти?|Gde vyyti?|Tôi nên xuống ở đâu?
+126|Есть прямой рейс?|Est' pryamoy reys?|Có chuyến bay thẳng không?
+127|Следующая остановка?|Sleduyushchaya ostanovka?|Trạm tiếp theo là đâu?
+128|Где автобусная остановка?|Gde avtobusnaya ostanovka?|Trạm xe buýt ở đâu?
+129|Где купить транспортную карту?|Gde kupit' transportnuyu kartu?|Mua thẻ giao thông ở đâu?
+130|Сколько ехать до аэропорта?|Skol'ko yekhat' do aeroporta?|Đến sân bay mất bao lâu?
+## 7|Sức khỏe & Bệnh viện|Здоровье и больница
+131|Я плохо себя чувствую.|Ya plokho sebya chuvstvuyu|Tôi cảm thấy không khỏe.
+132|У меня болит голова.|U menya bolit golova|Tôi bị đau đầu.
+133|У меня болит живот.|U menya bolit zhivot|Tôi bị đau bụng.
+134|У меня температура.|U menya temperatura|Tôi bị sốt.
+135|Мне нужно к врачу.|Mne nuzhno k vrachu|Tôi muốn gặp bác sĩ.
+136|Вызовите скорую!|Vyzovite skoruyu!|Gọi xe cấp cứu!
+137|Мне больно.|Mne bol'no|Tôi đau.
+138|У меня аллергия на это лекарство.|U menya allergiya na eto lekarstvo|Tôi dị ứng thuốc này.
+139|Сколько раз в день принимать?|Skol'ko raz v den' prinimat'?|Uống mấy lần một ngày?
+140|Выпишите рецепт, пожалуйста.|Vypishite retsept, pozhaluysta|Làm ơn kê đơn thuốc.
+141|Я хочу записаться на приём.|Ya khochu zapisat'sya na priyom|Tôi muốn đặt lịch hẹn.
+142|Где болит?|Gde bolit?|Đau ở đâu?
+143|Нужен ли укол?|Nuzhen li ukol?|Có cần tiêm không?
+144|Это серьёзно?|Eto ser'yozno?|Có nghiêm trọng không?
+145|Я повредил/повредила ногу.|Ya povredil/povredila nogu|Tôi bị thương ở chân.
+146|У меня болит горло.|U menya bolit gorlo|Tôi đau họng.
+147|Принимайте два раза в день.|Prinimayte dva raza v den'|Uống hai lần một ngày.
+148|Отдыхайте побольше.|Otdykhayte pobol'she|Hãy nghỉ ngơi nhiều hơn.
+149|Вам нужна госпитализация.|Vam nuzhna gospitalizatsiya|Cần phải nhập viện.
+150|Скорейшего выздоровления!|Skoreyshego vyzdorovleniya!|Mau khỏe lại nhé!
+## 8|Công việc & Văn phòng|Работа и офис
+151|Когда начинается совещание?|Kogda nachinayetsya soveshchaniye?|Cuộc họp bắt đầu lúc mấy giờ?
+152|Пришлите мне отчёт.|Prishlit' mne otchyot|Gửi báo cáo cho tôi.
+153|Сегодня я опоздаю.|Segodnya ya opozday|Hôm nay tôi sẽ đến muộn.
+154|Дедлайн завтра.|Dedlayn zavtra|Hạn chót là ngày mai.
+155|Можно перенести встречу?|Mozhno perennesti vstrechu?|Có thể đổi lịch không?
+156|Я хочу взять выходной.|Ya khochu vzyat' vykhodnoy|Tôi muốn xin nghỉ.
+157|Проверьте этот документ.|Prover'te etot dokument|Kiểm tra tài liệu này.
+158|Принтер сломан.|Printer sloman|Máy in bị hỏng.
+159|Сегодня у меня собеседование.|Segodnya u menya sobesedovaniye|Hôm nay tôi có phỏng vấn.
+160|Когда день зарплаты?|Kogda den' zarplaty?|Ngày trả lương là khi nào?
+161|Могу я сегодня работать дома?|Mogu ya segodnya rabotat' doma?|Hôm nay tôi có thể làm việc ở nhà không?
+162|Подпишите здесь.|Podpishite zdes'|Ký vào đây.
+163|Система не работает.|Sistema ne rabotayet|Hệ thống bị lỗi.
+164|Объясните ещё раз.|Ob"yasnite yeshchyo raz|Giải thích lại một lần.
+165|Я свяжусь с вами позже.|Ya svyazhu s' vami pozzhe|Tôi sẽ liên lạc sau.
+166|Давайте проведём видеозвонок.|Davayte provodyom videozvonok|Hãy mở cuộc gọi video.
+167|Я хочу подать заявку на эту должность.|Ya khochu podat' zayavku na etu dolzhnost'|Tôi muốn ứng tuyển vào vị trí này.
+168|Поставьте меня в копию.|Postav'te menya v kopiyu|Hãy CC tôi vào email.
+169|Проект идёт по плану.|Proyekt idyot po planu|Dự án đúng tiến độ.
+170|Меня повысили!|Menya povysili!|Tôi được thăng chức!
+## 9|Học tập & Giáo dục|Учёба и образование
+171|Повторите, пожалуйста.|Povtorite, pozhaluysta|Nói lại một lần nữa.
+172|Я не понимаю.|Ya ne ponimayu|Tôi không hiểu.
+173|Говорите медленнее.|Govorite medlennee|Nói chậm hơn.
+174|Как это пишется?|Kak eto pishetsya?|Cái đó viết thế nào?
+175|Что означает это слово?|Chto oznachayet eto slovo?|Từ này có nghĩa là gì?
+176|Одолжите ручку.|Odolzhite ruchku|Mượn bút được không?
+177|Когда экзамен?|Kogda ekzamen?|Khi nào thi?
+178|Нужно больше учиться.|Nuzhno bol'she uchit'sya|Tôi cần học nhiều hơn.
+179|Помогите с домашним заданием.|Pomogite s domashnim zadaniyem|Giúp tôi làm bài tập.
+180|Я провалил/провалила экзамен.|Ya provalil/provalila ekzamen|Tôi trượt thi.
+181|Я сдал/сдала экзамен!|Ya sdal/sdala ekzamen!|Tôi đậu thi!
+182|Где библиотека?|Gde biblioteka?|Thư viện ở đâu?
+183|Можно взять эту книгу?|Mozhno vzyat' etu knigu?|Mượn sách này được không?
+184|Сдайте домашнее задание.|Sdayte domashneye zadaniye|Nộp bài tập.
+185|Сегодня нет занятий.|Segodnya net zanyatiy|Hôm nay không có lớp.
+186|Я изучаю экономику.|Ya izuchayu ekonomiku|Tôi học chuyên ngành kinh tế.
+187|Когда начинается семестр?|Kogda nachinayetsya semestr?|Học kỳ bắt đầu khi nào?
+188|Я хочу подать на стипендию.|Ya khochu podat' na stipendiyu|Tôi muốn đăng ký học bổng.
+189|Это будет на экзамене?|Eto budet na ekzamene?|Cái này có trong bài thi không?
+190|Какую главу мы проходим?|Kakuyu glavu my prokhodim?|Đang học đến chương mấy?
+## 10|Điện thoại & Công nghệ|Телефон и технологии
+191|Можно воспользоваться телефоном?|Mozhno vospol'zovat'sya telefonom?|Mượn điện thoại được không?
+192|Телефон разрядился.|Telefon razryadilsya|Điện thoại hết pin.
+193|Можно зарядить телефон здесь?|Mozhno zaryadit' telefon zdes'?|Sạc điện ở đây được không?
+194|Здесь есть Wi-Fi?|Zdes' yest' Wi-Fi?|Ở đây có Wi-Fi không?
+195|Какой пароль от Wi-Fi?|Kakoy parol' ot Wi-Fi?|Mật khẩu Wi-Fi là gì?
+196|Компьютер сломался.|Komp'yuter slomalsya|Máy tính bị hỏng.
+197|Напишите мне сообщение.|Napishite mne soobshcheniye|Gửi tin nhắn cho tôi.
+198|Я перезвоню вам.|Ya perezvonyu vam|Tôi sẽ gọi lại.
+199|Вы меня слышите?|Vy menya slyshite?|Bạn có nghe tôi không?
+200|Я пришлю вам письмо.|Ya prishlu vam pis'mo|Tôi sẽ gửi email cho bạn.
+201|Интернет медленный.|Internet medlennyy|Internet chậm.
+202|Я забыл/забыла пароль.|Ya zabyl/zabyla parol'|Tôi quên mật khẩu.
+203|Как скачать?|Kak skachat'?|Tải về thế nào?
+204|Телефон завис.|Telefon zavis|Điện thoại bị đơ.
+205|Можно видеозвонок?|Mozhno videozvonok?|Gọi video được không?
+206|Принтер не подключается.|Printer ne podklyuchayetsya|Máy in không kết nối được.
+207|Сайт не открывается.|Sayt ne otkryvayetsya|Không mở được trang web.
+208|Можно установить это приложение?|Mozhno ustanovit' eto prilozheniye?|Cài app này được không?
+209|Нет сигнала.|Net signala|Không có sóng.
+210|Оставьте сообщение.|Ostav'te soobshcheniye|Hãy để lại tin nhắn.
+## 11|Cảm xúc & Trạng thái|Эмоции и состояния
+211|Я счастлив/счастлива.|Ya schastliv/schastliva|Tôi vui.
+212|Мне грустно.|Mne grustno|Tôi buồn.
+213|Я устал/устала.|Ya ustal/ustala|Tôi mệt.
+214|Я голоден/голодна.|Ya goloden/golodna|Tôi đói.
+215|Я хочу пить.|Ya khochu pit'|Tôi khát.
+216|Мне скучно.|Mne skuchno|Tôi chán.
+217|Я в восторге!|Ya v vostorge!|Tôi hào hứng!
+218|Я нервничаю.|Ya nervnichayu|Tôi hồi hộp.
+219|Я злюсь.|Ya zlyus'|Tôi tức giận.
+220|Я в замешательстве.|Ya v zameshatel'stve|Tôi bối rối.
+221|Я удивлён/удивлена.|Ya udivlyon/udivlena|Tôi ngạc nhiên.
+222|Я разочарован/разочарована.|Ya razocharovan/razocharovana|Tôi thất vọng.
+223|Я благодарен/благодарна.|Ya blagodaren/blagodarna|Tôi biết ơn.
+224|Я горжусь тобой.|Ya gorzhus' toboy|Tôi tự hào về bạn.
+225|Мне одиноко.|Mne odinoko|Tôi cô đơn.
+226|Сегодня мне хорошо.|Segodnya mne khorosho|Hôm nay tôi cảm thấy tốt.
+227|Я в стрессе.|Ya v stresse|Tôi đang bị căng thẳng.
+228|У меня хорошее настроение.|U menya khorosheye nastroyeniye|Tôi đang có tâm trạng tốt.
+229|Я беспокоюсь.|Ya bespokoyus'|Tôi đang lo lắng.
+230|Не могу удержаться от смеха.|Ne mogu uderzhat'sya ot smekha|Tôi không nhịn cười được.
+## 12|Thời tiết|Погода
+231|Какая сегодня погода?|Kakaya segodnya pogoda?|Thời tiết hôm nay thế nào?
+232|Солнечно.|Solnechno|Trời nắng.
+233|Идёт дождь.|Idyot dozhd'|Đang mưa.
+234|Сегодня очень холодно.|Segodnya ochen' kholodno|Hôm nay rất lạnh.
+235|Жарко и влажно.|Zharko i vlazhno|Nóng và ẩm.
+236|Надвигается шторм.|Nadvigayetsya shtorm|Có bão đang đến.
+237|Завтра будет дождь?|Zavtra budet dozhd'?|Ngày mai có mưa không?
+238|Идёт снег.|Idyot sneg|Đang có tuyết rơi.
+239|Возьмите зонт.|Voz'mite zont|Mang ô theo nhé.
+240|Хорошая погода.|Khoroshaya pogoda|Thời tiết đẹp.
+241|Дует ветер.|Duyet veter|Trời có gió.
+242|Густой туман.|Gustoy tuman|Sương mù dày.
+243|Очень холодно.|Ochen' kholodno|Rất lạnh.
+244|Сколько градусов сегодня?|Skol'ko gradusov segodnya?|Hôm nay mấy độ?
+245|Вот радуга!|Vot raduga!|Có cầu vồng!
+246|Прогноз обещает дождь.|Prognoz obeshchayet dozhd'|Dự báo thời tiết nói sẽ có mưa.
+247|Небо пасмурное.|Nebo pasmurnoye|Trời âm u.
+248|Ясное небо.|Yasnoye nebo|Bầu trời trong xanh.
+249|Снег накапливается.|Sneg nakaplivayetsya|Tuyết đang tích tụ.
+250|Какой чудесный день!|Kakoy chudesnyy den'!|Thật là ngày đẹp trời!
+## 13|Gia đình & Mối quan hệ|Семья и отношения
+251|У тебя есть братья или сёстры?|U tebya yest' brat'ya ili syostry?|Bạn có anh chị em không?
+252|У меня два младших брата.|U menya dva mladshikh brata|Tôi có hai em trai.
+253|Ты женат/замужем?|Ty zhenat/zamuzhem?|Bạn đã kết hôn chưa?
+254|Я не женат/не замужем.|Ya ne zhenat/ne zamuzhem|Tôi chưa kết hôn.
+255|Сколько у тебя детей?|Skol'ko u tebya detey?|Bạn có mấy con?
+256|Мои родители на пенсии.|Moi roditeli na pensii|Bố mẹ tôi đã về hưu.
+257|Я скучаю по семье.|Ya skuchayu po sem'ye|Tôi nhớ gia đình.
+258|Мы поженимся в следующем году.|My pozhenimsya v sleduyushchem godu|Chúng tôi sẽ kết hôn năm sau.
+259|Она моя девушка.|Ona moya devushka|Cô ấy là bạn gái tôi.
+260|Он мой муж.|On moy muzh|Anh ấy là chồng tôi.
+261|У нас много общего.|U nas mnogo obshchego|Chúng tôi có nhiều điểm chung.
+262|Я вырос/выросла в Ханое.|Ya vyros/vyrosla v Khanoe|Tôi lớn lên ở Hà Nội.
+263|Моя бабушка очень пожилая.|Moya babushka ochen' pozhilaya|Bà tôi rất cao tuổi.
+264|Мы близкие друзья.|My blizkie druz'ya|Chúng tôi là bạn thân.
+265|Она для меня как сестра.|Ona dlya menya kak sestra|Cô ấy như chị em của tôi.
+266|Мы расстались.|My rasstalis'|Chúng tôi chia tay.
+267|Они ждут ребёнка.|Oni zhdut rebyonka|Họ đang chờ đón em bé.
+268|Моему сыну пять лет.|Moyemu synu pyat' let|Con trai tôi năm tuổi.
+269|Я единственный ребёнок в семье.|Ya yedinstvennyy rebyonok v sem'ye|Tôi là con một.
+270|Семья — это главное.|Sem'ya — eto glavnoye|Gia đình là trên hết.
+## 14|Sở thích & Hoạt động|Увлечения и занятия
+271|Чем ты занимаешься в свободное время?|Chem ty zanimayesh'sya v svobodnoye vremya?|Rảnh bạn thích làm gì?
+272|Я люблю читать.|Ya lyublyu chitat'|Tôi thích đọc sách.
+273|Я очень люблю слушать музыку.|Ya ochen' lyublyu slushat' muzyku|Tôi rất thích nghe nhạc.
+274|Ты занимаешься спортом?|Ty zanimayesh'sya sportom?|Bạn có chơi thể thao không?
+275|Я бегаю каждое утро.|Ya begayu kazhdoye utro|Tôi chạy bộ mỗi sáng.
+276|Я люблю смотреть фильмы.|Ya lyublyu smotret' fil'my|Tôi thích xem phim.
+277|Я учусь готовить.|Ya uchus' gotovit'|Tôi đang học nấu ăn.
+278|Я люблю путешествовать.|Ya lyublyu puteshestvovat'|Tôi thích du lịch.
+279|Я играю на гитаре.|Ya igrayu na gitare|Tôi chơi đàn guitar.
+280|Я люблю рисовать.|Ya lyublyu risovat'|Tôi thích vẽ.
+281|Я занимаюсь йогой три раза в неделю.|Ya zanimayus' yogoy tri raza v nedelyu|Tôi tập yoga ba lần một tuần.
+282|Я большой фанат футбола.|Ya bol'shoy fanat futbola|Tôi là fan cuồng bóng đá.
+283|Я люблю походы на природе.|Ya lyublyu pokhody na prirode|Tôi thích đi bộ trong tự nhiên.
+284|Я много времени провожу за играми.|Ya mnogo vremeni provozhu za igrami|Tôi dành nhiều thời gian chơi game.
+285|Я коллекционирую марки.|Ya kollektsioniruyu marki|Tôi sưu tập tem.
+286|Я люблю фотографировать.|Ya lyublyu fotografirovat'|Tôi thích chụp ảnh.
+287|Я плаваю каждые выходные.|Ya plavayu kazhdyye vykhodnyye|Tôi bơi mỗi cuối tuần.
+288|Я хожу на уроки танцев.|Ya khozhu na uroki tantsev|Tôi học lớp nhảy.
+289|Я люблю садоводство.|Ya lyublyu sadovodstvo|Tôi thích làm vườn.
+290|Я люблю волонтёрство.|Ya lyublyu volontyorstvo|Tôi thích tình nguyện.
+## 15|Hẹn hò & Kế hoạch|Свидания и планы
+291|Ты свободен/свободна сегодня вечером?|Ty svoboden/svobodna segodnya vecherom?|Tối nay bạn rảnh không?
+292|Пойдём поужинаем?|Poydom pouzhinayem?|Đi ăn tối không?
+293|Встретимся в семь.|Vstretimsya v sem'|Gặp nhau lúc bảy giờ nhé.
+294|Где встретимся?|Gde vstretimsya?|Gặp nhau ở đâu nhé?
+295|Буду через десять минут.|Budu cherez desyat' minut|Mười phút nữa đến.
+296|Можем перенести на завтра?|Mozhem perenesti na zavtra?|Chuyển sang ngày mai được không?
+297|Извини, я не смогу прийти.|Izvini, ya ne smogu priyti|Xin lỗi, tôi không đến được.
+298|Пойдём в кино.|Poydom v kino|Đi xem phim nhé.
+299|Когда тебе удобно?|Kogda tebe udobno?|Khi nào tiện cho bạn?
+300|Заберу тебя в восемь.|Zaberu tebya v vosem'|Tôi đón bạn lúc tám giờ.
+301|Не опаздывай!|Ne opazdyvay!|Đừng đến muộn!
+302|Выпьем кофе.|Vyp'yem kofe|Đi uống cà phê nhé.
+303|Ты придёшь на вечеринку?|Ty pridyosh' na vecherinku?|Bạn có đến bữa tiệc không?
+304|Присоединюсь позже.|Prisoyedinyus' pozzhe|Tôi đến sau.
+305|Начинается в восемь вечера.|Nachinayetsya v vosem' vechera|Bắt đầu lúc tám giờ tối.
+306|У меня уже есть планы.|U menya uzhe yest' plany|Tôi đã có kế hoạch rồi.
+307|Давай на следующей неделе.|Davay na sleduyushchey nedele|Để tuần sau nhé.
+308|Отличная идея!|Otlichnaya ideya!|Ý kiến tuyệt vời!
+309|Я с нетерпением жду.|Ya s neterpeniyem zhdu|Tôi rất mong đợi.
+310|До встречи!|Do vstrechi!|Hẹn gặp nhé!
+## 16|Ý kiến & Quan điểm|Мнения и взгляды
+311|По моему мнению...|Po moyemu mneniyu...|Theo ý kiến của tôi...
+312|Я думаю, что...|Ya dumayu, chto...|Tôi nghĩ rằng...
+313|Я согласен/согласна.|Ya soglasen/soglasna|Tôi đồng ý.
+314|Я не согласен/согласна.|Ya ne soglasen/soglasna|Tôi không đồng ý.
+315|Хорошая мысль.|Khoroshaya mysl'|Ý kiến hay đó.
+316|Вы правы.|Vy pravy|Bạn nói đúng.
+317|Я понимаю вашу точку зрения.|Ya ponimayu vashu tochku zreniya|Tôi hiểu quan điểm của bạn.
+318|Я не уверен/уверена.|Ya ne uveren/uverena|Tôi không chắc.
+319|Это имеет смысл.|Eto imeet smysl|Điều đó có lý.
+320|Полностью согласен/согласна.|Polnost'yu soglasen/soglasna|Tôi hoàn toàn đồng ý.
+321|Честно говоря...|Chestno govorya...|Thành thật mà nói...
+322|С моей точки зрения...|S moyey tochki zreniya...|Từ góc nhìn của tôi...
+323|Это зависит от человека.|Eto zavisit ot cheloveka|Tùy từng người.
+324|Нельзя обобщать.|Nel'zya obobshchat'|Không thể nói chung chung.
+325|Хороший аргумент.|Khoroshiy argument|Lập luận tốt nhỉ.
+326|Я никогда об этом не думал/думала.|Ya nikogda ob etom ne dumal/dumala|Tôi chưa bao giờ nghĩ theo cách đó.
+327|Что вы думаете об этом?|Chto vy dumayete ob etom?|Bạn nghĩ gì về điều này?
+328|Дайте мне подумать.|Dayte mne podumat'|Cho tôi suy nghĩ.
+329|Я верю, что...|Ya veryu, chto...|Tôi tin rằng...
+330|Мне кажется, это неправильно.|Mne kazhetsya, eto nepravil'no|Tôi nghĩ điều đó sai.
+## 17|Khẩn cấp|Чрезвычайные ситуации
+331|Помогите!|Pomogite!|Cứu tôi!
+332|Вызовите полицию!|Vyzovite politsiyu!|Gọi cảnh sát!
+333|Произошла авария.|Proizoshla avariya|Đã xảy ra tai nạn.
+334|Есть пострадавшие?|Est' postradavshiye?|Có ai bị thương không?
+335|Мне срочно нужна помощь.|Mne srochno nuzhna pomoshch'|Tôi cần giúp đỡ ngay.
+336|Не двигайтесь!|Ne dvigaytes'!|Đừng cử động!
+337|Опасность!|Opasnost'!|Nguy hiểm!
+338|Меня обокрали.|Menya obokrali|Tôi bị cướp.
+339|Я потерял/потеряла кошелёк.|Ya poteryal/poteryala koshelyok|Tôi mất ví.
+340|Мой паспорт украли.|Moy pasport ukrali|Hộ chiếu bị đánh cắp.
+341|Пожар!|Pozhar!|Cháy!
+342|Покиньте здание!|Pokin'te zdaniye!|Thoát khỏi tòa nhà!
+343|Где аварийный выход?|Gde avariynyy vykhod?|Lối thoát khẩn cấp ở đâu?
+344|Мне нужно связаться с посольством.|Mne nuzhno svyazat'sya s posol'stvom|Tôi cần liên hệ đại sứ quán.
+345|Сохраняйте спокойствие.|Sokhranyayte spokoystviye|Bình tĩnh lại.
+346|Я попал/попала в аварию.|Ya popal/popala v avariyu|Tôi vừa gặp tai nạn.
+347|Здесь есть врач?|Zdes' yest' vrach?|Ở đây có bác sĩ không?
+348|Позвоните на помощь.|Pozvonite na pomoshch'|Gọi người giúp đỡ.
+349|Не паникуйте.|Ne panikuyte|Đừng hoảng loạn.
+350|Уйдите от этого человека.|Uydite ot etogo cheloveka|Tránh xa người đó.
+## 18|Thời gian & Lịch|Время и календарь
+351|Который час?|Kotoryy chas?|Bây giờ là mấy giờ?
+352|Три часа.|Tri chasa|Ba giờ rồi.
+353|Какой сегодня день?|Kakoy segodnya den'?|Hôm nay là thứ mấy?
+354|Сегодня понедельник.|Segodnya ponedel'nik|Hôm nay là thứ Hai.
+355|Какое сегодня число?|Kakoye segodnya chislo?|Hôm nay là ngày mấy?
+356|Пятнадцатое апреля.|Pyatnadtsatoye aprelya|Ngày mười lăm tháng Tư.
+357|Увидимся на следующей неделе.|Uvidimsya na sleduyushchey nedele|Tuần sau gặp lại.
+358|Через час совещание.|Cherez chas soveshchaniye|Một tiếng nữa có cuộc họp.
+359|Скоро вернусь.|Skoro vernus'|Tôi sẽ quay lại ngay.
+360|Я родился/родилась в 1995 году.|Ya rodilsya/rodilas' v 1995 godu|Tôi sinh năm 1995.
+361|Уже почти полночь.|Uzhe pochti polnoch'|Gần nửa đêm rồi.
+362|Магазин открывается в девять.|Magazin otkryvayetsya v devyat'|Cửa hàng mở lúc chín giờ.
+363|Буду до полудня.|Budu do poludnya|Đến trước buổi trưa.
+364|Можем встретиться рано утром?|Mozhem vstretit'sya rano utrom?|Có thể gặp sáng sớm không?
+365|Это было в прошлом году.|Eto bylo v proshlom godu|Chuyện năm ngoái.
+366|Закончу сегодня.|Zakonchu segodnya|Hoàn thành trong hôm nay.
+367|У нас достаточно времени.|U nas dostatochno vremeni|Thời gian rất dư dả.
+368|Время летит.|Vremya letit|Thời gian trôi nhanh thật.
+369|Я опаздываю.|Ya opazdyvayu|Tôi đang trễ.
+370|Пожалуйста, будьте вовремя.|Pozhaluysta, bud'te vovremya|Hãy đến đúng giờ.
+## 19|Nhà ở & Ngân hàng|Жильё и банк
+371|Вы снимаете или у вас своя квартира?|Vy snimayete ili u vas svoya kvartira?|Bạn thuê hay sở hữu nhà?
+372|Сколько стоит аренда?|Skol'ko stoit arenda?|Tiền thuê nhà là bao nhiêu?
+373|Квартира с мебелью?|Kvartira s mebel'yu?|Có nội thất không?
+374|Ищу соседа по комнате.|Ishchu soseda po komnate|Tôi đang tìm người ở chung.
+375|Отопление не работает.|Otopleniye ne rabotayet|Máy sưởi bị hỏng.
+376|На каком этаже?|Na kakom etazhe?|Ở tầng mấy?
+377|Есть парковка?|Est' parkovka?|Có chỗ đỗ xe không?
+378|Течёт труба.|Techyot truba|Ống nước đang rò rỉ.
+379|Сколько спален?|Skol'ko spalen?|Có mấy phòng ngủ?
+380|Тихий район.|Tikhiy rayon|Khu phố này yên tĩnh.
+381|Я хочу открыть счёт.|Ya khochu otkryt' schyot|Tôi muốn mở tài khoản.
+382|Я хочу сделать перевод.|Ya khochu sdelat' perevod|Tôi muốn chuyển tiền.
+383|Какой у меня баланс?|Kakoy u menya balans?|Số dư của tôi là bao nhiêu?
+384|Я хочу снять деньги.|Ya khochu snyat' den'gi|Tôi muốn rút tiền.
+385|Где ближайший банкомат?|Gde blizhayshiy bankomat?|ATM gần nhất ở đâu?
+386|Карту отклонили.|Kartu otklonili|Thẻ bị từ chối.
+387|Какой курс обмена?|Kakoy kurs obmena?|Tỷ giá là bao nhiêu?
+388|Можно оплатить в рассрочку?|Mozhno oplatit' v rassrochku?|Có thể trả góp không?
+389|Какая процентная ставка?|Kakaya protsentnaya stavka?|Lãi suất là bao nhiêu?
+390|Есть комиссия?|Est' komissiya?|Có phí giao dịch không?
+## 20|Biểu đạt hàng ngày|Повседневные выражения
+391|Серьёзно?|Ser'yozno?|Thật sao?
+392|Не может быть!|Ne mozhet byt'!|Không thể nào!
+393|Ты шутишь?|Ty shutish'?|Bạn đùa à?
+394|Здорово!|Zdorovo!|Tuyệt vời!
+395|Ужасно.|Uzhasno|Thật kinh khủng.
+396|Молодец!|Molodets!|Làm tốt lắm!
+397|Удачи!|Udachi!|Chúc may mắn!
+398|Береги себя!|Beregi sebya!|Bảo trọng!
+399|Хорошего дня!|Khoroshego dnya!|Chúc một ngày tốt lành!
+400|Тебе тоже!|Tebe tozhe!|Bạn cũng vậy nhé!
+401|Как жаль!|Kak zhal'!|Thật đáng tiếc!
+402|Не верю!|Ne veryu!|Tôi không thể tin được!
+403|Ты прав/права.|Ty prav/prava|Bạn đúng rồi.
+404|Ничего страшного.|Nichego strashnogo|Không sao.
+405|Как хочешь.|Kak khochesh'|Tùy bạn.
+406|Не знаю.|Ne znayu|Tôi không biết.
+407|Понял/Поняла!|Ponyal/Ponyala!|Hiểu rồi!
+408|Пошли!|Poshli!|Đi thôi!
+409|Конечно.|Konechno|Tất nhiên.
+410|Всё нормально.|Vsyo normal'no|Mọi thứ bình thường.
+## 21|Văn hóa Nga|Русская культура
+411|Я люблю русскую культуру.|Ya lyublyu russkuyu kul'turu|Tôi thích văn hóa Nga.
+412|Русская литература великолепна.|Russkaya literatura velikolepna|Văn học Nga thật tuyệt vời.
+413|Я обожаю русскую классическую музыку.|Ya obozhayu russkuyu klassicheskuyu muzyku|Tôi rất thích nhạc cổ điển Nga.
+414|Борщ очень вкусный.|Borshch ochen' vkusnyy|Borscht rất ngon.
+415|Блины — это вкусно.|Bliny — eto vkusno|Blini rất ngon.
+416|Баня — русская традиция.|Banya — russkaya traditsiya|Banya là truyền thống Nga.
+417|Я учу русский язык.|Ya uchu russkiy yazyk|Tôi đang học tiếng Nga.
+418|Хочу поехать в Россию.|Khochu poyekhat' v Rossiyu|Tôi muốn đến Nga.
+419|Москва — великий город.|Moskva — velikiy gorod|Moscow là thành phố vĩ đại.
+420|Санкт-Петербург очень красивый.|Sankt-Peterburg ochen' krasivyy|St. Petersburg rất đẹp.
+421|Эрмитаж поразителен.|Ermitazh porazitelen|Viện bảo tàng Hermitage thật ấn tượng.
+422|Красная площадь известна на весь мир.|Krasnaya ploshchad' izvestna na ves' mir|Quảng trường Đỏ nổi tiếng toàn thế giới.
+423|Русский балет восхитителен.|Russkiy balet voskhititelen|Ballet Nga thật tuyệt vời.
+424|Чайковский — гений.|Chaykovskiy — geniy|Tchaikovsky là thiên tài.
+425|Толстой и Достоевский — великие писатели.|Tolstoy i Dostoyevskiy — velikiye pisateli|Tolstoy và Dostoevsky là những nhà văn vĩ đại.
+426|Матрёшка — символ России.|Matryoshka — simvol Rossii|Matryoshka là biểu tượng của Nga.
+427|Русский язык имеет богатую грамматику.|Russkiy yazyk imeet bogatuyu grammatiku|Tiếng Nga có ngữ pháp phong phú.
+428|Падежи в русском языке сложные.|Padezhi v russkom yazyke slozhnyye|Các cách trong tiếng Nga thật phức tạp.
+429|Кириллица — красивый алфавит.|Kirillitsa — krasivyy alfavit|Chữ Cyrillic là bảng chữ cái đẹp.
+430|Русский язык очень выразительный.|Russkiy yazyk ochen' vyrazitel'nyy|Tiếng Nga rất biểu cảm.
+## 22|Học tiếng Nga|Изучение русского
+431|Я изучаю русский язык.|Ya izuchayu russkiy yazyk|Tôi đang học tiếng Nga.
+432|Русский трудный, но интересный.|Russkiy trudnyy, no interesnyy|Tiếng Nga khó nhưng thú vị.
+433|Нужно больше практиковаться.|Nuzhno bol'she praktikovat'sya|Cần luyện tập nhiều hơn.
+434|Я выучил/выучила кириллицу.|Ya vyuchil/vyuchila kirillitsu|Tôi đã học bảng chữ Cyrillic.
+435|Я готовлюсь к экзамену ТРКИ.|Ya gotovlyus' k ekzamenu TRKI|Tôi đang chuẩn bị thi TRKI.
+436|Я учусь по русским фильмам.|Ya uchus' po russkim fil'mam|Tôi học qua phim tiếng Nga.
+437|Падежи — самое сложное.|Padezhi — samoye slozhnoye|Cách từ là phần khó nhất.
+438|Я хочу познакомиться с русскими.|Ya khochu poznakomit'sya s russkimi|Tôi muốn kết bạn với người Nga.
+439|Ищу языкового партнёра.|Ishchu yazykovogo partnyora|Tôi đang tìm đối tác trao đổi ngôn ngữ.
+440|Каждый день учу новое слово.|Kazhdyy den' uchu novoye slovo|Tôi học một từ mới mỗi ngày.
+441|Я не боюсь делать ошибки.|Ya ne boyus' delat' oshibki|Tôi không sợ mắc lỗi.
+442|Говорю уверенно.|Govoryu uverenno|Tôi nói tự tin.
+443|Понемногу становлюсь лучше.|Ponemnogu stanovlyus' luchshe|Dần dần tôi tiến bộ hơn.
+444|Вчера я стал/стала лучше.|Vchera ya stal/stala luchshe|Hôm qua tôi đã tiến bộ.
+445|Русский сложный, но я не сдаюсь.|Russkiy slozhnyy, no ya ne sdayus'|Tiếng Nga khó nhưng tôi không bỏ cuộc.
+446|Главное — общаться.|Glavnoye — obshchat'sya|Điều quan trọng là giao tiếp.
+447|Постепенно улучшаюсь.|Postepenno uluchshayus'|Đang dần dần tiến bộ.
+448|Хочу говорить с носителями.|Khochu govorit' s nositelyami|Tôi muốn nói chuyện với người bản ngữ.
+449|Хожу на курсы русского.|Khozhu na kursy russkogo|Tôi đang theo lớp học tiếng Nga.
+450|Пишу дневник на русском.|Pishu dnevnik na russkom|Tôi viết nhật ký bằng tiếng Nga.
+## 23|Câu Cảm hứng & Động lực|Мотивация
+451|Верь в себя.|Ver' v sebya|Hãy tin vào bản thân.
+452|Ты можешь.|Ty mozhesh'|Bạn nhất định làm được.
+453|Не сдавайся, ты почти у цели.|Ne sdavaysya, ty pochti u tseli|Đừng bỏ cuộc, chỉ còn một chút nữa.
+454|Не бойся провала.|Ne boysya provala|Đừng sợ thất bại.
+455|Каждый день — это новое начало.|Kazhdyy den' — eto novoye nachalo|Mỗi ngày là một khởi đầu mới.
+456|Ты достаточно хорош/хороша.|Ty dostatochno khorosh/khorosha|Bạn hiện tại là đủ rồi.
+457|Ты не одинок/одинока.|Ty ne odinok/odinoka|Bạn không cô đơn.
+458|Ты мне нравишься такой, какой есть.|Ty mne nravish'sya takoy, kakoy yest'|Tôi thích bạn như bạn vốn là.
+459|Найди свои сильные стороны.|Naydi svoi sil'nyye storony|Hãy tìm ra điểm mạnh của bản thân.
+460|Каждый человек уникален.|Kazhdyy chelovek unikalen|Mỗi người là một cá thể độc nhất.
+461|Не забывай улыбаться.|Ne zabyvay ulybat'sya|Đừng quên nụ cười.
+462|Цени жизнь.|Tseni zhizn'|Hãy trân trọng cuộc sống.
+463|Сделаем мир добрее.|Sdelaem mir dobreye|Hãy tạo ra một thế giới tử tế hơn.
+464|Маленький поступок меняет мир.|Malen'kiy postupok menyayet mir|Hành động nhỏ thay đổi thế giới.
+465|Все вместе.|Vse vmeste|Tất cả cùng nhau.
+466|Пусть завтра тоже будет хорошим.|Pust' zavtra tozhe budet khoroshim|Mong ngày mai cũng là ngày tốt.
+467|Мечта продолжается.|Mechta prodolzhayetsya|Giấc mơ tiếp tục.
+468|Язык — зеркало души.|Yazyk — zerkalo dushi|Ngôn ngữ là gương phản chiếu tâm hồn.
+469|Буду воплощать мечты на русском.|Budu voploshchat' mechty na russkom|Tôi sẽ thực hiện ước mơ bằng tiếng Nga.
+470|Никогда не перестану учиться.|Nikogda ne perestanu uchit'sya|Tôi sẽ không bao giờ ngừng học.
+## 24|Tục ngữ & Thành ngữ Nga|Русские пословицы
+471|Без труда не вытащишь и рыбку из пруда.|Bez truda ne vytashchish' i rybku iz pruda|Không cố gắng thì không đạt được gì.
+472|Тише едешь — дальше будешь.|Tishe yedesh' — dal'she budesh'|Đi chậm mà chắc.
+473|Не откладывай на завтра то, что можно сделать сегодня.|Ne otkladyvay na zavtra to, chto mozhno sdelat' segodnya|Đừng để ngày mai những gì làm được hôm nay.
+474|Семь раз отмерь, один раз отрежь.|Sem' raz otmer', odin raz otrezh'|Đo bảy lần, cắt một lần.
+475|Не всё то золото, что блестит.|Ne vsyo to zoloto, chto blestit|Không phải cứ lấp lánh là vàng.
+476|Век живи — век учись.|Vek zhivi — vek uchis'|Sống đến già học đến già.
+477|Друг познаётся в беде.|Drug poznayotsya v bede|Bạn tốt nhận ra trong hoạn nạn.
+478|Слово — не воробей.|Slovo — ne vorobey|Lời đã nói ra như chim đã bay.
+479|Дома и стены помогают.|Doma i steny pomogayut|Ở nhà thì tường cũng giúp.
+480|Всё хорошо, что хорошо кончается.|Vsyo khorosho, chto khorosho konchayetsya|Cuối tốt là tất cả đều tốt.
+## 25|Câu tổng hợp & Kết thúc|Заключение
+481|В заключение скажу...|V zaklyuchenii skazhu...|Kết lại, tôi muốn nói...
+482|Подводя итог...|Podvodya itog...|Tóm lại...
+483|Главный вывод...|Glavnyy vyvod...|Kết luận chính...
+484|Оглядываясь назад...|Oglyadyvayas' nazad...|Nhìn lại...
+485|Самое важное...|Samoye vazhnoye...|Điều quan trọng nhất...
+486|Рассмотрев всё...|Rassmotrev vsyo...|Xét tất cả...
+487|Спасибо за всё.|Spasibo za vsyo|Cảm ơn vì tất cả.
+488|Жизнь прекрасна с русским языком.|Zhizn' prekrasna s russkim yazykom|Cuộc đời tươi đẹp với tiếng Nga.
+489|Язык соединяет сердца.|Yazyk soyedinyayet serdtsa|Ngôn ngữ kết nối trái tim.
+490|Всегда продолжу учить русский.|Vsegda prodolzhu uchit' russkiy|Tôi sẽ mãi mãi tiếp tục học tiếng Nga.
+## 26|Tình yêu & Cảm xúc|Любовь и чувства
+491|Я тебя люблю.|Ya tebya lyublyu|Tôi yêu bạn.
+492|Ты для меня очень важен/важна.|Ty dlya menya ochen' vazhen/vazhna|Bạn rất quan trọng với tôi.
+493|Я скучаю по тебе.|Ya skuchayu po tebe|Tôi nhớ bạn.
+494|С тобой я счастлив/счастлива.|S toboy ya schastliv/schastliva|Ở cạnh bạn tôi hạnh phúc.
+495|Ты выйдешь за меня?|Ty vyydesh' za menya?|Bạn có muốn hẹn hò với tôi không?
+496|Я всё время думаю о тебе.|Ya vsyo vremya dumayu o tebe|Tôi luôn nghĩ đến bạn.
+497|Ты очень особенный/особенная для меня.|Ty ochen' osobennyy/osobennaya dlya menya|Bạn rất đặc biệt với tôi.
+498|Я влюбляюсь в тебя.|Ya vlyublyayus' v tebya|Tôi đang yêu bạn.
+499|Мы подходим друг другу.|My podkhodim drug drugu|Chúng ta hợp với nhau.
+500|Давай всегда будем вместе.|Davay vsegda budem vmeste|Hãy luôn ở bên nhau mãi.
+## 27|Câu bổ sung thực hành|Дополнительные фразы
+501|Расскажите мне об этом подробнее.|Rasskazhite mne ob etom podrobnee|Kể cho tôi nghe chi tiết hơn.
+502|Объясните, пожалуйста.|Ob"yasnite, pozhaluysta|Giải thích hộ tôi.
+503|В чём суть?|V chyom sut'?|Trọng điểm là gì?
+504|Чем всё кончилось?|Chem vsyo konchilos'?|Cuối cùng chuyện gì xảy ra?
+505|Как вы справитесь с этим?|Kak vy spravites' s etim?|Bạn sẽ xử lý điều này thế nào?
+506|Есть ли доказательства?|Est' li dokazatel'stva?|Có bằng chứng không?
+507|Как проверить?|Kak proverit'?|Làm sao xác nhận được?
+508|Кратко изложите основное.|Kratko izlozhite osnovnoye|Tóm tắt các điểm chính.
+509|Вы за или против?|Vy za ili protiv?|Bạn tán thành hay phản đối?
+510|Как это работает?|Kak eto rabotayet?|Điều này hoạt động thế nào?
+511|Я понимаю вашу озабоченность.|Ya ponimayu vashu ozabochennost'|Tôi hiểu mối lo ngại của bạn.
+512|Давайте найдём решение.|Davayte naydyom resheniye|Hãy cùng tìm giải pháp.
+513|Я слышу вас.|Ya slyshu vas|Tôi lắng nghe bạn.
+514|Давайте придём к согласию.|Davayte pridyom k soglasiyu|Hãy cùng nhau tìm điểm chung.
+515|Может, обсудим позже?|Mozhet, obsudim pozzhe?|Có lẽ chúng ta thảo luận sau?
+516|Я открыт/открыта для других идей.|Ya otkryt/otkryta dlya drugikh idey|Tôi cởi mở với những ý kiến khác.
+517|Думаю, мы продвигаемся.|Dumayu, my prodvigayemsya|Tôi nghĩ chúng ta đang có tiến triển.
+518|Спасибо за понимание.|Spasibo za ponimaniye|Cảm ơn vì đã thông cảm.
+519|Давайте смотреть на обе стороны.|Davayte smotret' na obe storony|Hãy xem xét cả hai phía.
+520|Доказательства не подтверждают это.|Dokazatel'stva ne podtverzhdayut eto|Bằng chứng không hỗ trợ điều này.
+## 28|Câu so sánh|Сравнения
+521|Это лучше того.|Eto luchshe togo|Cái này tốt hơn cái đó.
+522|Она выше своей сестры.|Ona vyshe svoey sestry|Cô ấy cao hơn chị gái.
+523|Это лучшее, что я когда-либо пробовал/пробовала.|Eto luchsheye, chto ya kogda-libo proboval/probovala|Đây là ngon nhất tôi từng thử.
+524|Он бегает быстрее всех.|On begayet bystree vsekh|Anh ấy chạy nhanh hơn ai.
+525|Сегодня теплее, чем вчера.|Segodnya tepleye, chem vchera|Hôm nay ấm hơn hôm qua.
+526|Этот метод намного эффективнее.|Etot metod namnogo effektivneye|Phương pháp này hiệu quả hơn nhiều.
+527|Не так сложно, как я думал/думала.|Ne tak slozhno, kak ya dumal/dumala|Không khó như tôi nghĩ.
+528|Чем больше, тем веселее.|Chem bol'she, tem veselee|Càng đông càng vui.
+529|Это в два раза дороже.|Eto v dva raza dorozhe|Cái này đắt gấp đôi.
+530|Она, безусловно, самая талантливая.|Ona, bezuslovno, samaya talantlivaya|Cô ấy tài năng nhất.
+## 29|Câu điều kiện|Условные предложения
+531|Если бы я был/была на твоём месте...|Yesli by ya byl/byla na tvoyom meste...|Nếu tôi là bạn...
+532|Что бы ты сделал/сделала, если бы...?|Chto by ty sdelal/sdelala, yesli by...?|Bạn sẽ làm gì nếu...?
+533|Если не будет дождя, мы выйдем.|Yesli ne budet dozhdya, my vyydem|Trừ khi trời mưa, chúng tôi sẽ ra ngoài.
+534|Жаль, что не могу путешествовать больше.|Zhal', chto ne mogu puteshestvovat' bol'she|Tôi ước tôi có thể đi du lịch nhiều hơn.
+535|Если бы знал/знала раньше...|Yesli by znal/znala ran'she...|Giá mà tôi biết sớm hơn...
+536|При условии, что ты согласен/согласна...|Pri uslovii, chto ty soglasen/soglasna...|Miễn là bạn đồng ý...
+537|Пока ты стараешься...|Poka ty starayesh'sya...|Miễn là bạn cố gắng...
+538|А что если попробовать другой подход?|A chto yesli poprobovat' drugoy podkhod?|Nếu chúng ta thử cách khác thì sao?
+539|Даже если трудно, не сдавайся.|Dazhe yesli trudno, ne sdavaysya|Dù khó, đừng bỏ cuộc.
+540|Предположим, всё пройдёт хорошо...|Predpolozhim, vsyo proydyot khorosho...|Giả sử mọi thứ diễn ra tốt đẹp...
+## 30|Chủ đề xã hội & Thiên nhiên|Общество и природа
+541|Все заслуживают равных прав.|Vse zasluzhivayut ravnykh prav|Mọi người đều xứng đáng có quyền bình đẳng.
+542|Образование очень важно.|Obrazovaniye ochen' vazhno|Giáo dục rất quan trọng.
+543|Нужно защищать окружающую среду.|Nuzhno zashchishchat' okruzhayushchuyu sredu|Cần bảo vệ môi trường.
+544|Изменение климата — реальная проблема.|Izmeneniye klimata — real'naya problema|Biến đổi khí hậu là vấn đề thực sự.
+545|Нам нужно помогать друг другу.|Nam nuzhno pomogat' drug drugu|Chúng ta cần hỗ trợ lẫn nhau.
+546|Дискриминация недопустима.|Diskriminatsiya nedopustima|Phân biệt đối xử là điều không thể chấp nhận.
+547|Мир бесценен.|Mir bestsenen|Hòa bình là vô giá.
+548|Мы живём в разнообразном мире.|My zhivyom v raznoobraznom mire|Chúng ta sống trong một thế giới đa dạng.
+549|Уменьшим использование пластика.|Umen'shim ispol'zovaniye plastika|Hãy giảm sử dụng nhựa.
+550|Будем перерабатывать отходы.|Budem pererabatyvat' otkhody|Hãy tái chế chất thải.
+551|Осенний лес красив.|Osenniy les krasiv|Rừng rất đẹp vào mùa thu.
+552|Океан полон жизни.|Okean polon zhizni|Đại dương chứa đầy sự sống.
+553|Я обожаю природу.|Ya obozhayu prirodu|Tôi rất yêu thiên nhiên.
+554|Горы великолепны.|Gory velikolepny|Những ngọn núi thật ngoạn mục.
+555|Птицы поют.|Ptitsy poyut|Những con chim đang hót.
+556|Здесь много дикой природы.|Zdes' mnogo dikoy prirody|Có rất nhiều động vật hoang dã ở đây.
+557|Пойдём в поход.|Poydom v pokhod|Hãy đi bộ leo núi.
+558|Небо ясное.|Nebo yasnoye|Bầu trời trong xanh.
+559|Вот радуга!|Vot raduga!|Có cầu vồng!
+560|Беречь воду.|Berech' vodu|Hãy tiết kiệm nước.
+## 31|Thể thao & Ẩm thực|Спорт и еда
+561|Сыграем в футбол.|Sygrayem v futbol|Chơi bóng đá nào.
+562|Я хожу в спортзал каждый день.|Ya khozhu v sportzal kazhdyy den'|Tôi đi gym mỗi ngày.
+563|Кто выиграл матч?|Kto vyigral match?|Ai thắng trận đấu?
+564|Счёт два — один.|Schyot dva — odin|Tỷ số là hai một.
+565|Я тренируюсь к марафону.|Ya treniruyus' k marafonu|Tôi đang luyện tập cho marathon.
+566|Она побила мировой рекорд.|Ona pobila mirovoy rekord|Cô ấy phá kỷ lục thế giới.
+567|Плавание лучше бега.|Plavaniye luchshe bega|Tôi thích bơi hơn chạy bộ.
+568|Команда сыграла отлично.|Komanda sygrala otlichno|Đội chơi rất tốt.
+569|Сначала разминка.|Snachala razminka|Tôi cần khởi động trước.
+570|Не сдавайся!|Ne sdavaysya!|Đừng bỏ cuộc!
+571|Я очень голоден/голодна.|Ya ochen' goloden/golodna|Tôi đói lắm.
+572|Это очень вкусно.|Eto ochen' vkusno|Cái này rất ngon.
+573|Можно ещё?|Mozhno yeshchyo?|Tôi có thể lấy thêm không?
+574|Я не ем мясо.|Ya ne yem myaso|Tôi không ăn thịt.
+575|Что в этом блюде?|Chto v etom blyude?|Món này có những gì?
+576|Я люблю острое.|Ya lyublyu ostroye|Tôi thích đồ ăn cay.
+577|Слишком солёно.|Slishkom solyono|Mặn quá.
+578|Дайте сахар.|Dayte sakhar|Cho tôi đường.
+579|Чашку кофе, пожалуйста.|Chashku kofe, pozhaluysta|Cho tôi một tách cà phê.
+580|Хлеб свежеиспечённый.|Khleb svezheispechyonnyy|Bánh mì vừa mới ra lò.
+## 32|Câu nâng cao & Tổng kết|Продвинутые фразы и итоги
+581|Я сижу на диете.|Ya sizhu na diete|Tôi đang ăn kiêng.
+582|Давайте приготовим ужин вместе.|Davayte prigotovim uzhin vmeste|Cùng nhau nấu bữa tối nhé.
+583|Передайте соль.|Peredayte sol'|Chuyền muối.
+584|Суп горячий.|Sup goryachiy|Món súp này nóng quá.
+585|Нужно сходить в магазин.|Nuzhno skhodit' v magazin|Tôi cần đi mua thực phẩm.
+586|Что на завтрак?|Chto na zavtrak?|Bữa sáng có gì?
+587|Чай лучше кофе.|Chay luchshe kofe|Tôi thích trà hơn cà phê.
+588|Фрукты очень сладкие.|Frukty ochen' sladkiye|Trái cây này rất ngọt.
+589|Хочешь десерт?|Khochesh' desert?|Bạn có muốn tráng miệng không?
+590|Я возьму то же самое.|Ya voz'mu to zhe samoye|Tôi sẽ gọi giống bạn.
+591|Технологии развиваются быстро.|Tekhnologii razvivayutsya bystro|Công nghệ đang phát triển nhanh.
+592|ИИ меняет всё.|II menyayet vsyo|AI đang thay đổi tất cả.
+593|Мы сильно зависим от смартфонов.|My sil'no zavisim ot smartfonov|Chúng ta phụ thuộc nhiều vào điện thoại.
+594|Эксперимент прошёл успешно.|Eksperiment proshyol uspeshno|Thí nghiệm thành công.
+595|Наука помогает нам понять мир.|Nauka pomogayet nam ponyat' mir|Khoa học giúp ta hiểu thế giới.
+596|Конфиденциальность данных важна.|Konfidentsial'nost' dannykh vazhna|Quyền riêng tư dữ liệu rất quan trọng.
+597|Электромобили популярны.|Elektromobili populyarny|Xe điện đang trở nên phổ biến.
+598|Исследование космоса восхищает.|Issledovaniye kosmosa voskhishchayet|Khám phá vũ trụ thật hấp dẫn.
+599|Интернет изменил нашу жизнь.|Internet izmenil nashu zhizn'|Internet đã thay đổi cuộc sống.
+600|Новое программное обеспечение многофункциональное.|Novoye programmnoye obespecheniye mnogofunktsional'noye|Phần mềm mới có nhiều tính năng.
+## 33|Lời kết & Động lực|Заключительные слова
+601|Усилия всегда вознаграждаются.|Usiliya vsegda voznagrazhdayutsya|Cố gắng luôn được đền đáp.
+602|Сегодня я сильнее, чем вчера.|Segodnya ya sil'neye, chem vchera|Hôm nay tôi mạnh hơn hôm qua.
+603|Неудача — мать успеха.|Neudacha — mat' uspekha|Thất bại là mẹ thành công.
+604|Верь в себя.|Ver' v sebya|Hãy tin vào bản thân.
+605|Ты достаточно стараешься.|Ty dostatochno starayesh'sya|Bạn đang cố gắng đủ rồi.
+606|Даже маленький прогресс — это прогресс.|Dazhe malen'kiy progress — eto progress|Tiến bộ nhỏ cũng là tiến bộ.
+607|Путь долгий, но он того стоит.|Put' dolgiy, no on togo stoit|Hành trình dài nhưng xứng đáng.
+608|Каждый день — новая возможность.|Kazhdyy den' — novaya vozmozhnost'|Mỗi ngày là cơ hội mới.
+609|Похвали себя за достижения.|Pokhvali sebya za dostizheniya|Hãy khen ngợi bản thân vì những thành tích.
+610|Сегодня тоже молодец!|Segodnya tozhe molodets!|Hôm nay cũng làm tốt lắm!
+611|Никогда не сдавайся.|Nikogda ne sdavaysya|Tuyệt đối đừng bỏ cuộc.
+612|Мечты сбываются.|Mechty sbyvayutsya|Ước mơ có thể thành hiện thực.
+613|Русский открывает мир.|Russkiy otkryvayet mir|Tiếng Nga mở ra thế giới.
+614|Язык — мост между душами.|Yazyk — most mezhdu dushami|Ngôn ngữ là cầu nối giữa tâm hồn.
+615|Учёба приносит радость.|Uchyoba prinosit radost'|Học tập mang lại niềm vui.
+616|Не забывай наслаждаться учёбой.|Ne zabyvay naslazhdat'sya uchyoboy|Đừng quên tận hưởng việc học.
+617|Гордись своим трудом.|Gordis' svoim trudom|Hãy tự hào vì nỗ lực của bạn.
+618|Хорошо, что выучил/выучила русский.|Khorosho, chto vyuchil/vyuchila russkiy|Thật tốt khi học được tiếng Nga.
+619|Буду продолжать учиться.|Budu prodolzhat' uchit'sya|Tôi sẽ tiếp tục học.
+620|Мир русского безграничен.|Mir russkogo bezgranichen|Thế giới tiếng Nga thật rộng lớn.
+## 34|Câu bổ sung (621–1000)|Дополнительные фразы
+621|Вперёд, к следующему этапу!|Vperyod, k sleduyushchemu etapu!|Tiến lên, đến giai đoạn tiếp theo!
+622|Продолжаю без остановок.|Prodolzhayu bez ostanovok|Không bỏ cuộc, tiếp tục tiến.
+623|Достиг/Достигла этой цели.|Dostig/Dostigla etoy tseli|Đã đạt được mục tiêu này.
+624|Ставлю следующую цель.|Stavlyu sleduyushchuyu tsel'|Đặt mục tiêu tiếp theo.
+625|Как бы ни было трудно, иду вперёд.|Kak by ni bylo trudno, idu vperyod|Dù khó thế nào, tôi vẫn tiến.
+626|Я очень люблю русский язык.|Ya ochen' lyublyu russkiy yazyk|Tôi rất yêu tiếng Nga.
+627|Счастлив/Счастлива, что нашёл/нашла этот язык.|Schastliv/Schastliva, chto nashyol/nashla etot yazyk|Thật may mắn khi tìm thấy ngôn ngữ này.
+628|Расту вместе с языком.|Rastu vmeste s yazykom|Cùng lớn lên với ngôn ngữ.
+629|Русский — смысл моей жизни.|Russkiy — smysl moyey zhizni|Tiếng Nga là lý do sống của tôi.
+630|С сегодняшнего дня, продолжаю!|S segodnyashnego dnya, prodolzhayu!|Từ hôm nay, tiếp tục!
+631|Язык открывает сердце.|Yazyk otkryvayet serdtse|Ngôn ngữ mở rộng tâm hồn.
+632|Через русский нахожу новых друзей.|Cherez russkiy nakhozhu novykh druzey|Tìm bạn mới qua tiếng Nga.
+633|Не боюсь ошибок — это учёба.|Ne boyus' oshibok — eto uchyoba|Không sợ mắc lỗi, đó là việc học.
+634|Русский изменил мою жизнь.|Russkiy izmenil moyu zhizn'|Tiếng Nga đã thay đổi cuộc đời tôi.
+635|Через язык встречаю новых людей.|Cherez yazyk vstrechayu novykh lyudey|Gặp gỡ người mới qua ngôn ngữ.
+636|Главное — не сдаваться.|Glavnoye — ne sdavat'sya|Điều quan trọng nhất là không bỏ cuộc.
+637|Любые усилия не напрасны.|Lyubyye usiliya ne naprasny|Mọi nỗ lực đều không vô ích.
+638|Мечты сбываются.|Mechty sbyvayutsya|Ước mơ nhất định sẽ thành hiện thực.
+639|Вместе мы сильнее.|Vmeste my sil'neye|Cùng nhau chúng ta mạnh hơn.
+640|Языковое сообщество тёплое.|Yazykovoye soobshchestvo tyoploye|Cộng đồng ngôn ngữ thật ấm áp.
+641|Каждый день практики приближает к цели.|Kazhdyy den' praktiki priblizhayet k tseli|Mỗi ngày luyện tập đưa bạn gần mục tiêu.
+642|Я занимаюсь с радостью!|Ya zanimayus' s radost'yu!|Tôi học với niềm vui!
+643|День за днём, чуть-чуть лучше.|Den' za dnyom, chut'-chut' luchshe|Ngày qua ngày, dần tốt hơn.
+644|Этого достаточно.|Etogo dostatochno|Chỉ vậy thôi là đủ.
+645|Все молодцы!|Vse molodtsy!|Mọi người đều cố lên!
+646|Я поддерживаю тебя в этом путешествии.|Ya podderzhivayu tebya v etom puteshestvii|Tôi cổ vũ bạn trong hành trình này.
+647|Всегда болею за тебя.|Vsegda boleyu za tebya|Tôi luôn cổ vũ bạn.
+648|Ты справишься, верю.|Ty spravish'sya, veryu|Bạn làm được, tôi tin.
+649|Твой русский улучшается каждый день.|Tvoy russkiy uluchshayetsya kazhdyy den'|Tiếng Nga của bạn đang tốt hơn mỗi ngày.
+650|До конца, вместе!|Do kontsa, vmeste!|Cùng nhau đến cuối!
+651|Сегодня тоже хорошо поработал/поработала.|Segodnya tozhe khorosho porabotal/porabotala|Hôm nay cũng đã làm tốt rồi.
+652|Завтра будет ещё лучше.|Zavtra budet yeshchyo luchshe|Ngày mai sẽ tốt hơn.
+653|Немного каждый день — залог успеха.|Nemnogo kazhdyy den' — zalog uspekha|Mỗi ngày một chút — chìa khóa thành công.
+654|Не бойся ошибок.|Ne boysya oshibok|Không sợ mắc lỗi.
+655|Каждый день — новое начало.|Kazhdyy den' — novoye nachalo|Mỗi ngày là một khởi đầu mới.
+656|Хвали себя за усилия.|Khvali sebya za usiliya|Hãy khen bản thân vì nỗ lực.
+657|Сегодня тоже спасибо, я сам/сама!|Segodnya tozhe spasibo, ya sam/sama!|Hôm nay cũng cảm ơn bản thân!
+658|Завтра будет ещё лучше!|Zavtra budet yeshchyo luchshe!|Ngày mai sẽ tốt hơn!
+659|В конце пути гордись собой.|V kontse puti gordis' soboy|Cuối hành trình hãy tự hào về bản thân.
+660|К новому началу!|K novomu nachalu!|Đến khởi đầu mới!
+661|Русский — мой кладезь.|Russkiy — moy kladez'|Tiếng Nga là kho báu của tôi.
+662|Этому языку рад/рада.|Etomu yazyku rad/rada|Tôi vui vì ngôn ngữ này.
+663|Язык обогащает жизнь.|Yazyk obogashchayet zhizn'|Ngôn ngữ làm phong phú cuộc sống.
+664|Благодаря русскому открываю мир.|Blagodarya russkomu otkryvayu mir|Nhờ tiếng Nga, tôi khám phá thế giới.
+665|Буду ценить русский всегда.|Budu tsenit' russkiy vsegda|Tôi sẽ mãi trân trọng tiếng Nga.
+666|Путешествие продолжается.|Puteshestviye prodolzhayetsya|Hành trình vẫn tiếp tục.
+667|Ещё много прекрасного впереди.|Yeshchyo mnogo prekrasnogo vperedi|Vẫn còn nhiều điều tuyệt vời phía trước.
+668|Вперёд вместе!|Vperyod vmeste!|Cùng nhau tiến lên!
+669|Продвигайся вперёд, не останавливайся.|Prodvigaysya vperyod, ne ostanavlivaysya|Tiến về phía trước, đừng dừng lại.
+670|Один шаг за раз.|Odin shag za raz|Từng bước một.
+671|С русским шире мой мир.|S russkim shire moy mir|Với tiếng Nga, thế giới tôi rộng lớn hơn.
+672|Язык учит смирению и открытости.|Yazyk uchit smireniyu i otkrytosti|Ngôn ngữ dạy khiêm tốn và cởi mở.
+673|Русский помогает понять Россию.|Russkiy pomogayet ponyat' Rossiyu|Tiếng Nga giúp hiểu nước Nga.
+674|Язык — мост людей.|Yazyk — most lyudey|Ngôn ngữ là cầu nối con người.
+675|Связаны через русский.|Svyazany cherez russkiy|Được kết nối qua tiếng Nga.
+676|Сегодня подходим к концу.|Segodnya podkhodim k kontsu|Hôm nay chúng ta đến đích.
+677|Спасибо за твоё упорство.|Spasibo za tvoyo uporstvo|Cảm ơn sự kiên trì của bạn.
+678|Ты потрясающий/потрясающая!|Ty potryasayushchiy/potryasayushchaya!|Bạn thật tuyệt vời!
+679|Эти 1000 фраз — только начало.|Eti 1000 fraz — tol'ko nachalo|1000 câu này chỉ là bắt đầu.
+680|Впереди ещё больше.|Vperedi yeshchyo bol'she|Phía trước còn nhiều hơn.
+681|Иди с русским, без страха.|Idi s russkim, bez strakha|Tiến lên với tiếng Nga, không sợ hãi.
+682|Каждый день учёбы — победа.|Kazhdyy den' uchyoby — pobeda|Mỗi ngày học là một chiến thắng.
+683|Маленькие шаги, но твёрдые.|Malen'kiye shagi, no tvyordyye|Những bước nhỏ nhưng vững chắc.
+684|Мир становится больше с русским.|Mir stanovitsya bol'she s russkim|Thế giới trở nên rộng lớn hơn với tiếng Nga.
+685|Язык открывает бесконечные двери.|Yazyk otkryvayet beskonechnyye dveri|Ngôn ngữ mở ra vô số cánh cửa.
+686|Русский — одна из прекраснейших.|Russkiy — odna iz prekrasneyshikh|Tiếng Nga là một trong những ngôn ngữ đẹp nhất.
+687|Откроем эту дверь вместе!|Otkroyem etu dver' vmeste!|Hãy cùng nhau mở cánh cửa đó!
+688|Вперёд, изучающий русский!|Vperyod, izuchayushchiy russkiy!|Cố lên, người học tiếng Nga!
+689|Ты лучший/лучшая!|Ty luchshiy/luchshaya!|Bạn là tốt nhất!
+690|Сохраняй этот энтузиазм!|Sokhranyay etot entuziazm!|Hãy giữ đam mê đó!
+691|Изучение языков безгранично.|Izucheniye yazykov bezgranichno|Học ngôn ngữ không có giới hạn.
+692|Вот в чём красота.|Vot v chyom krasota|Đó chính là điều đẹp đẽ.
+693|Мир русского ждёт тебя.|Mir russkogo zhdyot tebya|Thế giới tiếng Nga đang chờ bạn.
+694|Исследуй его без страха.|Issleduy ego bez strakha|Hãy khám phá nó không sợ hãi.
+695|Учись понемногу, и улучшишься.|Uchis' ponemnogu, i uluchshish'sya|Học một chút mỗi ngày, bạn sẽ tiến bộ.
+696|Язык даёт свободу.|Yazyk dayot svobodu|Ngôn ngữ cho bạn sự tự do.
+697|Наслаждайся этой свободой.|Naslazhdaysya etoy svobodoy|Hãy tận hưởng sự tự do đó.
+698|Осталось 302 фразы!|Ostalos' 302 frazy!|Còn 302 câu thôi!
+699|Почти добрался/добралась!|Pochti dobralsya/dobralas'!|Gần đến rồi!
+700|Молодец, так держать!|Molodets, tak derzhat'!|Làm tốt lắm, tiếp tục!
+701|Русский — язык богатой культуры.|Russkiy — yazyk bogatoy kul'tury|Tiếng Nga là ngôn ngữ của nền văn hóa phong phú.
+702|Каждая фраза делает тебя сильнее.|Kazhdaya fraza delayet tebya sil'neye|Mỗi câu làm bạn mạnh hơn.
+703|Упорство — ключ к успеху.|Uporstvo — klyuch k uspekhu|Kiên trì là chìa khóa thành công.
+704|С энтузиазмом всё возможно.|S entuziazmom vsyo vozmozhno|Với đam mê, mọi thứ đều có thể.
+705|Один язык может изменить судьбу.|Odin yazyk mozhet izmenit' sud'bu|Một ngôn ngữ có thể thay đổi vận mệnh.
+706|Русский — именно такой язык.|Russkiy — imenno takoy yazyk|Tiếng Nga chính là ngôn ngữ đó.
+707|Помни: сегодня ты справляешься хорошо.|Pomni: segodnya ty spravlyayesh'sya khorosho|Nhớ nhé: hôm nay bạn đang làm tốt.
+708|Доверяй процессу.|Doveryay protsessu|Hãy tin vào quá trình.
+709|Ты делаешь лучше, чем думаешь.|Ty delayesh' luchshe, chem dumayesh'|Bạn làm tốt hơn bạn nghĩ.
+710|Продолжаю поддерживать тебя.|Prodolzhayu podderzhivat' tebya|Tôi tiếp tục ủng hộ bạn.
+711|Твоё будущее светлое.|Tvoyo budushcheye svetloye|Tương lai của bạn thật tươi sáng.
+712|С русским ты дойдёшь дальше.|S russkim ty doydyosh' dal'she|Với tiếng Nga, bạn sẽ đi xa hơn.
+713|Не останавливайся.|Ne ostanavlivaysya|Đừng dừng lại.
+714|Главное — не останавливаться.|Glavnoye — ne ostanavlivat'sya|Điều quan trọng là không dừng.
+715|Каждый шаг приближает к цели.|Kazhdyy shag priblizhayet k tseli|Mỗi bước đều tiến gần mục tiêu.
+716|С русским — к более широкому миру.|S russkim — k boleye shirokomu miru|Cùng tiếng Nga, hướng đến thế giới rộng lớn hơn.
+717|Спасибо за совместное путешествие.|Spasibo za sovmestnoye puteshestviye|Cảm ơn đã cùng nhau trong hành trình.
+718|Надеюсь, снова встретимся в мире русского.|Nadeyus', snova vstretimsya v mire russkogo|Mong gặp lại trong thế giới tiếng Nga.
+719|До следующего раза, вперёд!|Do sleduyushchego raza, vperyod!|Hẹn gặp lại, cố lên!
+720|Осталось 280 фраз! Держись!|Ostalos' 280 fraz! Derzhis'!|Còn 280 câu! Kiên trì!
+721|Язык объединяет народы.|Yazyk ob"yedinyayet narody|Ngôn ngữ kết nối các dân tộc.
+722|Русский — душа миллионов.|Russkiy — dusha millionov|Tiếng Nga là linh hồn của hàng triệu người.
+723|Твой русский открывает границы.|Tvoy russkiy otkryvayet granitsy|Tiếng Nga của bạn mở ra ranh giới.
+724|Язык — мост сердец.|Yazyk — most serdets|Ngôn ngữ là cầu nối của trái tim.
+725|Мы соединены русским.|My soyedineny russkim|Chúng ta được kết nối qua tiếng Nga.
+726|Сегодня добираемся до конца.|Segodnya dobirayemsya do kontsa|Hôm nay chúng ta đến đích.
+727|Спасибо за упорство.|Spasibo za uporstvo|Cảm ơn sự kiên trì của bạn.
+728|Ты просто великолепен/великолепна!|Ty prosto velikolepen/velikolepna!|Bạn thật tuyệt vời!
+729|Эти 1000 фраз — фундамент.|Eti 1000 fraz — fundament|1000 câu này là nền tảng.
+730|Иди с этим фундаментом.|Idi s etim fundamentom|Mang nền tảng đó tiến lên.
+731|Мир ждёт тебя.|Mir zhdyot tebya|Thế giới đang chờ bạn.
+732|Обними его с русским.|Obnimi ego s russkim|Hãy ôm lấy thế giới bằng tiếng Nga.
+733|Осталось 267 фраз!|Ostalos' 267 fraz!|Còn 267 câu thôi!
+734|Вперёд!|Vperyod!|Tiến lên!
+735|Ты справляешься замечательно!|Ty spravlyayesh'sya zamechatel'no!|Bạn đang làm rất tốt!
+736|Заслуживаешь аплодисментов!|Zasluzhivayesh' aplodismentov!|Bạn xứng đáng được vỗ tay!
+737|Каждая фраза русского стоит усилий.|Kazhdaya fraza russkogo stoit usiliy|Mỗi câu tiếng Nga đều xứng đáng nỗ lực.
+738|Цени каждый момент учёбы.|Tseni kazhdyy moment uchyoby|Trân trọng mỗi khoảnh khắc học hỏi.
+739|Учись с душой и продвигайся с любовью.|Uchis' s dushoy i prodvigaysya s lyubov'yu|Học với tâm huyết, tiến với tình yêu.
+740|Русский делает мир красивее.|Russkiy delayet mir krasiveye|Tiếng Nga làm cho thế giới đẹp hơn.
+741|Язык — выражение любви.|Yazyk — vyrazheniye lyubvi|Ngôn ngữ là sự biểu đạt của tình yêu.
+742|Передавай любовь через русский.|Peredavay lyubov' cherez russkiy|Truyền đạt tình yêu bằng tiếng Nga.
+743|Осталось 257 фраз!|Ostalos' 257 fraz!|Còn 257 câu thôi!
+744|Нажми на газ!|Nazhmi na gaz!|Tăng tốc lên!
+745|Ты фантастический/фантастическая!|Ty fantasticheskiy/fantasticheskaya!|Bạn thật tuyệt vời!
+746|Это веха на твоём пути с русским!|Eto vekha na tvoyom puti s russkim!|Đây là cột mốc trong hành trình tiếng Nga!
+747|Пусть русский всегда будет в твоей жизни.|Pust' russkiy vsegda budet v tvoyey zhizni|Mong tiếng Nga luôn trong cuộc sống bạn.
+748|Этот путь не имеет конца, только новые начала.|Etot put' ne imeet kontsa, tol'ko novyye nachala|Con đường này không có điểm kết, chỉ có khởi đầu mới.
+749|Отмечай каждое достижение, даже маленькое!|Otmechay kazhdoye dostizheniye, dazhe malen'koye!|Hãy ăn mừng mỗi thành tích dù nhỏ!
+750|Русский учит смиряться и открываться.|Russkiy uchit smiryat'sya i otkryvat'sya|Tiếng Nga dạy bạn khiêm tốn và cởi mở hơn.
+751|Пусть твой русский сияет.|Pust' tvoy russkiy siyayet|Mong tiếng Nga của bạn tỏa sáng.
+752|Осталось 248 фраз!|Ostalos' 248 fraz!|Còn 248 câu thôi!
+753|Так держать!|Tak derzhat'!|Tiếp tục như vậy!
+754|То, чего ты достиг/достигла, невероятно!|To, chego ty dostig/dostigla, neveroyatno!|Những gì bạn đạt được thật đáng kinh ngạc!
+755|Это твоя база для русского.|Eto tvoya baza dlya russkogo|Đây là nền tảng của bạn trong tiếng Nga.
+756|Строй на этой базе и иди дальше!|Stroy na etoy baze i idi dal'she!|Hãy xây dựng trên đó và đi xa hơn!
+757|Осталось 243 фразы!|Ostalos' 243 frazy!|Còn 243 câu thôi!
+758|Глубокий вдох и вперёд!|Glubokiy vdokh i vperyod!|Hít thở sâu và tiến lên!
+759|Ты языковой воин!|Ty yazykovoy voin!|Bạn là chiến binh của ngôn ngữ!
+760|Продолжай с этой энергией.|Prodolzhay s etoy energiyey|Tiếp tục với năng lượng đó.
+761|Русский тоже нуждается в тебе!|Russkiy tozhe nuzhdayetsya v tebe!|Tiếng Nga cũng cần bạn!
+762|Ещё 238 фраз, вперёд!|Yeshchyo 238 fraz, vperyod!|Còn 238 câu nữa, tiến lên!
+763|Беги к финишу!|Begi k finishu!|Hãy chạy đến đích!
+764|Русский, мы тебя любим!|Russkiy, my tebya lyubim!|Tiếng Nga, chúng tôi yêu bạn!
+765|Осталось 235 фраз, смелее!|Ostalos' 235 fraz, smeleye!|Còn 235 câu, dũng cảm lên!
+766|Почти у цели!|Pochti u tseli!|Gần đến rồi!
+767|Ты действительно велик/велика!|Ty deystvitel'no velik/velika!|Bạn thực sự vĩ đại!
+768|Это веха на твоём пути с русским.|Eto vekha na tvoyom puti s russkim|Đây là cột mốc trong hành trình tiếng Nga.
+769|Продолжай создавать новые вехи!|Prodolzhay sozdavat' novyye vekhi!|Hãy tiếp tục tạo ra những cột mốc mới!
+770|Русский обогащает твою жизнь.|Russkiy obogashchayet tvoyu zhizn'|Tiếng Nga làm phong phú cuộc đời bạn.
+771|Осталось 229 фраз!|Ostalos' 229 fraz!|Còn 229 câu thôi!
+772|Ещё немного!|Yeshchyo nemnogo!|Còn một chút nữa thôi!
+773|Ты делаешь это замечательно!|Ty delayesh' eto zamechatel'no!|Bạn đang làm điều này tuyệt vời!
+774|Похлопай себе по плечу!|Pokhlopay sebe po plechu!|Hãy vỗ vai cho bản thân!
+775|Каждая русская фраза стоит того.|Kazhdaya russkaya fraza stoit togo|Mỗi câu tiếng Nga đều xứng đáng.
+776|Цени каждый момент учёбы.|Tseni kazhdyy moment uchyoby|Trân trọng mỗi khoảnh khắc học hỏi.
+777|Учись с душой, продвигайся с любовью.|Uchis' s dushoy, prodvigaysya s lyubov'yu|Học với tâm huyết, tiến với tình yêu.
+778|Русский делает мир красивее.|Russkiy delayet mir krasiveye|Tiếng Nga làm cho thế giới đẹp hơn.
+779|Язык — выражение любви.|Yazyk — vyrazheniye lyubvi|Ngôn ngữ là sự biểu đạt của tình yêu.
+780|Передавай тепло через русский.|Peredavay teplo cherez russkiy|Truyền đạt hơi ấm bằng tiếng Nga.
+781|Осталось 219 фраз!|Ostalos' 219 fraz!|Còn 219 câu thôi!
+782|Продолжай, не останавливайся!|Prodolzhay, ne ostanavlivaysya!|Tiếp tục, đừng dừng lại!
+783|Ты невероятен/невероятна!|Ty neveroyaten/neveroyatna!|Bạn thật đáng kinh ngạc!
+784|Эти 1000 фраз — твоя отправная точка.|Eti 1000 fraz — tvoya otpravnaya tochka|1000 câu này là điểm khởi đầu của bạn.
+785|Иди вперёд с ними.|Idi vperyod s nimi|Mang chúng tiến về phía trước.
+786|Мир ждёт тебя.|Mir zhdyot tebya|Thế giới đang chờ bạn.
+787|Обними его с русским.|Obnimi ego s russkim|Hãy ôm lấy thế giới bằng tiếng Nga.
+788|Благодаря тебе мир становится лучше.|Blagodarya tebe mir stanovitsya luchshe|Nhờ bạn, thế giới tốt hơn.
+789|Мы связаны через русский язык.|My svyazany cherez russkiy yazyk|Chúng ta được kết nối qua tiếng Nga.
+790|Эта связь прекрасна.|Eta svyaz' prekrasna|Sự kết nối này thật đẹp.
+791|Пусть она продлится долго.|Pust' ona prodlitsya dolgo|Mong sự kết nối này kéo dài mãi.
+792|До встречи в мире русского!|Do vstrechi v mire russkogo!|Hẹn gặp lại trong thế giới tiếng Nga!
+793|Осталось 207 фраз!|Ostalos' 207 fraz!|Còn 207 câu thôi!
+794|Отличная работа!|Otlichnaya rabota!|Làm tốt lắm!
+795|Ты лучший/лучшая ученик/ученица русского!|Ty luchshiy/luchshaya uchenik/uchenitsa russkogo!|Bạn là người học tiếng Nga tốt nhất!
+796|Продолжай сиять с русским!|Prodolzhay siyat' s russkim!|Tiếp tục tỏa sáng với tiếng Nga!
+797|Пусть русский всегда сопровождает тебя.|Pust' russkiy vsegda soprovozhdayet tebya|Mong tiếng Nga mãi đồng hành cùng bạn.
+798|Это лишь первая глава твоей истории.|Eto lish' pervaya glava tvoyey istorii|Đây chỉ là chương đầu tiên trong câu chuyện bạn.
+799|Впереди ещё много глав!|Vperedi yeshchyo mnogo glav!|Vẫn còn nhiều chương phía trước!
+800|Возьми ручку и продолжай писать!|Voz'mi ruchku i prodolzhay pisat'!|Hãy cầm bút lên và tiếp tục viết!
+801|Русский, твоя история продолжается.|Russkiy, tvoya istoriya prodolzhayetsya|Tiếng Nga, câu chuyện của bạn vẫn đang tiếp tục.
+802|Пиши каждую фразу с любовью.|Pishi kazhdyyu frazu s lyubov'yu|Hãy viết từng câu với tình yêu.
+803|Спасибо за это прекрасное путешествие!|Spasibo za eto prekrasnoye puteshestviye!|Cảm ơn vì hành trình tươi đẹp này!
+804|Русский обогащает жизнь!|Russkiy obogashchayet zhizn'!|Tiếng Nga làm phong phú cuộc sống!
+805|До следующего приключения на русском!|Do sleduyushchego priklyucheniya na russkom!|Hẹn cuộc phiêu lưu tiếp theo bằng tiếng Nga!
+806|Русский, я люблю тебя навсегда!|Russkiy, ya lyublyu tebya navsegda!|Tiếng Nga, tôi mãi yêu bạn!
+807|И все вы тоже любите русский!|I vse vy tozhe lyubite russkiy!|Mọi người cũng hãy yêu tiếng Nga nhé!
+808|Эта любовь делает язык красивее.|Eta lyubov' delayet yazyk krasiveye|Tình yêu đó làm cho ngôn ngữ càng đẹp hơn.
+809|Сегодня и завтра, счастливы с русским.|Segodnya i zavtra, schastlivy s russkim|Hôm nay lẫn ngày mai, hạnh phúc với tiếng Nga.
+810|Пока, и спасибо!|Poka, i spasibo!|Tạm biệt, và cảm ơn!
+811|Учи русский с радостью!|Uchi russkiy s radost'yu!|Học tiếng Nga vui vẻ!
+812|Всегда поддерживаю тебя!|Vsegda podderzhivayu tebya!|Tôi luôn ủng hộ bạn!
+813|Вперёд!|Vperyod!|Cố lên!
+814|Русский, я люблю тебя!|Russkiy, ya lyublyu tebya!|Tiếng Nga, tôi yêu bạn!
+815|Спасибо, что дошёл/дошла до 815-й фразы!|Spasibo, chto doshyol/doshla do 815-y frazy!|Cảm ơn đã đọc đến câu thứ 815!
+816|Продолжай с русским, пусть он всегда будет рядом.|Prodolzhay s russkim, pust' on vsegda budet ryadom|Tiếp tục với tiếng Nga, mong nó mãi ở bên.
+817|Остаётся совсем немного!|Ostayotsya sovsem nemnogo!|Còn rất ít nữa thôi!
+818|Упорство всегда побеждает.|Uporstvo vsegda pobezhdayet|Sự kiên trì luôn thắng.
+819|И ты его проявляешь.|I ty ego proyavlyayesh'|Và bạn đang thể hiện nó.
+820|Продолжай идти, ты почти добрался/добралась!|Prodolzhay idti, ty pochti dobralsya/dobralas'!|Tiếp tục đi, bạn gần đến rồi!
+821|Русский нужен и тебе!|Russkiy nuzhen i tebe!|Tiếng Nga cũng cần bạn!
+822|Ещё немного, вперёд!|Yeshchyo nemnogo, vperyod!|Còn một chút nữa, tiến lên!
+823|Беги к финишу!|Begi k finishu!|Hãy chạy đến đích!
+824|Русский язык, мы тебя любим!|Russkiy yazyk, my tebya lyubim!|Tiếng Nga, chúng tôi yêu bạn!
+825|Осталось 175 фраз, смелее!|Ostalos' 175 fraz, smeleye!|Còn 175 câu, dũng cảm lên!
+826|Почти дошёл/дошла!|Pochti doshyol/doshla!|Gần đến rồi!
+827|Ты прекрасен/прекрасна!|Ty prekrasen/prekrasna!|Bạn thật tuyệt vời!
+828|Это веха на пути с русским.|Eto vekha na puti s russkim|Đây là cột mốc trong hành trình tiếng Nga.
+829|Создавай новые вехи!|Sozdavay novyye vekhi!|Hãy tiếp tục tạo ra những cột mốc mới!
+830|Русский обогащает твою жизнь.|Russkiy obogashchayet tvoyu zhizn'|Tiếng Nga làm phong phú cuộc đời bạn.
+831|Осталось 169 фраз!|Ostalos' 169 fraz!|Còn 169 câu thôi!
+832|Немного осталось!|Nemnogo ostalos'!|Còn một ít nữa thôi!
+833|Ты делаешь это прекрасно!|Ty delayesh' eto prekrasno!|Bạn đang làm điều này thật đẹp!
+834|Похлопай себя по плечу!|Pokhlopay sebya po plechu!|Hãy tự vỗ vai!
+835|Каждая фраза русского стоит усилий.|Kazhdaya fraza russkogo stoit usiliy|Mỗi câu tiếng Nga đều xứng đáng nỗ lực.
+836|Цени каждый момент учёбы.|Tseni kazhdyy moment uchyoby|Trân trọng mỗi khoảnh khắc học hỏi.
+837|Обучение с сердцем, движение с любовью.|Obucheniye s serdtsem, dvizheniye s lyubov'yu|Học với tâm hồn, tiến với tình yêu.
+838|Язык сближает.|Yazyk sblizhayet|Ngôn ngữ làm gần nhau hơn.
+839|Русский — путь к сердцу России.|Russkiy — put' k serdtsu Rossii|Tiếng Nga là con đường đến trái tim nước Nga.
+840|Изучающий язык — герой.|Izuchayushchiy yazyk — geroy|Người học ngôn ngữ là anh hùng.
+841|Ты один из них!|Ty odin iz nikh!|Bạn là một trong số đó!
+842|Продолжай своё героическое путешествие!|Prodolzhay svoyo geroicheskoye puteshestviye!|Tiếp tục hành trình anh hùng của bạn!
+843|Сила языка в твоих руках.|Sila yazyka v tvoikh rukakh|Sức mạnh của ngôn ngữ nằm trong tay bạn.
+844|Используй её для прекрасного будущего.|Ispol'zuy yeyo dlya prekrasnogo budushchego|Dùng nó tạo ra tương lai tươi đẹp.
+845|Русский всегда поддержит тебя.|Russkiy vsegda podderzhit tebya|Tiếng Nga luôn ủng hộ bạn.
+846|Учись весело и живи счастливо!|Uchis' veselo i zhivi schastlivo!|Học vui và sống hạnh phúc!
+847|Спасибо, что прочитал/прочитала до 847-й!|Spasibo, chto prochital/prochitala do 847-y!|Cảm ơn đã đọc đến câu thứ 847!
+848|Ты лучший/лучшая изучающий/изучающая русский!|Ty luchshiy/luchshaya izuchayushchiy/izuchayushchaya russkiy!|Bạn là người học tiếng Nga tốt nhất!
+849|Продолжай сиять с русским!|Prodolzhay siyat' s russkim!|Tiếp tục tỏa sáng với tiếng Nga!
+850|Пусть русский всегда сопровождает тебя.|Pust' russkiy vsegda soprovozhdayet tebya|Mong tiếng Nga mãi đồng hành cùng bạn.
+851|Русский открыл мой мир.|Russkiy otkryl moy mir|Tiếng Nga đã mở ra thế giới tôi.
+852|Изучение языков — лучшее решение.|Izucheniye yazykov — luchsheye resheniye|Học ngôn ngữ là quyết định tốt nhất.
+853|Продолжай это решение!|Prodolzhay eto resheniye!|Hãy tiếp tục quyết định đó!
+854|Будущее «я» скажет тебе спасибо.|Budushcheye «ya» skazhet tebe spasibo|Bản thân tương lai sẽ cảm ơn bạn.
+855|Усилия сегодня — плоды завтра.|Usiliya segodnya — plody zavtra|Nỗ lực hôm nay, quả ngọt ngày mai.
+856|С любовью, с мечтой, вперёд!|S lyubov'yu, s mechtoy, vperyod!|Với tình yêu, với ước mơ, tiến lên!
+857|Русский делает нашу историю особенной!|Russkiy delayet nashu istoriyu osobennoy!|Tiếng Nga làm câu chuyện chúng ta đặc biệt hơn!
+858|Спасибо, попутчик/попутчица!|Spasibo, poputchik/poputchitsa!|Cảm ơn, người bạn đồng hành!
+859|Пусть путь с русским будет всё шире!|Pust' put' s russkim budet vsyo shire!|Mong con đường tiếng Nga ngày càng rộng mở!
+860|Последняя фраза на горизонте!|Poslednyaya fraza na gorizonte!|Câu cuối đã ở chân trời!
+861|Ты сделал/сделала это! Поздравляем!|Ty sdelal/sdelala eto! Pozdravlyayem!|Bạn đã làm được! Chúc mừng!
+862|Это твоё достижение, отмечай его.|Eto tvoyo dostizheniye, otmechay ego|Đây là thành tích của bạn, hãy ăn mừng.
+863|Гордись: ты выучил/выучила 1000 фраз на русском!|Gordis': ty vyuchil/vyuchila 1000 fraz na russkom!|Hãy tự hào: bạn đã học 1000 câu tiếng Nga!
+864|Но помни, это только начало.|No pomni, eto tol'ko nachalo|Nhưng hãy nhớ, đây chỉ là bắt đầu.
+865|Мир русского огромен.|Mir russkogo ogromen|Thế giới tiếng Nga rộng lớn vô cùng.
+866|Продолжай исследовать и учиться!|Prodolzhay issledovat' i uchit'sya!|Tiếp tục khám phá và học hỏi!
+867|Неси силу этих 1000 фраз!|Nesi silu etikh 1000 fraz!|Mang theo sức mạnh của 1000 câu này!
+868|Русский, до свидания, но скоро снова!|Russkiy, do svidaniya, no skoro snova!|Tiếng Nga, tạm biệt, nhưng sẽ sớm gặp lại!
+869|Спасибо за всё, спасибо, русский!|Spasibo za vsyo, spasibo, russkiy!|Cảm ơn vì tất cả, cảm ơn tiếng Nga!
+870|Пусть мы всегда будем связаны в мире русского!|Pust' my vsegda budem svyazany v mire russkogo!|Mong chúng ta mãi kết nối trong thế giới tiếng Nga!
+871|Русский, я люблю тебя, до свидания! Вперёд!|Russkiy, ya lyublyu tebya, do svidaniya! Vperyod!|Tiếng Nga, tôi yêu bạn, tạm biệt! Cố lên!
+872|Я обожаю учиться.|Ya obozhayu uchit'sya|Tôi yêu việc học.
+873|Учёба не знает границ.|Uchyoba ne znayet granits|Việc học không có giới hạn.
+874|Улучшайся немного каждый день.|Uluchshaysya nemnogo kazhdyy den'|Tiến bộ một chút mỗi ngày.
+875|Знание меняет судьбу.|Znaniye menyayet sud'bu|Kiến thức thay đổi vận mệnh.
+876|Учёба — дело всей жизни.|Uchyoba — delo vsey zhizni|Học tập là sự nghiệp cả đời.
+877|Хотеть — значит мочь.|Khotet' — znachit moch'|Muốn là được.
+878|Труд всегда вознаграждается.|Trud vsegda voznagrazhdayetsya|Chăm chỉ luôn được đền đáp.
+879|С усилием всё достижимо.|S usiliyem vsyo dostizhimo|Với nỗ lực thì đạt được tất cả.
+880|Постоянство — секрет успеха.|Postoyanstvo — sekret uspekha|Kiên trì là bí quyết thành công.
+881|Мечты воплощаются в реальность.|Mechty voploshchayutsya v real'nost'|Ước mơ trở thành hiện thực.
+882|Русский, спасибо за компанию!|Russkiy, spasibo za kompaniyu!|Tiếng Nga, cảm ơn vì đã đồng hành!
+883|Будь всегда рядом.|Bud' vsegda ryadom|Mong bạn mãi ở bên.
+884|Русский делает мой мир шире.|Russkiy delayet moy mir shire|Tiếng Nga làm thế giới tôi rộng lớn hơn.
+885|Спасибо, что открыл/открыла эту дверь.|Spasibo, chto otkryl/otkryla etu dver'|Cảm ơn vì đã mở cánh cửa đó.
+886|Продолжу этот путь.|Prodolzhu etot put'|Tôi sẽ tiếp tục con đường này.
+887|С тобой я не один/одна.|S toboy ya ne odin/odna|Với bạn tôi không cô đơn.
+888|Русский, мой вечный друг!|Russkiy, moy vechnyy drug!|Tiếng Nga, người bạn vĩnh cửu của tôi!
+889|Все вместе, вперёд!|Vse vmeste, vperyod!|Tất cả cùng nhau, tiến lên!
+890|Путь русского не заканчивается, только новые начала.|Put' russkogo ne zakanchivayetsya, tol'ko novyye nachala|Hành trình tiếng Nga không kết thúc, chỉ có khởi đầu mới.
+891|Встретимся у следующего начала!|Vstretimsya u sleduyushchego nachala!|Gặp nhau ở khởi đầu tiếp theo!
+892|Изучение русского — лучшее решение.|Izucheniye russkogo — luchsheye resheniye|Học tiếng Nga là một trong những quyết định tốt nhất.
+893|Продолжай это решение!|Prodolzhay eto resheniye!|Hãy tiếp tục quyết định đó!
+894|Твоё будущее «я» скажет тебе спасибо.|Tvoyo budushcheye «ya» skazhet tebe spasibo|Bản thân tương lai sẽ cảm ơn bạn.
+895|Усилия сегодня, плоды завтра.|Usiliya segodnya, plody zavtra|Nỗ lực hôm nay, quả ngọt ngày mai.
+896|С любовью и мечтой — вперёд!|S lyubov'yu i mechtoy — vperyod!|Với tình yêu và ước mơ — tiến lên!
+897|Русский делает нашу историю особенной!|Russkiy delayet nashu istoriyu osobennoy!|Tiếng Nga làm câu chuyện chúng ta đặc biệt!
+898|Спасибо, попутчик/попутчица в учёбе!|Spasibo, poputchik/poputchitsa v uchyobe!|Cảm ơn, người bạn đồng hành trong học tập!
+899|Пусть путь с русским расширяется!|Pust' put' s russkim rasshiryayetsya!|Mong con đường tiếng Nga ngày càng mở rộng!
+900|Пусть нас всегда соединяет русский!|Pust' nas vsegda soyedinyayet russkiy!|Mong tiếng Nga mãi kết nối chúng ta!
+901|Русский, я люблю тебя, до свидания! Вперёд!|Russkiy, ya lyublyu tebya, do svidaniya! Vperyod!|Tiếng Nga, tôi yêu bạn, tạm biệt! Cố lên!
+902|Язык соединяет людей.|Yazyk soyedinyayet lyudey|Ngôn ngữ kết nối con người.
+903|Русский — дверь в культуру России.|Russkiy — dver' v kul'turu Rossii|Tiếng Nga là cánh cửa vào văn hóa Nga.
+904|Каждый изучающий — герой.|Kazhdyy izuchayushchiy — geroy|Mỗi người học đều là anh hùng.
+905|Ты один из них!|Ty odin iz nikh!|Bạn là một trong số đó!
+906|Продолжай своё путешествие!|Prodolzhay svoyo puteshestviye!|Tiếp tục hành trình của bạn!
+907|Сила языка в твоих руках.|Sila yazyka v tvoikh rukakh|Sức mạnh của ngôn ngữ nằm trong tay bạn.
+908|Используй её для прекрасного будущего.|Ispol'zuy yeyo dlya prekrasnogo budushchego|Dùng nó tạo ra tương lai tươi đẹp.
+909|Русский всегда поддержит тебя.|Russkiy vsegda podderzhit tebya|Tiếng Nga luôn ủng hộ bạn.
+910|Учись весело, живи счастливо!|Uchis' veselo, zhivi schastlivo!|Học vui, sống hạnh phúc!
+911|Только 89 фраз осталось!|Tol'ko 89 fraz ostalos'!|Chỉ còn 89 câu thôi!
+912|Ты можешь это и многое другое!|Ty mozhesh' eto i mnogoye drugoye!|Bạn làm được điều này và nhiều hơn nữa!
+913|Русский рождён быть на твоих устах.|Russkiy rozhdyon byt' na tvoikh ustakh|Tiếng Nga sinh ra để có trên miệng bạn.
+914|Сделай его своим.|Sdelay ego svoim|Hãy làm cho nó là của bạn.
+915|Только 85 фраз, финишная прямая!|Tol'ko 85 fraz, finishnaya pryamaya!|Chỉ còn 85 câu, chặng cuối rồi!
+916|Сожми зубы и вперёд!|Sozhmi zuby i vperyod!|Nghiến răng và tiến lên!
+917|Ты вот-вот завершишь 1000 фраз!|Ty vot-vot zavershish' 1000 fraz!|Bạn sắp hoàn thành 1000 câu rồi!
+918|Это достижение твоё.|Eto dostizheniye tvoyo|Thành tích này là của bạn.
+919|Празднуем со всей гордостью!|Prazdnuyem so vsey gordost'yu!|Hãy ăn mừng với niềm tự hào!
+920|Русский всегда будет рядом!|Russkiy vsegda budet ryadom!|Tiếng Nga sẽ luôn ở bên bạn!
+921|Скажи по-русски: Я люблю этот язык!|Skazhi po-russki: Ya lyublyu etot yazyk!|Nói bằng tiếng Nga: Я люблю этот язык!
+922|Скажи по-русски: Спасибо!|Skazhi po-russki: Spasibo!|Nói bằng tiếng Nga: Спасибо!
+923|Скажи по-русски: Вперёд!|Skazhi po-russki: Vperyod!|Nói bằng tiếng Nga: Вперёд!
+924|Скажи по-русски: Я сделал/сделала это!|Skazhi po-russki: Ya sdelal/sdelala eto!|Nói bằng tiếng Nga: Я сделал/сделала это!
+925|Скажи по-русски: До свидания, друг!|Skazhi po-russki: Do svidaniya, drug!|Nói bằng tiếng Nga: До свидания, друг!
+926|Ты выучил/выучила 1000 фраз на русском!|Ty vyuchil/vyuchila 1000 fraz na russkom!|Bạn đã học 1000 câu tiếng Nga!
+927|Это огромное достижение!|Eto ogromnoye dostizheniye!|Đây là thành tích to lớn!
+928|Гордись собой!|Gordis' soboy!|Hãy tự hào về bản thân!
+929|Продолжай учиться, мир ждёт тебя!|Prodolzhay uchit'sya, mir zhdyot tebya!|Tiếp tục học, thế giới đang chờ bạn!
+930|Да здравствует русский! Вперёд!|Da zdravstvuyet russkiy! Vperyod!|Muôn năm tiếng Nga! Cố lên!
+931|Язык сближает людей.|Yazyk sblizhayet lyudey|Ngôn ngữ làm gần nhau hơn.
+932|Русский — ключ к русской культуре.|Russkiy — klyuch k russkoy kul'ture|Tiếng Nga là chìa khóa vào văn hóa Nga.
+933|Каждый изучающий язык — герой.|Kazhdyy izuchayushchiy yazyk — geroy|Mỗi người học ngôn ngữ là anh hùng.
+934|Ты один из них!|Ty odin iz nikh!|Bạn là một trong số đó!
+935|Продолжай своё героическое путешествие!|Prodolzhay svoyo geroicheskoye puteshestviye!|Tiếp tục hành trình anh hùng của bạn!
+936|Сила языка в твоих руках.|Sila yazyka v tvoikh rukakh|Sức mạnh của ngôn ngữ nằm trong tay bạn.
+937|Используй её для прекрасного будущего.|Ispol'zuy yeyo dlya prekrasnogo budushchego|Dùng nó tạo ra tương lai tươi đẹp.
+938|Русский всегда с тобой.|Russkiy vsegda s toboy|Tiếng Nga luôn với bạn.
+939|Учись с радостью и живи счастливо!|Uchis' s radost'yu i zhivi schastlivo!|Học với niềm vui và sống hạnh phúc!
+940|Спасибо, что прочитал/прочитала до этого момента!|Spasibo, chto prochital/prochitala do etogo momenta!|Cảm ơn đã đọc đến đây!
+941|Ты лучший/лучшая ученик/ученица русского!|Ty luchshiy/luchshaya uchenik/uchenitsa russkogo!|Bạn là người học tiếng Nga tốt nhất!
+942|Продолжай сиять с русским!|Prodolzhay siyat' s russkim!|Tiếp tục tỏa sáng với tiếng Nga!
+943|Пусть русский всегда сопровождает тебя.|Pust' russkiy vsegda soprovozhdayet tebya|Mong tiếng Nga mãi đồng hành cùng bạn.
+944|Это лишь первая глава твоей истории с русским.|Eto lish' pervaya glava tvoyey istorii s russkim|Đây chỉ là chương đầu trong câu chuyện tiếng Nga của bạn.
+945|Впереди много захватывающих глав!|Vperedi mnogo zakhvatyvayushchikh glav!|Vẫn còn nhiều chương hấp dẫn phía trước!
+946|Возьми ручку и продолжай!|Voz'mi ruchku i prodolzhay!|Hãy cầm bút lên và tiếp tục!
+947|Русский, твоя история продолжается.|Russkiy, tvoya istoriya prodolzhayetsya|Tiếng Nga, câu chuyện của bạn vẫn đang tiếp tục.
+948|Пиши каждую фразу с энтузиазмом.|Pishi kazhdyyu frazu s entuziazmom|Hãy viết từng câu với đam mê.
+949|Спасибо за это прекрасное путешествие!|Spasibo za eto prekrasnoye puteshestviye!|Cảm ơn vì hành trình tươi đẹp này!
+950|Русский обогащает жизнь и делает её ярче!|Russkiy obogashchayet zhizn' i delayet yeyo yarche!|Tiếng Nga làm phong phú cuộc sống!
+951|До следующего приключения на русском!|Do sleduyushchego priklyucheniya na russkom!|Hẹn cuộc phiêu lưu tiếp theo bằng tiếng Nga!
+952|Русский, я люблю тебя навсегда!|Russkiy, ya lyublyu tebya navsegda!|Tiếng Nga, tôi mãi yêu bạn!
+953|Спасибо за эти 1000 фраз!|Spasibo za eti 1000 fraz!|Cảm ơn vì 1000 câu này!
+954|В конечном счёте, мы встретились в мире русского.|V konechnom schyote, my vstretilis' v mire russkogo|Cuối cùng chúng ta đã gặp nhau trong thế giới tiếng Nga.
+955|Пусть эта дружба длится долго.|Pust' eta druzhba dlitsya dolgo|Mong tình bạn này kéo dài mãi.
+956|Береги свой русский и продолжай учиться!|Beregi svoy russkiy i prodolzhay uchit'sya!|Hãy trân trọng tiếng Nga và tiếp tục học!
+957|Дверь русского всегда открыта.|Dver' russkogo vsegda otkryta|Cánh cửa tiếng Nga luôn mở.
+958|Ты всегда желанный/желанная гость!|Ty vsegda zhelannyy/zhelannaya gost'!|Bạn luôn được chào đón!
+959|Ещё раз спасибо!|Yeshchyo raz spasibo!|Một lần nữa cảm ơn!
+960|Вперёд, да здравствует русский, до свидания!|Vperyod, da zdravstvuyet russkiy, do svidaniya!|Cố lên, muôn năm tiếng Nga, tạm biệt!
+961|Я обожаю учиться.|Ya obozhayu uchit'sya|Tôi yêu việc học.
+962|Знание — сила.|Znaniye — sila|Kiến thức là sức mạnh.
+963|Улучшайся немного каждый день.|Uluchshaysya nemnogo kazhdyy den'|Tiến bộ một chút mỗi ngày.
+964|Знание меняет судьбу.|Znaniye menyayet sud'bu|Kiến thức thay đổi vận mệnh.
+965|Учёба — приключение всей жизни.|Uchyoba — priklyucheniye vsey zhizni|Học tập là cuộc phiêu lưu cả đời.
+966|Хотеть — значит мочь.|Khotet' — znachit moch'|Muốn là được.
+967|Труд всегда вознаграждается.|Trud vsegda voznagrazhdayetsya|Chăm chỉ luôn được đền đáp.
+968|С упорством всё достижимо.|S uporstvom vsyo dostizhimo|Với kiên trì thì đạt được tất cả.
+969|Постоянство — секрет успеха.|Postoyanstvo — sekret uspekha|Kiên trì là bí quyết thành công.
+970|Мечты сбываются.|Mechty sbyvayutsya|Ước mơ trở thành hiện thực.
+971|Русский, спасибо за путешествие!|Russkiy, spasibo za puteshestviye!|Tiếng Nga, cảm ơn vì hành trình!
+972|Будь всегда рядом.|Bud' vsegda ryadom|Mong bạn mãi ở bên.
+973|Русский делает мой мир больше.|Russkiy delayet moy mir bol'she|Tiếng Nga làm thế giới tôi lớn hơn.
+974|Спасибо, что открыл/открыла эту дверь.|Spasibo, chto otkryl/otkryla etu dver'|Cảm ơn vì đã mở cánh cửa đó.
+975|Продолжу этот путь.|Prodolzhu etot put'|Tôi sẽ tiếp tục con đường này.
+976|С тобой я не одинок/одинока.|S toboy ya ne odinok/odinoka|Với bạn tôi không cô đơn.
+977|Русский, мой вечный друг!|Russkiy, moy vechnyy drug!|Tiếng Nga, người bạn vĩnh cửu của tôi!
+978|Все вместе, вперёд!|Vse vmeste, vperyod!|Tất cả cùng nhau, tiến lên!
+979|Путь русского без конца — только новые начала.|Put' russkogo bez kontsa — tol'ko novyye nachala|Hành trình tiếng Nga không kết thúc — chỉ có khởi đầu mới.
+980|До встречи у следующего начала!|Do vstrechi u sleduyushchego nachala!|Hẹn gặp lại ở khởi đầu tiếp theo!
+981|Изучение русского — лучшее решение в жизни.|Izucheniye russkogo — luchsheye resheniye v zhizni|Học tiếng Nga là quyết định tốt nhất trong cuộc đời.
+982|Продолжай!|Prodolzhay!|Hãy tiếp tục!
+983|Твоё будущее «я» скажет спасибо.|Tvoyo budushcheye «ya» skazhet spasibo|Bản thân tương lai sẽ cảm ơn bạn.
+984|Усилия сегодня — урожай завтра.|Usiliya segodnya — urozhay zavtra|Nỗ lực hôm nay, thu hoạch ngày mai.
+985|С любовью, с мечтами, вперёд!|S lyubov'yu, s mechtami, vperyod!|Với tình yêu, với ước mơ, tiến lên!
+986|Русский делает нашу историю особенной!|Russkiy delayet nashu istoriyu osobennoy!|Tiếng Nga làm câu chuyện chúng ta đặc biệt!
+987|Спасибо, путешественник!|Spasibo, puteshestvennik!|Cảm ơn, người lữ hành!
+988|Пусть путь с русским становится всё шире!|Pust' put' s russkim stanovitsya vsyo shire!|Mong con đường tiếng Nga ngày càng rộng mở!
+989|Последняя фраза не за горами!|Poslednyaya fraza ne za gorami!|Câu cuối đã gần lắm rồi!
+990|Ты сделал/сделала это! Поздравляем!|Ty sdelal/sdelala eto! Pozdravlyayem!|Bạn đã làm được! Chúc mừng!
+991|Это твоё достижение, отмечай!|Eto tvoyo dostizheniye, otmechay!|Đây là thành tích của bạn, hãy ăn mừng!
+992|Гордись: ты освоил/освоила 1000 русских фраз!|Gordis': ty osvoil/osvoila 1000 russkikh fraz!|Hãy tự hào: bạn đã học 1000 câu tiếng Nga!
+993|Но это только начало.|No eto tol'ko nachalo|Nhưng đây chỉ là bắt đầu.
+994|Мир русского бесконечен.|Mir russkogo beskonechen|Thế giới tiếng Nga vô tận.
+995|Продолжай исследовать и учиться!|Prodolzhay issledovat' i uchit'sya!|Tiếp tục khám phá và học hỏi!
+996|Неси силу этих 1000 фраз с собой!|Nesi silu etikh 1000 fraz s soboy!|Mang theo sức mạnh của 1000 câu này!
+997|Русский, до свидания, но скоро снова встретимся!|Russkiy, do svidaniya, no skoro snova vstretimsya!|Tiếng Nga, tạm biệt, nhưng sẽ sớm gặp lại!
+998|Спасибо за всё, дорогой русский!|Spasibo za vsyo, dorogoy russkiy!|Cảm ơn vì tất cả, tiếng Nga thân yêu!
+999|Пусть нас всегда соединяет русский язык!|Pust' nas vsegda soyedinyayet russkiy yazyk!|Mong tiếng Nga mãi kết nối chúng ta!
+1000|Русский, я люблю тебя, до свидания! Вперёд!|Russkiy, ya lyublyu tebya, do svidaniya! Vperyod!|Tiếng Nga, tôi yêu bạn, tạm biệt! Cố lên!

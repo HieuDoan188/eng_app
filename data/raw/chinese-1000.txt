@@ -1,0 +1,1016 @@
+# Format: "## <chapter no>|<Vietnamese title>|<Chinese title>" starts a chapter;
+# each sentence line is "<no>|<Chinese>|<pinyin>|<Vietnamese>".
+## 1|Chào hỏi & Giới thiệu|问候与介绍
+1|你好。|Nǐ hǎo|Xin chào.
+2|您好。|Nín hǎo|Xin chào (trang trọng).
+3|早上好。|Zǎoshang hǎo|Chào buổi sáng.
+4|下午好。|Xiàwǔ hǎo|Chào buổi chiều.
+5|晚上好。|Wǎnshang hǎo|Chào buổi tối.
+6|晚安。|Wǎn'ān|Chúc ngủ ngon.
+7|你叫什么名字？|Nǐ jiào shénme míngzì?|Tên bạn là gì?
+8|我叫～。|Wǒ jiào ~|Tôi tên là ~.
+9|你好吗？|Nǐ hǎo ma?|Bạn có khỏe không?
+10|我很好，谢谢。|Wǒ hěn hǎo, xièxiè|Tôi khỏe, cảm ơn.
+11|你从哪里来？|Nǐ cóng nǎlǐ lái?|Bạn đến từ đâu?
+12|我来自越南。|Wǒ láizì Yuènán|Tôi đến từ Việt Nam.
+13|很高兴认识你。|Hěn gāoxìng rènshi nǐ|Rất vui được gặp bạn.
+14|初次见面。|Chūcì jiànmiàn|Lần đầu gặp mặt.
+15|好久不见！|Hǎojiǔ bú jiàn!|Lâu rồi không gặp!
+16|最近怎么样？|Zuìjìn zěnmeyàng?|Dạo này thế nào?
+17|请进。|Qǐng jìn|Mời vào.
+18|欢迎。|Huānyíng|Chào mừng.
+19|再见。|Zàijiàn|Tạm biệt.
+20|回头见。|Huítóu jiàn|Gặp lại sau.
+21|保重。|Bǎozhòng|Bảo trọng.
+22|一路顺风。|Yīlù shùnfēng|Chúc thượng lộ bình an.
+23|慢走。|Màn zǒu|Đi cẩn thận.
+24|请稍等。|Qǐng shāo děng|Xin đợi một chút.
+25|不好意思。|Bù hǎoyìsi|Xin lỗi / Xin phép.
+## 2|Lịch sự & Phép xã giao|礼貌用语
+26|谢谢。|Xièxiè|Cảm ơn.
+27|非常感谢。|Fēicháng gǎnxiè|Cảm ơn rất nhiều.
+28|不客气。|Bú kèqi|Không có gì.
+29|没关系。|Méi guānxi|Không sao.
+30|对不起。|Duìbuqǐ|Tôi xin lỗi.
+31|非常抱歉。|Fēicháng bàoqiàn|Tôi thành thật xin lỗi.
+32|请。|Qǐng|Làm ơn / Mời.
+33|是。|Shì|Vâng / Đúng.
+34|不是。|Bú shì|Không.
+35|好的。|Hǎo de|Được rồi.
+36|明白了。|Míngbái le|Tôi hiểu rồi.
+37|没问题。|Méi wèntí|Không vấn đề.
+38|请先走。|Qǐng xiān zǒu|Mời bạn đi trước.
+39|我请客。|Wǒ qǐngkè|Tôi mời.
+40|辛苦了。|Xīnkǔ le|Bạn đã vất vả rồi.
+41|请随便。|Qǐng suíbiàn|Cứ tự nhiên.
+42|您先请。|Nín xiān qǐng|Mời bạn trước.
+43|多谢关照。|Duōxiè guānzhào|Cảm ơn vì đã quan tâm.
+44|哪里哪里。|Nǎlǐ nǎlǐ|Có gì đâu (khiêm tốn).
+45|过奖了。|Guòjiǎng le|Bạn khen quá lời.
+46|请多关照。|Qǐng duō guānzhào|Mong được chỉ giáo.
+47|彼此彼此。|Bǐcǐ bǐcǐ|Cũng như nhau thôi.
+48|慢用。|Màn yòng|Dùng từ từ nhé.
+49|吃好喝好。|Chī hǎo hē hǎo|Ăn ngon uống ngon.
+50|请保重。|Qǐng bǎozhòng|Hãy bảo trọng.
+## 3|Hỏi đường|问路
+51|～在哪里？|~ zài nǎlǐ?|~ ở đâu?
+52|洗手间在哪里？|Xǐshǒujiān zài nǎlǐ?|Nhà vệ sinh ở đâu?
+53|附近有～吗？|Fùjìn yǒu ~ ma?|Gần đây có ~ không?
+54|我迷路了。|Wǒ mílù le|Tôi bị lạc rồi.
+55|怎么去～？|Zěnme qù ~?|Đến ~ như thế nào?
+56|直走。|Zhí zǒu|Đi thẳng.
+57|向右转。|Xiàng yòu zhuǎn|Rẽ phải.
+58|向左转。|Xiàng zuǒ zhuǎn|Rẽ trái.
+59|近吗？|Jìn ma?|Gần không?
+60|远吗？|Yuǎn ma?|Xa không?
+61|可以走路去吗？|Kěyǐ zǒulù qù ma?|Đi bộ được không?
+62|请给我看地图。|Qǐng gěi wǒ kàn dìtú|Cho tôi xem bản đồ.
+63|这里是哪里？|Zhèlǐ shì nǎlǐ?|Đây là ở đâu?
+64|在～旁边。|Zài ~ pángbiān|Ở cạnh ~.
+65|在～前面。|Zài ~ qiánmiàn|Ở phía trước ~.
+66|在～后面。|Zài ~ hòumiàn|Ở phía sau ~.
+67|在路口转弯。|Zài lùkǒu zhuǎnwān|Rẽ ở ngã tư.
+68|走～分钟。|Zǒu ~ fēnzhōng|Đi bộ ~ phút.
+69|地铁站在哪里？|Dìtiě zhàn zài nǎlǐ?|Ga tàu điện ngầm ở đâu?
+70|公交车站在哪里？|Gōngjiāochē zhàn zài nǎlǐ?|Trạm xe buýt ở đâu?
+## 4|Mua sắm|购物
+71|这个多少钱？|Zhège duōshǎo qián?|Cái này giá bao nhiêu?
+72|太贵了。|Tài guì le|Đắt quá.
+73|有便宜一点的吗？|Yǒu piányí yīdiǎn de ma?|Có cái gì rẻ hơn không?
+74|我要这个。|Wǒ yào zhège|Tôi muốn cái này.
+75|有其他尺码吗？|Yǒu qítā chǐmǎ ma?|Có kích cỡ khác không?
+76|可以试穿吗？|Kěyǐ shìchuān ma?|Tôi có thể thử không?
+77|可以刷卡吗？|Kěyǐ shuākǎ ma?|Có thể dùng thẻ tín dụng không?
+78|请给我收据。|Qǐng gěi wǒ shōujù|Làm ơn cho tôi hóa đơn.
+79|我想退货。|Wǒ xiǎng tuìhuò|Tôi muốn trả hàng.
+80|我想换货。|Wǒ xiǎng huànhuò|Tôi muốn đổi hàng.
+81|请给我袋子。|Qǐng gěi wǒ dàizi|Cho tôi túi.
+82|有这种颜色吗？|Yǒu zhè zhǒng yánsè ma?|Màu này có không?
+83|可以打折吗？|Kěyǐ dǎzhé ma?|Có thể giảm giá không?
+84|找我钱。|Zhǎo wǒ qián|Trả tiền thừa.
+85|还有货吗？|Hái yǒu huò ma?|Còn hàng không?
+86|什么时候打折？|Shénme shíhòu dǎzhé?|Khi nào có giảm giá?
+87|请帮我包装成礼物。|Qǐng bāng wǒ bāozhuāng chéng lǐwù|Gói quà tặng hộ tôi.
+88|可以免税吗？|Kěyǐ miǎnshuì ma?|Có miễn thuế không?
+89|收银台在哪里？|Shōuyíntái zài nǎlǐ?|Quầy thanh toán ở đâu?
+90|我只是看看。|Wǒ zhǐshì kànkàn|Tôi chỉ xem thôi.
+## 5|Nhà hàng & Ăn uống|餐饮
+91|两位。|Liǎng wèi|Hai người.
+92|请给我菜单。|Qǐng gěi wǒ càidān|Cho tôi xem menu.
+93|我要点菜。|Wǒ yào diǎncài|Tôi muốn đặt món.
+94|有什么推荐？|Yǒu shénme tuījiàn?|Bạn giới thiệu gì?
+95|辣吗？|Là ma?|Có cay không?
+96|我对～过敏。|Wǒ duì ~ guòmǐn|Tôi bị dị ứng với ~.
+97|请结账。|Qǐng jiézhàng|Cho tôi hóa đơn.
+98|很好吃！|Hěn hǎochī!|Rất ngon!
+99|请给我水。|Qǐng gěi wǒ shuǐ|Cho tôi nước.
+100|不要放肉。|Bú yào fàng ròu|Không có thịt.
+101|少放辣椒。|Shǎo fàng làjiāo|Ít cay thôi.
+102|分开结账。|Fēnkāi jiézhàng|Thanh toán riêng.
+103|我想订位。|Wǒ xiǎng dìng wèi|Tôi muốn đặt bàn.
+104|打包带走。|Dǎbāo dàizǒu|Gói mang về.
+105|今天的特色菜是什么？|Jīntiān de tèsè cài shì shénme?|Hôm nay có món đặc biệt gì?
+106|这道菜是什么？|Zhè dào cài shì shénme?|Món này là gì?
+107|再来一碟。|Zài lái yī dié|Cho thêm đĩa.
+108|请稍等。|Qǐng shāo děng|Chờ một chút.
+109|真的很好吃。|Zhēn de hěn hǎochī|Thực sự rất ngon.
+110|一个人吗？|Yīgè rén ma?|Bạn ăn một mình?
+## 6|Giao thông & Du lịch|交通与旅游
+111|请给我一张去～的票。|Qǐng gěi wǒ yī zhāng qù ~ de piào|Cho tôi một vé đến ~.
+112|火车几点出发？|Huǒchē jǐ diǎn chūfā?|Tàu xuất phát lúc mấy giờ?
+113|单程票。|Dānchéng piào|Vé một chiều.
+114|往返票。|Wǎngfǎn piào|Vé khứ hồi.
+115|这个座位有人吗？|Zhège zuòwèi yǒu rén ma?|Chỗ này có ai ngồi không?
+116|几号站台？|Jǐ hào zhàntái?|Sân ga số mấy?
+117|请帮我叫出租车。|Qǐng bāng wǒ jiào chūzūchē|Gọi taxi hộ tôi.
+118|请去这个地址。|Qǐng qù zhège dìzhǐ|Đến địa chỉ này.
+119|费用是多少？|Fèiyòng shì duōshǎo?|Giá bao nhiêu?
+120|我错过飞机了。|Wǒ cuòguò fēijī le|Tôi lỡ máy bay.
+121|我的行李丢了。|Wǒ de xínglǐ diū le|Tôi mất hành lý.
+122|在哪里办理登机手续？|Zài nǎlǐ bànlǐ dēngjī shǒuxù?|Làm thủ tục ở đâu?
+123|需要换乘吗？|Xūyào huànchéng ma?|Có phải chuyển tuyến không?
+124|我要靠窗的座位。|Wǒ yào kào chuāng de zuòwèi|Tôi muốn ghế cạnh cửa sổ.
+125|在哪里下车？|Zài nǎlǐ xià chē?|Tôi nên xuống ở đâu?
+126|有直飞的航班吗？|Yǒu zhí fēi de hángbān ma?|Có chuyến bay thẳng không?
+127|下一站是哪里？|Xià yī zhàn shì nǎlǐ?|Trạm tiếp theo là đâu?
+128|公交车站在哪里？|Gōngjiāochē zhàn zài nǎlǐ?|Trạm xe buýt ở đâu?
+129|交通卡在哪里买？|Jiāotōng kǎ zài nǎlǐ mǎi?|Mua thẻ giao thông ở đâu?
+130|到机场需要多长时间？|Dào jīchǎng xūyào duō cháng shíjiān?|Đến sân bay mất bao lâu?
+## 7|Sức khỏe & Bệnh viện|健康与医院
+131|我身体不舒服。|Wǒ shēntǐ bù shūfu|Tôi cảm thấy không khỏe.
+132|我头疼。|Wǒ tóuténg|Tôi bị đau đầu.
+133|我肚子疼。|Wǒ dùzi téng|Tôi bị đau bụng.
+134|我发烧了。|Wǒ fāshāo le|Tôi bị sốt.
+135|我想看医生。|Wǒ xiǎng kàn yīshēng|Tôi muốn gặp bác sĩ.
+136|请叫救护车！|Qǐng jiào jiùhùchē!|Gọi xe cấp cứu!
+137|很疼。|Hěn téng|Tôi đau.
+138|我对这种药过敏。|Wǒ duì zhè zhǒng yào guòmǐn|Tôi dị ứng thuốc này.
+139|一天吃几次？|Yītiān chī jǐ cì?|Uống mấy lần một ngày?
+140|请开药方。|Qǐng kāi yàofāng|Làm ơn kê đơn thuốc.
+141|我想预约。|Wǒ xiǎng yùyuē|Tôi muốn đặt lịch hẹn.
+142|哪里疼？|Nǎlǐ téng?|Đau ở đâu?
+143|需要打针吗？|Xūyào dǎzhēn ma?|Có cần tiêm không?
+144|严重吗？|Yánzhòng ma?|Có nghiêm trọng không?
+145|我的腿受伤了。|Wǒ de tuǐ shòushāng le|Tôi bị thương ở chân.
+146|我喉咙疼。|Wǒ hóulóng téng|Tôi đau họng.
+147|一天吃两次。|Yītiān chī liǎng cì|Uống hai lần một ngày.
+148|请好好休息。|Qǐng hǎohǎo xiūxi|Hãy nghỉ ngơi tốt.
+149|需要住院。|Xūyào zhùyuàn|Cần phải nhập viện.
+150|请快点好起来。|Qǐng kuài diǎn hǎo qǐlái|Mau khỏe lại nhé.
+## 8|Công việc & Văn phòng|工作与办公室
+151|会议几点开始？|Huìyì jǐ diǎn kāishǐ?|Cuộc họp bắt đầu lúc mấy giờ?
+152|请发给我报告。|Qǐng fā gěi wǒ bàogào|Gửi báo cáo cho tôi.
+153|我今天会迟到。|Wǒ jīntiān huì chídào|Hôm nay tôi sẽ đến muộn.
+154|截止日期是明天。|Jiézhǐ rìqī shì míngtiān|Hạn chót là ngày mai.
+155|可以改期吗？|Kěyǐ gǎiqī ma?|Có thể đổi lịch không?
+156|我想请假。|Wǒ xiǎng qǐngjià|Tôi muốn xin nghỉ.
+157|请检查这份文件。|Qǐng jiǎnchá zhè fèn wénjiàn|Kiểm tra tài liệu này.
+158|打印机坏了。|Dǎyìnjī huài le|Máy in bị hỏng.
+159|我今天有面试。|Wǒ jīntiān yǒu miànshì|Hôm nay tôi có phỏng vấn.
+160|发薪日是什么时候？|Fā xīn rì shì shénme shíhòu?|Ngày trả lương là khi nào?
+161|我今天可以在家办公吗？|Wǒ jīntiān kěyǐ zài jiā bàngōng ma?|Hôm nay tôi làm việc ở nhà được không?
+162|请在这里签名。|Qǐng zài zhèlǐ qiānmíng|Ký vào đây.
+163|系统崩溃了。|Xìtǒng bēngkuì le|Hệ thống bị lỗi.
+164|请再解释一遍。|Qǐng zài jiěshì yībiàn|Giải thích lại một lần.
+165|我稍后联系你。|Wǒ shāohòu liánxì nǐ|Tôi sẽ liên lạc sau.
+166|我们开个视频会议吧。|Wǒmen kāi gè shìpín huìyì ba|Hãy mở cuộc họp video.
+167|我想申请这个职位。|Wǒ xiǎng shēnqǐng zhège zhíwèi|Tôi muốn ứng tuyển vào vị trí này.
+168|请把我抄送在邮件里。|Qǐng bǎ wǒ chāosòng zài yóujiàn lǐ|Hãy CC tôi vào email.
+169|项目进展顺利。|Xiàngmù jìnzhǎn shùnlì|Dự án tiến triển tốt.
+170|我升职了！|Wǒ shēngzhí le!|Tôi được thăng chức!
+## 9|Học tập & Giáo dục|学习与教育
+171|请再说一遍。|Qǐng zài shuō yībiàn|Nói lại một lần nữa.
+172|我听不懂。|Wǒ tīng bù dǒng|Tôi không hiểu.
+173|请说慢一点。|Qǐng shuō màn yīdiǎn|Nói chậm hơn.
+174|怎么念？|Zěnme niàn?|Đọc như thế nào?
+175|这个词是什么意思？|Zhège cí shì shénme yìsi?|Từ này có nghĩa là gì?
+176|可以借我笔吗？|Kěyǐ jiè wǒ bǐ ma?|Mượn bút được không?
+177|考试是什么时候？|Kǎoshì shì shénme shíhòu?|Khi nào thi?
+178|我要多学习。|Wǒ yào duō xuéxí|Tôi cần học nhiều hơn.
+179|可以帮我做作业吗？|Kěyǐ bāng wǒ zuò zuòyè ma?|Giúp tôi làm bài tập được không?
+180|我考试不及格。|Wǒ kǎoshì bù jígé|Tôi trượt thi.
+181|我通过考试了！|Wǒ tōngguò kǎoshì le!|Tôi đậu thi rồi!
+182|图书馆在哪里？|Túshūguǎn zài nǎlǐ?|Thư viện ở đâu?
+183|可以借这本书吗？|Kěyǐ jiè zhè běn shū ma?|Mượn sách này được không?
+184|请交作业。|Qǐng jiāo zuòyè|Nộp bài tập.
+185|今天没有课。|Jīntiān méiyǒu kè|Hôm nay không có lớp.
+186|我学的是经济学。|Wǒ xué de shì jīngjìxué|Tôi học chuyên ngành kinh tế.
+187|学期什么时候开始？|Xuéqī shénme shíhòu kāishǐ?|Học kỳ bắt đầu khi nào?
+188|我想申请奖学金。|Wǒ xiǎng shēnqǐng jiǎngxuéjīn|Tôi muốn đăng ký học bổng.
+189|这个会考吗？|Zhège huì kǎo ma?|Cái này có trong bài thi không?
+190|现在学到第几章？|Xiànzài xué dào dì jǐ zhāng?|Đang học đến chương mấy?
+## 10|Điện thoại & Công nghệ|电话与科技
+191|可以借我手机吗？|Kěyǐ jiè wǒ shǒujī ma?|Mượn điện thoại được không?
+192|手机没电了。|Shǒujī méi diàn le|Điện thoại hết pin.
+193|可以在这里充电吗？|Kěyǐ zài zhèlǐ chōngdiàn ma?|Sạc điện ở đây được không?
+194|有WIFI吗？|Yǒu WIFI ma?|Có Wi-Fi không?
+195|WIFI密码是什么？|WIFI mìmǎ shì shénme?|Mật khẩu Wi-Fi là gì?
+196|电脑坏了。|Diànnǎo huài le|Máy tính bị hỏng.
+197|请发短信给我。|Qǐng fā duǎnxìn gěi wǒ|Gửi tin nhắn.
+198|我待会儿回电话。|Wǒ dāihuìr huí diànhuà|Tôi sẽ gọi lại.
+199|听得到吗？|Tīng de dào ma?|Bạn có nghe thấy không?
+200|我给你发邮件。|Wǒ gěi nǐ fā yóujiàn|Tôi sẽ gửi email.
+201|网速很慢。|Wǎng sù hěn màn|Internet chậm.
+202|我忘记密码了。|Wǒ wàngjì mìmǎ le|Tôi quên mật khẩu.
+203|怎么下载？|Zěnme xiàzài?|Tải về như thế nào?
+204|手机死机了。|Shǒujī sǐjī le|Điện thoại bị đơ.
+205|可以视频通话吗？|Kěyǐ shìpín tōnghuà ma?|Gọi video được không?
+206|打印机连不上。|Dǎyìnjī lián bù shàng|Máy in không kết nối được.
+207|网站打不开。|Wǎngzhàn dǎ bù kāi|Không mở được trang web.
+208|可以安装这个应用吗？|Kěyǐ ānzhuāng zhège yìngyòng ma?|Cài app này được không?
+209|没有信号。|Méiyǒu xìnhào|Không có sóng.
+210|请留言。|Qǐng liúyán|Hãy để lại tin nhắn.
+## 11|Cảm xúc & Trạng thái|情感与状态
+211|我很高兴。|Wǒ hěn gāoxìng|Tôi vui.
+212|我很难过。|Wǒ hěn nánguò|Tôi buồn.
+213|我很累。|Wǒ hěn lèi|Tôi mệt.
+214|我饿了。|Wǒ è le|Tôi đói.
+215|我渴了。|Wǒ kě le|Tôi khát.
+216|我很无聊。|Wǒ hěn wúliáo|Tôi chán.
+217|我很兴奋！|Wǒ hěn xīngfèn!|Tôi hào hứng!
+218|我很紧张。|Wǒ hěn jǐnzhāng|Tôi hồi hộp.
+219|我很生气。|Wǒ hěn shēngqì|Tôi tức giận.
+220|我很困惑。|Wǒ hěn kùnhuò|Tôi bối rối.
+221|我很惊讶。|Wǒ hěn jīngyà|Tôi ngạc nhiên.
+222|我很失望。|Wǒ hěn shīwàng|Tôi thất vọng.
+223|我很感激。|Wǒ hěn gǎnjī|Tôi biết ơn.
+224|我为你骄傲。|Wǒ wèi nǐ jiāoào|Tôi tự hào về bạn.
+225|我很孤独。|Wǒ hěn gūdú|Tôi cô đơn.
+226|我今天感觉很好。|Wǒ jīntiān gǎnjué hěn hǎo|Hôm nay tôi cảm thấy rất tốt.
+227|我压力很大。|Wǒ yālì hěn dà|Tôi đang bị căng thẳng.
+228|心情很好。|Xīnqíng hěn hǎo|Tâm trạng rất tốt.
+229|我很担心。|Wǒ hěn dānxīn|Tôi đang lo lắng.
+230|我忍不住笑。|Wǒ rěn bù zhù xiào|Tôi không nhịn cười được.
+## 12|Thời tiết|天气
+231|今天天气怎么样？|Jīntiān tiānqì zěnmeyàng?|Thời tiết hôm nay thế nào?
+232|天晴。|Tiān qíng|Trời nắng.
+233|下雨了。|Xià yǔ le|Đang mưa.
+234|今天很冷。|Jīntiān hěn lěng|Hôm nay rất lạnh.
+235|又热又湿。|Yòu rè yòu shī|Nóng và ẩm.
+236|台风要来了。|Táifēng yào lái le|Có bão đến.
+237|明天会下雨吗？|Míngtiān huì xià yǔ ma?|Ngày mai có mưa không?
+238|下雪了。|Xià xuě le|Đang có tuyết rơi.
+239|带把伞吧。|Dài bǎ sǎn ba|Mang ô theo nhé.
+240|天气很好。|Tiānqì hěn hǎo|Thời tiết đẹp.
+241|刮风了。|Guā fēng le|Trời có gió.
+242|雾很浓。|Wù hěn nóng|Sương mù dày.
+243|非常冷。|Fēicháng lěng|Rất lạnh.
+244|今天几度？|Jīntiān jǐ dù?|Hôm nay mấy độ?
+245|彩虹出来了！|Cǎihóng chūlái le!|Có cầu vồng!
+246|天气预报说有雨。|Tiānqì yùbào shuō yǒu yǔ|Dự báo thời tiết nói sẽ có mưa.
+247|天阴了。|Tiān yīn le|Trời âm u.
+248|天空很晴朗。|Tiānkōng hěn qínglǎng|Bầu trời trong xanh.
+249|积雪了。|Jī xuě le|Tuyết đang tích tụ.
+250|真是好天气！|Zhēn shì hǎo tiānqì!|Thật là ngày đẹp trời!
+## 13|Các chủ đề tiếp theo (251–750)|更多话题
+251|你有兄弟姐妹吗？|Nǐ yǒu xiōngdì jiěmèi ma?|Bạn có anh chị em không?
+252|我有两个弟弟。|Wǒ yǒu liǎng gè dìdi|Tôi có hai em trai.
+253|你结婚了吗？|Nǐ jiéhūn le ma?|Bạn đã kết hôn chưa?
+254|我还没结婚。|Wǒ hái méi jiéhūn|Tôi chưa kết hôn.
+255|你有几个孩子？|Nǐ yǒu jǐgè háizi?|Bạn có mấy con?
+256|我父母退休了。|Wǒ fùmǔ tuìxiū le|Bố mẹ tôi đã về hưu.
+257|我想家了。|Wǒ xiǎng jiā le|Tôi nhớ nhà.
+258|我们明年结婚。|Wǒmen míngnián jiéhūn|Chúng tôi kết hôn năm sau.
+259|她是我女朋友。|Tā shì wǒ nǚpéngyǒu|Cô ấy là bạn gái tôi.
+260|他是我丈夫。|Tā shì wǒ zhàngfu|Anh ấy là chồng tôi.
+261|我们有很多共同点。|Wǒmen yǒu hěn duō gòngtóng diǎn|Chúng tôi có nhiều điểm chung.
+262|我在河内长大。|Wǒ zài Hénèi zhǎngdà|Tôi lớn lên ở Hà Nội.
+263|我奶奶年纪大了。|Wǒ nǎinai niánjì dà le|Bà tôi rất cao tuổi.
+264|我们是好朋友。|Wǒmen shì hǎo péngyǒu|Chúng tôi là bạn thân.
+265|分手了。|Fēnshǒu le|Chúng tôi chia tay.
+266|他们在等宝宝。|Tāmen zài děng bǎobao|Họ đang chờ đón em bé.
+267|我儿子五岁了。|Wǒ érzi wǔ suì le|Con trai tôi năm tuổi.
+268|我是独生子。|Wǒ shì dúshēngzǐ|Tôi là con một.
+269|家庭最重要。|Jiātíng zuì zhòngyào|Gia đình là trên hết.
+270|她像我姐姐一样。|Tā xiàng wǒ jiějie yīyàng|Cô ấy như chị gái của tôi.
+271|空闲时你喜欢做什么？|Kòngxián shí nǐ xǐhuān zuò shénme?|Rảnh bạn thích làm gì?
+272|我喜欢读书。|Wǒ xǐhuān dúshū|Tôi thích đọc sách.
+273|我非常喜欢听音乐。|Wǒ fēicháng xǐhuān tīng yīnyuè|Tôi rất thích nghe nhạc.
+274|你运动吗？|Nǐ yùndòng ma?|Bạn có chơi thể thao không?
+275|我每天早上慢跑。|Wǒ měitiān zǎoshang màn pǎo|Tôi chạy bộ mỗi sáng.
+276|我喜欢看电影。|Wǒ xǐhuān kàn diànyǐng|Tôi thích xem phim.
+277|我在学做饭。|Wǒ zài xué zuò fàn|Tôi đang học nấu ăn.
+278|我喜欢旅行。|Wǒ xǐhuān lǚxíng|Tôi thích du lịch.
+279|我弹吉他。|Wǒ tán jítā|Tôi chơi đàn guitar.
+280|我喜欢画画。|Wǒ xǐhuān huàhuà|Tôi thích vẽ.
+281|你今晚有空吗？|Nǐ jīn wǎn yǒu kòng ma?|Tối nay bạn rảnh không?
+282|一起去吃晚饭吧？|Yīqǐ qù chī wǎnfàn ba?|Đi ăn tối không?
+283|七点见面吧。|Qī diǎn jiànmiàn ba|Gặp nhau lúc bảy giờ nhé.
+284|在哪里见面？|Zài nǎlǐ jiànmiàn?|Gặp nhau ở đâu nhé?
+285|十分钟后到。|Shí fēnzhōng hòu dào|Mười phút nữa đến.
+286|可以改到明天吗？|Kěyǐ gǎi dào míngtiān ma?|Chuyển sang ngày mai được không?
+287|对不起，我去不了。|Duìbuqǐ, wǒ qù bù liǎo|Xin lỗi, tôi không đến được.
+288|去看电影吧。|Qù kàn diànyǐng ba|Đi xem phim nhé.
+289|你什么时候方便？|Nǐ shénme shíhòu fāngbiàn?|Khi nào tiện cho bạn?
+290|八点去接你。|Bā diǎn qù jiē nǐ|Tôi đón bạn lúc tám giờ.
+291|不要迟到！|Bú yào chídào!|Đừng đến muộn!
+292|去喝咖啡吧。|Qù hē kāfēi ba|Đi uống cà phê nhé.
+293|你来派对吗？|Nǐ lái pàiduì ma?|Bạn có đến bữa tiệc không?
+294|我稍后加入。|Wǒ shāohòu jiārù|Tôi đến sau.
+295|晚上八点开始。|Wǎnshang bā diǎn kāishǐ|Bắt đầu lúc tám giờ tối.
+296|我已经有安排了。|Wǒ yǐjīng yǒu ānpái le|Tôi đã có kế hoạch rồi.
+297|下周再说吧。|Xià zhōu zài shuō ba|Để tuần sau nhé.
+298|好主意！|Hǎo zhǔyì!|Ý kiến tốt!
+299|我很期待。|Wǒ hěn qīdài|Tôi rất mong đợi.
+300|到时候见！|Dào shíhòu jiàn!|Hẹn gặp nhé!
+301|依我看。|Yī wǒ kàn|Theo tôi thấy.
+302|我认为～。|Wǒ rènwéi ~|Tôi cho rằng ~.
+303|我同意。|Wǒ tóngyì|Tôi đồng ý.
+304|我不同意。|Wǒ bù tóngyì|Tôi không đồng ý.
+305|说得对。|Shuō de duì|Nói đúng đó.
+306|你说得有道理。|Nǐ shuō de yǒu dàolǐ|Bạn nói có lý.
+307|这很有意思。|Zhè hěn yǒu yìsi|Điều này thú vị.
+308|让我想想。|Ràng wǒ xiǎngxiǎng|Để tôi suy nghĩ.
+309|说得通。|Shuō de tōng|Điều đó có lý.
+310|我完全同意。|Wǒ wánquán tóngyì|Tôi hoàn toàn đồng ý.
+311|老实说。|Lǎoshí shuō|Thành thật mà nói.
+312|从我的角度来看。|Cóng wǒ de jiǎodù lái kàn|Theo góc nhìn của tôi.
+313|因人而异。|Yīn rén ér yì|Tùy từng người.
+314|不能一概而论。|Bù néng yīgài érlùn|Không thể nói đơn giản như vậy.
+315|论点很好。|Lùndiǎn hěn hǎo|Lập luận tốt nhỉ.
+316|我以前没想过这样。|Wǒ yǐqián méi xiǎng guò zhèyàng|Tôi chưa nghĩ theo cách đó.
+317|你对这件事怎么看？|Nǐ duì zhè jiàn shì zěnme kàn?|Bạn nghĩ gì về điều này?
+318|让我再想想。|Ràng wǒ zài xiǎngxiǎng|Cho tôi suy nghĩ thêm.
+319|我相信～。|Wǒ xiāngxìn ~|Tôi tin rằng ~.
+320|我觉得那是错的。|Wǒ juéde nà shì cuò de|Tôi nghĩ điều đó sai.
+321|救命！|Jiùmìng!|Cứu tôi!
+322|请叫警察！|Qǐng jiào jǐngchá!|Gọi cảnh sát!
+323|发生事故了。|Fāshēng shìgù le|Đã xảy ra tai nạn.
+324|有人受伤吗？|Yǒu rén shòushāng ma?|Có ai bị thương không?
+325|我需要立刻帮助。|Wǒ xūyào lìkè bāngzhù|Tôi cần giúp đỡ ngay.
+326|不要动！|Bú yào dòng!|Đừng cử động!
+327|危险！|Wēixiǎn!|Nguy hiểm!
+328|我被扒窃了。|Wǒ bèi páqiè le|Tôi bị móc túi.
+329|我的钱包丢了。|Wǒ de qiánbāo diū le|Tôi mất ví.
+330|我的护照被偷了。|Wǒ de hùzhào bèi tōu le|Hộ chiếu bị đánh cắp.
+331|着火了！|Zháohuǒ le!|Cháy!
+332|请离开大楼！|Qǐng líkāi dàlóu!|Thoát khỏi tòa nhà!
+333|紧急出口在哪里？|Jǐnjí chūkǒu zài nǎlǐ?|Lối thoát khẩn cấp ở đâu?
+334|我需要联系大使馆。|Wǒ xūyào liánxì dàshǐguǎn|Tôi cần liên hệ đại sứ quán.
+335|请冷静。|Qǐng lěngjìng|Bình tĩnh lại.
+336|我出了事故。|Wǒ chū le shìgù|Tôi vừa gặp tai nạn.
+337|这里有医生吗？|Zhèlǐ yǒu yīshēng ma?|Ở đây có bác sĩ không?
+338|能帮忙叫救援吗？|Néng bāngmáng jiào jiùyuán ma?|Gọi giúp đỡ được không?
+339|不要慌张。|Bú yào huāngzhāng|Đừng hoảng loạn.
+340|离那个人远一点。|Lí nàgè rén yuǎn yīdiǎn|Tránh xa người đó.
+341|现在几点？|Xiànzài jǐ diǎn?|Bây giờ là mấy giờ?
+342|三点了。|Sān diǎn le|Ba giờ rồi.
+343|今天星期几？|Jīntiān xīngqī jǐ?|Hôm nay là thứ mấy?
+344|今天星期一。|Jīntiān xīngqīyī|Hôm nay là thứ Hai.
+345|今天几号？|Jīntiān jǐ hào?|Hôm nay là ngày mấy?
+346|四月十五日。|Sì yuè shíwǔ rì|Ngày mười lăm tháng Tư.
+347|下周见。|Xià zhōu jiàn|Tuần sau gặp lại.
+348|一小时后有会议。|Yī xiǎoshí hòu yǒu huìyì|Một tiếng nữa có cuộc họp.
+349|我马上回来。|Wǒ mǎshàng huílái|Tôi sẽ quay lại ngay.
+350|我1995年出生。|Wǒ yī jiǔ jiǔ wǔ nián chūshēng|Tôi sinh năm 1995.
+351|快到午夜了。|Kuài dào wǔyè le|Gần nửa đêm rồi.
+352|商店九点开门。|Shāngdiàn jiǔ diǎn kāimén|Cửa hàng mở lúc chín giờ.
+353|我中午之前到。|Wǒ zhōngwǔ zhīqián dào|Đến trước buổi trưa.
+354|可以早上早点见吗？|Kěyǐ zǎoshang zǎo diǎn jiàn ma?|Có thể gặp sáng sớm không?
+355|那是去年的事。|Nà shì qùnián de shì|Chuyện năm ngoái.
+356|今天之内完成。|Jīntiān zhīnèi wánchéng|Hoàn thành trong hôm nay.
+357|时间充足。|Shíjiān chōngzú|Thời gian rất dư dả.
+358|时间过得真快。|Shíjiān guò de zhēn kuài|Thời gian trôi nhanh thật.
+359|我迟到了。|Wǒ chídào le|Tôi đang trễ.
+360|请准时到。|Qǐng zhǔnshí dào|Hãy đến đúng giờ.
+361|你是租的还是自己的？|Nǐ shì zū de háishì zìjǐ de?|Bạn thuê hay sở hữu nhà?
+362|房租多少？|Fángzū duōshǎo?|Tiền thuê nhà là bao nhiêu?
+363|有家具吗？|Yǒu jiājù ma?|Có nội thất không?
+364|我在找室友。|Wǒ zài zhǎo shìyǒu|Tôi đang tìm người ở chung.
+365|暖气坏了。|Nuǎnqì huài le|Máy sưởi bị hỏng.
+366|几楼？|Jǐ lóu?|Ở tầng mấy?
+367|有停车位吗？|Yǒu tíngchē wèi ma?|Có chỗ đỗ xe không?
+368|水管漏水了。|Shuǐguǎn lòushuǐ le|Ống nước đang rò rỉ.
+369|有几间卧室？|Yǒu jǐ jiān wòshì?|Có mấy phòng ngủ?
+370|这个社区很安静。|Zhège shèqū hěn ānjìng|Khu phố này yên tĩnh.
+371|我想开户。|Wǒ xiǎng kāihù|Tôi muốn mở tài khoản.
+372|我想转账。|Wǒ xiǎng zhuǎnzhàng|Tôi muốn chuyển tiền.
+373|我想查余额。|Wǒ xiǎng chá yúé|Tôi muốn biết số dư.
+374|我想取钱。|Wǒ xiǎng qǔ qián|Tôi muốn rút tiền.
+375|最近的ATM在哪里？|Zuìjìn de ATM zài nǎlǐ?|ATM gần nhất ở đâu?
+376|卡被拒了。|Kǎ bèi jù le|Thẻ bị từ chối.
+377|汇率是多少？|Huìlǜ shì duōshǎo?|Tỷ giá là bao nhiêu?
+378|可以分期付款吗？|Kěyǐ fēnqī fùkuǎn ma?|Có thể trả góp không?
+379|利率是多少？|Lìlǜ shì duōshǎo?|Lãi suất là bao nhiêu?
+380|有手续费吗？|Yǒu shǒuxùfèi ma?|Có phí giao dịch không?
+381|我很饿。|Wǒ hěn è|Tôi đói lắm.
+382|这个很好吃。|Zhège hěn hǎochī|Cái này rất ngon.
+383|我不吃肉。|Wǒ bù chī ròu|Tôi không ăn thịt.
+384|这道菜有什么？|Zhè dào cài yǒu shénme?|Món này có những gì?
+385|我喜欢辣的。|Wǒ xǐhuān là de|Tôi thích đồ ăn cay.
+386|太咸了。|Tài xián le|Mặn quá.
+387|请给我糖。|Qǐng gěi wǒ táng|Cho tôi đường.
+388|请给我一杯咖啡。|Qǐng gěi wǒ yī bēi kāfēi|Cho tôi một tách cà phê.
+389|我在节食。|Wǒ zài jiéshí|Tôi đang ăn kiêng.
+390|我们一起做晚饭吧。|Wǒmen yīqǐ zuò wǎnfàn ba|Cùng nhau nấu bữa tối nhé.
+391|你看过这部电影吗？|Nǐ kàn guò zhè bù diànyǐng ma?|Bạn xem phim này chưa?
+392|你喜欢什么类型的音乐？|Nǐ xǐhuān shénme lèixíng de yīnyuè?|Bạn thích thể loại nhạc gì?
+393|音乐会很棒。|Yīnyuèhuì hěn bàng|Buổi hòa nhạc thật tuyệt vời.
+394|你最喜欢什么电视节目？|Nǐ zuì xǐhuān shénme diànshì jiémù?|Chương trình TV yêu thích là gì?
+395|结局出乎意料。|Jiéjú chūhū yìliào|Kết thúc thật bất ngờ.
+396|我每天听播客。|Wǒ měitiān tīng bōkè|Tôi nghe podcast mỗi ngày.
+397|这首歌在我脑里挥之不去。|Zhè shǒu gē zài wǒ nǎo lǐ huī zhī bù qù|Bài hát này cứ vang trong đầu.
+398|踢足球吧。|Tī zúqiú ba|Chơi bóng đá nào.
+399|我每天去健身房。|Wǒ měitiān qù jiànshēnfáng|Tôi đi gym mỗi ngày.
+400|不要放弃！|Bú yào fàngqì!|Đừng bỏ cuộc!
+401|真的吗？|Zhēn de ma?|Thật sao?
+402|不可能！|Bù kěnéng!|Không thể nào!
+403|开玩笑吧？|Kāi wánxiào ba?|Bạn đùa à?
+404|太棒了！|Tài bàng le!|Tuyệt vời!
+405|真可怕。|Zhēn kěpà|Thật kinh khủng.
+406|做得好！|Zuò de hǎo!|Làm tốt lắm!
+407|祝你好运！|Zhù nǐ hǎo yùn!|Chúc may mắn!
+408|保重！|Bǎozhòng!|Bảo trọng!
+409|祝你今天愉快！|Zhù nǐ jīntiān yúkuài!|Chúc một ngày tốt lành!
+410|你也是！|Nǐ yě shì!|Bạn cũng vậy nhé!
+411|太遗憾了！|Tài yíhàn le!|Thật đáng tiếc!
+412|真不可思议！|Zhēn bùkě sīyì!|Thật không thể tin được!
+413|你说得对。|Nǐ shuō de duì|Bạn đúng rồi.
+414|没关系。|Méi guānxi|Không sao.
+415|随你。|Suí nǐ|Tùy bạn.
+416|我不知道。|Wǒ bù zhīdào|Tôi không biết.
+417|明白了！|Míngbái le!|Hiểu rồi!
+418|走吧！|Zǒu ba!|Đi thôi!
+419|当然。|Dāngrán|Tất nhiên.
+420|没问题，没关系。|Méi wèntí, méi guānxi|Không vấn đề.
+421|技术进步很快。|Jìshù jìnbù hěn kuài|Công nghệ đang phát triển nhanh.
+422|人工智能改变着一切。|Réngōng zhìnéng gǎibiànzhe yīqiè|Trí tuệ nhân tạo đang thay đổi mọi thứ.
+423|我们严重依赖智能手机。|Wǒmen yánzhòng yīlài zhìnéng shǒujī|Chúng ta phụ thuộc nhiều vào điện thoại.
+424|实验成功了。|Shíyàn chénggōng le|Thí nghiệm thành công.
+425|科学帮助我们理解世界。|Kēxué bāngzhù wǒmen lǐjiě shìjiè|Khoa học giúp ta hiểu thế giới.
+426|数据隐私非常重要。|Shùjù yǐnsī fēicháng zhòngyào|Quyền riêng tư dữ liệu rất quan trọng.
+427|电动汽车越来越受欢迎。|Diàndòng qìchē yuèláiyuè shòu huānyíng|Xe điện đang trở nên phổ biến.
+428|太空探索令我兴奋。|Tàikōng tànsuǒ lìng wǒ xīngfèn|Khám phá vũ trụ làm tôi hứng thú.
+429|互联网改变了我们的生活。|Hùliánwǎng gǎibiàn le wǒmen de shēnghuó|Internet đã thay đổi cuộc sống của chúng ta.
+430|新软件功能很多。|Xīn ruǎnjiàn gōngnéng hěn duō|Phần mềm mới có nhiều tính năng.
+431|人人都应该有平等权利。|Rén rén dōu yīnggāi yǒu píngděng quánlì|Mọi người đều xứng đáng có quyền bình đẳng.
+432|教育非常重要。|Jiàoyù fēicháng zhòngyào|Giáo dục rất quan trọng.
+433|我们应该保护环境。|Wǒmen yīnggāi bǎohù huánjìng|Nên bảo vệ môi trường.
+434|气候变化是真实问题。|Qìhòu biànhuà shì zhēnshí wèntí|Biến đổi khí hậu là vấn đề thực sự.
+435|我们需要互相帮助。|Wǒmen xūyào hùxiāng bāngzhù|Chúng ta cần hỗ trợ lẫn nhau.
+436|歧视是错的。|Qíshì shì cuò de|Phân biệt đối xử là sai.
+437|和平是无价的。|Hépíng shì wújià de|Hòa bình là vô giá.
+438|我们生活在多元化的世界里。|Wǒmen shēnghuó zài duōyuánhuà de shìjiè lǐ|Chúng ta sống trong một thế giới đa dạng.
+439|减少使用塑料。|Jiǎnshǎo shǐyòng sùliào|Nên giảm sử dụng nhựa.
+440|尽量回收利用。|Jǐnliàng huíshōu lìyòng|Hãy tái chế bất cứ khi nào có thể.
+441|秋天的森林很美。|Qiūtiān de sēnlín hěn měi|Rừng rất đẹp vào mùa thu.
+442|海洋充满生命。|Hǎiyáng chōngmǎn shēngmìng|Đại dương chứa đầy sự sống.
+443|我热爱大自然。|Wǒ rè'ài dàzìrán|Tôi rất yêu thiên nhiên.
+444|山川景色壮观。|Shānchuān jǐngsè zhuàngguān|Cảnh sơn thủy thật hùng vĩ.
+445|小鸟在唱歌。|Xiǎoniǎo zài chànggē|Những con chim đang hót.
+446|这里有很多野生动物。|Zhèlǐ yǒu hěn duō yěshēng dòngwù|Có rất nhiều động vật hoang dã ở đây.
+447|去爬山吧。|Qù pá shān ba|Hãy đi leo núi.
+448|天空晴朗。|Tiānkōng qínglǎng|Bầu trời trong xanh.
+449|彩虹真漂亮！|Cǎihóng zhēn piàoliang!|Cầu vồng thật đẹp!
+450|节约用水。|Jiéyuē yòng shuǐ|Hãy tiết kiệm nước.
+451|我叫什么名字？|Wǒ jiào shénme míngzì?|Tên tôi là gì?
+452|我住在哪里？|Wǒ zhù zài nǎlǐ?|Tôi sống ở đâu?
+453|我住在河内。|Wǒ zhù zài Hénèi|Tôi sống ở Hà Nội.
+454|你来中国多久了？|Nǐ lái Zhōngguó duō jiǔ le?|Bạn đến Trung Quốc được bao lâu?
+455|厕所在哪里？|Cèsuǒ zài nǎlǐ?|Nhà vệ sinh ở đâu?
+456|你会说英语吗？|Nǐ huì shuō yīngyǔ ma?|Bạn nói được tiếng Anh không?
+457|我只会说中文。|Wǒ zhǐ huì shuō zhōngwén|Tôi chỉ nói được tiếng Trung.
+458|我不懂这个意思。|Wǒ bù dǒng zhège yìsi|Tôi không hiểu nghĩa.
+459|怎么读？|Zěnme dú?|Đọc như thế nào?
+460|我看不懂汉字。|Wǒ kàn bù dǒng hànzì|Tôi không đọc được chữ Hán.
+461|我在学中文。|Wǒ zài xué zhōngwén|Tôi đang học tiếng Trung.
+462|中文很难但很有趣。|Zhōngwén hěn nán dàn hěn yǒuqù|Tiếng Trung khó nhưng thú vị.
+463|我要多练习。|Wǒ yào duō liànxí|Phải luyện tập nhiều hơn.
+464|你认识多少汉字？|Nǐ rènshi duōshǎo hànzì?|Bạn biết bao nhiêu chữ Hán?
+465|我在准备HSK考试。|Wǒ zài zhǔnbèi HSK kǎoshì|Tôi đang chuẩn bị thi HSK.
+466|我通过看中文电视学习。|Wǒ tōngguò kàn zhōngwén diànshì xuéxí|Tôi học bằng cách xem TV tiếng Trung.
+467|我因为喜欢中文歌曲开始学中文。|Wǒ yīnwèi xǐhuān zhōngwén gēqǔ kāishǐ xué zhōngwén|Tôi bắt đầu học tiếng Trung vì thích nhạc Trung.
+468|我想结交中国朋友。|Wǒ xiǎng jiéjiāo zhōngguó péngyǒu|Tôi muốn kết bạn với người Trung Quốc.
+469|我在找语言交换伙伴。|Wǒ zài zhǎo yǔyán jiāohuàn huǒbàn|Tôi đang tìm đối tác trao đổi ngôn ngữ.
+470|我每天学一个新词。|Wǒ měitiān xué yī gè xīn cí|Tôi học một từ mới mỗi ngày.
+471|相信自己。|Xiāngxìn zìjǐ|Hãy tin vào bản thân.
+472|你一定能做到。|Nǐ yīdìng néng zuòdào|Bạn nhất định làm được.
+473|不要放弃，快到了。|Bú yào fàngqì, kuài dào le|Đừng bỏ cuộc, chỉ còn một chút nữa.
+474|不要害怕失败。|Bú yào hàipà shībài|Đừng sợ thất bại.
+475|每天都是新的开始。|Měitiān dōu shì xīn de kāishǐ|Mỗi ngày là một khởi đầu mới.
+476|现在的你已经足够好了。|Xiànzài de nǐ yǐjīng zúgòu hǎo le|Bạn hiện tại là đủ rồi.
+477|你并不孤单。|Nǐ bìng bù gūdān|Bạn không cô đơn.
+478|我喜欢真实的你。|Wǒ xǐhuān zhēnshí de nǐ|Tôi thích bạn như bạn vốn là.
+479|发现自己的优点。|Fāxiàn zìjǐ de yōudiǎn|Hãy tìm ra điểm tốt của bản thân.
+480|每个人都是特别的存在。|Měi gè rén dōu shì tèbié de cúnzài|Mỗi người đều là sự tồn tại đặc biệt.
+481|不要忘记微笑。|Bú yào wàngjì wēixiào|Đừng quên nụ cười.
+482|珍惜生命。|Zhēnxī shēngmìng|Hãy trân trọng sinh mệnh.
+483|让我们创造一个友善的世界。|Ràng wǒmen chuàngzào yīgè yǒushàn de shìjiè|Hãy tạo ra một thế giới tử tế.
+484|小小的行动可以改变世界。|Xiǎoxiǎo de xíngdòng kěyǐ gǎibiàn shìjiè|Hành động nhỏ thay đổi thế giới.
+485|大家一起。|Dàjiā yīqǐ|Tất cả cùng nhau.
+486|希望明天也是美好的一天。|Xīwàng míngtiān yě shì měihǎo de yītiān|Mong ngày mai cũng là ngày tốt lành.
+487|梦想继续。|Mèngxiǎng jìxù|Giấc mơ tiếp tục.
+488|语言是心灵的镜子。|Yǔyán shì xīnlíng de jìngzi|Ngôn ngữ là gương phản chiếu tâm hồn.
+489|用中文实现梦想。|Yòng zhōngwén shíxiàn mèngxiǎng|Tôi sẽ thực hiện ước mơ bằng tiếng Trung.
+490|永远不停止学习。|Yǒngyuǎn bù tíngzhǐ xuéxí|Tôi sẽ mãi mãi không ngừng học hỏi.
+491|总结来说。|Zǒngjié lái shuō|Tóm lại.
+492|结论是。|Jiélùn shì|Kết luận là.
+493|从这次经历中学到的是。|Cóng zhècì jīnglì zhōng xué dào de shì|Điều học được từ kinh nghiệm này là.
+494|回顾一下。|Huígù yīxià|Nhìn lại thì.
+495|最重要的是。|Zuì zhòngyào de shì|Điều quan trọng nhất là.
+496|考虑到所有因素。|Kǎolǜ dào suǒyǒu yīnsù|Xét tất cả.
+497|从头到尾，谢谢。|Cóng tóu dào wěi, xièxiè|Từ đầu đến cuối, cảm ơn.
+498|与中文一起走过的美好人生。|Yǔ zhōngwén yīqǐ zǒuguò de měihǎo rénshēng|Cuộc đời tươi đẹp cùng tiếng Trung.
+499|语言联结人心。|Yǔyán liánjié rén xīn|Ngôn ngữ kết nối tâm hồn người với người.
+500|永远坚持学习中文。|Yǒngyuǎn jiānchí xué zhōngwén|Mãi mãi kiên trì học tiếng Trung.
+501|我爱你。|Wǒ ài nǐ|Tôi yêu bạn.
+502|你对我很重要。|Nǐ duì wǒ hěn zhòngyào|Bạn rất quan trọng với tôi.
+503|我想你。|Wǒ xiǎng nǐ|Tôi nhớ bạn.
+504|和你在一起我很幸福。|Hé nǐ zài yīqǐ wǒ hěn xìngfú|Ở cạnh bạn tôi hạnh phúc.
+505|你愿意和我交往吗？|Nǐ yuànyì hé wǒ jiāowǎng ma?|Bạn có muốn hẹn hò với tôi không?
+506|我一直在想你。|Wǒ yīzhí zài xiǎng nǐ|Tôi luôn nghĩ đến bạn.
+507|你对我来说非常特别。|Nǐ duì wǒ lái shuō fēicháng tèbié|Bạn rất đặc biệt với tôi.
+508|我被你吸引了。|Wǒ bèi nǐ xīyǐn le|Tôi đang bị thu hút bởi bạn.
+509|我们很合适。|Wǒmen hěn héshì|Chúng ta hợp với nhau.
+510|让我们永远在一起。|Ràng wǒmen yǒngyuǎn zài yīqǐ|Hãy luôn ở bên nhau mãi.
+511|欲速则不达。|Yù sù zé bù dá|Dục tốc bất đạt.
+512|良言一句三冬暖。|Liángyán yī jù sān dōng nuǎn|Lời nói tốt sưởi ấm ba mùa đông.
+513|三岁定八十。|Sān suì dìng bāshí|Ba tuổi định tám mươi.
+514|积少成多。|Jī shǎo chéng duō|Tích tiểu thành đại.
+515|千里之行始于足下。|Qiānlǐ zhīxíng shǐyú zú xià|Hành trình ngàn dặm bắt đầu từ một bước chân.
+516|不打不相识。|Bù dǎ bù xiāngshí|Không đánh không quen (Không qua va chạm không thành bạn).
+517|众人拾柴火焰高。|Zhòng rén shí chái huǒyàn gāo|Đông người gom củi lửa cháy cao.
+518|功夫不负有心人。|Gōngfu bù fù yǒuxīnrén|Công phu không phụ người có chí.
+519|病从口入。|Bìng cóng kǒu rù|Bệnh từ miệng vào.
+520|活到老学到老。|Huó dào lǎo xué dào lǎo|Sống đến già học đến già.
+521|交谈很愉快。|Jiāotán hěn yúkuài|Thật vui khi được nói chuyện.
+522|我得走了。|Wǒ děi zǒu le|Tôi phải đi rồi.
+523|保持联系。|Bǎochí liánxì|Hãy giữ liên lạc nhé.
+524|再聊。|Zài liáo|Sớm nói chuyện lại nhé.
+525|多保重。|Duō bǎozhòng|Hãy bảo trọng.
+526|代我向家人问好。|Dài wǒ xiàng jiārén wènhǎo|Chào hỏi gia đình bạn.
+527|很高兴认识你。|Hěn gāoxìng rènshi nǐ|Thật vui được gặp bạn.
+528|再见！|Zàijiàn!|Tạm biệt!
+529|回头见！|Huítóu jiàn!|Gặp lại sau!
+530|下次见！|Xià cì jiàn!|Đến lần sau nhé!
+531|中文很有趣。|Zhōngwén hěn yǒuqù|Tiếng Trung thật thú vị.
+532|汉字很难但很美。|Hànzì hěn nán dàn hěn měi|Chữ Hán khó nhưng đẹp.
+533|普通话发音有四个声调。|Pǔtōnghuà fāyīn yǒu sì gè shēngdiào|Tiếng Phổ thông có bốn thanh điệu.
+534|我在学习汉字。|Wǒ zài xuéxí hànzì|Tôi đang học chữ Hán.
+535|中文语法很特别。|Zhōngwén yǔfǎ hěn tèbié|Ngữ pháp tiếng Trung rất đặc biệt.
+536|我正在准备HSK4级。|Wǒ zhèngzài zhǔnbèi HSK sì jí|Tôi đang chuẩn bị HSK cấp 4.
+537|我通过中文电影学习。|Wǒ tōngguò zhōngwén diànyǐng xuéxí|Tôi học qua phim tiếng Trung.
+538|我想和中国人交朋友。|Wǒ xiǎng hé zhōngguó rén jiāo péngyǒu|Tôi muốn kết bạn với người Trung Quốc.
+539|我不害怕犯错。|Wǒ bù hàipà fàncuò|Tôi không sợ mắc lỗi.
+540|我要自信地说话。|Wǒ yào zìxìn de shuōhuà|Tôi sẽ nói một cách tự tin.
+541|中国文化很丰富。|Zhōngguó wénhuà hěn fēngfù|Văn hóa Trung Quốc rất phong phú.
+542|中国菜很好吃。|Zhōngguó cài hěn hǎochī|Ẩm thực Trung Quốc rất ngon.
+543|春节是最重要的节日。|Chūnjié shì zuì zhòngyào de jiérì|Tết Nguyên Đán là lễ hội quan trọng nhất.
+544|我喜欢中国传统文化。|Wǒ xǐhuān zhōngguó chuántǒng wénhuà|Tôi thích văn hóa truyền thống Trung Quốc.
+545|太极拳很有意思。|Tàijíquán hěn yǒu yìsi|Thái Cực Quyền rất thú vị.
+546|长城真壮观！|Chángchéng zhēn zhuàngguān!|Vạn Lý Trường Thành thật hùng vĩ!
+547|我想去北京旅游。|Wǒ xiǎng qù Běijīng lǚyóu|Tôi muốn đến Bắc Kinh du lịch.
+548|上海是一座现代城市。|Shànghǎi shì yī zuò xiàndài chéngshì|Thượng Hải là một thành phố hiện đại.
+549|功夫电影很精彩。|Gōngfu diànyǐng hěn jīngcǎi|Phim võ thuật rất hay.
+550|中文歌曲很好听。|Zhōngwén gēqǔ hěn hǎotīng|Nhạc tiếng Trung rất hay.
+551|我今天学了新词。|Wǒ jīntiān xué le xīn cí|Hôm nay tôi học được từ mới.
+552|我每天写日记练习中文。|Wǒ měitiān xiě rìjì liànxí zhōngwén|Tôi viết nhật ký bằng tiếng Trung mỗi ngày.
+553|我用语言学习软件。|Wǒ yòng yǔyán xuéxí ruǎnjiàn|Tôi dùng app học ngôn ngữ.
+554|我听中文播客。|Wǒ tīng zhōngwén bōkè|Tôi nghe podcast tiếng Trung.
+555|我看中文新闻。|Wǒ kàn zhōngwén xīnwén|Tôi đọc tin tức tiếng Trung.
+556|中文声调很重要。|Zhōngwén shēngdiào hěn zhòngyào|Thanh điệu trong tiếng Trung rất quan trọng.
+557|我在练习听力。|Wǒ zài liànxí tīnglì|Tôi đang luyện nghe.
+558|口语比听力难。|Kǒuyǔ bǐ tīnglì nán|Nói khó hơn nghe.
+559|我想不看字幕看中文电影。|Wǒ xiǎng bú kàn zìmù kàn zhōngwén diànyǐng|Tôi muốn xem phim tiếng Trung không cần phụ đề.
+560|中文让我的世界更宽广。|Zhōngwén ràng wǒ de shìjiè gèng kuānguǎng|Tiếng Trung mở rộng thế giới của tôi.
+561|努力就有回报。|Nǔlì jiù yǒu huíbào|Cố gắng thì sẽ được đền đáp.
+562|今天的我比昨天更强大。|Jīntiān de wǒ bǐ zuótiān gèng qiángdà|Bản thân hôm nay mạnh hơn hôm qua.
+563|失败是成功之母。|Shībài shì chénggōng zhī mǔ|Thất bại là mẹ thành công.
+564|相信自己。|Xiāngxìn zìjǐ|Hãy tin vào bản thân.
+565|你现在做得够好了。|Nǐ xiànzài zuò de gòu hǎo le|Bạn đang làm đủ tốt rồi.
+566|小进步也是进步。|Xiǎo jìnbù yě shì jìnbù|Tiến bộ nhỏ cũng là tiến bộ.
+567|旅途漫长但快乐。|Lǚtú màncháng dàn kuàilè|Hành trình dài nhưng vui vẻ.
+568|每一天都是新机会。|Měi yītiān dōu shì xīn jīhuì|Mỗi ngày là cơ hội mới.
+569|请赞美自己。|Qǐng zànměi zìjǐ|Hãy khen ngợi bản thân.
+570|今天也谢谢自己，加油！|Jīntiān yě xièxiè zìjǐ, jiāyóu!|Hôm nay cũng cảm ơn bản thân, cố lên!
+571|绝不放弃。|Jué bù fàngqì|Tuyệt đối không bỏ cuộc.
+572|梦想一定会实现。|Mèngxiǎng yīdìng huì shíxiàn|Ước mơ nhất định sẽ thành hiện thực.
+573|通过中文，世界更大。|Tōngguò zhōngwén, shìjiè gèng dà|Qua tiếng Trung, thế giới mở rộng.
+574|语言是连结心灵的桥梁。|Yǔyán shì liánjié xīnlíng de qiáoliáng|Ngôn ngữ là cây cầu nối tâm hồn.
+575|学习语言是一种乐趣。|Xuéxí yǔyán shì yī zhǒng lèqù|Học ngôn ngữ là một niềm vui.
+576|不要忘记享受学习。|Bú yào wàngjì xiǎngshòu xuéxí|Đừng quên tận hưởng việc học.
+577|为自己努力而感到骄傲。|Wèi zìjǐ nǔlì ér gǎndào jiāoào|Tự hào vì bản thân đã cố gắng.
+578|学好中文，真是太好了。|Xué hǎo zhōngwén, zhēn shì tài hǎo le|Thật tốt khi học được tiếng Trung.
+579|我将一直继续学习。|Wǒ jiāng yīzhí jìxù xuéxí|Tôi sẽ tiếp tục học mãi mãi.
+580|中文的世界无边无际。|Zhōngwén de shìjiè wúbiān wújì|Thế giới tiếng Trung thật rộng lớn.
+581|加油！下一阶段！|Jiāyóu! Xià yī jiēduàn!|Cố lên! Đến giai đoạn tiếp theo!
+582|坚持不懈地前进。|Jiānchí bùxiè de qiánjìn|Không bỏ cuộc, tiếp tục tiến.
+583|完成了本次目标。|Wánchéng le běn cì mùbiāo|Đã hoàn thành mục tiêu lần này.
+584|确定下一个目标。|Quèdìng xià yīgè mùbiāo|Đặt mục tiêu tiếp theo.
+585|无论多难，我都前进。|Wúlùn duō nán, wǒ dōu qiánjìn|Dù khó đến đâu, tôi vẫn tiến.
+586|我深爱中文。|Wǒ shēn ài zhōngwén|Tôi yêu tiếng Trung hết mực.
+587|遇见这种语言是我的幸运。|Yùjiàn zhè zhǒng yǔyán shì wǒ de xìngyùn|Thật may mắn khi gặp được ngôn ngữ này.
+588|与语言一同成长。|Yǔ yǔyán yītóng chéngzhǎng|Cùng lớn lên với ngôn ngữ.
+589|中文是我的生活意义。|Zhōngwén shì wǒ de shēnghuó yìyì|Tiếng Trung là lý do sống của tôi.
+590|从今以后，继续加油！|Cóng jīn yǐhòu, jìxù jiāyóu!|Từ nay về sau, tiếp tục cố lên!
+591|语言打开心扉。|Yǔyán dǎkāi xīnfēi|Ngôn ngữ mở rộng tâm hồn.
+592|通过中文认识新朋友。|Tōngguò zhōngwén rènshi xīn péngyǒu|Kết bạn mới qua tiếng Trung.
+593|我在中文课上交到了朋友。|Wǒ zài zhōngwén kè shàng jiāo dào le péngyǒu|Tôi kết bạn được ở lớp tiếng Trung.
+594|不要害怕犯错，这就是学习。|Bú yào hàipà fàncuò, zhè jiùshì xuéxí|Đừng sợ mắc lỗi, đó chính là việc học.
+595|中文改变了我的人生。|Zhōngwén gǎibiàn le wǒ de rénshēng|Tiếng Trung đã thay đổi cuộc đời tôi.
+596|学中文遇到新的人。|Xué zhōngwén yùdào xīn de rén|Học tiếng Trung gặp được những người mới.
+597|坚持是最重要的。|Jiānchí shì zuì zhòngyào de|Điều quan trọng nhất là không bỏ cuộc.
+598|所有的努力都不会白费。|Suǒyǒu de nǔlì dōu bú huì bái fèi|Mọi nỗ lực đều không vô ích.
+599|梦想一定能实现。|Mèngxiǎng yīdìng néng shíxiàn|Ước mơ nhất định sẽ thành hiện thực.
+600|一起努力，更强大。|Yīqǐ nǔlì, gèng qiángdà|Cùng nhau cố gắng, mạnh hơn.
+601|我的志愿是成为医生。|Wǒ de zhìyuàn shì chéngwéi yīshēng|Tương lai tôi muốn trở thành bác sĩ.
+602|我想开创自己的事业。|Wǒ xiǎng kāichuàng zìjǐ de shìyè|Tôi muốn tự kinh doanh.
+603|我想出国工作。|Wǒ xiǎng chūguó gōngzuò|Tôi muốn đi làm ở nước ngoài.
+604|我想为儿童服务。|Wǒ xiǎng wèi értóng fúwù|Tôi muốn phục vụ trẻ em.
+605|我想对社会作出贡献。|Wǒ xiǎng duì shèhuì zuòchū gòngxiàn|Tôi muốn đóng góp cho xã hội.
+606|我想让世界变得更好。|Wǒ xiǎng ràng shìjiè biàn de gèng hǎo|Tôi muốn làm cho thế giới tốt đẹp hơn.
+607|我想从事帮助他人的工作。|Wǒ xiǎng cóngshì bāngzhù tārén de gōngzuò|Tôi muốn làm công việc giúp đỡ người khác.
+608|我想开一家自己的店。|Wǒ xiǎng kāi yījiā zìjǐ de diàn|Tôi muốn mở cửa hàng riêng.
+609|我想当英语老师。|Wǒ xiǎng dāng yīngyǔ lǎoshī|Tôi muốn trở thành giáo viên tiếng Anh.
+610|我想从事IT工作。|Wǒ xiǎng cóngshì IT gōngzuò|Tôi muốn làm việc trong lĩnh vực IT.
+611|你知道什么谚语吗？|Nǐ zhīdào shénme yànyǔ ma?|Bạn có biết tục ngữ không?
+612|欲速则不达。|Yù sù zé bù dá|Dục tốc bất đạt.
+613|一步一个脚印。|Yī bù yī gè jiǎoyìn|Từng bước vững chắc.
+614|勤能补拙。|Qín néng bǔ zhuō|Cần cù bù đắp vụng về.
+615|百闻不如一见。|Bǎi wén bù rú yī jiàn|Trăm nghe không bằng một thấy.
+616|知己知彼，百战百胜。|Zhī jǐ zhī bǐ, bǎi zhàn bǎi shèng|Biết mình biết người, trăm trận trăm thắng.
+617|塞翁失马，焉知非福。|Sài wēng shī mǎ, yān zhī fēi fú|Họa biến thành phúc.
+618|行百里者半九十。|Xíng bǎi lǐ zhě bàn jiǔshí|Đi trăm dặm, chín mươi dặm mới là nửa đường.
+619|失之东隅，收之桑榆。|Shī zhī dōngyú, shōu zhī sāngyú|Mất đằng đông, được đằng tây.
+620|书山有路勤为径，学海无涯苦作舟。|Shū shān yǒu lù qín wéi jìng, xué hǎi wúyá kǔ zuò zhōu|Núi sách có đường chăm làm lối, biển học vô bờ khổ làm thuyền.
+621|感谢你的时间和精力。|Gǎnxiè nǐ de shíjiān hé jīnglì|Cảm ơn thời gian và công sức của bạn.
+622|你需要建议吗？|Nǐ xūyào jiànyì ma?|Bạn có muốn lời khuyên không?
+623|我随时愿意帮忙。|Wǒ suíshí yuànyì bāngmáng|Tôi sẵn sàng giúp bất cứ lúc nào.
+624|请随时提问。|Qǐng suíshí tíwèn|Hãy hỏi bất cứ lúc nào.
+625|这是个有趣的想法。|Zhè shìgè yǒuqù de xiǎngfǎ|Đó là ý kiến thú vị.
+626|告诉我你的想法。|Gàosù wǒ nǐ de xiǎngfǎ|Hãy cho tôi biết bạn nghĩ gì.
+627|我立刻去做。|Wǒ lìkè qù zuò|Tôi sẽ làm ngay bây giờ.
+628|这只是我的建议。|Zhè zhǐshì wǒ de jiànyì|Đây chỉ là đề xuất của tôi.
+629|你最了解。|Nǐ zuì liǎojiě|Bạn biết rõ nhất.
+630|我相信你的判断。|Wǒ xiāngxìn nǐ de pànduàn|Tôi tin vào phán đoán của bạn.
+631|请保持更新。|Qǐng bǎochí gēngxīn|Hãy cập nhật cho tôi.
+632|我会考虑的。|Wǒ huì kǎolǜ de|Tôi sẽ xem xét điều đó.
+633|这是值得探索的选择。|Zhè shì zhídé tànsuǒ de xuǎnzé|Đó là lựa chọn đáng khám phá.
+634|我接受反馈。|Wǒ jiēshòu fǎnkuì|Tôi cởi mở với phản hồi.
+635|你的意见很宝贵。|Nǐ de yìjiàn hěn bǎoguì|Ý kiến của bạn rất quý giá.
+636|让我们一起前进。|Ràng wǒmen yīqǐ qiánjìn|Hãy cùng nhau tiến về phía trước.
+637|这只是开始。|Zhè zhǐshì kāishǐ|Đây chỉ là bắt đầu.
+638|最好的还在后面。|Zuì hǎo de hái zài hòumiàn|Điều tốt nhất vẫn còn ở phía trước.
+639|一起我们能创造伟大的事情。|Yīqǐ wǒmen néng chuàngzào wěidà de shìqíng|Cùng nhau chúng ta có thể đạt được những điều vĩ đại.
+640|知识就是力量。|Zhīshì jiùshì lìliàng|Kiến thức là sức mạnh.
+641|我早上六点起床。|Wǒ zǎoshang liù diǎn qǐchuáng|Tôi thức dậy lúc sáu giờ mỗi sáng.
+642|我总是先喝咖啡。|Wǒ zǒngshì xiān hē kāfēi|Tôi luôn uống cà phê đầu tiên.
+643|她晚饭后散步。|Tā wǎnfàn hòu sànbù|Cô ấy đi dạo sau bữa tối.
+644|他睡前读书。|Tā shuì qián dúshū|Anh ấy đọc sách trước khi đi ngủ.
+645|他们每周锻炼三次。|Tāmen měi zhōu duànliàn sān cì|Họ tập thể dục ba lần một tuần.
+646|我通常中午吃午饭。|Wǒ tōngcháng zhōngwǔ chī wǔfàn|Tôi thường ăn trưa vào buổi trưa.
+647|她每天早上检查邮件。|Tā měitiān zǎoshang jiǎnchá yóujiàn|Cô ấy kiểm tra email mỗi sáng.
+648|我从不跳过早餐。|Wǒ cóng bù tiào guò zǎocān|Tôi không bao giờ bỏ bữa sáng.
+649|他每天冥想十分钟。|Tā měitiān míngxiǎng shí fēnzhōng|Anh ấy thiền mười phút mỗi ngày.
+650|我们每周日有家庭晚餐。|Wǒmen měi zhōu rì yǒu jiātíng wǎncān|Chúng tôi có bữa tối gia đình mỗi Chủ Nhật.
+651|我希望能说五种语言。|Wǒ xīwàng néng shuō wǔ zhǒng yǔyán|Tôi ước tôi có thể nói năm ngôn ngữ.
+652|我的梦想是环游世界。|Wǒ de mèngxiǎng shì huányóu shìjiè|Ước mơ của tôi là đi vòng quanh thế giới.
+653|我希望有一天拥有一套房子。|Wǒ xīwàng yǒu yītiān yōngyǒu yī tào fángzi|Tôi hy vọng sẽ có nhà riêng một ngày nào đó.
+654|我一直想学画画。|Wǒ yīzhí xiǎng xué huàhuà|Tôi luôn muốn học vẽ.
+655|她梦想成为一名科学家。|Tā mèngxiǎng chéngwéi yī míng kēxuéjiā|Cô ấy mơ ước trở thành nhà khoa học.
+656|如果我可以穿越时间，我会……|Rúguǒ wǒ kěyǐ chuānyuè shíjiān, wǒ huì...|Nếu có thể quay lại quá khứ, tôi sẽ...
+657|只要我们共同努力，我们就会成功。|Zhǐyào wǒmen gòngtóng nǔlì, wǒmen jiù huì chénggōng|Miễn là chúng ta cùng nhau cố gắng, chúng ta sẽ thành công.
+658|我希望有一天所有人都能生活在和平中。|Wǒ xīwàng yǒu yītiān suǒyǒu rén dōu néng shēnghuó zài hépíng zhōng|Tôi hy vọng một ngày nào đó mọi người sống trong hòa bình.
+659|这个比那个好。|Zhège bǐ nàgè hǎo|Cái này tốt hơn cái đó.
+660|她比妹妹高。|Tā bǐ mèimei gāo|Cô ấy cao hơn em gái.
+661|这是我吃过最好吃的东西。|Zhè shì wǒ chī guò zuì hǎochī de dōngxi|Đây là ngon nhất tôi từng ăn.
+662|他比任何人跑得快。|Tā bǐ rènhé rén pǎo de kuài|Anh ấy chạy nhanh hơn ai.
+663|今天比昨天热。|Jīntiān bǐ zuótiān rè|Hôm nay nóng hơn hôm qua.
+664|这个方法效率高得多。|Zhège fāngfǎ xiàolǜ gāo de duō|Phương pháp này hiệu quả hơn nhiều.
+665|没有我想象的那么难。|Méiyǒu wǒ xiǎngxiàng de nàme nán|Không khó như tôi nghĩ.
+666|人越多越热闹。|Rén yuè duō yuè rènào|Càng đông càng vui.
+667|这是她最贵的两倍。|Zhè shì tā zuì guì de liǎng bèi|Cái này đắt gấp đôi.
+668|她无疑是最有才华的。|Tā wúyí shì zuì yǒu cáihuá de|Cô ấy tài năng nhất.
+669|我理解您的观点。|Wǒ lǐjiě nín de guāndiǎn|Tôi hiểu quan điểm của bạn.
+670|我欣赏您的诚实。|Wǒ xīnshǎng nín de chéngshí|Tôi trân trọng sự thành thật của bạn.
+671|让我们尝试找一个解决方案。|Ràng wǒmen chángshì zhǎo yīgè jiějué fāng'àn|Hãy cố gắng tìm giải pháp.
+672|我听到你说的了。|Wǒ tīng dào nǐ shuō de le|Tôi nghe thấy điều bạn đang nói.
+673|让我们求同存异。|Ràng wǒmen qiútóng cúnyì|Hãy chấp nhận sự khác biệt.
+674|也许我们以后再讨论。|Yěxǔ wǒmen yǐhòu zài tǎolùn|Có lẽ chúng ta xem xét lại sau.
+675|我对其他想法持开放态度。|Wǒ duì qítā xiǎngfǎ chí kāifàng tàidù|Tôi cởi mở với những ý kiến khác.
+676|我认为我们正在取得进展。|Wǒ rènwéi wǒmen zhèngzài qǔdé jìnzhǎn|Tôi nghĩ chúng ta đang có tiến triển.
+677|感谢您如此理解。|Gǎnxiè nín rúcǐ lǐjiě|Cảm ơn bạn đã rất thông cảm.
+678|我们来看论点的两面。|Wǒmen lái kàn lùndiǎn de liǎng miàn|Hãy nhìn vào cả hai phía của lập luận.
+679|证据不支持这个观点。|Zhèngjù bù zhīchí zhège guāndiǎn|Bằng chứng không hỗ trợ quan điểm này.
+680|我们应该质疑我们的假设。|Wǒmen yīnggāi zhíyí wǒmen de jiǎshè|Chúng ta nên đặt câu hỏi về những giả định của mình.
+681|今天这次对话很愉快。|Jīntiān zhècì duìhuà hěn yúkuài|Cuộc trò chuyện hôm nay rất vui.
+682|我得走了。|Wǒ děi zǒu le|Tôi phải đi rồi.
+683|保持联系。|Bǎochí liánxì|Hãy giữ liên lạc.
+684|再聊。|Zài liáo|Sớm nói chuyện lại.
+685|多保重。|Duō bǎozhòng|Hãy bảo trọng.
+686|向你的家人问好。|Xiàng nǐ de jiārén wènhǎo|Chào hỏi gia đình bạn.
+687|很荣幸认识你。|Hěn róngxìng rènshi nǐ|Thật vinh dự được gặp bạn.
+688|再见！|Zàijiàn!|Tạm biệt!
+689|待会见！|Dāihuì jiàn!|Gặp lại sau!
+690|下次见！|Xià cì jiàn!|Đến lần sau nhé!
+691|在结论中，我们可以说……|Zài jiélùn zhōng, wǒmen kěyǐ shuō...|Kết lại, chúng ta có thể nói rằng...
+692|综上所述。|Zōng shàng suǒ shù|Tóm lại những điều trên.
+693|这次经历教了我很多。|Zhècì jīnglì jiāo le wǒ hěn duō|Kinh nghiệm này dạy tôi rất nhiều.
+694|回顾过去，我没有遗憾。|Huígù guòqù, wǒ méiyǒu yíhàn|Nhìn lại, tôi không có hối tiếc.
+695|总的来说，这是美好的一天。|Zǒng de lái shuō, zhè shì měihǎo de yītiān|Nhìn chung, đó là một ngày tuyệt vời.
+696|归根到底，最重要的是……|Guīgēn dàodǐ, zuì zhòngyào de shì...|Cuối cùng, điều quan trọng nhất là...
+697|考虑到一切，我做出了正确的选择。|Kǎolǜ dào yīqiè, wǒ zuòchū le zhèngquè de xuǎnzé|Xét tất cả mọi thứ, tôi đã đưa ra lựa chọn đúng.
+698|底线是我们需要采取行动。|Dǐxiàn shì wǒmen xūyào cǎiqǔ xíngdòng|Điểm mấu chốt là chúng ta cần hành động.
+699|我们已经走了很长的路，但还有很多事要做。|Wǒmen yǐjīng zǒu le hěn cháng de lù, dàn hái yǒu hěn duō shì yào zuò|Chúng ta đã đi được một chặng đường dài, nhưng vẫn còn nhiều việc phải làm.
+700|继续加油——你快到了！|Jìxù jiāyóu — nǐ kuài dào le!|Tiếp tục cố lên — bạn gần đến rồi!
+701|中文是世界上使用人数最多的语言。|Zhōngwén shì shìjiè shàng shǐyòng rénshù zuì duō de yǔyán|Tiếng Trung là ngôn ngữ được nhiều người sử dụng nhất trên thế giới.
+702|普通话是官方语言。|Pǔtōnghuà shì guānfāng yǔyán|Tiếng Phổ thông là ngôn ngữ chính thức.
+703|汉语有很多方言。|Hànyǔ yǒu hěn duō fāngyán|Tiếng Hán có nhiều phương ngữ.
+704|中文书写系统有几千年的历史。|Zhōngwén shūxiě xìtǒng yǒu jǐ qiān nián de lìshǐ|Hệ thống chữ viết tiếng Trung có lịch sử hàng nghìn năm.
+705|声调是中文的重要特征。|Shēngdiào shì zhōngwén de zhòngyào tèzhēng|Thanh điệu là đặc điểm quan trọng của tiếng Trung.
+706|简体字在中国大陆使用。|Jiǎntǐ zì zài Zhōngguó dàlù shǐyòng|Chữ giản thể được dùng ở Trung Quốc đại lục.
+707|繁体字在台湾和香港使用。|Fántǐ zì zài Táiwān hé Xiānggǎng shǐyòng|Chữ phồn thể được dùng ở Đài Loan và Hồng Kông.
+708|拼音是罗马化系统。|Pīnyīn shì luómǎhuà xìtǒng|Pinyin là hệ thống ký âm bằng chữ Latin.
+709|中文没有字母表。|Zhōngwén méiyǒu zìmǔbiǎo|Tiếng Trung không có bảng chữ cái.
+710|每个汉字都有意义。|Měi gè hànzì dōu yǒu yìyì|Mỗi chữ Hán đều có nghĩa.
+711|好好学习，天天向上。|Hǎohǎo xuéxí, tiāntiān xiàngshàng|Học hành chăm chỉ, mỗi ngày tiến bộ.
+712|中文让我的视野更开阔。|Zhōngwén ràng wǒ de shìyě gèng kāikuò|Tiếng Trung mở rộng tầm nhìn của tôi.
+713|一份耕耘，一份收获。|Yī fèn gēngyún, yī fèn shōuhuò|Một phần cày cấy, một phần thu hoạch.
+714|坚持就是胜利。|Jiānchí jiùshì shènglì|Kiên trì là chiến thắng.
+715|路漫漫其修远兮，吾将上下而求索。|Lù mànmàn qí xiū yuǎn xī, wú jiāng shàngxià ér qiú suǒ|Đường dài và xa, ta sẽ lên xuống mà tìm tòi.
+716|不积跬步，无以至千里。|Bù jī kuǐ bù, wú yǐ zhì qiān lǐ|Không tích lũy từng bước nhỏ, không thể đến ngàn dặm.
+717|学如逆水行舟，不进则退。|Xué rú nì shuǐ xíng zhōu, bú jìn zé tuì|Học như bơi thuyền ngược nước, không tiến thì lùi.
+718|书读百遍，其义自见。|Shū dú bǎi biàn, qí yì zì xiàn|Đọc sách trăm lần, nghĩa sẽ tự hiện.
+719|温故而知新。|Wēn gù ér zhī xīn|Ôn cũ biết mới.
+720|三人行，必有我师焉。|Sān rén xíng, bì yǒu wǒ shī yān|Ba người đi, tất có người làm thầy ta.
+721|我爱中国文化。|Wǒ ài zhōngguó wénhuà|Tôi yêu văn hóa Trung Quốc.
+722|春节快乐！|Chūnjié kuàilè!|Chúc mừng Tết!
+723|恭喜发财！|Gōngxǐ fācái!|Chúc phát tài!
+724|新年快乐！|Xīnnián kuàilè!|Chúc mừng năm mới!
+725|中秋节快乐！|Zhōngqiūjié kuàilè!|Chúc mừng Tết Trung Thu!
+726|生日快乐！|Shēngrì kuàilè!|Chúc mừng sinh nhật!
+727|万事如意！|Wànshì rúyì!|Chúc vạn sự như ý!
+728|身体健康！|Shēntǐ jiànkāng!|Chúc sức khỏe!
+729|工作顺利！|Gōngzuò shùnlì!|Chúc công việc thuận lợi!
+730|学业有成！|Xuéyè yǒuchéng!|Chúc học hành thành đạt!
+731|中文练习使我进步。|Zhōngwén liànxí shǐ wǒ jìnbù|Luyện tập tiếng Trung giúp tôi tiến bộ.
+732|我每天学习中文。|Wǒ měitiān xuéxí zhōngwén|Tôi học tiếng Trung mỗi ngày.
+733|我的中文越来越好了。|Wǒ de zhōngwén yuèláiyuè hǎo le|Tiếng Trung của tôi ngày càng tốt hơn.
+734|我仍然需要练习。|Wǒ réngrán xūyào liànxí|Tôi vẫn cần luyện tập.
+735|语言学习是旅程，不是目的地。|Yǔyán xuéxí shì lǚchéng, búshì mùdìdì|Học ngôn ngữ là hành trình, không phải điểm đến.
+736|继续加油！|Jìxù jiāyóu!|Tiếp tục cố lên!
+737|我为自己感到骄傲。|Wǒ wèi zìjǐ gǎndào jiāoào|Tôi tự hào về bản thân.
+738|我一定会成功的。|Wǒ yīdìng huì chénggōng de|Tôi nhất định sẽ thành công.
+739|感谢阅读到最后！|Gǎnxiè yuèdú dào zuìhòu!|Cảm ơn đã đọc đến cuối!
+740|我们在中文的旅途上相遇了。|Wǒmen zài zhōngwén de lǚtú shàng xiāngyù le|Chúng ta đã gặp nhau trên hành trình tiếng Trung.
+741|继续写你的中文故事。|Jìxù xiě nǐ de zhōngwén gùshi|Hãy tiếp tục viết câu chuyện tiếng Trung của bạn.
+742|你是自己故事的主角。|Nǐ shì zìjǐ gùshi de zhǔjiǎo|Bạn là nhân vật chính của câu chuyện mình.
+743|中文是写那个故事的笔。|Zhōngwén shì xiě nàgè gùshi de bǐ|Tiếng Trung là cây bút để viết câu chuyện đó.
+744|写出美丽的故事吧。|Xiě chū měilì de gùshi ba|Hãy viết nên câu chuyện đẹp.
+745|中文让你成为更好的人。|Zhōngwén ràng nǐ chéngwéi gèng hǎo de rén|Tiếng Trung giúp bạn trở thành người tốt hơn.
+746|不要害怕那段旅程，享受它。|Bú yào hàipà nà duàn lǚchéng, xiǎngshòu tā|Đừng sợ hành trình đó, hãy tận hưởng.
+747|最后再说一次：加油！|Zuìhòu zài shuō yī cì: jiāyóu!|Lần cuối một lần nữa: Cố lên!
+748|还有：谢谢！|Hái yǒu: xièxiè!|Và: Cảm ơn!
+749|中文，我爱你！|Zhōngwén, wǒ ài nǐ!|Tiếng Trung, tôi yêu bạn!
+750|愿我们在中文的世界里再相遇。|Yuàn wǒmen zài zhōngwén de shìjiè lǐ zài xiāngyù|Mong chúng ta gặp lại trong thế giới tiếng Trung.
+## 14|Câu bổ sung (751–1000)|补充句子
+751|滴水穿石，功到自然成。|Dīshuǐ chuān shí, gōng dào zìrán chéng|Nước nhỏ xuyên đá, công phu đến thì thành.
+752|宝剑锋从磨砺出，梅花香自苦寒来。|Bǎojiàn fēng cóng mólì chū, méihuā xiāng zì kǔhán lái|Kiếm báu mài từ mài giũa, hoa mai thơm từ giá rét.
+753|书山有路，勤为径。|Shū shān yǒu lù, qín wéi jìng|Núi sách có đường, siêng năng là lối.
+754|勤学苦练，必有所成。|Qín xué kǔ liàn, bì yǒu suǒ chéng|Học chăm luyện khổ, nhất định thành công.
+755|语言的魔力无穷。|Yǔyán de mólì wúqióng|Sức mạnh của ngôn ngữ là vô tận.
+756|每一个字都是一扇门。|Měi yīgè zì dōu shì yī shàn mén|Mỗi chữ là một cánh cửa.
+757|中文是通向中国文化的钥匙。|Zhōngwén shì tōngxiàng zhōngguó wénhuà de yàoshi|Tiếng Trung là chìa khóa mở cửa văn hóa Trung Quốc.
+758|我用中文做梦了。|Wǒ yòng zhōngwén zuòmèng le|Tôi đã mơ bằng tiếng Trung.
+759|这种语言丰富了我的人生。|Zhè zhǒng yǔyán fēngfù le wǒ de rénshēng|Ngôn ngữ này làm cho cuộc đời tôi phong phú hơn.
+760|真心感谢。|Zhēnxīn gǎnxiè|Thành tâm cảm ơn.
+761|我记得刚开始的时候。|Wǒ jìde gāng kāishǐ de shíhòu|Tôi nhớ lúc mới bắt đầu.
+762|我进步了很多。|Wǒ jìnbù le hěn duō|Tôi đã tiến bộ nhiều.
+763|未来我会学到更多。|Wèilái wǒ huì xué dào gèng duō|Trong tương lai tôi sẽ học được nhiều hơn.
+764|这段旅程还没结束。|Zhè duàn lǚchéng hái méi jiéshù|Hành trình này chưa kết thúc.
+765|我将继续前进。|Wǒ jiāng jìxù qiánjìn|Tôi sẽ tiếp tục tiến lên.
+766|中文是我的宝贝。|Zhōngwén shì wǒ de bǎobèi|Tiếng Trung là kho báu của tôi.
+767|遇见这门语言是我的幸运。|Yùjiàn zhè mén yǔyán shì wǒ de xìngyùn|Thật may mắn khi gặp được ngôn ngữ này.
+768|通过语言，心灵相通。|Tōngguò yǔyán, xīnlíng xiāngtōng|Qua ngôn ngữ, tâm hồn giao tiếp.
+769|感谢遇见中文。|Gǎnxiè yùjiàn zhōngwén|Cảm ơn vì đã gặp tiếng Trung.
+770|我将永远珍视中文。|Wǒ jiāng yǒngyuǎn zhēnshì zhōngwén|Tôi sẽ mãi trân trọng tiếng Trung.
+771|继续保持，中文会让你越走越远。|Jìxù bǎochí, zhōngwén huì ràng nǐ yuè zǒu yuè yuǎn|Tiếp tục duy trì, tiếng Trung sẽ đưa bạn đi xa hơn.
+772|中文的旅途无终点。|Zhōngwén de lǚtú wú zhōngdiǎn|Hành trình tiếng Trung không có điểm cuối.
+773|还有很多东西等着你去发现。|Hái yǒu hěn duō dōngxi děngzhe nǐ qù fāxiàn|Vẫn còn rất nhiều điều chờ bạn khám phá.
+774|一起走，更有力量。|Yīqǐ zǒu, gèng yǒu lìliàng|Cùng nhau đi, có thêm sức mạnh.
+775|加油，中文学习者！|Jiāyóu, zhōngwén xuéxízhě!|Cố lên, người học tiếng Trung!
+776|今天的努力是明天的实力。|Jīntiān de nǔlì shì míngtiān de shílì|Nỗ lực hôm nay là thực lực ngày mai.
+777|中文，感谢你！|Zhōngwén, gǎnxiè nǐ!|Tiếng Trung, cảm ơn bạn!
+778|以后也请多关照，中文！|Yǐhòu yě qǐng duō guānzhào, zhōngwén!|Từ nay mong nhờ vả nhiều nhé, tiếng Trung!
+779|这段学习时光很宝贵。|Zhè duàn xuéxí shíguāng hěn bǎoguì|Thời gian học tập này rất quý giá.
+780|真心感谢，再见！|Zhēnxīn gǎnxiè, zàijiàn!|Thực sự cảm ơn và tạm biệt!
+781|中文，让我爱上了你！|Zhōngwén, ràng wǒ ài shàng le nǐ!|Tiếng Trung, cho tôi yêu bạn!
+782|大家也请爱上中文！|Dàjiā yě qǐng ài shàng zhōngwén!|Mọi người cũng hãy yêu tiếng Trung nhé!
+783|那种爱让这门语言更美丽。|Nà zhǒng ài ràng zhè mén yǔyán gèng měilì|Tình yêu đó làm cho ngôn ngữ này càng đẹp hơn.
+784|今天明天，与中文一起幸福。|Jīntiān míngtiān, yǔ zhōngwén yīqǐ xìngfú|Hôm nay lẫn ngày mai, hạnh phúc cùng tiếng Trung.
+785|再见，感谢你！|Zàijiàn, gǎnxiè nǐ!|Tạm biệt, và cảm ơn!
+786|祝你学习愉快！|Zhù nǐ xuéxí yúkuài!|Chúc bạn học vui vẻ!
+787|永远支持你！|Yǒngyuǎn zhīchí nǐ!|Mãi mãi ủng hộ bạn!
+788|加油！|Jiāyóu!|Cố lên!
+789|中文，我爱你！|Zhōngwén, wǒ ài nǐ!|Tiếng Trung, tôi yêu bạn!
+790|感谢读到第790句！|Gǎnxiè dú dào dì qī bǎi jiǔshí jù!|Cảm ơn đã đọc đến câu thứ 790!
+791|让我们继续前进。|Ràng wǒmen jìxù qiánjìn|Hãy cùng nhau tiến về phía trước.
+792|不骄不躁，继续努力。|Bù jiāo bù zào, jìxù nǔlì|Không kiêu không nóng vội, tiếp tục cố gắng.
+793|中文的魅力无穷无尽。|Zhōngwén de mèilì wúqióng wújìn|Sức hấp dẫn của tiếng Trung là vô tận.
+794|沉醉其中，享受学习。|Chénzuì qí zhōng, xiǎngshòu xuéxí|Đắm mình trong đó, tận hưởng việc học.
+795|语言学习没有终点。|Yǔyán xuéxí méiyǒu zhōngdiǎn|Việc học ngôn ngữ không có điểm cuối.
+796|正因如此，才更有趣。|Zhèng yīn rúcǐ, cái gèng yǒuqù|Chính vì vậy mà càng thú vị hơn.
+797|与中文同行，继续前进。|Yǔ zhōngwén tóngxíng, jìxù qiánjìn|Cùng với tiếng Trung, tiếp tục tiến lên.
+798|努力了，谢谢自己。|Nǔlì le, xièxiè zìjǐ|Đã cố gắng, cảm ơn bản thân.
+799|明天也要继续加油！|Míngtiān yě yào jìxù jiāyóu!|Ngày mai cũng tiếp tục cố lên!
+800|还有200句，坚持！|Hái yǒu liǎng bǎi jù, jiānchí!|Còn 200 câu nữa, kiên trì!
+801|请继续阅读，快结束了。|Qǐng jìxù yuèdú, kuài jiéshù le|Hãy tiếp tục đọc, sắp xong rồi.
+802|再坚持一下！|Zài jiānchí yīxià!|Kiên trì thêm chút nữa!
+803|每个句子都让你更强大。|Měi gè jùzi dōu ràng nǐ gèng qiángdà|Mỗi câu đều làm bạn mạnh hơn.
+804|语言的力量是无限的。|Yǔyán de lìliàng shì wúxiàn de|Sức mạnh của ngôn ngữ là vô hạn.
+805|一种语言可以改变人生。|Yī zhǒng yǔyán kěyǐ gǎibiàn rénshēng|Một ngôn ngữ có thể thay đổi cuộc đời.
+806|中文就是那种语言。|Zhōngwén jiùshì nà zhǒng yǔyán|Tiếng Trung chính là ngôn ngữ đó.
+807|不要忘记，今天你也做得很好。|Bú yào wàngjì, jīntiān nǐ yě zuò de hěn hǎo|Đừng quên, hôm nay bạn cũng đang làm tốt.
+808|相信自己。|Xiāngxìn zìjǐ|Hãy tin vào bản thân.
+809|你比你想象的做得更好。|Nǐ bǐ nǐ xiǎngxiàng de zuò de gèng hǎo|Bạn làm tốt hơn bạn nghĩ nhiều.
+810|继续前进，我支持你。|Jìxù qiánjìn, wǒ zhīchí nǐ|Hãy tiếp tục tiến, tôi ủng hộ bạn.
+811|未来很光明。|Wèilái hěn guāngmíng|Tương lai rất tươi sáng.
+812|通过中文，你可以到达更远的地方。|Tōngguò zhōngwén, nǐ kěyǐ dàodá gèng yuǎn de dìfāng|Qua tiếng Trung, bạn có thể đến những nơi xa hơn.
+813|不要停下脚步。|Bú yào tíng xià jiǎobù|Đừng dừng bước.
+814|重要的是不要停。|Zhòngyào de shì bú yào tíng|Điều quan trọng là không dừng lại.
+815|每一步都靠近目标。|Měi yī bù dōu kào jìn mùbiāo|Mỗi bước đều tiến gần mục tiêu.
+816|与中文一起，走向更广阔的世界。|Yǔ zhōngwén yīqǐ, zǒuxiàng gèng guǎngkuò de shìjiè|Cùng với tiếng Trung, bước vào thế giới rộng lớn hơn.
+817|感谢你在这段旅途中的同行。|Gǎnxiè nǐ zài zhè duàn lǚtú zhōng de tóngxíng|Cảm ơn đã cùng nhau trong hành trình này.
+818|期望我们在中文的世界再相遇。|Qīwàng wǒmen zài zhōngwén de shìjiè zài xiāngyù|Mong gặp lại trong thế giới tiếng Trung.
+819|下次见，加油！|Xià cì jiàn, jiāyóu!|Hẹn gặp lại, cố lên!
+820|最后一百句了，继续！|Zuìhòu yī bǎi jù le, jìxù!|Còn 100 câu cuối rồi, tiếp tục!
+821|语言是文化的灵魂。|Yǔyán shì wénhuà de línghún|Ngôn ngữ là linh hồn của văn hóa.
+822|学中文就是了解中国。|Xué zhōngwén jiùshì liǎojiě zhōngguó|Học tiếng Trung là hiểu Trung Quốc.
+823|你的中文让你能跨越边界。|Nǐ de zhōngwén ràng nǐ néng kuàyuè biānjiè|Tiếng Trung của bạn giúp bạn vượt qua ranh giới.
+824|语言是心灵的桥梁。|Yǔyán shì xīnlíng de qiáoliáng|Ngôn ngữ là cây cầu của tâm hồn.
+825|我们因语言而连结。|Wǒmen yīn yǔyán ér liánjié|Chúng ta được kết nối qua ngôn ngữ.
+826|今天的最后几句了。|Jīntiān de zuìhòu jǐ jù le|Đây là những câu cuối của hôm nay.
+827|谢谢你的坚持。|Xièxiè nǐ de jiānchí|Cảm ơn sự kiên trì của bạn.
+828|你真的很了不起！|Nǐ zhēn de hěn liǎo bù qǐ!|Bạn thực sự rất tuyệt vời!
+829|这1000句只是开始。|Zhè yī qiān jù zhǐshì kāishǐ|1000 câu này chỉ là bắt đầu.
+830|未来还有更多等着你。|Wèilái hái yǒu gèng duō děngzhe nǐ|Tương lai còn nhiều điều chờ bạn.
+831|带着中文，勇敢前行。|Dài zhe zhōngwén, yǒnggǎn qiánxíng|Mang theo tiếng Trung, dũng cảm tiến lên.
+832|每一天的进步都是胜利。|Měi yītiān de jìnbù dōu shì shènglì|Mỗi ngày tiến bộ đều là chiến thắng.
+833|小步，但坚定地前进。|Xiǎo bù, dàn jiāndìng de qiánjìn|Từng bước nhỏ nhưng vững chắc tiến về phía trước.
+834|世界因中文而变得更大。|Shìjiè yīn zhōngwén ér biàn de gèng dà|Thế giới trở nên rộng lớn hơn nhờ tiếng Trung.
+835|语言打开了无数扇门。|Yǔyán dǎkāi le wúshù shàn mén|Ngôn ngữ mở ra vô số cánh cửa.
+836|中文是其中最美丽的一扇门。|Zhōngwén shì qízhōng zuì měilì de yī shàn mén|Tiếng Trung là một trong những cánh cửa đẹp nhất.
+837|我们一起推开那扇门吧！|Wǒmen yīqǐ tuī kāi nà shàn mén ba!|Hãy cùng nhau đẩy cánh cửa đó mở!
+838|加油，中文学习者！|Jiāyóu, zhōngwén xuéxízhě!|Cố lên, người học tiếng Trung!
+839|你是最棒的！|Nǐ shì zuì bàng de!|Bạn là tốt nhất!
+840|继续保持这份热情！|Jìxù bǎochí zhè fèn rèqíng!|Hãy tiếp tục giữ nhiệt huyết này!
+841|语言学习永无止境。|Yǔyán xuéxí yǒng wú zhǐjìng|Học ngôn ngữ không bao giờ có điểm kết thúc.
+842|这正是它美丽的地方。|Zhè zhèng shì tā měilì de dìfāng|Đó chính là điều đẹp đẽ của nó.
+843|中文的世界等着你去探索。|Zhōngwén de shìjiè děngzhe nǐ qù tànsuǒ|Thế giới tiếng Trung đang chờ bạn khám phá.
+844|别害怕，大胆地探索。|Bié hàipà, dàdǎn de tànsuǒ|Đừng sợ, hãy mạnh dạn khám phá.
+845|每天学一点，日积月累就进步了。|Měitiān xué yīdiǎn, rì jī yuè lěi jiù jìnbù le|Mỗi ngày học một chút, tích lũy dần sẽ tiến bộ.
+846|语言给你自由。|Yǔyán gěi nǐ zìyóu|Ngôn ngữ cho bạn sự tự do.
+847|好好珍惜这份自由。|Hǎohǎo zhēnxī zhè fèn zìyóu|Hãy trân trọng sự tự do đó.
+848|最后50句了！|Zuìhòu wǔshí jù le!|Còn 50 câu cuối rồi!
+849|你做到了！差一点！|Nǐ zuò dào le! Chà yīdiǎn!|Bạn đã làm được! Gần đến rồi!
+850|坚持到最后！|Jiānchí dào zuìhòu!|Kiên trì đến cuối!
+851|只要努力，就有收获。|Zhǐyào nǔlì, jiù yǒu shōuhuò|Chỉ cần cố gắng, thì sẽ có thu hoạch.
+852|中文会让你得到更多。|Zhōngwén huì ràng nǐ dédào gèng duō|Tiếng Trung sẽ mang lại cho bạn nhiều hơn.
+853|勇敢地说，不要怕犯错。|Yǒnggǎn de shuō, bú yào pà fàncuò|Nói dũng cảm, đừng sợ mắc lỗi.
+854|错误是学习的一部分。|Cuòwù shì xuéxí de yī bùfèn|Lỗi lầm là một phần của việc học.
+855|从错误中成长。|Cóng cuòwù zhōng chéngzhǎng|Phát triển từ những lỗi lầm.
+856|中文使你成为更好的沟通者。|Zhōngwén shǐ nǐ chéngwéi gèng hǎo de gōutōng zhě|Tiếng Trung giúp bạn trở thành người giao tiếp tốt hơn.
+857|全世界因此与你相连。|Quán shìjiè yīncǐ yǔ nǐ xiānglián|Toàn thế giới vì vậy kết nối với bạn.
+858|我们生活在一个全球化的世界里。|Wǒmen shēnghuó zài yīgè quánqiúhuà de shìjiè lǐ|Chúng ta sống trong một thế giới toàn cầu hóa.
+859|中文是这个世界的重要语言。|Zhōngwén shì zhège shìjiè de zhòngyào yǔyán|Tiếng Trung là ngôn ngữ quan trọng của thế giới này.
+860|掌握它，你就掌握了更多机会。|Zhǎngwò tā, nǐ jiù zhǎngwò le gèng duō jīhuì|Nắm vững nó, bạn sẽ nắm được nhiều cơ hội hơn.
+861|谢谢你坚持到这里。|Xièxiè nǐ jiānchí dào zhèlǐ|Cảm ơn bạn đã kiên trì đến đây.
+862|你的毅力令人钦佩。|Nǐ de yìlì lìng rén qīnpèi|Sự kiên trì của bạn thật đáng khâm phục.
+863|这1000句是你学习的基石。|Zhè yī qiān jù shì nǐ xuéxí de jīshí|1000 câu này là nền tảng học tập của bạn.
+864|带着它继续前行。|Dài zhe tā jìxù qiánxíng|Mang theo nó tiếp tục tiến lên.
+865|世界等着你。|Shìjiè děngzhe nǐ|Thế giới đang chờ bạn.
+866|用中文拥抱它。|Yòng zhōngwén yōngbào tā|Hãy ôm lấy thế giới bằng tiếng Trung.
+867|最后30句了！|Zuìhòu sānshí jù le!|Còn 30 câu cuối rồi!
+868|几乎到了！|Jīhū dào le!|Gần đến rồi!
+869|你做得很好！|Nǐ zuò de hěn hǎo!|Bạn làm rất tốt!
+870|值得为自己鼓掌！|Zhídé wèi zìjǐ gǔzhǎng!|Xứng đáng tự vỗ tay cho mình!
+871|中文旅途的每一步都值得。|Zhōngwén lǚtú de měi yī bù dōu zhídé|Mỗi bước trong hành trình tiếng Trung đều đáng giá.
+872|珍惜每一个学习的时刻。|Zhēnxī měi yīgè xuéxí de shíkè|Trân trọng từng khoảnh khắc học hỏi.
+873|用心学习，用爱前行。|Yòng xīn xuéxí, yòng ài qiánxíng|Học với tâm huyết, tiến với tình yêu.
+874|中文让世界更美好。|Zhōngwén ràng shìjiè gèng měihǎo|Tiếng Trung làm cho thế giới đẹp hơn.
+875|语言是爱的表达。|Yǔyán shì ài de biǎodá|Ngôn ngữ là sự biểu đạt của tình yêu.
+876|用中文传递爱与善意。|Yòng zhōngwén chuándì ài yǔ shànyì|Truyền đạt tình yêu và thiện ý bằng tiếng Trung.
+877|最后20句！加油！|Zuìhòu èrshí jù! Jiāyóu!|Còn 20 câu cuối! Cố lên!
+878|你就快做到了！|Nǐ jiù kuài zuò dào le!|Bạn sắp làm được rồi!
+879|为这份坚持，给自己鼓励！|Wèi zhè fèn jiānchí, gěi zìjǐ gǔlì!|Vì sự kiên trì này, hãy cổ vũ bản thân!
+880|中文，谢谢你的陪伴！|Zhōngwén, xièxiè nǐ de péibàn!|Tiếng Trung, cảm ơn vì đã đồng hành!
+881|我永远爱你，中文！|Wǒ yǒngyuǎn ài nǐ, zhōngwén!|Tôi mãi yêu bạn, tiếng Trung!
+882|与中文同行，永不孤单。|Yǔ zhōngwén tóngxíng, yǒng bù gūdān|Đồng hành cùng tiếng Trung, không bao giờ cô đơn.
+883|语言是灵魂的翅膀。|Yǔyán shì línghún de chìbǎng|Ngôn ngữ là đôi cánh của tâm hồn.
+884|飞翔吧，用中文！|Fēixiáng ba, yòng zhōngwén!|Bay lên nhé, bằng tiếng Trung!
+885|最后15句！|Zuìhòu shíwǔ jù!|Còn 15 câu cuối!
+886|继续！不要停！|Jìxù! Bú yào tíng!|Tiếp tục! Đừng dừng lại!
+887|你真的非常了不起！|Nǐ zhēn de fēicháng liǎo bù qǐ!|Bạn thực sự rất tuyệt vời!
+888|这是你中文旅途的里程碑。|Zhè shì nǐ zhōngwén lǚtú de lǐchéngbēi|Đây là cột mốc trong hành trình tiếng Trung của bạn.
+889|继续创造新的里程碑！|Jìxù chuàngzào xīn de lǐchéngbēi!|Hãy tiếp tục tạo ra những cột mốc mới!
+890|中文让你的人生更精彩。|Zhōngwén ràng nǐ de rénshēng gèng jīngcǎi|Tiếng Trung làm cho cuộc đời bạn thêm phần tinh sắc.
+891|最后10句！终点就在眼前！|Zuìhòu shí jù! Zhōngdiǎn jiù zài yǎnqián!|Còn 10 câu cuối! Đích đến đã trước mắt!
+892|深呼吸，最后冲刺！|Shēn hūxī, zuìhòu chōngcì!|Hít thở sâu, nước rút cuối cùng!
+893|你坚持到了最后，真棒！|Nǐ jiānchí dào le zuìhòu, zhēn bàng!|Bạn đã kiên trì đến cuối, thật tuyệt!
+894|这1000句是你学习的起点。|Zhè yī qiān jù shì nǐ xuéxí de qǐdiǎn|1000 câu này là điểm khởi đầu học tập của bạn.
+895|前方还有无限可能。|Qiánfāng hái yǒu wúxiàn kěnéng|Phía trước vẫn còn vô số khả năng.
+896|带着梦想，继续前进！|Dài zhe mèngxiǎng, jìxù qiánjìn!|Mang theo ước mơ, tiếp tục tiến lên!
+897|感谢你的信任和坚持！|Gǎnxiè nǐ de xìnrèn hé jiānchí!|Cảm ơn sự tin tưởng và kiên trì của bạn!
+898|我们在中文的世界里一定会再见！|Wǒmen zài zhōngwén de shìjiè lǐ yīdìng huì zài jiàn!|Chúng ta nhất định sẽ gặp lại trong thế giới tiếng Trung!
+899|最后一句了！你做到了！|Zuìhòu yī jù le! Nǐ zuò dào le!|Câu cuối rồi! Bạn đã làm được!
+900|谢谢，再见，加油！中文，我们会再见！|Xièxiè, zàijiàn, jiāyóu! Zhōngwén, wǒmen huì zài jiàn!|Cảm ơn, tạm biệt, cố lên! Tiếng Trung, chúng ta sẽ gặp lại!
+901|你好，未来的中文大师！|Nǐ hǎo, wèilái de zhōngwén dàshī!|Xin chào, bậc thầy tiếng Trung tương lai!
+902|你的旅途已经开始了。|Nǐ de lǚtú yǐjīng kāishǐ le|Hành trình của bạn đã bắt đầu rồi.
+903|中文等着你去探索。|Zhōngwén děngzhe nǐ qù tànsuǒ|Tiếng Trung đang chờ bạn khám phá.
+904|勇敢地走每一步。|Yǒnggǎn de zǒu měi yī bù|Dũng cảm bước từng bước.
+905|每一天都是进步的机会。|Měi yītiān dōu shì jìnbù de jīhuì|Mỗi ngày là cơ hội tiến bộ.
+906|坚持，你一定会成功！|Jiānchí, nǐ yīdìng huì chénggōng!|Kiên trì, bạn nhất định sẽ thành công!
+907|中文的世界没有终点。|Zhōngwén de shìjiè méiyǒu zhōngdiǎn|Thế giới tiếng Trung không có điểm cuối.
+908|这正是学习的乐趣所在。|Zhè zhèng shì xuéxí de lèqù suǒzài|Đó chính là niềm vui của việc học.
+909|继续学习，继续成长。|Jìxù xuéxí, jìxù chéngzhǎng|Tiếp tục học, tiếp tục trưởng thành.
+910|带着热情，永不停歇。|Dài zhe rèqíng, yǒng bù tíngxiē|Mang theo nhiệt huyết, không bao giờ ngừng.
+911|中文是你的秘密武器。|Zhōngwén shì nǐ de mìmì wǔqì|Tiếng Trung là vũ khí bí mật của bạn.
+912|用它打开每一扇门。|Yòng tā dǎkāi měi yī shàn mén|Dùng nó mở mọi cánh cửa.
+913|世界因你的中文而更美好。|Shìjiè yīn nǐ de zhōngwén ér gèng měihǎo|Thế giới đẹp hơn nhờ tiếng Trung của bạn.
+914|加油，继续努力！|Jiāyóu, jìxù nǔlì!|Cố lên, tiếp tục cố gắng!
+915|今天的你比昨天更进步了。|Jīntiān de nǐ bǐ zuótiān gèng jìnbù le|Hôm nay bạn đã tiến bộ hơn hôm qua.
+916|明天的你会比今天更好。|Míngtiān de nǐ huì bǐ jīntiān gèng hǎo|Ngày mai bạn sẽ tốt hơn hôm nay.
+917|这就是学习的魔力。|Zhè jiùshì xuéxí de mólì|Đó chính là sức mạnh của việc học.
+918|感谢中文，感谢自己。|Gǎnxiè zhōngwén, gǎnxiè zìjǐ|Cảm ơn tiếng Trung, cảm ơn bản thân.
+919|一起，我们能走得更远。|Yīqǐ, wǒmen néng zǒu de gèng yuǎn|Cùng nhau, chúng ta có thể đi xa hơn.
+920|中文，我们的共同语言。|Zhōngwén, wǒmen de gòngtóng yǔyán|Tiếng Trung, ngôn ngữ chung của chúng ta.
+921|用中文说：我爱这个世界！|Yòng zhōngwén shuō: wǒ ài zhège shìjiè!|Nói bằng tiếng Trung: Tôi yêu thế giới này!
+922|用中文说：谢谢你！|Yòng zhōngwén shuō: xièxiè nǐ!|Nói bằng tiếng Trung: Cảm ơn bạn!
+923|用中文说：加油！|Yòng zhōngwén shuō: jiāyóu!|Nói bằng tiếng Trung: Cố lên!
+924|用中文说：我做到了！|Yòng zhōngwén shuō: wǒ zuò dào le!|Nói bằng tiếng Trung: Tôi đã làm được!
+925|用中文说：再见，朋友！|Yòng zhōngwén shuō: zàijiàn, péngyǒu!|Nói bằng tiếng Trung: Tạm biệt, bạn ơi!
+926|1000句中文，你学完了！|Yī qiān jù zhōngwén, nǐ xué wán le!|1000 câu tiếng Trung, bạn đã học xong!
+927|这是一个巨大的成就！|Zhè shì yīgè jùdà de chéngjiù!|Đây là một thành tựu to lớn!
+928|为自己感到骄傲！|Wèi zìjǐ gǎndào jiāoào!|Hãy tự hào về bản thân!
+929|继续学习，世界等着你！|Jìxù xuéxí, shìjiè děngzhe nǐ!|Tiếp tục học, thế giới đang chờ bạn!
+930|中文万岁！加油！|Zhōngwén wànsuì! Jiāyóu!|Muôn năm tiếng Trung! Cố lên!
+931|语言让我们更接近。|Yǔyán ràng wǒmen gèng jiē jìn|Ngôn ngữ làm chúng ta gần nhau hơn.
+932|中文是通往中国心灵的路。|Zhōngwén shì tōngwǎng zhōngguó xīnlíng de lù|Tiếng Trung là con đường đến tâm hồn Trung Quốc.
+933|每一个学习者都是英雄。|Měi yīgè xuéxí zhě dōu shì yīngxióng|Mỗi người học đều là anh hùng.
+934|你是其中之一！|Nǐ shì qízhōng zhī yī!|Bạn là một trong số đó!
+935|继续你的英雄之旅！|Jìxù nǐ de yīngxióng zhī lǚ!|Tiếp tục hành trình anh hùng của bạn!
+936|语言的力量在你手中。|Yǔyán de lìliàng zài nǐ shǒu zhōng|Sức mạnh của ngôn ngữ nằm trong tay bạn.
+937|用它创造美好的未来。|Yòng tā chuàngzào měihǎo de wèilái|Dùng nó tạo ra tương lai tươi đẹp.
+938|中文，永远支持你。|Zhōngwén, yǒngyuǎn zhīchí nǐ|Tiếng Trung, mãi ủng hộ bạn.
+939|学习快乐，生活快乐！|Xuéxí kuàilè, shēnghuó kuàilè!|Học vui, sống vui!
+940|谢谢你读到这里！|Xièxiè nǐ dú dào zhèlǐ!|Cảm ơn bạn đã đọc đến đây!
+941|你是最棒的中文学习者！|Nǐ shì zuì bàng de zhōngwén xuéxízhě!|Bạn là người học tiếng Trung tốt nhất!
+942|继续发光，用你的中文！|Jìxù fāguāng, yòng nǐ de zhōngwén!|Tiếp tục tỏa sáng với tiếng Trung của bạn!
+943|愿中文永远伴随你。|Yuàn zhōngwén yǒngyuǎn bànsuí nǐ|Mong tiếng Trung mãi đồng hành cùng bạn.
+944|这只是你中文故事的第一章。|Zhè zhǐshì nǐ zhōngwén gùshi de dì yī zhāng|Đây chỉ là chương đầu tiên trong câu chuyện tiếng Trung của bạn.
+945|还有无数章等着你去写！|Hái yǒu wúshù zhāng děngzhe nǐ qù xiě!|Vẫn còn vô số chương chờ bạn viết!
+946|拿起笔，继续写吧！|Ná qǐ bǐ, jìxù xiě ba!|Hãy cầm bút lên, tiếp tục viết!
+947|中文，你的故事还在继续。|Zhōngwén, nǐ de gùshi hái zài jìxù|Tiếng Trung, câu chuyện của bạn vẫn đang tiếp tục.
+948|带着热情，写下每一个字。|Dài zhe rèqíng, xiě xia měi yī gè zì|Mang theo nhiệt huyết, viết từng chữ.
+949|感谢这段美好的旅程！|Gǎnxiè zhè duàn měihǎo de lǚchéng!|Cảm ơn hành trình tươi đẹp này!
+950|中文让生命更丰富，更精彩！|Zhōngwén ràng shēngmìng gèng fēngfù, gèng jīngcǎi!|Tiếng Trung làm cho cuộc sống phong phú và tinh sắc hơn!
+951|再见，直到下次相遇！|Zàijiàn, zhídào xià cì xiāngyù!|Tạm biệt, cho đến lần gặp sau!
+952|中文，我永远爱你！|Zhōngwén, wǒ yǒngyuǎn ài nǐ!|Tiếng Trung, tôi mãi yêu bạn!
+953|谢谢你，谢谢这1000句！|Xièxiè nǐ, xièxiè zhè yī qiān jù!|Cảm ơn bạn, cảm ơn 1000 câu này!
+954|我们终究在中文的世界相遇了。|Wǒmen zhōngjiū zài zhōngwén de shìjiè xiāngyù le|Cuối cùng chúng ta đã gặp nhau trong thế giới tiếng Trung.
+955|这段缘分很珍贵。|Zhè duàn yuánfèn hěn zhēnguì|Cái duyên này rất quý giá.
+956|请珍惜它，好好学中文！|Qǐng zhēnxī tā, hǎohǎo xué zhōngwén!|Hãy trân trọng nó, học tiếng Trung thật tốt!
+957|中文的大门永远为你开着。|Zhōngwén de dàmén yǒngyuǎn wèi nǐ kāizhe|Cánh cửa tiếng Trung mãi mở ra cho bạn.
+958|随时欢迎你回来！|Suíshí huānyíng nǐ huílái!|Luôn chào đón bạn trở lại!
+959|最后，再次谢谢你！|Zuìhòu, zàicì xièxiè nǐ!|Cuối cùng, một lần nữa cảm ơn bạn!
+960|加油！中文万岁！再见！|Jiāyóu! Zhōngwén wànsuì! Zàijiàn!|Cố lên! Muôn năm tiếng Trung! Tạm biệt!
+961|我爱学习。|Wǒ ài xuéxí|Tôi yêu việc học.
+962|学无止境。|Xué wú zhǐ jìng|Việc học không có giới hạn.
+963|每天进步一点点。|Měitiān jìnbù yī diǎndiǎn|Mỗi ngày tiến bộ một chút.
+964|知识改变命运。|Zhīshì gǎibiàn mìngyùn|Kiến thức thay đổi vận mệnh.
+965|学习是一生的事业。|Xuéxí shì yīshēng de shìyè|Việc học là sự nghiệp cả đời.
+966|有志者事竟成。|Yǒu zhì zhě shì jìng chéng|Người có chí thì việc gì cũng thành.
+967|天道酬勤。|Tiān dào chóu qín|Trời thưởng người siêng năng.
+968|付出就有回报。|Fùchū jiù yǒu huíbào|Đã cố gắng thì sẽ được đền đáp.
+969|坚持是成功的秘诀。|Jiānchí shì chénggōng de mìjué|Kiên trì là bí quyết thành công.
+970|梦想照进现实。|Mèngxiǎng zhào jìn xiànshí|Ước mơ chiếu sáng vào thực tế.
+971|中文，感谢你的陪伴！|Zhōngwén, gǎnxiè nǐ de péibàn!|Tiếng Trung, cảm ơn vì đã đồng hành!
+972|愿我们永远相伴。|Yuàn wǒmen yǒngyuǎn xiāng bàn|Mong chúng ta mãi đồng hành.
+973|中文，你让我的世界更大。|Zhōngwén, nǐ ràng wǒ de shìjiè gèng dà|Tiếng Trung, bạn làm cho thế giới của tôi rộng lớn hơn.
+974|谢谢你打开了那扇门。|Xièxiè nǐ dǎkāi le nà shàn mén|Cảm ơn vì đã mở cánh cửa đó.
+975|我会继续走下去的。|Wǒ huì jìxù zǒu xiàqù de|Tôi sẽ tiếp tục bước đi.
+976|与你同行，我不孤单。|Yǔ nǐ tóngxíng, wǒ bù gūdān|Đồng hành cùng bạn, tôi không cô đơn.
+977|中文，我的永恒朋友！|Zhōngwén, wǒ de yǒnghéng péngyǒu!|Tiếng Trung, người bạn vĩnh cửu của tôi!
+978|大家一起努力，天天向上！|Dàjiā yīqǐ nǔlì, tiāntiān xiàngshàng!|Mọi người cùng nhau cố gắng, ngày ngày tiến bộ!
+979|中文的旅途没有终点，只有新的起点。|Zhōngwén de lǚtú méiyǒu zhōngdiǎn, zhǐ yǒu xīn de qǐdiǎn|Hành trình tiếng Trung không có điểm cuối, chỉ có khởi đầu mới.
+980|让我们在下一个起点再相遇！|Ràng wǒmen zài xià yīgè qǐdiǎn zài xiāngyù!|Hãy gặp lại ở khởi đầu tiếp theo!
+981|学中文是最美好的决定之一。|Xué zhōngwén shì zuì měihǎo de juédìng zhī yī|Học tiếng Trung là một trong những quyết định tốt nhất.
+982|继续这个美好的决定！|Jìxù zhège měihǎo de juédìng!|Hãy tiếp tục quyết định tốt đẹp này!
+983|未来的你会感谢今天的自己。|Wèilái de nǐ huì gǎnxiè jīntiān de zìjǐ|Bản thân tương lai sẽ cảm ơn bản thân hôm nay.
+984|今天的努力，明天的果实。|Jīntiān de nǔlì, míngtiān de guǒshí|Nỗ lực hôm nay, quả ngọt ngày mai.
+985|带着爱，带着梦，继续前行！|Dài zhe ài, dài zhe mèng, jìxù qiánxíng!|Mang theo tình yêu, mang theo ước mơ, tiếp tục tiến!
+986|中文，让我们的故事更精彩！|Zhōngwén, ràng wǒmen de gùshi gèng jīngcǎi!|Tiếng Trung, làm cho câu chuyện của chúng ta thêm phần tinh sắc!
+987|谢谢你，这段旅途里的同伴！|Xièxiè nǐ, zhè duàn lǚtú lǐ de tóngbàn!|Cảm ơn bạn, người bạn đồng hành trong hành trình này!
+988|愿你的中文之路越走越宽！|Yuàn nǐ de zhōngwén zhī lù yuè zǒu yuè kuān!|Mong con đường tiếng Trung của bạn ngày càng rộng mở!
+989|最后一句就在眼前！|Zuìhòu yī jù jiù zài yǎnqián!|Câu cuối cùng đã trước mắt!
+990|你做到了！恭喜！|Nǐ zuò dào le! Gōngxǐ!|Bạn đã làm được! Chúc mừng!
+991|这是你的成就，好好庆祝！|Zhè shì nǐ de chéngjiù, hǎohǎo qìngzhù!|Đây là thành tựu của bạn, hãy ăn mừng thật tốt!
+992|为自己骄傲，你学完了1000句中文！|Wèi zìjǐ jiāoào, nǐ xué wán le yī qiān jù zhōngwén!|Hãy tự hào, bạn đã học xong 1000 câu tiếng Trung!
+993|但记住，这只是开始。|Dàn jìzhù, zhè zhǐshì kāishǐ|Nhưng hãy nhớ, đây chỉ là bắt đầu.
+994|中文的世界无比广阔。|Zhōngwén de shìjiè wúbǐ guǎngkuò|Thế giới tiếng Trung rộng lớn vô cùng.
+995|继续探索，继续学习！|Jìxù tànsuǒ, jìxù xuéxí!|Tiếp tục khám phá, tiếp tục học hỏi!
+996|带着这1000句的力量前行！|Dài zhe zhè yī qiān jù de lìliàng qiánxíng!|Mang theo sức mạnh của 1000 câu này tiến lên!
+997|中文，再见，但很快又见！|Zhōngwén, zàijiàn, dàn hěn kuài yòu jiàn!|Tiếng Trung, tạm biệt, nhưng sẽ sớm gặp lại!
+998|感谢这一切，感谢中文！|Gǎnxiè zhè yīqiè, gǎnxiè zhōngwén!|Cảm ơn tất cả, cảm ơn tiếng Trung!
+999|愿我们在中文的世界永远相连！|Yuàn wǒmen zài zhōngwén de shìjiè yǒngyuǎn xiānglián!|Mong chúng ta mãi mãi kết nối trong thế giới tiếng Trung!
+1000|中文，我爱你，再见！加油！|Zhōngwén, wǒ ài nǐ, zàijiàn! Jiāyóu!|Tiếng Trung, tôi yêu bạn, tạm biệt! Cố lên!

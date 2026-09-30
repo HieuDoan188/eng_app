@@ -8,7 +8,9 @@ const path = require('path');
 
 const ROOT = path.join(__dirname, '..');
 
-// One entry per book. `raw` is the transcription, the rest is metadata.
+// One entry per book. `raw` is the transcription, the rest is metadata:
+// `lang` is the HTML lang code (picks the right CJK glyphs), `ttsLang` the
+// speech voice, `romLabel` the name of the pronunciation column (null = none).
 const BOOKS = [
   {
     id: 'korean-1000',
@@ -16,7 +18,58 @@ const BOOKS = [
     title: '1000 Câu Tiếng Hàn Thông Dụng Nhất',
     subtitle: '1000 most common Korean sentences',
     language: 'Korean',
+    flag: '🇰🇷',
+    lang: 'ko',
     ttsLang: 'ko-KR',
+    romLabel: 'Romanization',
+    meaningLang: 'vi',
+  },
+  {
+    id: 'japanese-1000',
+    raw: 'data/raw/japanese-1000.txt',
+    title: '1000 Câu Tiếng Nhật Thông Dụng Nhất',
+    subtitle: '1000 most common Japanese sentences',
+    language: 'Japanese',
+    flag: '🇯🇵',
+    lang: 'ja',
+    ttsLang: 'ja-JP',
+    romLabel: 'Romaji',
+    meaningLang: 'vi',
+  },
+  {
+    id: 'chinese-1000',
+    raw: 'data/raw/chinese-1000.txt',
+    title: '1000 Câu Tiếng Trung Thông Dụng Nhất',
+    subtitle: '1000 most common Chinese (Mandarin) sentences',
+    language: 'Chinese',
+    flag: '🇨🇳',
+    lang: 'zh-CN',
+    ttsLang: 'zh-CN',
+    romLabel: 'Pinyin',
+    meaningLang: 'vi',
+  },
+  {
+    id: 'russian-1000',
+    raw: 'data/raw/russian-1000.txt',
+    title: '1000 Câu Tiếng Nga Thông Dụng Nhất',
+    subtitle: '1000 most common Russian sentences',
+    language: 'Russian',
+    flag: '🇷🇺',
+    lang: 'ru',
+    ttsLang: 'ru-RU',
+    romLabel: 'Transliteration',
+    meaningLang: 'vi',
+  },
+  {
+    id: 'spanish-1000',
+    raw: 'data/raw/spanish-1000.txt',
+    title: '1000 Câu Tiếng Tây Ban Nha Thông Dụng Nhất',
+    subtitle: '1000 most common Spanish sentences',
+    language: 'Spanish',
+    flag: '🇪🇸',
+    lang: 'es',
+    ttsLang: 'es-ES',
+    romLabel: null, // Spanish is written in Latin script; the book has no pronunciation column
     meaningLang: 'vi',
   },
 ];
@@ -37,6 +90,7 @@ function parseBook(text) {
       throw new Error(`Line ${i + 1}: expected "no|text|romanization|meaning", got: ${line}`);
     }
     const [n, t, rom, meaning] = parts.map((p) => p.trim());
+    if (!t || !meaning) throw new Error(`Line ${i + 1}: sentence and meaning are required`);
     current.items.push({ n: Number(n), text: t, rom, meaning });
   });
   return chapters;
@@ -60,5 +114,5 @@ function build() {
   }
 }
 
-module.exports = { parseBook };
+module.exports = { parseBook, BOOKS };
 if (require.main === module) build();

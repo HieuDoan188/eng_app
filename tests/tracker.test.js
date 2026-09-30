@@ -39,3 +39,14 @@ test('calendar returns whole weeks starting on Monday', () => {
   assert.strictEqual(new Date(cells[0].key + 'T00:00').getDay(), 1);
   assert.strictEqual(cells.filter((c) => c.future).length, 4); // Thu-Sun
 });
+
+test('record keeps per-book counters next to the totals', () => {
+  const logs = {};
+  T.record(logs, at(2026, 9, 30), { newCards: 1, 'new:japanese-1000': 1, 'book:japanese-1000': 1 });
+  T.record(logs, at(2026, 9, 30), { reviews: 1, 'book:korean-1000': 1 });
+  const day = logs['2026-09-30'];
+  assert.strictEqual(day['new:japanese-1000'], 1);
+  assert.strictEqual(day['book:korean-1000'], 1);
+  assert.strictEqual(T.cardsStudied(day), 2);
+  assert.strictEqual(T.totals(logs).newCards, 1);
+});

@@ -12,7 +12,7 @@
 
   const DEFAULT_SETTINGS = {
     activeBook: BOOKS.length ? BOOKS[0].id : null,
-    dailyNew: 10, // new sentences introduced per day
+    dailyNew: 10, // new sentences introduced per day, per language
     dailyGoal: 30, // cards (new + reviews) to count the day as "goal met"
     direction: 'recognize', // recognize | recall | mixed
     autoplay: true,
@@ -86,8 +86,37 @@
     return state.logs[Tracker.dateKey(Date.now())] || Tracker.emptyDay();
   }
 
-  function newLeftToday() {
-    return Math.max(0, state.settings.dailyNew - today().newCards);
+  // New cards started today in this book. Counts logged before per-book keys
+  // existed only came from the first (Korean) book, so the unattributed part
+  // of the day's total belongs to it.
+  function newToday(book) {
+    const t = today();
+    let n = t['new:' + book.id] || 0;
+    if (BOOKS[0] && book.id === BOOKS[0].id) {
+      const attributed = Object.keys(t).filter((k) => k.startsWith('new:')).reduce((sum, k) => sum + t[k], 0);
+      n += Math.max(0, t.newCards - attributed);
+    }
+    return n;
+  }
+
+  function newLeftToday(book) {
+    return Math.max(0, state.settings.dailyNew - newToday(book));
+  }
+
+  // Cards answered per book over the last `days` days (today included).
+  function studiedRecently(book, days) {
+    let n = 0;
+    for (let i = 0; i < days; i++) {
+      const d = state.logs[Tracker.addDays(Tracker.dateKey(Date.now()), -i)];
+      if (d) n += d['book:' + book.id] || 0;
+    }
+    return n;
+  }
+
+  function setActiveBook(id) {
+    state.settings.activeBook = getBook(id).id;
+    save();
+    renderLangSwitch();
   }
 
   // ---------- Utils ----------
@@ -138,8 +167,8 @@
     speak(text, lang) {
       if (!this.supported || !text) return;
       speechSynthesis.cancel();
-      // Speak "~" placeholders as a short pause rather than the symbol.
-      const u = new SpeechSynthesisUtterance(text.replace(/~/g, ' '));
+      // Speak "~" placeholders (ASCII, full-width and wave dash) as a pause, not a symbol.
+      const u = new SpeechSynthesisUtterance(text.replace(/[~～〜]/g, ' '));
       u.lang = lang;
       u.rate = state.settings.ttsRate;
       const v = this.voiceFor(lang);
@@ -228,6 +257,12 @@
     return '<div class="card tile"><div class="label">' + esc(label) + '</div><div class="value">' + esc(value) + '</div>' + (sub ? '<div class="sub">' + esc(sub) + '</div>' : '') + '</div>';
   }
 
+  // A sentence in the language being learned, with its pronunciation line when the book has one.
+  function targetHtml(book, it, cls, showRom) {
+    return '<div class="' + cls + '" lang="' + esc(book.lang) + '">' + esc(it.text) + '</div>' +
+      (showRom && it.rom ? '<div class="rom">' + esc(it.rom) + '</div>' : '');
+  }
+
   function statusBadge(card) {
     const s = SRS.status(card);
     return '<span class="badge ' + s + '">' + s + '</span>';
@@ -243,11 +278,11 @@
     }
     const t = today();
     const stats = itemStats(book, allItems(book));
-    const newToday = Math.min(newLeftToday(), stats.new);
+    const newCount = Math.min(newLeftToday(book), stats.new);
     const studied = Tracker.cardsStudied(t);
     const goal = state.settings.dailyGoal;
     const streak = Tracker.streak(state.logs, Date.now());
-    const canStudy = stats.due + newToday > 0;
+    const canStudy = stats.due + newCount > 0;
     const nextChapter = book.chapters.find((c) => itemStats(book, c.items.map((it) => it)).new > 0);
 
     $app.innerHTML =
@@ -258,7 +293,7 @@
       (studied >= goal ? ' · <strong style="color:var(--good)">Goal met ✓</strong>' : '') + '</p>' +
       '<div class="row">' +
       (canStudy
-        ? '<a class="btn primary" href="#/study">Study now · ' + stats.due + ' due + ' + newToday + ' new</a>'
+        ? '<a class="btn primary" href="#/study">Study ' + esc(book.language) + ' · ' + stats.due + ' due + ' + newCount + ' new</a>'
         : '<a class="btn" href="#/study">All done for today 🎉 · learn more</a>') +
       '<a class="btn" href="#/quiz">Quick quiz</a>' +
       '</div></div></div>' +
@@ -270,15 +305,43 @@
       tile('Mastered', stats.mastered, 'interval ≥ 21 days') +
       '</div>' +
 
-      '<div class="card"><div class="row spread"><h2>' + esc(book.title) + '</h2><a class="small" href="#/book/' + esc(book.id) + '">Open book →</a></div>' +
+      '<div class="card"><div class="row spread"><h2>' + esc(book.flag) + ' ' + esc(book.title) + '</h2><a class="small" href="#/book/' + esc(book.id) + '">Open book →</a></div>' +
       '<p class="muted small">' + esc(book.subtitle) + '</p>' + progressBar(stats) +
       '<div style="margin-top:8px">' + barLegend() + '</div>' +
       (nextChapter ? '<p class="small" style="margin-top:10px">Up next: <a href="#/chapter/' + esc(book.id) + '/' + nextChapter.id + '">Chapter ' + nextChapter.id + ' · ' + esc(nextChapter.title) + '</a></p>' : '') +
       '</div>' +
 
+      (BOOKS.length > 1 ? languagesCard() : '') +
       '<div class="card"><h2>Activity</h2>' + heatmapHtml(16) + '</div>' +
       (storageOk ? '' : '<p class="notice">⚠ Progress could not be saved in this browser (private mode?). Use Settings → Export to keep a copy.</p>') +
       '</div>';
+    bindSwitchButtons();
+  }
+
+  // Overview of every language: progress, what's due, and a one-tap switch.
+  function languagesCard() {
+    const active = activeBook();
+    return '<div class="card"><h2>Your languages</h2><ul class="list">' +
+      BOOKS.map((b) => {
+        const s = itemStats(b, allItems(b));
+        const newCount = Math.min(newLeftToday(b), s.new);
+        const isActive = b.id === active.id;
+        return '<li><div class="row spread"><div><strong>' + esc(b.flag) + ' ' + esc(b.language) + '</strong>' +
+          (isActive ? ' <span class="badge review">Active</span>' : '') +
+          '<div class="small muted">' + s.seen + ' / ' + s.total + ' learned · ' + s.mastered + ' mastered · ' + s.due + ' due · ' + newCount + ' new today</div></div>' +
+          '<button class="btn small' + (s.due + newCount > 0 ? ' primary' : '') + '" data-study="' + esc(b.id) + '">Study</button></div>' +
+          '<div style="margin-top:8px">' + progressBar(s) + '</div></li>';
+      }).join('') +
+      '</ul></div>';
+  }
+
+  function bindSwitchButtons() {
+    $app.querySelectorAll('[data-study]').forEach((btn) =>
+      btn.addEventListener('click', () => {
+        setActiveBook(btn.getAttribute('data-study'));
+        location.hash = '#/study';
+      })
+    );
   }
 
   function viewLibrary() {
@@ -288,7 +351,7 @@
       BOOKS.map((b) => {
         const s = itemStats(b, allItems(b));
         const active = b.id === state.settings.activeBook;
-        return '<div class="card"><h2>' + esc(b.title) + '</h2><p class="muted small">' + esc(b.subtitle) + ' · ' + esc(b.language) + ' → ' + esc(b.meaningLang.toUpperCase()) + ' · ' + b.chapters.length + ' chapters</p>' +
+        return '<div class="card"><h2>' + esc(b.flag) + ' ' + esc(b.title) + '</h2><p class="muted small">' + esc(b.subtitle) + ' · ' + esc(b.language) + ' → ' + esc(b.meaningLang.toUpperCase()) + ' · ' + b.chapters.length + ' chapters</p>' +
           progressBar(s) + '<p class="small" style="margin-top:6px">' + s.seen + ' / ' + s.total + ' learned · ' + s.due + ' due</p>' +
           '<div class="row"><a class="btn primary small" href="#/book/' + esc(b.id) + '">Open</a>' +
           (active ? '<span class="badge review">Active</span>' : '<button class="btn small" data-activate="' + esc(b.id) + '">Set active</button>') + '</div></div>';
@@ -296,8 +359,7 @@
       '</div>';
     $app.querySelectorAll('[data-activate]').forEach((btn) =>
       btn.addEventListener('click', () => {
-        state.settings.activeBook = btn.getAttribute('data-activate');
-        save();
+        setActiveBook(btn.getAttribute('data-activate'));
         viewLibrary();
       })
     );
@@ -308,7 +370,7 @@
     const s = itemStats(book, allItems(book));
     $app.innerHTML =
       '<p class="small"><a href="#/library">← Library</a></p>' +
-      '<h1>' + esc(book.title) + '</h1><p class="muted">' + esc(book.subtitle) + '</p>' +
+      '<h1>' + esc(book.flag) + ' ' + esc(book.title) + '</h1><p class="muted">' + esc(book.subtitle) + '</p>' +
       '<div class="card">' + progressBar(s) + '<div style="margin-top:8px">' + barLegend() + '</div></div>' +
       '<div class="card" style="margin-top:16px"><ul class="list">' +
       book.chapters.map((c) => {
@@ -334,7 +396,7 @@
       '<a class="btn primary" href="#/study/' + esc(book.id) + '/' + ch.id + '">Study this chapter</a></div>' +
       '<div class="card table-wrap"><table class="table"><thead><tr><th class="num">#</th><th>Sentence</th><th>Meaning</th><th class="hide-sm">Status</th><th></th></tr></thead><tbody>' +
       ch.items.map((it) =>
-        '<tr><td class="num muted">' + it.n + '</td><td><div class="ko" lang="ko">' + esc(it.text) + '</div><div class="rom">' + esc(it.rom) + '</div></td>' +
+        '<tr><td class="num muted">' + it.n + '</td><td>' + targetHtml(book, it, 'target', true) + '</td>' +
         '<td lang="vi">' + esc(it.meaning) + '</td><td class="hide-sm">' + statusBadge(state.cards[cardKey(book, it)]) + '</td>' +
         '<td><button class="btn small icon-btn" data-say="' + it.n + '" aria-label="Play audio">🔊</button></td></tr>'
       ).join('') +
@@ -367,7 +429,8 @@
       else if (SRS.isDue(card, now)) due.push({ it, due: card.due });
     }
     due.sort((a, b) => a.due - b.due);
-    const newOnes = fresh.slice(0, Math.min(fresh.length, newLeftToday()));
+    const allowed = Math.min(fresh.length, newLeftToday(book));
+    const newOnes = fresh.slice(0, allowed);
     // Interleave: one new card after every 3 reviews, so new material is spread out.
     const queue = [];
     const reviews = due.map((d) => d.it);
@@ -375,7 +438,7 @@
       for (let i = 0; i < 3 && reviews.length; i++) queue.push(reviews.shift());
       if (newOnes.length) queue.push(newOnes.shift());
     }
-    return { queue, freshLeft: fresh.length - Math.min(fresh.length, newLeftToday()) };
+    return { queue, freshLeft: fresh.length - allowed };
   }
 
   function startSession(bookId, chapterId, extraNew) {
@@ -408,14 +471,14 @@
 
   function renderStudy() {
     const s = session;
-    const scope = s.chapterId ? 'Chapter ' + s.chapterId : 'All chapters';
+    const scope = s.book.flag + ' ' + s.book.language + ' · ' + (s.chapterId ? 'Chapter ' + s.chapterId : 'All chapters');
     if (s.pos >= s.queue.length) {
       const more = buildQueue(s.book, s.chapterId);
       $app.innerHTML =
         '<div class="card flash">' +
         (s.done.total
           ? '<div class="front">🎉 Session complete</div><p class="muted">' + s.done.total + ' cards · ' + s.done.newCards + ' new · ' + pct(s.done.correct, s.done.total) + '% recalled first try</p>'
-          : '<div class="front">Nothing due right now</div><p class="muted">No reviews are due and today\'s ' + state.settings.dailyNew + ' new sentences are done. You can learn more or take a quiz.</p>') +
+          : '<div class="front">Nothing due right now</div><p class="muted">No ' + esc(s.book.language) + ' reviews are due and today\'s ' + state.settings.dailyNew + ' new sentences are done. You can learn more or take a quiz.</p>') +
         '<div class="row" style="justify-content:center">' +
         '<a class="btn primary" href="#/">Back to Today</a>' +
         (more.freshLeft > 0 ? '<button class="btn" id="more">Learn 10 more new</button>' : '') +
@@ -432,8 +495,7 @@
     }
     const recall = s.direction === 'recall';
     const isNew = !card;
-    const koHtml = '<div class="' + (recall ? 'big' : 'front') + '" lang="ko">' + esc(it.text) + '</div>' +
-      (state.settings.showRom || s.flipped ? '<div class="rom">' + esc(it.rom) + '</div>' : '');
+    const textHtml = targetHtml(s.book, it, recall ? 'big' : 'front', state.settings.showRom || s.flipped);
     const meaningHtml = '<div class="' + (recall ? 'front meaning' : 'big') + '" lang="vi">' + esc(it.meaning) + '</div>';
     const now = Date.now();
 
@@ -442,10 +504,10 @@
       '<span class="small muted">' + scope + ' · ' + (s.queue.length - s.pos) + ' left</span>' +
       '<span class="badge ' + (isNew ? 'learning' : 'review') + '">' + (isNew ? 'new' : 'review') + '</span></div>' +
       '<div class="card flash" id="flash">' +
-      '<div class="tag">#' + it.n + ' · ' + (recall ? 'Say it in Korean' : 'What does it mean?') + '</div>' +
-      (recall ? meaningHtml : koHtml) +
+      '<div class="tag">#' + it.n + ' · ' + (recall ? 'Say it in ' + esc(s.book.language) : 'What does it mean?') + '</div>' +
+      (recall ? meaningHtml : textHtml) +
       (!recall || s.flipped ? '<button class="btn small icon-btn" id="say" aria-label="Play audio">🔊</button>' : '') +
-      (s.flipped ? '<div class="answer">' + (recall ? koHtml : meaningHtml) + '</div>' : '') +
+      (s.flipped ? '<div class="answer">' + (recall ? textHtml : meaningHtml) + '</div>' : '') +
       '</div>' +
       (s.flipped
         ? '<div class="grades">' +
@@ -485,8 +547,10 @@
     if (firstTime) {
       s.seen.add(key);
       s.done.total += 1;
+      delta['book:' + s.book.id] = 1;
       if (!prev) {
         delta.newCards = 1;
+        delta['new:' + s.book.id] = 1;
         s.done.newCards += 1;
       } else delta.reviews = 1;
       if (g === GRADES.AGAIN) {
@@ -524,8 +588,8 @@
         tts.speak(it.text, session.book.ttsLang);
       }
     } else if (quiz && currentRoute().name === 'quiz') {
-      if (/^[1-4]$/.test(e.key) && !quiz.answered) answerQuiz(Number(e.key) - 1);
-      else if ((e.key === 'Enter' || e.key === ' ') && quiz.answered) {
+      if (/^[1-4]$/.test(e.key) && quiz.answered === null) answerQuiz(Number(e.key) - 1);
+      else if ((e.key === 'Enter' || e.key === ' ') && quiz.answered !== null) {
         e.preventDefault();
         nextQuiz();
       }
@@ -545,10 +609,10 @@
     const pool = learned.length >= 4 ? learned : items.slice(0, Math.max(4, Math.min(items.length, 20)));
     const everything = allItems(book);
     const questions = shuffle(pool).slice(0, QUIZ_LEN).map((it) => {
-      const types = ['meaning', 'korean'];
+      const types = ['meaning', 'target'];
       if (tts.supported) types.push('listen');
       const type = types[Math.floor(Math.random() * types.length)];
-      const field = type === 'korean' ? 'text' : 'meaning';
+      const field = type === 'target' ? 'text' : 'meaning';
       const distractors = [];
       const seen = new Set([it[field]]);
       // Prefer distractors from the same chapter: they are more plausible.
@@ -581,14 +645,14 @@
     const cur = q.questions[q.pos];
     const it = cur.it;
     let prompt;
-    if (cur.type === 'meaning') prompt = '<div class="tag">What does this mean?</div><div class="front" lang="ko">' + esc(it.text) + '</div>' + (state.settings.showRom ? '<div class="rom">' + esc(it.rom) + '</div>' : '');
-    else if (cur.type === 'korean') prompt = '<div class="tag">Pick the Korean sentence</div><div class="front meaning" lang="vi">' + esc(it.meaning) + '</div>';
+    if (cur.type === 'meaning') prompt = '<div class="tag">What does this mean?</div>' + targetHtml(q.book, it, 'front', state.settings.showRom);
+    else if (cur.type === 'target') prompt = '<div class="tag">Pick the ' + esc(q.book.language) + ' sentence</div><div class="front meaning" lang="vi">' + esc(it.meaning) + '</div>';
     else prompt = '<div class="tag">Listen and pick the meaning</div><button class="btn primary" id="listen">🔊 Play</button>';
 
     $app.innerHTML =
-      '<div class="study-top"><a class="small" href="#/">✕ End</a><span class="small muted">Question ' + (q.pos + 1) + ' / ' + q.questions.length + ' · Score ' + q.score + '</span><span></span></div>' +
+      '<div class="study-top"><a class="small" href="#/">✕ End</a><span class="small muted">' + esc(q.book.flag) + ' Question ' + (q.pos + 1) + ' / ' + q.questions.length + ' · Score ' + q.score + '</span><span></span></div>' +
       (q.usedFallback && q.pos === 0 ? '<p class="notice">You haven\'t learned many sentences yet, so this quiz uses the first sentences of the book. Study first for a personalised quiz.</p>' : '') +
-      '<div class="card flash" style="min-height:180px">' + prompt + (q.answered !== null && cur.type === 'listen' ? '<div class="ko" lang="ko">' + esc(it.text) + '</div>' : '') + '</div>' +
+      '<div class="card flash" style="min-height:180px">' + prompt + (q.answered !== null && cur.type === 'listen' ? targetHtml(q.book, it, 'target', true) : '') + '</div>' +
       '<div class="choices" style="margin-top:12px">' +
       cur.options.map((o, i) => {
         let cls = 'choice';
@@ -596,7 +660,7 @@
           if (i === cur.answer) cls += ' correct';
           else if (i === q.answered) cls += ' wrong';
         }
-        return '<button class="' + cls + '" data-choice="' + i + '"' + (q.answered !== null ? ' disabled' : '') + ' lang="' + (cur.field === 'text' ? 'ko' : 'vi') + '"><kbd>' + (i + 1) + '</kbd> ' + esc(o[cur.field]) + '</button>';
+        return '<button class="' + cls + '" data-choice="' + i + '"' + (q.answered !== null ? ' disabled' : '') + ' lang="' + (cur.field === 'text' ? esc(q.book.lang) : 'vi') + '"><kbd>' + (i + 1) + '</kbd> ' + esc(o[cur.field]) + '</button>';
       }).join('') + '</div>' +
       (q.answered !== null ? '<button class="btn primary" id="next" style="width:100%;margin-top:12px;justify-content:center">Next →</button>' : '');
 
@@ -616,7 +680,7 @@
     const ok = i === cur.answer;
     if (ok) q.score += 1;
     const now = Date.now();
-    Tracker.record(state.logs, now, { quiz: 1, quizCorrect: ok ? 1 : 0, seconds: Math.min(60, Math.round((now - q.shownAt) / 1000)) });
+    Tracker.record(state.logs, now, { quiz: 1, quizCorrect: ok ? 1 : 0, ['book:' + q.book.id]: 1, seconds: Math.min(60, Math.round((now - q.shownAt) / 1000)) });
     const key = cardKey(q.book, cur.it);
     // A miss on a learned sentence makes it due again right away.
     if (!ok && state.cards[key]) state.cards[key] = Object.assign({}, state.cards[key], { due: now });
@@ -664,37 +728,48 @@
       '</div>' +
       '<div class="card" style="margin-top:16px"><h2>Activity · last 26 weeks</h2>' + heatmapHtml(26) + '</div>' +
       '<div class="grid grid-2" style="margin-top:16px">' +
-      '<div class="card"><h2>' + esc(book.title) + '</h2>' + progressBar(s) + '<div style="margin-top:8px">' + barLegend() + '</div>' +
+      (BOOKS.length > 1 ? languagesTable() : '') +
+      '<div class="card"><h2>' + esc(book.flag) + ' ' + esc(book.title) + '</h2>' + progressBar(s) + '<div style="margin-top:8px">' + barLegend() + '</div>' +
       '<table class="table" style="margin-top:12px"><tbody>' +
       [['Not started', s.new], ['Learning', s.learning], ['In review', s.review], ['Mastered', s.mastered], ['Due now', s.due]].map((r) => '<tr><td>' + r[0] + '</td><td class="num">' + r[1] + '</td></tr>').join('') +
       '</tbody></table></div>' +
-      '<div class="card"><h2>Reviews coming up</h2><table class="table"><thead><tr><th>Day</th><th class="num">Cards due</th></tr></thead><tbody>' + upcoming.join('') + '</tbody></table></div>' +
+      '<div class="card"><h2>' + esc(book.language) + ' reviews coming up</h2><table class="table"><thead><tr><th>Day</th><th class="num">Cards due</th></tr></thead><tbody>' + upcoming.join('') + '</tbody></table></div>' +
       '</div>' +
       '<div class="card table-wrap" style="margin-top:16px"><h2>Last 14 days</h2><table class="table"><thead><tr><th>Date</th><th class="num">New</th><th class="num">Reviews</th><th class="num">Recall</th><th class="num">Quiz</th><th class="num">Time</th><th>Goal</th></tr></thead><tbody>' +
       rows.join('') + '</tbody></table></div>';
+  }
+
+  function languagesTable() {
+    return '<div class="card table-wrap" style="grid-column:1/-1"><h2>By language</h2><table class="table"><thead><tr><th>Language</th><th class="num">Learned</th><th class="num">Mastered</th><th class="num">Due</th><th class="num">Last 7 days</th></tr></thead><tbody>' +
+      BOOKS.map((b) => {
+        const s = itemStats(b, allItems(b));
+        return '<tr><td>' + esc(b.flag) + ' ' + esc(b.language) + '</td><td class="num">' + s.seen + ' / ' + s.total + '</td><td class="num">' + s.mastered + '</td><td class="num">' + s.due + '</td><td class="num">' + studiedRecently(b, 7) + '</td></tr>';
+      }).join('') +
+      '</tbody></table><p class="small muted">Last 7 days counts flashcards and quiz answers. The streak and daily goal cover all languages together.</p></div>';
   }
 
   // ----- Settings -----
 
   function viewSettings() {
     const st = state.settings;
-    const voice = tts.voiceFor(activeBook() ? activeBook().ttsLang : 'ko-KR');
+    const book = activeBook();
+    const voice = tts.voiceFor(book.ttsLang);
     $app.innerHTML =
       '<h1>Settings</h1>' +
       '<div class="card stack">' +
       '<h2>Daily routine</h2>' +
       '<div class="grid grid-2">' +
-      '<label class="field"><span>New sentences per day</span><input type="number" min="0" max="200" id="dailyNew" value="' + st.dailyNew + '"></label>' +
+      '<label class="field"><span>New sentences per day (per language)</span><input type="number" min="0" max="200" id="dailyNew" value="' + st.dailyNew + '"></label>' +
       '<label class="field"><span>Daily goal (cards)</span><input type="number" min="1" max="1000" id="dailyGoal" value="' + st.dailyGoal + '"></label>' +
       '</div>' +
       '<h2>Flashcards</h2>' +
       '<label class="field"><span>Card direction</span><select id="direction">' +
-      [['recognize', 'Korean → meaning (recognize)'], ['recall', 'Meaning → Korean (recall)'], ['mixed', 'Mixed']].map(([v, l]) => '<option value="' + v + '"' + (st.direction === v ? ' selected' : '') + '>' + l + '</option>').join('') +
+      [['recognize', 'Sentence → meaning (recognize)'], ['recall', 'Meaning → sentence (recall)'], ['mixed', 'Mixed']].map(([v, l]) => '<option value="' + v + '"' + (st.direction === v ? ' selected' : '') + '>' + l + '</option>').join('') +
       '</select></label>' +
-      '<label class="check"><input type="checkbox" id="showRom"' + (st.showRom ? ' checked' : '') + '> Show romanization before revealing the answer</label>' +
+      '<label class="check"><input type="checkbox" id="showRom"' + (st.showRom ? ' checked' : '') + '> Show pronunciation (romanization, romaji, pinyin…) before revealing the answer</label>' +
       '<label class="check"><input type="checkbox" id="autoplay"' + (st.autoplay ? ' checked' : '') + '> Play audio automatically</label>' +
       '<label class="field"><span>Speech speed: <output id="rateOut">' + st.ttsRate + '</output>×</span><input type="range" min="0.5" max="1.3" step="0.1" id="ttsRate" value="' + st.ttsRate + '"></label>' +
-      '<p class="small muted">' + (tts.supported ? (voice ? 'Voice: ' + esc(voice.name) : 'No Korean voice found on this device — install a Korean voice in your OS settings for better audio.') : 'Speech is not supported in this browser.') +
+      '<p class="small muted">' + esc(book.flag + ' ' + book.language) + ' · ' + (tts.supported ? (voice ? 'Voice: ' + esc(voice.name) : 'No ' + esc(book.language) + ' voice found on this device — install one in your OS language settings for audio.') : 'Speech is not supported in this browser.') +
       ' <button class="btn small" id="testVoice">Test</button></p>' +
       '<h2>Appearance</h2>' +
       '<label class="field"><span>Theme</span><select id="theme">' +
@@ -725,7 +800,7 @@
       document.getElementById('rateOut').textContent = st.ttsRate;
       save();
     });
-    document.getElementById('testVoice').addEventListener('click', () => tts.speak('안녕하세요. 만나서 반갑습니다.', activeBook() ? activeBook().ttsLang : 'ko-KR'));
+    document.getElementById('testVoice').addEventListener('click', () => tts.speak(book.chapters[0].items[0].text, book.ttsLang));
     document.getElementById('theme').addEventListener('change', (e) => { st.theme = e.target.value; save(); applyTheme(); });
 
     const msg = document.getElementById('dataMsg');
@@ -764,6 +839,26 @@
     });
   }
 
+  // ---------- Language switcher (top bar) ----------
+
+  const $lang = document.getElementById('langSwitch');
+
+  function renderLangSwitch() {
+    if (!$lang) return;
+    $lang.innerHTML = BOOKS.map((b) => '<option value="' + esc(b.id) + '"' + (b.id === activeBook().id ? ' selected' : '') + '>' + esc(b.flag + ' ' + b.language) + '</option>').join('');
+    $lang.hidden = BOOKS.length < 2;
+  }
+
+  if ($lang) {
+    $lang.addEventListener('change', () => {
+      setActiveBook($lang.value);
+      // Pages tied to one book go back to Today; the others re-render for the new language.
+      const { name } = currentRoute();
+      if (['book', 'chapter', 'study', 'quiz'].includes(name) && location.hash !== '#/') location.hash = '#/';
+      else route();
+    });
+  }
+
   // ---------- Router ----------
 
   function currentRoute() {
@@ -794,6 +889,7 @@
   }
 
   applyTheme();
+  renderLangSwitch();
   window.addEventListener('hashchange', route);
   route();
 })();
