@@ -1,0 +1,1053 @@
+# Format: "## <chapter no>|<Vietnamese title>|<Spanish title>" starts a chapter;
+# each sentence line is "<no>|<Spanish>|<romanization (empty for Spanish)>|<Vietnamese>".
+## 1|Chào hỏi & Giới thiệu|Saludos e Introducciones
+1|¡Hola!||Xin chào!
+2|¡Buenos días!||Chào buổi sáng!
+3|¡Buenas tardes!||Chào buổi chiều!
+4|¡Buenas noches!||Chào buổi tối / Chúc ngủ ngon!
+5|¿Cómo te llamas?||Tên bạn là gì?
+6|Me llamo ~.||Tên tôi là ~.
+7|¿Cómo estás?||Bạn có khỏe không?
+8|Estoy bien, gracias.||Tôi khỏe, cảm ơn.
+9|¿Y tú?||Còn bạn?
+10|¿De dónde eres?||Bạn đến từ đâu?
+11|Soy de Vietnam.||Tôi đến từ Việt Nam.
+12|Mucho gusto.||Rất vui được gặp bạn.
+13|El gusto es mío.||Niềm vui là của tôi.
+14|¡Encantado/a!||Rất hân hạnh!
+15|¡Cuánto tiempo sin verte!||Lâu rồi không gặp!
+16|¿Qué tal?||Dạo này thế nào?
+17|Más o menos.||Bình thường.
+18|Muy bien.||Rất tốt.
+19|Pasa, por favor.||Xin mời vào.
+20|Bienvenido/a.||Chào mừng bạn.
+21|Hasta luego.||Tạm biệt (hẹn gặp lại).
+22|Hasta pronto.||Gặp lại sớm nhé.
+23|Hasta mañana.||Hẹn gặp ngày mai.
+24|Adiós.||Tạm biệt.
+25|Nos vemos.||Gặp lại nhé.
+## 2|Lịch sự & Phép xã giao|Cortesía
+26|Gracias.||Cảm ơn.
+27|Muchas gracias.||Cảm ơn rất nhiều.
+28|De nada.||Không có gì.
+29|Por favor.||Làm ơn.
+30|Perdón.||Xin lỗi / Xin phép.
+31|Disculpe.||Xin thứ lỗi.
+32|Lo siento.||Tôi xin lỗi.
+33|No hay problema.||Không có vấn đề gì.
+34|Con mucho gusto.||Rất vui lòng.
+35|Claro que sí.||Tất nhiên rồi.
+36|Por supuesto.||Dĩ nhiên.
+37|Está bien.||Được rồi.
+38|Entendido.||Đã hiểu.
+39|Después de usted.||Mời bạn đi trước.
+40|¿Me puede ayudar?||Bạn có thể giúp tôi không?
+41|Con permiso.||Xin phép.
+42|¿Le molesta si...?||Bạn có phiền không nếu...?
+43|Muchas gracias por su ayuda.||Cảm ơn rất nhiều vì sự giúp đỡ.
+44|Es usted muy amable.||Bạn thật tốt bụng.
+45|¡Que tenga buen día!||Chúc bạn một ngày tốt lành!
+46|Igualmente.||Bạn cũng vậy nhé!
+47|Buen provecho.||Chúc ăn ngon.
+48|Salud.||Chúc sức khỏe (khi nâng ly) / Bless you (khi hắt hơi).
+49|¡Cuídate!||Bảo trọng!
+50|Con todo respeto.||Với tất cả sự tôn trọng.
+## 3|Hỏi đường|Pedir Direcciones
+51|¿Dónde está...?||~ ở đâu?
+52|¿Dónde está el baño?||Nhà vệ sinh ở đâu?
+53|¿Hay un ~ cerca de aquí?||Gần đây có ~ không?
+54|Me he perdido.||Tôi bị lạc rồi.
+55|¿Cómo se llega a...?||Đến ~ như thế nào?
+56|Siga todo recto.||Đi thẳng.
+57|Gire a la derecha.||Rẽ phải.
+58|Gire a la izquierda.||Rẽ trái.
+59|¿Está cerca?||Có gần không?
+60|¿Está lejos?||Có xa không?
+61|¿Se puede ir a pie?||Có thể đi bộ không?
+62|¿Me puede mostrar en el mapa?||Bạn có thể chỉ trên bản đồ không?
+63|¿Dónde estoy?||Tôi đang ở đâu?
+64|Está al lado de ~.||Nó ở cạnh ~.
+65|Está delante de ~.||Nó ở phía trước ~.
+66|Está detrás de ~.||Nó ở phía sau ~.
+67|Doble en la esquina.||Rẽ ở góc đường.
+68|Son ~ minutos caminando.||Đi bộ ~ phút.
+69|¿Dónde está la estación de metro?||Ga tàu điện ngầm ở đâu?
+70|¿Dónde está la parada de autobús?||Trạm xe buýt ở đâu?
+## 4|Mua sắm|De Compras
+71|¿Cuánto cuesta esto?||Cái này giá bao nhiêu?
+72|Es muy caro.||Đắt quá.
+73|¿Tiene algo más barato?||Bạn có gì rẻ hơn không?
+74|Me llevo este.||Tôi lấy cái này.
+75|¿Tiene otra talla?||Có kích cỡ khác không?
+76|¿Puedo probármelo?||Tôi có thể thử không?
+77|¿Aceptan tarjeta de crédito?||Có nhận thẻ tín dụng không?
+78|¿Me puede dar un recibo?||Cho tôi hóa đơn được không?
+79|Quisiera devolver esto.||Tôi muốn trả lại cái này.
+80|Quisiera cambiar esto.||Tôi muốn đổi cái này.
+81|¿Me puede dar una bolsa?||Cho tôi một túi được không?
+82|¿Tiene este color?||Màu này có không?
+83|¿Me puede hacer un descuento?||Bạn có thể giảm giá không?
+84|¿Me puede dar el cambio?||Trả tiền thừa cho tôi.
+85|¿Queda en stock?||Còn hàng không?
+86|¿Cuándo hay rebajas?||Khi nào có giảm giá?
+87|¿Me lo puede envolver para regalo?||Bạn có thể gói quà cho tôi không?
+88|¿Hay exención de impuestos?||Có miễn thuế không?
+89|¿Dónde está la caja?||Quầy thanh toán ở đâu?
+90|Solo estoy mirando, gracias.||Tôi chỉ xem thôi, cảm ơn.
+## 5|Nhà hàng & Ăn uống|En el Restaurante
+91|Una mesa para dos, por favor.||Một bàn hai người, làm ơn.
+92|¿Me puede traer la carta?||Cho tôi xem menu được không?
+93|Voy a pedir.||Tôi muốn đặt món.
+94|¿Qué recomienda?||Bạn giới thiệu gì?
+95|¿Es picante?||Có cay không?
+96|Soy alérgico/a a ~.||Tôi bị dị ứng với ~.
+97|La cuenta, por favor.||Cho tôi hóa đơn.
+98|¡Está delicioso!||Ngon quá!
+99|Un vaso de agua, por favor.||Cho tôi một ly nước.
+100|Sin carne, por favor.||Không có thịt, làm ơn.
+101|Menos picante, por favor.||Ít cay hơn, làm ơn.
+102|Cuentas separadas, por favor.||Thanh toán riêng, làm ơn.
+103|Quisiera reservar una mesa.||Tôi muốn đặt bàn.
+104|Para llevar, por favor.||Mang về, làm ơn.
+105|¿Cuál es el plato del día?||Hôm nay có món đặc biệt gì?
+106|¿Qué lleva este plato?||Món này có những gì?
+107|Más pan, por favor.||Thêm bánh mì, làm ơn.
+108|Un momento, por favor.||Chờ một chút, làm ơn.
+109|Estaba todo muy rico.||Mọi thứ đều rất ngon.
+110|¿Es una mesa para uno?||Bạn ăn một mình?
+## 6|Giao thông & Du lịch|Transporte y Viajes
+111|Un billete para ~, por favor.||Cho tôi một vé đến ~, làm ơn.
+112|¿A qué hora sale el tren?||Tàu xuất phát lúc mấy giờ?
+113|Un billete de ida.||Vé một chiều.
+114|Un billete de ida y vuelta.||Vé khứ hồi.
+115|¿Está ocupado este asiento?||Chỗ này có người ngồi không?
+116|¿En qué andén sale?||Xuất phát từ sân ga nào?
+117|¿Me puede pedir un taxi?||Gọi taxi hộ tôi được không?
+118|Lléveme a esta dirección.||Đưa tôi đến địa chỉ này.
+119|¿Cuánto es la tarifa?||Giá vé bao nhiêu?
+120|He perdido el vuelo.||Tôi lỡ chuyến bay.
+121|He perdido mi equipaje.||Tôi mất hành lý.
+122|¿Dónde se hace el check-in?||Làm thủ tục ở đâu?
+123|¿Hay que hacer transbordo?||Có phải chuyển tuyến không?
+124|Quisiera un asiento de ventana.||Tôi muốn ghế cạnh cửa sổ.
+125|¿Dónde me bajo?||Tôi nên xuống ở đâu?
+126|¿Hay vuelo directo?||Có chuyến bay thẳng không?
+127|¿Cuál es la próxima parada?||Trạm tiếp theo là đâu?
+128|¿Dónde está la parada de autobús?||Trạm xe buýt ở đâu?
+129|¿Dónde puedo comprar una tarjeta de transporte?||Mua thẻ giao thông ở đâu?
+130|¿Cuánto se tarda en llegar al aeropuerto?||Đến sân bay mất bao lâu?
+## 7|Sức khỏe & Bệnh viện|Salud y Hospital
+131|No me encuentro bien.||Tôi cảm thấy không khỏe.
+132|Me duele la cabeza.||Tôi bị đau đầu.
+133|Me duele el estómago.||Tôi bị đau bụng.
+134|Tengo fiebre.||Tôi bị sốt.
+135|Necesito ver a un médico.||Tôi muốn gặp bác sĩ.
+136|¡Llame a una ambulancia!||Gọi xe cấp cứu!
+137|Me duele.||Tôi đau.
+138|Soy alérgico/a a este medicamento.||Tôi dị ứng thuốc này.
+139|¿Cuántas veces al día lo tomo?||Uống mấy lần một ngày?
+140|¿Me puede dar una receta?||Làm ơn kê đơn thuốc.
+141|Quisiera pedir cita.||Tôi muốn đặt lịch hẹn.
+142|¿Dónde le duele?||Đau ở đâu?
+143|¿Necesito una inyección?||Có cần tiêm không?
+144|¿Es grave?||Có nghiêm trọng không?
+145|Me he lesionado la pierna.||Tôi bị thương ở chân.
+146|Me duele la garganta.||Tôi đau họng.
+147|Tómelo dos veces al día.||Uống hai lần một ngày.
+148|Descanse un poco.||Hãy nghỉ ngơi một chút.
+149|Necesita ser ingresado/a.||Cần phải nhập viện.
+150|Que se mejore pronto.||Mau khỏe lại nhé.
+## 8|Công việc & Văn phòng|Trabajo y Oficina
+151|¿A qué hora empieza la reunión?||Cuộc họp bắt đầu lúc mấy giờ?
+152|¿Me puede enviar el informe?||Bạn có thể gửi báo cáo cho tôi không?
+153|Llegaré tarde hoy.||Hôm nay tôi sẽ đến muộn.
+154|El plazo es mañana.||Hạn chót là ngày mai.
+155|¿Podemos cambiar la fecha?||Có thể đổi lịch không?
+156|Necesito pedir un día libre.||Tôi cần xin nghỉ một ngày.
+157|Por favor, revise este documento.||Làm ơn kiểm tra tài liệu này.
+158|La impresora está averiada.||Máy in bị hỏng.
+159|Hoy tengo una entrevista de trabajo.||Hôm nay tôi có phỏng vấn.
+160|¿Cuándo es el día de pago?||Ngày trả lương là khi nào?
+161|¿Puedo trabajar desde casa hoy?||Hôm nay tôi có thể làm việc ở nhà không?
+162|Firme aquí, por favor.||Ký vào đây, làm ơn.
+163|El sistema está caído.||Hệ thống đang bị lỗi.
+164|¿Me lo puede explicar de nuevo?||Bạn có thể giải thích lại không?
+165|Le contactaré más tarde.||Tôi sẽ liên lạc với bạn sau.
+166|Hagamos una videollamada.||Hãy mở cuộc gọi video.
+167|Quisiera solicitar este puesto.||Tôi muốn ứng tuyển vào vị trí này.
+168|Póngame en copia en ese correo.||Hãy CC tôi vào email đó.
+169|El proyecto va según lo previsto.||Dự án đúng tiến độ.
+170|¡Me han ascendido!||Tôi được thăng chức!
+## 9|Học tập & Giáo dục|Educación
+171|¿Puede repetirlo, por favor?||Nói lại được không?
+172|No entiendo.||Tôi không hiểu.
+173|¿Puede hablar más despacio?||Bạn có thể nói chậm hơn không?
+174|¿Cómo se escribe eso?||Cái đó viết thế nào?
+175|¿Qué significa esta palabra?||Từ này có nghĩa là gì?
+176|¿Me puede prestar un bolígrafo?||Mượn bút được không?
+177|¿Cuándo es el examen?||Khi nào thi?
+178|Necesito estudiar más.||Tôi cần học nhiều hơn.
+179|¿Me puede ayudar con los deberes?||Giúp tôi làm bài tập được không?
+180|He suspendido el examen.||Tôi trượt thi.
+181|He aprobado el examen.||Tôi đậu thi.
+182|¿Dónde está la biblioteca?||Thư viện ở đâu?
+183|¿Puedo pedir prestado este libro?||Mượn sách này được không?
+184|Entreguen los deberes, por favor.||Nộp bài tập, làm ơn.
+185|Hoy no hay clase.||Hôm nay không có lớp.
+186|Estudio economía.||Tôi học chuyên ngành kinh tế.
+187|¿Cuándo empieza el semestre?||Học kỳ bắt đầu khi nào?
+188|Quisiera pedir una beca.||Tôi muốn đăng ký học bổng.
+189|¿Esto entra en el examen?||Cái này có trong bài thi không?
+190|¿En qué capítulo estamos?||Đang học đến chương mấy?
+## 10|Điện thoại & Công nghệ|Tecnología
+191|¿Me puede dejar su teléfono?||Mượn điện thoại được không?
+192|Se me ha agotado la batería.||Điện thoại hết pin.
+193|¿Puedo cargar el teléfono aquí?||Sạc điện ở đây được không?
+194|¿Hay WiFi aquí?||Ở đây có Wi-Fi không?
+195|¿Cuál es la contraseña del WiFi?||Mật khẩu Wi-Fi là gì?
+196|Se me ha estropeado el ordenador.||Máy tính bị hỏng.
+197|¿Me puede enviar un mensaje?||Gửi tin nhắn cho tôi được không?
+198|Le llamo más tarde.||Tôi sẽ gọi lại.
+199|¿Me escucha bien?||Bạn có nghe tôi rõ không?
+200|Le enviaré un correo electrónico.||Tôi sẽ gửi email cho bạn.
+201|La conexión a Internet es lenta.||Internet chậm.
+202|He olvidado la contraseña.||Tôi quên mật khẩu.
+203|¿Cómo se descarga esto?||Tải về thế nào?
+204|El teléfono se ha bloqueado.||Điện thoại bị đơ.
+205|¿Podemos hacer una videollamada?||Gọi video được không?
+206|La impresora no se conecta.||Máy in không kết nối.
+207|La página web no carga.||Trang web không tải được.
+208|¿Puedo instalar esta aplicación?||Cài app này được không?
+209|No tengo cobertura.||Không có sóng điện thoại.
+210|Deje un mensaje, por favor.||Hãy để lại tin nhắn.
+## 11|Cảm xúc & Trạng thái|Emociones
+211|Estoy feliz.||Tôi vui.
+212|Estoy triste.||Tôi buồn.
+213|Estoy cansado/a.||Tôi mệt.
+214|Tengo hambre.||Tôi đói.
+215|Tengo sed.||Tôi khát.
+216|Estoy aburrido/a.||Tôi chán.
+217|¡Estoy emocionado/a!||Tôi hào hứng!
+218|Estoy nervioso/a.||Tôi hồi hộp.
+219|Estoy enfadado/a.||Tôi tức giận.
+220|Estoy confundido/a.||Tôi bối rối.
+221|Estoy sorprendido/a.||Tôi ngạc nhiên.
+222|Estoy decepcionado/a.||Tôi thất vọng.
+223|Estoy agradecido/a.||Tôi biết ơn.
+224|Estoy orgulloso/a de ti.||Tôi tự hào về bạn.
+225|Me siento solo/a.||Tôi cảm thấy cô đơn.
+226|Hoy me siento muy bien.||Hôm nay tôi cảm thấy rất tốt.
+227|Estoy estresado/a.||Tôi đang bị căng thẳng.
+228|Estoy de buen humor.||Tôi đang có tâm trạng tốt.
+229|Estoy preocupado/a.||Tôi đang lo lắng.
+230|No puedo dejar de reír.||Tôi không nhịn cười được.
+## 12|Thời tiết|El Tiempo
+231|¿Qué tiempo hace hoy?||Thời tiết hôm nay thế nào?
+232|Hace sol.||Trời nắng.
+233|Está lloviendo.||Đang mưa.
+234|Hace mucho frío hoy.||Hôm nay rất lạnh.
+235|Hace calor y humedad.||Nóng và ẩm.
+236|Se acerca una tormenta.||Có bão đang đến.
+237|¿Lloverá mañana?||Ngày mai có mưa không?
+238|Está nevando.||Đang có tuyết rơi.
+239|Lleva un paraguas.||Mang ô theo nhé.
+240|Qué buen tiempo hace.||Thời tiết đẹp nhỉ.
+241|Hace viento.||Trời có gió.
+242|Hay mucha niebla.||Sương mù dày.
+243|Hace un frío terrible.||Lạnh cóng.
+244|¿Cuántos grados hay hoy?||Hôm nay mấy độ?
+245|¡Hay un arcoíris!||Có cầu vồng!
+246|El pronóstico dice que lloverá.||Dự báo thời tiết nói sẽ có mưa.
+247|El cielo está nublado.||Trời âm u.
+248|El cielo está despejado.||Bầu trời trong xanh.
+249|La nieve se está acumulando.||Tuyết đang tích tụ.
+250|¡Qué día tan bonito!||Thật là một ngày đẹp trời!
+## 13|Gia đình & Mối quan hệ|Familia y Relaciones
+251|¿Tienes hermanos?||Bạn có anh chị em không?
+252|Tengo dos hermanos menores.||Tôi có hai em trai.
+253|¿Estás casado/a?||Bạn đã kết hôn chưa?
+254|Soy soltero/a.||Tôi còn độc thân.
+255|¿Cuántos hijos tienes?||Bạn có mấy con?
+256|Mis padres están jubilados.||Bố mẹ tôi đã về hưu.
+257|Echo de menos a mi familia.||Tôi nhớ gia đình.
+258|Nos casamos el año que viene.||Chúng tôi sẽ kết hôn năm sau.
+259|Ella es mi novia.||Cô ấy là bạn gái tôi.
+260|Él es mi marido.||Anh ấy là chồng tôi.
+261|Tenemos mucho en común.||Chúng tôi có nhiều điểm chung.
+262|Crecí en Hanói.||Tôi lớn lên ở Hà Nội.
+263|Mi abuela es muy mayor.||Bà tôi rất cao tuổi.
+264|Somos muy buenos amigos.||Chúng tôi là bạn thân.
+265|Ella es como una hermana para mí.||Cô ấy như chị em của tôi.
+266|Hemos roto.||Chúng tôi chia tay.
+267|Están esperando un bebé.||Họ đang chờ đón em bé.
+268|Mi hijo tiene cinco años.||Con trai tôi năm tuổi.
+269|Soy hijo/a único/a.||Tôi là con một.
+270|La familia es lo más importante.||Gia đình là trên hết.
+## 14|Sở thích & Hoạt động|Aficiones y Actividades
+271|¿Qué haces en tu tiempo libre?||Rảnh bạn thích làm gì?
+272|Me gusta leer.||Tôi thích đọc sách.
+273|Me encanta escuchar música.||Tôi rất thích nghe nhạc.
+274|¿Practicas algún deporte?||Bạn có chơi thể thao không?
+275|Salgo a correr cada mañana.||Tôi chạy bộ mỗi sáng.
+276|Me gusta ver películas.||Tôi thích xem phim.
+277|Estoy aprendiendo a cocinar.||Tôi đang học nấu ăn.
+278|Me gusta viajar.||Tôi thích du lịch.
+279|Toco la guitarra.||Tôi chơi đàn guitar.
+280|Me gusta pintar.||Tôi thích vẽ.
+281|Hago yoga tres veces a la semana.||Tôi tập yoga ba lần một tuần.
+282|Soy un gran aficionado al fútbol.||Tôi là fan cuồng bóng đá.
+283|Me gusta hacer senderismo.||Tôi thích đi bộ leo núi.
+284|Paso mucho tiempo jugando videojuegos.||Tôi dành nhiều thời gian chơi game.
+285|Colecciono sellos.||Tôi sưu tập tem.
+286|Me gusta la fotografía.||Tôi thích chụp ảnh.
+287|Nado cada fin de semana.||Tôi bơi mỗi cuối tuần.
+288|Tomo clases de baile.||Tôi học lớp nhảy.
+289|Me gusta la jardinería.||Tôi thích làm vườn.
+290|Me gusta ser voluntario/a.||Tôi thích tình nguyện.
+## 15|Hẹn hò & Kế hoạch|Planes y Citas
+291|¿Estás libre esta noche?||Tối nay bạn rảnh không?
+292|¿Quieres cenar conmigo?||Bạn có muốn đi ăn tối không?
+293|Quedamos a las siete.||Gặp nhau lúc bảy giờ nhé.
+294|¿Dónde quedamos?||Gặp nhau ở đâu nhé?
+295|Llego en diez minutos.||Mười phút nữa đến.
+296|¿Podemos quedar mañana mejor?||Chuyển sang ngày mai được không?
+297|Lo siento, no puedo ir.||Xin lỗi, tôi không đến được.
+298|Vamos al cine.||Đi xem phim nhé.
+299|¿Qué hora te va bien?||Mấy giờ tiện cho bạn?
+300|Te recojo a las ocho.||Tôi đón bạn lúc tám giờ.
+301|¡No llegues tarde!||Đừng đến muộn!
+302|Tomemos un café.||Đi uống cà phê nhé.
+303|¿Vienes a la fiesta?||Bạn có đến bữa tiệc không?
+304|Me uno más tarde.||Tôi đến sau.
+305|Empieza a las ocho de la noche.||Bắt đầu lúc tám giờ tối.
+306|Ya tengo planes.||Tôi đã có kế hoạch rồi.
+307|Lo dejamos para la semana que viene.||Để tuần sau nhé.
+308|¡Buena idea!||Ý kiến hay đó!
+309|Tengo muchas ganas.||Tôi rất mong đợi.
+310|¡Hasta entonces!||Hẹn gặp nhé!
+## 16|Ý kiến & Quan điểm|Opiniones
+311|En mi opinión...||Theo ý kiến của tôi...
+312|Creo que...||Tôi nghĩ rằng...
+313|Estoy de acuerdo.||Tôi đồng ý.
+314|No estoy de acuerdo.||Tôi không đồng ý.
+315|Tienes razón.||Bạn nói đúng.
+316|Buen punto.||Điểm hay đó.
+317|Entiendo tu punto de vista.||Tôi hiểu quan điểm của bạn.
+318|No estoy seguro/a de eso.||Tôi không chắc về điều đó.
+319|Tiene sentido.||Điều đó có lý.
+320|Totalmente de acuerdo.||Hoàn toàn đồng ý.
+321|Para ser honesto...||Thành thật mà nói...
+322|Desde mi punto de vista...||Từ góc nhìn của tôi...
+323|Depende de la persona.||Tùy từng người.
+324|No se puede generalizar.||Không thể nói chung chung.
+325|Muy buen argumento.||Lập luận rất tốt.
+326|Nunca lo había pensado así.||Tôi chưa bao giờ nghĩ theo cách đó.
+327|¿Qué opinas sobre esto?||Bạn nghĩ gì về điều này?
+328|Déjame pensarlo.||Để tôi suy nghĩ.
+329|Creo que...||Tôi tin rằng...
+330|Me parece que eso está mal.||Tôi nghĩ điều đó sai.
+## 17|Khẩn cấp|Emergencias
+331|¡Socorro!||Cứu tôi!
+332|¡Llame a la policía!||Gọi cảnh sát!
+333|Ha habido un accidente.||Đã xảy ra tai nạn.
+334|¿Hay alguien herido?||Có ai bị thương không?
+335|Necesito ayuda urgente.||Tôi cần giúp đỡ ngay.
+336|¡No se mueva!||Đừng cử động!
+337|¡Peligro!||Nguy hiểm!
+338|Me han robado.||Tôi bị cướp.
+339|He perdido mi cartera.||Tôi mất ví.
+340|Me han robado el pasaporte.||Hộ chiếu bị đánh cắp.
+341|¡Fuego!||Cháy!
+342|¡Salgan del edificio!||Thoát khỏi tòa nhà!
+343|¿Dónde está la salida de emergencia?||Lối thoát khẩn cấp ở đâu?
+344|Necesito contactar con mi embajada.||Tôi cần liên hệ đại sứ quán.
+345|Cálmese, por favor.||Bình tĩnh lại.
+346|He tenido un accidente.||Tôi vừa gặp tai nạn.
+347|¿Hay algún médico aquí?||Ở đây có bác sĩ không?
+348|¿Puede llamar a alguien para que ayude?||Gọi người giúp được không?
+349|No cunda el pánico.||Đừng hoảng loạn.
+350|Aléjese de esa persona.||Tránh xa người đó.
+## 18|Thời gian & Lịch|Tiempo y Calendario
+351|¿Qué hora es?||Bây giờ là mấy giờ?
+352|Son las tres.||Ba giờ rồi.
+353|¿Qué día es hoy?||Hôm nay là thứ mấy?
+354|Hoy es lunes.||Hôm nay là thứ Hai.
+355|¿A qué fecha estamos?||Hôm nay là ngày mấy?
+356|Es el quince de abril.||Ngày mười lăm tháng Tư.
+357|Nos vemos la semana que viene.||Tuần sau gặp lại.
+358|Tengo una reunión en una hora.||Một tiếng nữa có cuộc họp.
+359|Enseguida vuelvo.||Tôi sẽ quay lại ngay.
+360|Nací en 1995.||Tôi sinh năm 1995.
+361|Ya casi es medianoche.||Gần nửa đêm rồi.
+362|La tienda abre a las nueve.||Cửa hàng mở lúc chín giờ.
+363|Llegaré antes del mediodía.||Đến trước buổi trưa.
+364|¿Podemos quedar temprano por la mañana?||Có thể gặp sáng sớm không?
+365|Eso fue el año pasado.||Chuyện năm ngoái.
+366|Lo terminaré antes de que acabe el día.||Hoàn thành trong hôm nay.
+367|Tenemos tiempo de sobra.||Thời gian rất dư dả.
+368|El tiempo vuela.||Thời gian trôi nhanh thật.
+369|Llego tarde.||Tôi đang trễ.
+370|Por favor, sé puntual.||Hãy đến đúng giờ.
+## 19|Nhà ở & Ngân hàng|Vivienda y Banco
+371|¿Alquilas o tienes piso propio?||Bạn thuê hay sở hữu nhà?
+372|¿Cuánto es el alquiler?||Tiền thuê nhà là bao nhiêu?
+373|¿Está amueblado?||Có nội thất không?
+374|Busco un/a compañero/a de piso.||Tôi đang tìm người ở chung.
+375|La calefacción no funciona.||Máy sưởi bị hỏng.
+376|¿En qué planta está?||Ở tầng mấy?
+377|¿Tiene plaza de garaje?||Có chỗ đỗ xe không?
+378|Hay una gotera en la tubería.||Ống nước đang rò rỉ.
+379|¿Cuántos dormitorios tiene?||Có mấy phòng ngủ?
+380|El barrio es muy tranquilo.||Khu phố này rất yên tĩnh.
+381|Quisiera abrir una cuenta.||Tôi muốn mở tài khoản.
+382|Quisiera hacer una transferencia.||Tôi muốn chuyển tiền.
+383|¿Cuál es mi saldo?||Số dư của tôi là bao nhiêu?
+384|Quisiera sacar dinero.||Tôi muốn rút tiền.
+385|¿Dónde está el cajero más cercano?||ATM gần nhất ở đâu?
+386|Me han rechazado la tarjeta.||Thẻ bị từ chối.
+387|¿A cuánto está el cambio?||Tỷ giá là bao nhiêu?
+388|¿Se puede pagar a plazos?||Có thể trả góp không?
+389|¿Cuál es el tipo de interés?||Lãi suất là bao nhiêu?
+390|¿Hay comisión?||Có phí giao dịch không?
+## 20|Diễn đạt hàng ngày|Expresiones Cotidianas
+391|¿En serio?||Thật sao?
+392|¡No puede ser!||Không thể nào!
+393|¿Me estás tomando el pelo?||Bạn đang đùa tôi à?
+394|¡Qué genial!||Tuyệt vời!
+395|Qué horror.||Thật kinh khủng.
+396|¡Bien hecho!||Làm tốt lắm!
+397|¡Buena suerte!||Chúc may mắn!
+398|¡Cuídate!||Bảo trọng!
+399|¡Que pases un buen día!||Chúc một ngày tốt lành!
+400|¡Igualmente!||Bạn cũng vậy nhé!
+401|¡Qué lástima!||Thật đáng tiếc!
+402|¡No me lo puedo creer!||Tôi không thể tin được!
+403|Tienes razón.||Bạn đúng rồi.
+404|No pasa nada.||Không sao.
+405|Como quieras.||Tùy bạn.
+406|No tengo ni idea.||Tôi không có ý kiến gì.
+407|¡Entendido!||Hiểu rồi!
+408|¡Vámonos!||Đi thôi!
+409|Por supuesto.||Tất nhiên.
+410|Sin problema.||Không vấn đề.
+## 21|Câu mô tả & Nâng cao|Descripciones y Expresiones Avanzadas
+411|¿Me puede explicar eso?||Bạn có thể giải thích điều đó không?
+412|Quisiera aclarar algo.||Tôi muốn làm rõ điều gì đó.
+413|Dicho de otro modo...||Nói cách khác...
+414|En resumen...||Tóm lại...
+415|Por otro lado...||Mặt khác...
+416|Sin embargo...||Tuy nhiên...
+417|Como resultado...||Do đó...
+418|Hablando en general...||Nói chung...
+419|En primer lugar...||Trước tiên...
+420|Además de eso...||Ngoài ra...
+421|Al contrario...||Trái lại...
+422|Es innecesario decir que...||Không cần phải nói thì cũng biết rằng...
+423|Cabe señalar que...||Đáng chú ý là...
+424|Que yo sepa...||Theo như tôi biết...
+425|Ya que hablamos de eso...||Nhân tiện nói đến điều đó...
+426|Considerando todo...||Xét tất cả...
+427|La mayoría de las veces...||Thường thì...
+428|Sin lugar a dudas...||Không còn nghi ngờ gì...
+429|Brevemente...||Tóm gọn...
+430|En pocas palabras...||Nói ngắn gọn...
+## 22|Văn hóa Tây Ban Nha & Hispanoamérica|Cultura
+431|Me encanta la cultura española.||Tôi thích văn hóa Tây Ban Nha.
+432|El flamenco es muy apasionante.||Flamenco rất đam mê.
+433|La paella es deliciosa.||Paella rất ngon.
+434|Me gustan las tapas.||Tôi thích tapas.
+435|La siesta es una tradición española.||Siesta là truyền thống Tây Ban Nha.
+436|La familia es muy importante en la cultura hispana.||Gia đình rất quan trọng trong văn hóa Tây Ban Nha.
+437|Me gusta la música latina.||Tôi thích nhạc Latin.
+438|Aprendo español para viajar.||Tôi học tiếng Tây Ban Nha để du lịch.
+439|Quiero visitar España algún día.||Tôi muốn thăm Tây Ban Nha.
+440|La comida mexicana es muy rica.||Đồ ăn Mexico rất ngon.
+441|El fútbol es la pasión de muchos países hispanos.||Bóng đá là niềm đam mê của nhiều nước nói tiếng Tây Ban Nha.
+442|La Sagrada Familia es impresionante.||Sagrada Familia thật ấn tượng.
+443|Barcelona es una ciudad maravillosa.||Barcelona là một thành phố tuyệt vời.
+444|El carnaval de Río es famoso en todo el mundo.||Lễ hội hóa trang Rio nổi tiếng toàn thế giới.
+445|El tango es un baile muy especial.||Tango là điệu nhảy rất đặc biệt.
+446|La salsa me encanta.||Tôi mê điệu salsa.
+447|El español es el segundo idioma más hablado del mundo.||Tiếng Tây Ban Nha là ngôn ngữ được nói nhiều thứ hai thế giới.
+448|Más de 500 millones de personas hablan español.||Hơn 500 triệu người nói tiếng Tây Ban Nha.
+449|Hay 21 países hispanohablantes.||Có 21 quốc gia nói tiếng Tây Ban Nha.
+450|Aprendo español con música y películas.||Tôi học tiếng Tây Ban Nha qua nhạc và phim.
+## 23|Học tiếng Tây Ban Nha|Aprender Español
+451|Estoy aprendiendo español.||Tôi đang học tiếng Tây Ban Nha.
+452|El español es difícil pero interesante.||Tiếng Tây Ban Nha khó nhưng thú vị.
+453|Necesito practicar más.||Tôi cần luyện tập nhiều hơn.
+454|He aprendido el alfabeto español.||Tôi đã học bảng chữ cái tiếng Tây Ban Nha.
+455|Me estoy preparando para el examen DELE.||Tôi đang chuẩn bị thi DELE.
+456|Aprendo con series en español.||Tôi học bằng cách xem phim tiếng Tây Ban Nha.
+457|Empecé a estudiar español porque me gustó la música latina.||Tôi bắt đầu học tiếng Tây Ban Nha vì thích nhạc Latin.
+458|Quiero hacer amigos hispanohablantes.||Tôi muốn kết bạn với người nói tiếng Tây Ban Nha.
+459|Busco un/a compañero/a de intercambio lingüístico.||Tôi đang tìm đối tác trao đổi ngôn ngữ.
+460|Aprendo una palabra nueva cada día.||Tôi học một từ mới mỗi ngày.
+461|No tengo miedo a cometer errores.||Tôi không sợ mắc lỗi.
+462|Hablo con confianza.||Tôi nói với sự tự tin.
+463|Poco a poco se aprende.||Dần dần là học được.
+464|Mejoré mucho desde ayer.||Tôi đã cải thiện nhiều so với hôm qua.
+465|El español es difícil pero no me rindo.||Tiếng Tây Ban Nha khó nhưng tôi không bỏ cuộc.
+466|Lo importante es comunicarse.||Điều quan trọng là giao tiếp được.
+467|Voy mejorando poco a poco.||Đang dần dần tiến bộ.
+468|Quiero hablar con nativos.||Tôi muốn nói chuyện với người bản ngữ.
+469|Asisto a clases de español.||Tôi đang theo lớp học tiếng Tây Ban Nha.
+470|Escribo mi diario en español.||Tôi viết nhật ký bằng tiếng Tây Ban Nha.
+## 24|Cảm xúc sâu sắc & Triết lý|Filosofía de Vida
+471|Confía en ti mismo/a.||Hãy tin vào bản thân.
+472|Tú puedes.||Bạn nhất định làm được.
+473|No te rindas, ya casi llegas.||Đừng bỏ cuộc, chỉ còn một chút nữa.
+474|No tengas miedo a fracasar.||Đừng sợ thất bại.
+475|Cada día es un nuevo comienzo.||Mỗi ngày là một khởi đầu mới.
+476|Tal y como eres ya eres suficiente.||Bạn như bạn vốn là là đủ rồi.
+477|No estás solo/a.||Bạn không cô đơn.
+478|Me gustas tal como eres.||Tôi thích bạn như bạn vốn là.
+479|Descubre tus puntos fuertes.||Hãy tìm ra điểm mạnh của bản thân.
+480|Cada persona es un ser único.||Mỗi người là một cá thể độc nhất.
+481|No olvides sonreír.||Đừng quên nụ cười.
+482|Valora la vida.||Hãy trân trọng cuộc sống.
+483|Creemos un mundo más amable.||Hãy tạo ra một thế giới tử tế hơn.
+484|Un pequeño acto puede cambiar el mundo.||Một hành động nhỏ có thể thay đổi thế giới.
+485|Todos juntos.||Tất cả cùng nhau.
+486|Que mañana también sea un buen día.||Mong ngày mai cũng là ngày tốt lành.
+487|El sueño continúa.||Giấc mơ tiếp tục.
+488|La lengua es el espejo del alma.||Ngôn ngữ là gương phản chiếu tâm hồn.
+489|Con el español cumpliré mis sueños.||Tôi sẽ thực hiện ước mơ bằng tiếng Tây Ban Nha.
+490|Nunca pararé de aprender.||Tôi sẽ không bao giờ ngừng học.
+## 25|Câu tổng hợp|Expresiones Complementarias
+491|Para concluir...||Kết luận lại...
+492|En pocas palabras...||Tóm lại...
+493|Lo que aprendí de esta experiencia es...||Điều tôi học được từ kinh nghiệm này...
+494|Mirando atrás...||Nhìn lại thì...
+495|Lo más importante es...||Điều quan trọng nhất là...
+496|Teniendo todo en cuenta...||Xét tất cả...
+497|Para terminar...||Để kết lại...
+498|Gracias por acompañarme en este viaje.||Cảm ơn đã cùng nhau trong hành trình này.
+499|El español hace la vida más bella.||Tiếng Tây Ban Nha làm cho cuộc đời đẹp hơn.
+500|Siempre seguiré aprendiendo español.||Tôi sẽ mãi mãi tiếp tục học tiếng Tây Ban Nha.
+## 26|Tình yêu & Cảm xúc|Amor y Sentimientos
+501|Te quiero.||Tôi yêu bạn.
+502|Eres muy importante para mí.||Bạn rất quan trọng với tôi.
+503|Te echo de menos.||Tôi nhớ bạn.
+504|Soy feliz cuando estoy contigo.||Tôi hạnh phúc khi ở cạnh bạn.
+505|¿Quieres salir conmigo?||Bạn có muốn hẹn hò với tôi không?
+506|Pienso en ti todo el tiempo.||Tôi luôn nghĩ đến bạn.
+507|Eres muy especial para mí.||Bạn rất đặc biệt với tôi.
+508|Me estoy enamorando de ti.||Tôi đang yêu bạn.
+509|Hacemos una buena pareja.||Chúng ta hợp với nhau.
+510|Quiero estar contigo para siempre.||Tôi muốn ở bên bạn mãi mãi.
+## 27|Tục ngữ & Thành ngữ|Refranes y Modismos
+511|No hay mal que por bien no venga.||Trong cái rủi có cái may.
+512|A quien madruga, Dios le ayuda.||Dậy sớm thì trời giúp.
+513|Más vale tarde que nunca.||Muộn còn hơn không.
+514|Poco a poco se llega lejos.||Từng bước nhỏ đi được xa.
+515|El que no arriesga, no gana.||Không dám liều thì không thắng.
+516|Camarón que se duerme, se lo lleva la corriente.||Ai ngủ quên sẽ bị dòng đời cuốn trôi.
+517|No hay mal que cien años dure.||Không có điều xấu nào kéo dài trăm năm.
+518|Quien bien te quiere, te hará llorar.||Ai thương bạn thật sự có thể làm bạn khóc.
+519|Dime con quién andas y te diré quién eres.||Nói cho tôi biết bạn đi với ai, tôi sẽ biết bạn là ai.
+520|El amor todo lo puede.||Tình yêu có thể làm được tất cả.
+## 28|Kết thúc cuộc trò chuyện|Despedidas
+521|Ha sido un placer hablar contigo.||Thật vui khi được nói chuyện với bạn.
+522|Tengo que irme.||Tôi phải đi rồi.
+523|Mantengámonos en contacto.||Hãy giữ liên lạc nhé.
+524|Hablamos pronto.||Sớm nói chuyện lại nhé.
+525|Cuídate.||Hãy bảo trọng.
+526|Saluda a tu familia de mi parte.||Chào hỏi gia đình bạn.
+527|Fue un placer.||Thật vui được gặp bạn.
+528|¡Adiós!||Tạm biệt!
+529|¡Hasta luego!||Hẹn gặp lại!
+530|¡Hasta la próxima!||Đến lần sau nhé!
+## 29|Câu thực hành nâng cao|Práctica Avanzada
+531|¿Me puede aclarar eso?||Bạn có thể làm rõ điều đó không?
+532|¿Puede ponerme un ejemplo?||Bạn có thể đưa ra ví dụ không?
+533|¿Cuál es el punto principal?||Trọng điểm là gì?
+534|¿Cómo terminó todo?||Cuối cùng chuyện gì xảy ra?
+535|¿Cómo piensa manejar esta situación?||Bạn sẽ xử lý tình huống này thế nào?
+536|¿Tiene alguna prueba?||Bạn có bằng chứng không?
+537|¿Cómo puede verificarse eso?||Làm sao xác nhận được?
+538|Resuma los puntos clave, por favor.||Tóm tắt các điểm chính.
+539|¿Está a favor o en contra?||Bạn tán thành hay phản đối?
+540|¿Cómo funciona esto?||Điều này hoạt động như thế nào?
+## 30|Chủ đề xã hội & Môi trường|Sociedad y Medio Ambiente
+541|Todos merecemos derechos iguales.||Mọi người đều xứng đáng có quyền bình đẳng.
+542|La educación es fundamental.||Giáo dục rất quan trọng.
+543|Hay que proteger el medio ambiente.||Cần bảo vệ môi trường.
+544|El cambio climático es un problema real.||Biến đổi khí hậu là vấn đề thực sự.
+545|Necesitamos apoyarnos mutuamente.||Chúng ta cần hỗ trợ lẫn nhau.
+546|La discriminación es algo inaceptable.||Phân biệt đối xử là điều không thể chấp nhận.
+547|La paz no tiene precio.||Hòa bình là vô giá.
+548|Vivimos en un mundo diverso.||Chúng ta sống trong một thế giới đa dạng.
+549|Reduzcamos el uso del plástico.||Hãy giảm sử dụng nhựa.
+550|Reciclemos siempre que podamos.||Hãy tái chế khi có thể.
+## 31|Thiên nhiên & Môi trường|Naturaleza
+551|El bosque en otoño es hermoso.||Rừng rất đẹp vào mùa thu.
+552|El océano está lleno de vida.||Đại dương chứa đầy sự sống.
+553|Amo la naturaleza.||Tôi yêu thiên nhiên.
+554|Las montañas son impresionantes.||Những ngọn núi thật ngoạn mục.
+555|Los pájaros están cantando.||Những con chim đang hót.
+556|Aquí hay mucha fauna silvestre.||Có rất nhiều động vật hoang dã ở đây.
+557|Vamos de excursión.||Hãy đi bộ leo núi.
+558|El cielo está despejado.||Bầu trời trong xanh.
+559|¡Hay un arcoíris!||Có cầu vồng!
+560|Ahorremos agua.||Hãy tiết kiệm nước.
+## 32|Thể thao|Deportes
+561|Juguemos al fútbol.||Chơi bóng đá nào.
+562|Voy al gimnasio todos los días.||Tôi đi gym mỗi ngày.
+563|¿Quién ganó el partido?||Ai thắng trận đấu?
+564|El marcador es dos a uno.||Tỷ số là hai một.
+565|Me estoy entrenando para una maratón.||Tôi đang luyện tập cho marathon.
+566|Ella batió el récord mundial.||Cô ấy phá kỷ lục thế giới.
+567|Prefiero nadar a correr.||Tôi thích bơi hơn chạy bộ.
+568|El equipo jugó muy bien.||Đội chơi rất tốt.
+569|Primero hay que calentar.||Tôi cần khởi động trước.
+570|¡No te rindas!||Đừng bỏ cuộc!
+## 33|Ẩm thực|Gastronomía
+571|Tengo mucha hambre.||Tôi đói lắm.
+572|Esto está buenísimo.||Cái này rất ngon.
+573|¿Puedo repetir?||Tôi có thể lấy thêm không?
+574|No como carne.||Tôi không ăn thịt.
+575|¿Qué lleva este plato?||Món này có những gì?
+576|Me gusta la comida picante.||Tôi thích đồ ăn cay.
+577|Está demasiado salado.||Mặn quá.
+578|¿Me puede pasar el azúcar?||Cho tôi đường.
+579|Un café, por favor.||Cho tôi một tách cà phê.
+580|El pan está recién hecho.||Bánh mì vừa mới ra lò.
+581|Estoy a dieta.||Tôi đang ăn kiêng.
+582|Cocinemos juntos esta noche.||Cùng nhau nấu tối nay nhé.
+583|¿Me pasa la sal?||Chuyền muối.
+584|Esta sopa está muy caliente.||Món súp này nóng quá.
+585|Tengo que ir a hacer la compra.||Tôi cần đi mua thực phẩm.
+586|¿Qué hay para desayunar?||Bữa sáng có gì?
+587|Prefiero el té al café.||Tôi thích trà hơn cà phê.
+588|Esta fruta está muy dulce.||Trái cây này rất ngọt.
+589|¿Quieres postre?||Bạn có muốn tráng miệng không?
+590|Yo tomaré lo mismo que tú.||Tôi sẽ gọi giống bạn.
+## 34|Công nghệ & Mạng xã hội|Tecnología y Redes Sociales
+591|La tecnología avanza muy rápido.||Công nghệ đang phát triển rất nhanh.
+592|La inteligencia artificial lo está cambiando todo.||Trí tuệ nhân tạo đang thay đổi tất cả.
+593|Dependemos mucho de los smartphones.||Chúng ta phụ thuộc nhiều vào điện thoại.
+594|El experimento fue un éxito.||Thí nghiệm thành công.
+595|La ciencia nos ayuda a entender el mundo.||Khoa học giúp ta hiểu thế giới.
+596|La privacidad de datos es muy importante.||Quyền riêng tư dữ liệu rất quan trọng.
+597|Los coches eléctricos son cada vez más populares.||Xe điện đang ngày càng phổ biến.
+598|La exploración espacial me emociona.||Khám phá vũ trụ làm tôi hứng thú.
+599|Internet ha cambiado nuestras vidas.||Internet đã thay đổi cuộc sống của chúng ta.
+600|El nuevo software tiene muchas funciones.||Phần mềm mới có nhiều tính năng.
+## 35|Động lực & Cảm hứng|Motivación e Inspiración
+601|El esfuerzo siempre tiene recompensa.||Cố gắng luôn được đền đáp.
+602|Hoy soy más fuerte que ayer.||Hôm nay tôi mạnh hơn hôm qua.
+603|El fracaso es la madre del éxito.||Thất bại là mẹ thành công.
+604|Confía en ti mismo/a.||Hãy tin vào bản thân.
+605|Estás haciéndolo muy bien.||Bạn đang làm rất tốt.
+606|Cada pequeño avance cuenta.||Tiến bộ nhỏ cũng quan trọng.
+607|El camino es largo pero merece la pena.||Hành trình dài nhưng xứng đáng.
+608|Cada día es una nueva oportunidad.||Mỗi ngày là cơ hội mới.
+609|Felicítate por tus logros.||Hãy khen ngợi bản thân vì những thành tích.
+610|¡Hoy también, ánimo!||Hôm nay cũng cố lên!
+611|Nunca te rindas.||Tuyệt đối đừng bỏ cuộc.
+612|Los sueños se pueden hacer realidad.||Ước mơ có thể thành hiện thực.
+613|El español abre el mundo.||Tiếng Tây Ban Nha mở ra thế giới.
+614|La lengua es el puente entre las almas.||Ngôn ngữ là cây cầu nối tâm hồn.
+615|Estudiar es un placer.||Học tập là niềm vui.
+616|No olvides disfrutar del aprendizaje.||Đừng quên tận hưởng việc học.
+617|Siéntete orgulloso/a de tu esfuerzo.||Hãy tự hào vì nỗ lực của bạn.
+618|Aprender español fue la mejor decisión.||Học tiếng Tây Ban Nha là quyết định tốt nhất.
+619|Seguiré estudiando para siempre.||Tôi sẽ tiếp tục học mãi mãi.
+620|El mundo del español es inmenso.||Thế giới tiếng Tây Ban Nha thật rộng lớn.
+## 36|Câu so sánh|Comparaciones
+621|Esto es mejor que aquello.||Cái này tốt hơn cái đó.
+622|Ella es más alta que su hermana.||Cô ấy cao hơn chị gái.
+623|Es lo mejor que he probado.||Đây là ngon nhất tôi từng thử.
+624|Él corre más rápido que nadie.||Anh ấy chạy nhanh hơn ai.
+625|Hoy hace más calor que ayer.||Hôm nay nóng hơn hôm qua.
+626|Este método es mucho más eficiente.||Phương pháp này hiệu quả hơn nhiều.
+627|No es tan difícil como pensaba.||Không khó như tôi nghĩ.
+628|Cuantos más, mejor.||Càng đông càng vui.
+629|Esto cuesta el doble.||Cái này đắt gấp đôi.
+630|Ella es, con diferencia, la más talentosa.||Cô ấy tài năng nhất.
+## 37|Câu điều kiện|Condicionales
+631|Si yo fuera tú, haría...||Nếu tôi là bạn, tôi sẽ...
+632|¿Qué harías si...?||Bạn sẽ làm gì nếu...?
+633|A no ser que llueva, saldremos.||Trừ khi trời mưa, chúng tôi sẽ ra ngoài.
+634|Ojalá pudiera viajar más.||Tôi ước tôi có thể đi du lịch nhiều hơn.
+635|Si lo hubiera sabido antes...||Giá mà tôi biết sớm hơn...
+636|Siempre que estés de acuerdo...||Miễn là bạn đồng ý...
+637|Mientras lo intentes...||Miễn là bạn cố gắng...
+638|¿Y si probamos otro enfoque?||Nếu chúng ta thử một cách tiếp cận khác thì sao?
+639|Aunque sea difícil, no te rindas.||Dù khó, đừng bỏ cuộc.
+640|Suponiendo que todo vaya bien...||Giả sử mọi thứ diễn ra tốt đẹp...
+## 38|Câu hỏi đuôi|Preguntas Confirmatorias
+641|Hace buen tiempo, ¿verdad?||Thời tiết đẹp phải không?
+642|Vendrás esta noche, ¿no?||Tối nay bạn đến phải không?
+643|Ella no dijo eso, ¿verdad?||Cô ấy không nói điều đó phải không?
+644|Él sabe conducir, ¿no?||Anh ấy biết lái xe phải không?
+645|Aún no se han ido, ¿verdad?||Họ chưa đi phải không?
+646|No se lo dirás a nadie, ¿verdad?||Bạn sẽ không nói với ai phải không?
+647|Ya nos conocíamos, ¿no?||Chúng ta đã biết nhau rồi phải không?
+648|Ella no está enfadada, ¿verdad?||Cô ấy không tức giận phải không?
+649|No tardará mucho, ¿verdad?||Sẽ không mất nhiều thời gian phải không?
+650|Podrías ayudarme, ¿no?||Bạn có thể giúp tôi phải không?
+## 39|Diễn đạt khi thuyết trình|Presentaciones
+651|Me gustaría empezar diciendo...||Tôi muốn bắt đầu bằng cách nói...
+652|El propósito de esta presentación es...||Mục đích của bài thuyết trình này là...
+653|Quisiera llamar su atención hacia...||Tôi muốn thu hút sự chú ý của bạn đến...
+654|Como puede ver en el gráfico...||Như bạn có thể thấy trong biểu đồ...
+655|Para concluir, me gustaría decir...||Để kết luận, tôi muốn nói...
+656|¿Tienen alguna pregunta?||Bạn có câu hỏi nào không?
+657|No duden en interrumpirme.||Hãy thoải mái ngắt lời tôi.
+658|Pasando al siguiente punto...||Chuyển sang điểm tiếp theo...
+659|En resumen, los hallazgos clave son...||Tóm lại, những phát hiện chính là...
+660|Gracias por su atención.||Cảm ơn sự chú ý của bạn.
+## 40|Câu về ước muốn & Giấc mơ|Deseos y Sueños
+661|Ojalá pudiera hablar cinco idiomas.||Tôi ước tôi có thể nói năm ngôn ngữ.
+662|Mi sueño es viajar por el mundo.||Ước mơ của tôi là đi vòng quanh thế giới.
+663|Espero tener casa propia algún día.||Tôi hy vọng sẽ có nhà riêng một ngày nào đó.
+664|Siempre he querido aprender a pintar.||Tôi luôn muốn học vẽ.
+665|Ella sueña con ser científica.||Cô ấy mơ ước trở thành nhà khoa học.
+666|¿No sería increíble si...?||Sẽ thật tuyệt vời nếu...?
+667|Espero que algún día vivamos en paz.||Tôi hy vọng một ngày nào đó chúng ta sống trong hòa bình.
+668|Mi mayor sueño es marcar la diferencia.||Ước mơ lớn nhất là tạo ra sự khác biệt.
+669|Si pudiera volver atrás en el tiempo...||Nếu có thể quay lại quá khứ...
+670|Mientras trabajemos juntos, lo conseguiremos.||Miễn là chúng ta cùng nhau cố gắng, chúng ta sẽ thành công.
+## 41|Thói quen & Cuộc sống hàng ngày|Hábitos Diarios
+671|Me levanto a las seis cada mañana.||Tôi thức dậy lúc sáu giờ mỗi sáng.
+672|Siempre tomo café primero.||Tôi luôn uống cà phê đầu tiên.
+673|Ella da un paseo después de cenar.||Cô ấy đi dạo sau bữa tối.
+674|Él lee antes de dormir.||Anh ấy đọc sách trước khi đi ngủ.
+675|Hacen ejercicio tres veces por semana.||Họ tập thể dục ba lần một tuần.
+676|Normalmente como al mediodía.||Tôi thường ăn trưa vào buổi trưa.
+677|Ella revisa el correo cada mañana.||Cô ấy kiểm tra email mỗi sáng.
+678|Nunca me salto el desayuno.||Tôi không bao giờ bỏ bữa sáng.
+679|Él medita diez minutos al día.||Anh ấy thiền mười phút mỗi ngày.
+680|Los domingos cenamos en familia.||Chúng tôi ăn tối cả gia đình mỗi Chủ Nhật.
+## 42|Chủ đề triết học|Reflexiones
+681|La vida es corta, disfrútala.||Cuộc sống ngắn ngủi, hãy tận hưởng.
+682|Todo pasa por alguna razón.||Mọi thứ đều có lý do.
+683|Nunca dejes de aprender.||Đừng bao giờ ngừng học hỏi.
+684|Sé amable con los demás.||Hãy tử tế với người khác.
+685|Los actos valen más que las palabras.||Hành động hùng hồn hơn lời nói.
+686|No hay mal que por bien no venga.||Sau cơn mưa trời lại sáng.
+687|Lo importante es el camino, no solo el destino.||Hành trình mới quan trọng.
+688|El fracaso es un peldaño hacia el éxito.||Thất bại là bước đệm đến thành công.
+689|Trata a los demás como quieres que te traten.||Đối xử với người như bạn muốn được đối xử.
+690|La felicidad es una elección.||Hạnh phúc là một lựa chọn.
+## 43|Câu hỏi & Trả lời nâng cao|Preguntas y Respuestas
+691|¿Qué quieres decir con eso?||Bạn có ý gì với điều đó?
+692|¿Puedes explicarlo mejor?||Bạn có thể giải thích rõ hơn không?
+693|¿Cómo funciona eso?||Điều đó hoạt động thế nào?
+694|¿Por qué lo crees?||Tại sao bạn nghĩ vậy?
+695|¿Cuándo ocurrió?||Khi nào điều đó xảy ra?
+696|¿Quién te lo dijo?||Ai nói với bạn điều đó?
+697|¿Dónde lo escuchaste?||Bạn nghe điều đó ở đâu?
+698|¿De qué estás hablando?||Bạn đang nói về điều gì?
+699|¿Ya has decidido?||Bạn đã quyết định chưa?
+700|¿Has terminado?||Bạn đã hoàn thành chưa?
+## 44|Mô tả con người|Describir Personas
+701|Tiene el pelo largo y castaño.||Cô ấy có mái tóc dài màu nâu.
+702|Es alto y deportivo.||Anh ấy cao và thể thao.
+703|Se parece a su madre.||Cô ấy trông giống mẹ.
+704|Tiene mucho sentido del humor.||Anh ấy rất hài hước.
+705|Es muy bondadosa.||Cô ấy rất tốt bụng.
+706|Es una persona muy trabajadora.||Anh ấy là người chăm chỉ.
+707|Es extrovertida y simpática.||Cô ấy hướng ngoại và thân thiện.
+708|Puede ser muy testarudo.||Anh ấy có thể rất cứng đầu.
+709|Es la persona más creativa que conozco.||Cô ấy là người sáng tạo nhất tôi biết.
+710|Siempre está ahí cuando lo necesito.||Anh ấy luôn ở đó khi tôi cần.
+## 45|Chúc mừng & Dịp đặc biệt|Celebraciones
+711|¡Feliz cumpleaños!||Chúc mừng sinh nhật!
+712|¡Enhorabuena!||Chúc mừng!
+713|¡Feliz Navidad!||Giáng sinh vui vẻ!
+714|¡Feliz Año Nuevo!||Chúc mừng năm mới!
+715|¡Feliz aniversario!||Chúc mừng kỷ niệm!
+716|¡Mis mejores deseos!||Lời chúc tốt đẹp nhất!
+717|¡Que tengan una boda maravillosa!||Chúc tiệc cưới thật tuyệt vời!
+718|Le deseo todo lo mejor.||Chúc bạn mọi điều tốt đẹp nhất.
+719|¡Por tu éxito!||Chúc mừng sự thành công của bạn!
+720|¡Te lo mereces!||Bạn xứng đáng với điều đó!
+## 46|Câu liên từ & Ghép phức|Conectores y Frases Complejas
+721|Quiero ir, pero estoy muy cansado/a.||Tôi muốn đi nhưng tôi quá mệt.
+722|Ella habla inglés y francés.||Cô ấy nói được cả tiếng Anh lẫn tiếng Pháp.
+723|O me ayudas o busco a otro.||Bạn giúp tôi hoặc tôi sẽ tìm người khác.
+724|Ninguna de las opciones parece buena.||Không có lựa chọn nào có vẻ tốt.
+725|Iré siempre que tú también vengas.||Tôi sẽ đi miễn là bạn cũng đến.
+726|Trabajó duro para poder triunfar.||Cô ấy làm việc chăm chỉ để thành công.
+727|Continuaremos a menos que llueva.||Chúng tôi sẽ tiếp tục trừ khi trời mưa.
+728|La película era larga pero entretenida.||Bộ phim dài nhưng giải trí.
+729|Llegó tarde por el tráfico.||Anh ấy đến muộn vì tắc đường.
+730|Te ayudaré siempre que lo necesites.||Tôi sẽ giúp bạn bất cứ khi nào bạn cần.
+## 47|Tình huống hàng ngày bổ sung|Más Situaciones Cotidianas
+731|¿Cómo te llamas exactamente?||Tên chính xác của bạn là gì?
+732|Lo he entendido.||Tôi đã hiểu rồi.
+733|No estoy seguro/a.||Tôi không chắc.
+734|Parece correcto.||Có vẻ đúng.
+735|No lo tengo claro.||Tôi chưa rõ.
+736|Déjame pensarlo más.||Cho tôi nghĩ thêm.
+737|Dicho de otra manera...||Nói cách khác thì...
+738|¿Eso es lo que piensas?||Đó là điều bạn nghĩ à?
+739|¿Cometí un error?||Tôi đã sai à?
+740|Confírmelo de nuevo, por favor.||Xác nhận lại một lần nữa.
+## 48|Câu về ngôn ngữ học|Sobre el Idioma
+741|¿Cómo se dice esto en español?||Tiếng Tây Ban Nha nói điều này như thế nào?
+742|¿Puede corregirme?||Bạn có thể sửa lỗi cho tôi không?
+743|¿Cómo se pronuncia esta palabra?||Từ này phát âm thế nào?
+744|No conozco esta expresión.||Tôi không biết cụm từ này.
+745|Los idiomas son la llave de la cultura.||Ngôn ngữ là chìa khóa của văn hóa.
+746|Entiendo un poco.||Tôi hiểu một chút.
+747|La inmersión es la mejor forma de aprender.||Đắm mình vào môi trường là cách học tốt nhất.
+748|¿Puede hablar más despacio, por favor?||Bạn có thể nói chậm hơn không?
+749|El español tiene muchos dialectos.||Tiếng Tây Ban Nha có nhiều phương ngữ.
+750|¿Cuántos idiomas hablas?||Bạn nói được mấy ngôn ngữ?
+## 49|Câu hội thoại thực tế|Conversaciones Reales
+751|¿Cuánto tiempo llevas en España?||Bạn đã ở Tây Ban Nha bao lâu?
+752|¿Dónde vives?||Bạn sống ở đâu?
+753|Vivo en Madrid.||Tôi sống ở Madrid.
+754|¿Qué haces para ganarte la vida?||Bạn làm nghề gì?
+755|Soy estudiante.||Tôi là sinh viên.
+756|Trabajo en una empresa.||Tôi làm trong một công ty.
+757|Soy autónomo/a.||Tôi là người tự làm chủ.
+758|Soy profesor/a.||Tôi là giáo viên.
+759|Soy médico/a.||Tôi là bác sĩ.
+760|Me dedico a las tecnologías.||Tôi làm trong lĩnh vực công nghệ.
+761|¿Qué edad tienes?||Bạn bao nhiêu tuổi?
+762|Tengo veintitrés años.||Tôi hai mươi ba tuổi.
+763|¿Cuánto tiempo llevas aprendiendo español?||Bạn học tiếng Tây Ban Nha bao lâu rồi?
+764|Llevo un año estudiando.||Tôi học được một năm.
+765|¿Por qué aprendes español?||Tại sao bạn học tiếng Tây Ban Nha?
+766|Me gusta la cultura hispana.||Tôi thích văn hóa Tây Ban Nha.
+767|¿Has estado en algún país hispanohablante?||Bạn đã đến quốc gia nói tiếng Tây Ban Nha chưa?
+768|Todavía no, pero quisiera ir.||Chưa, nhưng tôi muốn đến.
+769|¿Qué parte del español te resulta más difícil?||Phần nào của tiếng Tây Ban Nha khó nhất với bạn?
+770|Los subjuntivos son complicados.||Thì subjuntivo thật phức tạp.
+## 50|Câu cuối & Tổng kết|Frases Finales
+771|El español ha ampliado mi mundo.||Tiếng Tây Ban Nha đã mở rộng thế giới của tôi.
+772|Aprender un idioma es invertir en uno mismo.||Học ngôn ngữ là đầu tư cho bản thân.
+773|Mejorando un poco cada día es suficiente.||Mỗi ngày tiến bộ một chút là đủ.
+774|Equivocarse es parte del aprendizaje.||Mắc lỗi là một phần của việc học.
+775|El español ha cambiado mi vida.||Tiếng Tây Ban Nha đã thay đổi cuộc đời tôi.
+776|Aprender español me ha permitido conocer gente nueva.||Học tiếng Tây Ban Nha giúp tôi gặp những người mới.
+777|Lo más importante es no rendirse.||Điều quan trọng nhất là không bỏ cuộc.
+778|Todo esfuerzo tiene su recompensa.||Mọi nỗ lực đều có phần thưởng.
+779|Los sueños sí se cumplen.||Ước mơ nhất định sẽ thành hiện thực.
+780|Juntos somos más fuertes.||Cùng nhau chúng ta mạnh hơn.
+781|Gracias a quien me apoya en este camino.||Cảm ơn những người ủng hộ tôi trong hành trình này.
+782|El español es mi tesoro.||Tiếng Tây Ban Nha là kho báu của tôi.
+783|Qué suerte haber encontrado este idioma.||Thật may mắn khi tìm thấy ngôn ngữ này.
+784|Que el español siempre nos acompañe.||Mong tiếng Tây Ban Nha mãi đồng hành cùng chúng ta.
+785|¡Gracias por todo, hasta pronto!||Cảm ơn vì tất cả, hẹn gặp sớm!
+786|¡Que disfrutes aprendiendo!||Chúc bạn học vui vẻ!
+787|¡Siempre te apoyo!||Tôi luôn ủng hộ bạn!
+788|¡Ánimo!||Cố lên!
+789|¡Te quiero, español!||Tôi yêu bạn, tiếng Tây Ban Nha!
+790|¡Gracias por leer hasta aquí!||Cảm ơn đã đọc đến đây!
+791|Sigamos adelante juntos.||Hãy cùng nhau tiến lên.
+792|Sin prisa pero sin pausa.||Không vội nhưng không dừng.
+793|El español tiene un encanto infinito.||Tiếng Tây Ban Nha có sức hấp dẫn vô hạn.
+794|Sumérgete en él y disfruta.||Hãy đắm mình vào đó và tận hưởng.
+795|El aprendizaje de idiomas no tiene fin.||Việc học ngôn ngữ không có điểm cuối.
+796|Por eso es tan emocionante.||Vì thế mà nó thật thú vị.
+797|Sigue avanzando con el español.||Tiếp tục tiến lên với tiếng Tây Ban Nha.
+798|Gracias por el esfuerzo.||Cảm ơn vì nỗ lực.
+799|¡Mañana también hay que dar el máximo!||Ngày mai cũng phải cố hết sức!
+800|¡Quedan 200 frases, persevera!||Còn 200 câu, hãy kiên trì!
+## 51|Câu bổ sung thực hành|Frases de Práctica
+801|El español es una lengua muy rica.||Tiếng Tây Ban Nha là ngôn ngữ rất phong phú.
+802|Cada frase que aprendes te acerca más al dominio.||Mỗi câu học được đưa bạn gần hơn đến thành thạo.
+803|La constancia es la clave del éxito.||Kiên trì là chìa khóa thành công.
+804|Con pasión, todo es posible.||Với đam mê, mọi thứ đều có thể.
+805|Un idioma puede cambiar tu destino.||Một ngôn ngữ có thể thay đổi vận mệnh bạn.
+806|El español es ese idioma para muchos.||Tiếng Tây Ban Nha chính là ngôn ngữ đó với nhiều người.
+807|Recuerda: hoy también lo estás haciendo bien.||Nhớ nhé: hôm nay bạn cũng đang làm tốt.
+808|Confía en el proceso.||Hãy tin vào quá trình.
+809|Lo estás haciendo mejor de lo que crees.||Bạn đang làm tốt hơn bạn nghĩ.
+810|Sigo contigo, ánimo.||Tôi vẫn ở đây với bạn, cố lên.
+811|Tu futuro es brillante.||Tương lai của bạn thật tươi sáng.
+812|Con el español llegarás más lejos.||Với tiếng Tây Ban Nha, bạn sẽ đi xa hơn.
+813|No te detengas.||Đừng dừng lại.
+814|Lo importante es no parar.||Điều quan trọng là không dừng.
+815|Cada paso te acerca al objetivo.||Mỗi bước đưa bạn đến gần mục tiêu.
+816|Junto al español, hacia un mundo más amplio.||Cùng tiếng Tây Ban Nha, hướng đến thế giới rộng lớn hơn.
+817|Gracias por acompañarme en este viaje.||Cảm ơn đã đồng hành trong hành trình này.
+818|Espero que nos encontremos de nuevo en el mundo del español.||Mong gặp lại trong thế giới tiếng Tây Ban Nha.
+819|¡Hasta la próxima, ánimo!||Hẹn gặp lại, cố lên!
+820|¡Solo quedan 180 frases, vamos!||Còn 180 câu thôi, đi thôi!
+821|La lengua une a los pueblos.||Ngôn ngữ kết nối các dân tộc.
+822|El español es alma de millones de personas.||Tiếng Tây Ban Nha là linh hồn của hàng triệu người.
+823|Tu español abre fronteras.||Tiếng Tây Ban Nha của bạn mở ra ranh giới.
+824|La lengua es puente de corazones.||Ngôn ngữ là cầu nối của những trái tim.
+825|Estamos conectados por el español.||Chúng ta được kết nối qua tiếng Tây Ban Nha.
+826|Hoy llegamos al final.||Hôm nay chúng ta đến đích.
+827|Gracias por tu perseverancia.||Cảm ơn sự kiên trì của bạn.
+828|¡Eres increíble!||Bạn thật tuyệt vời!
+829|Estas 1000 frases son solo el principio.||1000 câu này chỉ là bắt đầu.
+830|El futuro te depara mucho más.||Tương lai còn nhiều điều chờ bạn.
+831|Avanza con el español, sin miedo.||Tiến lên với tiếng Tây Ban Nha, không sợ hãi.
+832|Cada día que aprendes es una victoria.||Mỗi ngày học là một chiến thắng.
+833|Pasos pequeños pero firmes.||Những bước nhỏ nhưng vững chắc.
+834|El mundo se hace más grande gracias al español.||Thế giới trở nên rộng lớn hơn nhờ tiếng Tây Ban Nha.
+835|La lengua abre puertas infinitas.||Ngôn ngữ mở ra vô số cánh cửa.
+836|El español es una de las más bellas.||Tiếng Tây Ban Nha là một trong những ngôn ngữ đẹp nhất.
+837|¡Abramos esa puerta juntos!||Hãy cùng nhau mở cánh cửa đó!
+838|¡Ánimo, estudiante de español!||Cố lên, người học tiếng Tây Ban Nha!
+839|¡Tú puedes!||Bạn làm được!
+840|¡Mantén esa pasión!||Hãy giữ đam mê đó!
+841|El aprendizaje de lenguas no tiene límite.||Học ngôn ngữ không có giới hạn.
+842|Ahí está lo bello.||Đó chính là điều đẹp đẽ.
+843|El mundo del español te espera.||Thế giới tiếng Tây Ban Nha đang chờ bạn.
+844|Explóralo sin miedo.||Hãy khám phá nó không sợ hãi.
+845|Aprende un poco cada día y mejorarás.||Học một chút mỗi ngày và bạn sẽ tiến bộ.
+846|La lengua te da libertad.||Ngôn ngữ cho bạn sự tự do.
+847|Disfruta de esa libertad.||Hãy tận hưởng sự tự do đó.
+848|¡Solo quedan 152 frases!||Còn 152 câu thôi!
+849|¡Lo conseguirás!||Bạn sẽ làm được!
+850|¡Persevera hasta el final!||Kiên trì đến cuối!
+851|Con esfuerzo, siempre hay resultados.||Với nỗ lực, luôn có kết quả.
+852|El español te dará mucho más.||Tiếng Tây Ban Nha sẽ mang lại cho bạn nhiều hơn.
+853|Habla con valentía, sin miedo a equivocarte.||Nói dũng cảm, không sợ mắc lỗi.
+854|Los errores forman parte del camino.||Lỗi lầm là một phần của hành trình.
+855|Crece con cada error.||Phát triển từ mỗi lỗi lầm.
+856|El español te convierte en mejor comunicador.||Tiếng Tây Ban Nha giúp bạn giao tiếp tốt hơn.
+857|El mundo entero está a tu alcance.||Toàn thế giới trong tầm tay bạn.
+858|Vivimos en un mundo globalizado.||Chúng ta sống trong một thế giới toàn cầu hóa.
+859|El español es un idioma clave en ese mundo.||Tiếng Tây Ban Nha là ngôn ngữ quan trọng trong thế giới đó.
+860|Dominarlo te abre infinitas oportunidades.||Thành thạo nó mở ra vô số cơ hội.
+861|Gracias por llegar hasta aquí.||Cảm ơn đã đến đây.
+862|Tu perseverancia es admirable.||Sự kiên trì của bạn đáng ngưỡng mộ.
+863|Estas 1000 frases son tu base.||1000 câu này là nền tảng của bạn.
+864|Lleva esa base contigo.||Mang nền tảng đó theo.
+865|El mundo te espera.||Thế giới đang chờ bạn.
+866|Abrázalo con tu español.||Hãy ôm lấy thế giới bằng tiếng Tây Ban Nha.
+867|¡Ya quedan 133 frases!||Còn 133 câu thôi!
+868|¡Casi estás!||Gần đến rồi!
+869|¡Lo estás haciendo muy bien!||Bạn đang làm rất tốt!
+870|¡Mereces un aplauso!||Bạn xứng đáng được vỗ tay!
+871|Cada frase del español vale la pena.||Mỗi câu tiếng Tây Ban Nha đều xứng đáng.
+872|Valora cada momento de aprendizaje.||Trân trọng mỗi khoảnh khắc học hỏi.
+873|Aprende con el corazón y avanza con amor.||Học với tâm huyết, tiến với tình yêu.
+874|El español hace el mundo más hermoso.||Tiếng Tây Ban Nha làm cho thế giới đẹp hơn.
+875|La lengua es expresión de amor.||Ngôn ngữ là sự biểu đạt của tình yêu.
+876|Transmite amor con tu español.||Truyền đạt tình yêu bằng tiếng Tây Ban Nha.
+877|¡Solo quedan 123 frases!||Còn 123 câu thôi!
+878|¡Aprieta el paso!||Tăng tốc lên!
+879|¡Eres fantástico/a!||Bạn thật tuyệt vời!
+880|¡Este es un hito en tu camino del español!||Đây là một cột mốc trong hành trình tiếng Tây Ban Nha!
+881|Que el español siempre esté presente en tu vida.||Mong tiếng Tây Ban Nha luôn hiện diện trong cuộc sống bạn.
+882|Este camino no tiene fin, solo nuevos comienzos.||Con đường này không có điểm kết, chỉ có khởi đầu mới.
+883|¡Celebra cada logro, por pequeño que sea!||Hãy ăn mừng mỗi thành tích dù nhỏ!
+884|El español te enseña a ser más humilde y abierto.||Tiếng Tây Ban Nha dạy bạn khiêm tốn và cởi mở hơn.
+885|Que tu español brille.||Mong tiếng Tây Ban Nha của bạn tỏa sáng.
+886|¡Solo quedan 114!||Còn 114 thôi!
+887|¡Sigue así!||Tiếp tục như vậy!
+888|¡Lo que has logrado es increíble!||Những gì bạn đã đạt được thật đáng kinh ngạc!
+889|Esta es tu piedra angular del español.||Đây là nền tảng của bạn trong tiếng Tây Ban Nha.
+890|¡Construye sobre ella y ve más lejos!||Hãy xây dựng trên đó và đi xa hơn!
+891|¡Solo quedan 109 frases!||Còn 109 câu thôi!
+892|¡Respira hondo y sigue!||Hít thở sâu và tiếp tục!
+893|¡Eres un/a guerrero/a del idioma!||Bạn là chiến binh của ngôn ngữ!
+894|Sigue con esa energía.||Tiếp tục với năng lượng đó.
+895|¡El español te necesita a ti también!||Tiếng Tây Ban Nha cũng cần bạn!
+896|¡Solo 104 frases más!||Chỉ còn 104 câu nữa!
+897|¡Corre hacia la meta!||Hãy chạy đến đích!
+898|¡Español, te amamos!||Tiếng Tây Ban Nha, chúng tôi yêu bạn!
+899|¡Solo quedan 101 frases, ánimo!||Còn 101 câu, cố lên!
+900|¡Casi lo tienes!||Gần xong rồi!
+901|El español es un regalo para la vida.||Tiếng Tây Ban Nha là món quà cho cuộc đời.
+902|Con él, el mundo es más accesible.||Với nó, thế giới trở nên dễ tiếp cận hơn.
+903|¿Has soñado ya en español?||Bạn đã mơ bằng tiếng Tây Ban Nha chưa?
+904|Ese momento llegará si sigues practicando.||Khoảnh khắc đó sẽ đến nếu bạn tiếp tục luyện tập.
+905|Cada conversación en español es un triunfo.||Mỗi cuộc trò chuyện bằng tiếng Tây Ban Nha là một chiến thắng.
+906|¡Celebra ese triunfo!||Hãy ăn mừng chiến thắng đó!
+907|La perseverancia siempre gana.||Sự kiên trì luôn thắng.
+908|Y tú la tienes.||Và bạn có nó.
+909|¡Sigue adelante, casi has llegado!||Tiếp tục, gần đến rồi!
+910|¡El español te quiere a ti también!||Tiếng Tây Ban Nha cũng yêu bạn!
+911|¡Solo quedan 89 frases!||Còn 89 câu thôi!
+912|¡Puedes con esto y con mucho más!||Bạn làm được điều này và còn nhiều hơn nữa!
+913|El español nació para estar en tu boca.||Tiếng Tây Ban Nha sinh ra để có trên miệng bạn.
+914|Hazlo tuyo.||Hãy làm cho nó là của bạn.
+915|¡Solo quedan 85 frases, último tramo!||Còn 85 câu, chặng cuối rồi!
+916|¡Aprieta los dientes y adelante!||Nghiến răng và tiến lên!
+917|¡Estás a punto de completar 1000 frases!||Bạn sắp hoàn thành 1000 câu rồi!
+918|Ese logro es tuyo.||Thành tích đó là của bạn.
+919|¡Celebra con orgullo!||Hãy ăn mừng với niềm tự hào!
+920|¡El español siempre estará a tu lado!||Tiếng Tây Ban Nha sẽ luôn ở bên bạn!
+921|Di en español: ¡Amo este idioma!||Nói bằng tiếng Tây Ban Nha: ¡Amo este idioma!
+922|Di en español: ¡Gracias!||Nói bằng tiếng Tây Ban Nha: ¡Gracias!
+923|Di en español: ¡Ánimo!||Nói bằng tiếng Tây Ban Nha: ¡Ánimo!
+924|Di en español: ¡Lo he conseguido!||Nói bằng tiếng Tây Ban Nha: ¡Lo he conseguido!
+925|Di en español: ¡Hasta pronto, amigo!||Nói bằng tiếng Tây Ban Nha: ¡Hasta pronto, amigo!
+926|¡Has aprendido 1000 frases en español!||Bạn đã học 1000 câu tiếng Tây Ban Nha!
+927|¡Es un logro enorme!||Đây là thành tích to lớn!
+928|¡Siéntete orgulloso/a!||Hãy tự hào về bản thân!
+929|¡Sigue aprendiendo, el mundo te espera!||Tiếp tục học, thế giới đang chờ bạn!
+930|¡Viva el español! ¡Ánimo!||Muôn năm tiếng Tây Ban Nha! Cố lên!
+931|La lengua acerca a las personas.||Ngôn ngữ làm gần nhau hơn.
+932|El español es puerta a Hispanoamérica.||Tiếng Tây Ban Nha là cánh cửa vào Mỹ Latin.
+933|Cada hablante de español es un héroe.||Mỗi người nói tiếng Tây Ban Nha là một anh hùng.
+934|¡Tú lo eres!||Bạn là một trong đó!
+935|¡Continúa tu viaje heroico!||Tiếp tục hành trình anh hùng của bạn!
+936|El poder de la lengua está en tus manos.||Sức mạnh của ngôn ngữ nằm trong tay bạn.
+937|Úsalo para crear un futuro hermoso.||Dùng nó tạo ra tương lai tươi đẹp.
+938|El español siempre te apoya.||Tiếng Tây Ban Nha luôn ủng hộ bạn.
+939|¡Aprende feliz y vive feliz!||Học vui và sống vui!
+940|¡Gracias por leer hasta aquí!||Cảm ơn đã đọc đến đây!
+941|¡Eres el/la mejor estudiante de español!||Bạn là người học tiếng Tây Ban Nha tốt nhất!
+942|¡Sigue brillando con tu español!||Tiếp tục tỏa sáng với tiếng Tây Ban Nha!
+943|Que el español te acompañe siempre.||Mong tiếng Tây Ban Nha mãi đồng hành cùng bạn.
+944|Esta es solo la primera parte de tu historia.||Đây chỉ là phần đầu của câu chuyện bạn.
+945|¡Aún hay mucho por escribir!||Vẫn còn nhiều điều để viết!
+946|¡Toma el bolígrafo y sigue!||Hãy cầm bút lên và tiếp tục!
+947|El español, tu historia continúa.||Tiếng Tây Ban Nha, câu chuyện bạn vẫn đang tiếp tục.
+948|Escribe cada frase con pasión.||Hãy viết từng câu với đam mê.
+949|¡Gracias por este hermoso viaje!||Cảm ơn vì hành trình tươi đẹp này!
+950|¡El español enriquece la vida!||Tiếng Tây Ban Nha làm phong phú cuộc sống!
+951|¡Hasta la próxima aventura en español!||Hẹn cuộc phiêu lưu tiếp theo bằng tiếng Tây Ban Nha!
+952|¡Español, te amamos para siempre!||Tiếng Tây Ban Nha, chúng tôi mãi yêu bạn!
+953|¡Gracias, estas 1000 frases son un regalo!||Cảm ơn, 1000 câu này là một món quà!
+954|Al final, nos hemos encontrado en el mundo del español.||Cuối cùng chúng ta đã gặp nhau trong thế giới tiếng Tây Ban Nha.
+955|Que esta amistad dure mucho.||Mong tình bạn này kéo dài mãi.
+956|¡Cuida tu español y sigue aprendiendo!||Hãy trân trọng tiếng Tây Ban Nha và tiếp tục học!
+957|La puerta del español siempre está abierta.||Cánh cửa tiếng Tây Ban Nha luôn mở.
+958|¡Eres bienvenido/a siempre!||Bạn luôn được chào đón!
+959|¡Gracias una vez más!||Một lần nữa cảm ơn!
+960|¡Ánimo, viva el español, hasta pronto!||Cố lên, muôn năm tiếng Tây Ban Nha, hẹn gặp sớm!
+961|Amo aprender.||Tôi yêu việc học.
+962|El saber no ocupa lugar.||Kiến thức không chiếm chỗ.
+963|Mejora un poco cada día.||Tiến bộ một chút mỗi ngày.
+964|El conocimiento cambia el destino.||Kiến thức thay đổi vận mệnh.
+965|Aprender es una aventura de toda la vida.||Học tập là cuộc phiêu lưu cả đời.
+966|Querer es poder.||Muốn là được.
+967|El trabajo duro siempre paga.||Chăm chỉ luôn được đền đáp.
+968|Con esfuerzo se consigue todo.||Với nỗ lực thì đạt được tất cả.
+969|La constancia es el secreto del éxito.||Kiên trì là bí quyết thành công.
+970|Los sueños se hacen realidad.||Ước mơ trở thành hiện thực.
+971|¡Gracias, español, por tu compañía!||Cảm ơn, tiếng Tây Ban Nha, vì đã đồng hành!
+972|Que nos acompañes siempre.||Mong bạn mãi ở bên.
+973|El español hace mi mundo más grande.||Tiếng Tây Ban Nha làm thế giới tôi lớn hơn.
+974|Gracias por abrir esa puerta.||Cảm ơn vì đã mở cánh cửa đó.
+975|Seguiré este camino.||Tôi sẽ tiếp tục con đường này.
+976|Contigo no estoy solo/a.||Với bạn tôi không cô đơn.
+977|¡Español, mi eterno amigo!||Tiếng Tây Ban Nha, người bạn vĩnh cửu của tôi!
+978|¡Todos juntos, avancemos!||Tất cả cùng nhau, tiến lên!
+979|El viaje del español no acaba, solo hay nuevos comienzos.||Hành trình tiếng Tây Ban Nha không kết thúc, chỉ có khởi đầu mới.
+980|¡Nos encontramos en el próximo comienzo!||Gặp nhau ở khởi đầu tiếp theo!
+981|Aprender español fue una de las mejores decisiones.||Học tiếng Tây Ban Nha là một trong những quyết định tốt nhất.
+982|¡Sigue con esa decisión!||Tiếp tục quyết định đó!
+983|Tu yo del futuro te lo agradecerá.||Bản thân tương lai sẽ cảm ơn bạn hôm nay.
+984|El esfuerzo de hoy, la cosecha de mañana.||Nỗ lực hôm nay, thu hoạch ngày mai.
+985|¡Con amor, con sueños, adelante!||Với tình yêu, với ước mơ, tiến lên!
+986|¡El español hace nuestra historia más especial!||Tiếng Tây Ban Nha làm câu chuyện chúng ta đặc biệt hơn!
+987|¡Gracias, compañero/a de viaje!||Cảm ơn, người bạn đồng hành!
+988|¡Que tu camino en español sea siempre más ancho!||Mong con đường tiếng Tây Ban Nha ngày càng rộng mở!
+989|¡La última frase está a la vista!||Câu cuối đã trước mắt!
+990|¡Lo has hecho! ¡Enhorabuena!||Bạn đã làm được! Chúc mừng!
+991|Este es tu logro, celébralo.||Đây là thành tích của bạn, hãy ăn mừng.
+992|¡Estás orgulloso/a, completaste 1000 frases!||Hãy tự hào, bạn đã hoàn thành 1000 câu!
+993|Pero recuerda, esto es solo el principio.||Nhưng hãy nhớ, đây chỉ là bắt đầu.
+994|El mundo del español es vastísimo.||Thế giới tiếng Tây Ban Nha rộng lớn vô cùng.
+995|¡Sigue explorando y aprendiendo!||Tiếp tục khám phá và học hỏi!
+996|¡Lleva contigo el poder de estas 1000 frases!||Mang theo sức mạnh của 1000 câu này!
+997|¡Español, hasta pronto, pero nos vemos!||Tiếng Tây Ban Nha, hẹn gặp sớm, nhưng chúng ta sẽ gặp lại!
+998|¡Gracias por todo, gracias español!||Cảm ơn vì tất cả, cảm ơn tiếng Tây Ban Nha!
+999|¡Que siempre estemos conectados en el mundo del español!||Mong chúng ta mãi kết nối trong thế giới tiếng Tây Ban Nha!
+1000|¡El español, te amo, hasta la próxima! ¡Ánimo!||Tiếng Tây Ban Nha, tôi yêu bạn, hẹn gặp lại! Cố lên!
