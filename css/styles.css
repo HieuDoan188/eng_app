@@ -225,6 +225,36 @@ kbd { border: 1px solid var(--border); border-bottom-width: 2px; border-radius: 
 .choice.wrong { border-color: var(--bad); background: color-mix(in srgb, var(--bad) 12%, var(--surface)); }
 .choice:disabled { cursor: default; }
 
+/* Basics */
+.letter-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(96px, 1fr)); gap: 8px; margin-top: 12px; }
+.letter-grid.wide { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+.letter-tile {
+  display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 10px 6px;
+  background: var(--surface); color: var(--text); border: 1px solid var(--border); border-radius: 10px;
+  font: inherit; cursor: pointer; text-align: center; min-height: 96px; justify-content: center;
+}
+.letter-tile:hover { border-color: var(--accent); }
+.letter-tile:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.letter-tile.known { border-color: var(--good); box-shadow: inset 0 -3px 0 var(--good); }
+.letter-tile .big { font-size: 1.7rem; font-weight: 700; line-height: 1.2; }
+.letter-tile .rom-line { font-size: .85rem; color: var(--text-2); }
+.letter-tile .note { font-size: .72rem; color: var(--muted); }
+.grid-choices { grid-template-columns: repeat(2, 1fr); }
+.grid-choices .choice { text-align: center; font-size: 1.4rem; }
+.lesson-link { display: flex; gap: 10px; align-items: flex-start; text-decoration: none; color: var(--text); }
+.lesson-link:hover strong { color: var(--accent); }
+.lesson-check {
+  flex: none; width: 22px; height: 22px; border-radius: 50%; border: 2px solid var(--border);
+  display: inline-flex; align-items: center; justify-content: center; font-size: .75rem; margin-top: 2px;
+}
+.lesson-check.done { border-color: var(--good); background: var(--good); color: var(--surface); }
+.lesson-body > * { margin: 0; }
+.lesson-body > * + * { margin-top: 12px; }
+.patterns { display: grid; gap: 6px; }
+.pattern { background: var(--surface-2); border-left: 3px solid var(--accent); padding: 8px 12px; border-radius: 6px; font-weight: 600; }
+.lesson-q + .lesson-q { margin-top: 16px; }
+.lesson-q p { margin-bottom: 8px; }
+
 /* Forms */
 label.field { display: grid; gap: 4px; }
 label.field span { font-weight: 600; font-size: .9rem; }
@@ -241,7 +271,7 @@ input[type="range"] { width: 100%; }
   .nav { width: 100%; }
   .lang-switch { margin-left: auto; }
   .nav { justify-content: space-between; }
-  .nav a { padding: .3rem .4rem; font-size: .85rem; }
+  .nav a { padding: .3rem .3rem; font-size: .8rem; }
   .tile .value { font-size: 1.35rem; }
   .grades .btn { font-size: .85rem; }
   .table .hide-sm { display: none; }

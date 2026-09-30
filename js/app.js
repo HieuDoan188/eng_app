@@ -35,8 +35,14 @@
       version: 1,
       settings: Object.assign({}, DEFAULT_SETTINGS, s.settings),
       cards: s.cards || {},
+      basics: normalizeBasics(s.basics),
       logs: s.logs || {},
     };
+  }
+
+  function normalizeBasics(b) {
+    const x = b && typeof b === 'object' ? b : {};
+    return { letters: x.letters || {}, lessons: x.lessons || {} };
   }
 
   let state = loadState();
@@ -311,6 +317,7 @@
       (nextChapter ? '<p class="small" style="margin-top:10px">Up next: <a href="#/chapter/' + esc(book.id) + '/' + nextChapter.id + '">Chapter ' + nextChapter.id + ' · ' + esc(nextChapter.title) + '</a></p>' : '') +
       '</div>' +
 
+      basicsCard(book) +
       (BOOKS.length > 1 ? languagesCard() : '') +
       '<div class="card"><h2>Activity</h2>' + heatmapHtml(16) + '</div>' +
       (storageOk ? '' : '<p class="notice">⚠ Progress could not be saved in this browser (private mode?). Use Settings → Export to keep a copy.</p>') +
@@ -328,7 +335,8 @@
         const isActive = b.id === active.id;
         return '<li><div class="row spread"><div><strong>' + esc(b.flag) + ' ' + esc(b.language) + '</strong>' +
           (isActive ? ' <span class="badge review">Active</span>' : '') +
-          '<div class="small muted">' + s.seen + ' / ' + s.total + ' learned · ' + s.mastered + ' mastered · ' + s.due + ' due · ' + newCount + ' new today</div></div>' +
+          '<div class="small muted">' + s.seen + ' / ' + s.total + ' learned · ' + s.mastered + ' mastered · ' + s.due + ' due · ' + newCount + ' new today' +
+          (basicsProgress(b) ? ' · basics ' + basicsProgress(b).done + '/' + basicsProgress(b).lessons : '') + '</div></div>' +
           '<button class="btn small' + (s.due + newCount > 0 ? ' primary' : '') + '" data-study="' + esc(b.id) + '">Study</button></div>' +
           '<div style="margin-top:8px">' + progressBar(s) + '</div></li>';
       }).join('') +
@@ -587,6 +595,12 @@
       } else if ((e.key === 'p' || e.key === 'P') && it) {
         tts.speak(it.text, session.book.ttsLang);
       }
+    } else if (practice && currentRoute().name === 'basics' && currentRoute().args[0] === 'practice') {
+      if (/^[1-4]$/.test(e.key) && practice.answered === null) answerPractice(Number(e.key) - 1);
+      else if ((e.key === 'Enter' || e.key === ' ') && practice.answered !== null) {
+        e.preventDefault();
+        nextPractice();
+      }
     } else if (quiz && currentRoute().name === 'quiz') {
       if (/^[1-4]$/.test(e.key) && quiz.answered === null) answerQuiz(Number(e.key) - 1);
       else if ((e.key === 'Enter' || e.key === ' ') && quiz.answered !== null) {
@@ -821,7 +835,7 @@
           const data = JSON.parse(text);
           if (!data || typeof data.cards !== 'object' || typeof data.logs !== 'object') throw new Error('not a LangTrack backup');
           if (!confirm('Replace your current progress with this backup?')) return;
-          state = { version: 1, settings: Object.assign({}, DEFAULT_SETTINGS, data.settings), cards: data.cards, logs: data.logs };
+          state = { version: 1, settings: Object.assign({}, DEFAULT_SETTINGS, data.settings), cards: data.cards, logs: data.logs, basics: normalizeBasics(data.basics) };
           save();
           applyTheme();
           viewSettings();
@@ -833,10 +847,326 @@
     });
     document.getElementById('reset').addEventListener('click', () => {
       if (!confirm('Delete ALL progress and study history? This cannot be undone.')) return;
-      state = { version: 1, settings: state.settings, cards: {}, logs: {} };
+      state = { version: 1, settings: state.settings, cards: {}, logs: {}, basics: normalizeBasics() };
       save();
       msg.textContent = 'Progress reset.';
     });
+  }
+
+  // ---------- Basics: alphabet, pronunciation and core grammar ----------
+
+  const BASICS = window.LT_BASICS || {};
+  const BC = BasicsCore;
+
+  function basicsFor(book) {
+    return book ? BASICS[book.lang] || null : null;
+  }
+
+  function lessonKey(book, lesson) {
+    return book.lang + ':' + lesson.id;
+  }
+
+  function basicsProgress(book) {
+    const b = basicsFor(book);
+    if (!b) return null;
+    let known = 0;
+    let letters = 0;
+    for (const g of b.groups) {
+      const p = BC.groupProgress(book.lang, g, state.basics.letters);
+      known += p.known;
+      letters += p.total;
+    }
+    const done = b.lessons.filter((l) => state.basics.lessons[lessonKey(book, l)]).length;
+    return { known, letters, done, lessons: b.lessons.length };
+  }
+
+  // What to do next in Basics: learn the first script group, then lessons in
+  // order, then any remaining weak group (known = 80% of its letters).
+  function basicsNext(book) {
+    const b = basicsFor(book);
+    if (!b) return null;
+    const weak = (g) => {
+      const p = BC.groupProgress(book.lang, g, state.basics.letters);
+      return p.known < p.total * 0.8;
+    };
+    const practiceStep = (g) => ({ href: '#/basics/practice/' + g.id, label: 'Practice ' + g.title });
+    if (weak(b.groups[0])) return practiceStep(b.groups[0]);
+    const lesson = b.lessons.find((l) => !state.basics.lessons[lessonKey(book, l)]);
+    if (lesson) return { href: '#/basics/lesson/' + lesson.id, label: lesson.title };
+    const g = b.groups.find(weak);
+    return g ? practiceStep(g) : null;
+  }
+
+  function basicsCard(book) {
+    const p = basicsProgress(book);
+    if (!p) return '';
+    const next = basicsNext(book);
+    return '<div class="card"><div class="row spread"><h2>' + esc(book.flag) + ' ' + esc(book.language) + ' basics</h2><a class="small" href="#/basics">Open basics →</a></div>' +
+      '<p class="small muted">' + p.known + ' / ' + p.letters + ' letters & sounds known · ' + p.done + ' / ' + p.lessons + ' lessons done</p>' +
+      '<div class="bar" role="img" aria-label="' + p.done + ' of ' + p.lessons + ' lessons done"><span class="seen" style="width:' + pct(p.done, p.lessons) + '%"></span></div>' +
+      (next ? '<div class="row" style="margin-top:12px"><a class="btn small primary" href="' + next.href + '">Next: ' + esc(next.label) + '</a></div>' : '<p class="small" style="margin-top:10px">All basics done ✓</p>') +
+      '</div>';
+  }
+
+  function recordBasicsAnswer(book, ok, shownAt) {
+    const now = Date.now();
+    Tracker.record(state.logs, now, { quiz: 1, quizCorrect: ok ? 1 : 0, basics: 1, ['book:' + book.id]: 1, seconds: Math.min(60, Math.round((now - shownAt) / 1000)) });
+  }
+
+  function viewBasics() {
+    const book = activeBook();
+    const b = basicsFor(book);
+    if (!b) {
+      $app.innerHTML = '<h1>Basics</h1><p class="muted">No basics course for ' + esc(book.language) + ' yet.</p>';
+      return;
+    }
+    const lessonList = (kind) =>
+      '<ul class="list">' + b.lessons.filter((l) => l.kind === kind).map((l) => {
+        const done = state.basics.lessons[lessonKey(book, l)];
+        return '<li><a class="lesson-link" href="#/basics/lesson/' + esc(l.id) + '"><span class="lesson-check' + (done ? ' done' : '') + '" aria-hidden="true">' + (done ? '✓' : '') + '</span>' +
+          '<span><strong>' + esc(l.title) + '</strong><span class="small muted" style="display:block">' + esc(l.summary) + '</span></span></a></li>';
+      }).join('') + '</ul>';
+    const p = basicsProgress(book);
+    $app.innerHTML =
+      '<h1>' + esc(book.flag) + ' ' + esc(book.language) + ' basics</h1>' +
+      '<p class="muted">' + esc(b.intro) + '</p>' +
+      '<p class="small">' + p.known + ' / ' + p.letters + ' letters & sounds known · ' + p.done + ' / ' + p.lessons + ' lessons done</p>' +
+      '<h2 style="margin-top:20px">1 · Alphabet & sounds</h2>' +
+      '<div class="grid grid-2">' +
+      b.groups.map((g) => {
+        const gp = BC.groupProgress(book.lang, g, state.basics.letters);
+        return '<div class="card"><h3>' + esc(g.title) + ' <span class="muted" lang="' + esc(book.lang) + '">' + esc(g.native || '') + '</span></h3>' +
+          '<p class="small muted">' + esc(g.desc) + '</p>' +
+          '<div class="bar" data-tip="' + gp.known + ' / ' + gp.total + ' known"><span class="mastered" style="width:' + pct(gp.known, gp.total) + '%"></span></div>' +
+          '<p class="small" style="margin:6px 0 10px">' + gp.known + ' / ' + gp.total + ' known</p>' +
+          '<div class="row"><a class="btn small" href="#/basics/chart/' + esc(g.id) + '">Chart</a><a class="btn small primary" href="#/basics/practice/' + esc(g.id) + '">Practice</a></div></div>';
+      }).join('') +
+      '</div>' +
+      '<div class="grid grid-2" style="margin-top:16px">' +
+      '<div class="card"><h2>2 · Pronunciation & reading</h2>' + lessonList('pronunciation') + '</div>' +
+      '<div class="card"><h2>3 · Core grammar</h2>' + lessonList('grammar') + '</div>' +
+      '</div>' +
+      '<p class="small muted" style="margin-top:12px">A letter counts as known after ' + BC.KNOWN_STREAK + ' correct answers in a row. A lesson is done when you answer all its check questions correctly.</p>';
+  }
+
+  function findGroup(book, id) {
+    const b = basicsFor(book);
+    return b && b.groups.find((g) => g.id === id);
+  }
+
+  function viewChart(groupId) {
+    const book = activeBook();
+    const g = findGroup(book, groupId);
+    if (!g) return viewBasics();
+    $app.innerHTML =
+      '<p class="small"><a href="#/basics">← Basics</a></p>' +
+      '<div class="row spread"><h1>' + esc(g.title) + ' <span class="muted" lang="' + esc(book.lang) + '">' + esc(g.native || '') + '</span></h1>' +
+      '<a class="btn primary" href="#/basics/practice/' + esc(g.id) + '">Practice</a></div>' +
+      '<p class="muted">' + esc(g.desc) + ' Tap a tile to hear it.</p>' +
+      '<div class="letter-grid' + (g.items.some((it) => it.ch.length > 3) ? ' wide' : '') + '">' +
+      g.items.map((it, i) => {
+        const known = BC.isKnown(state.basics.letters[BC.itemKey(book.lang, g.id, it)]);
+        return '<button class="letter-tile' + (known ? ' known' : '') + '" data-say="' + i + '" aria-label="' + esc(it.ch + ' — ' + it.rom) + '">' +
+          '<span class="big" lang="' + esc(book.lang) + '">' + esc(it.ch) + '</span>' +
+          '<span class="rom-line">' + esc(it.rom) + '</span>' +
+          (it.name || it.note ? '<span class="note" lang="' + (it.name ? esc(book.lang) : 'vi') + '">' + esc(it.name || it.note) + '</span>' : '') +
+          '</button>';
+      }).join('') +
+      '</div>' +
+      (tts.supported ? '' : '<p class="notice" style="margin-top:12px">Audio is not supported in this browser.</p>');
+    $app.querySelectorAll('[data-say]').forEach((btn) =>
+      btn.addEventListener('click', () => tts.speak(g.items[Number(btn.getAttribute('data-say'))].say || '', book.ttsLang))
+    );
+  }
+
+  // ----- Letter practice -----
+
+  let practice = null;
+
+  function startPractice(groupId) {
+    const book = activeBook();
+    const g = findGroup(book, groupId);
+    if (!g) return viewBasics();
+    practice = {
+      book,
+      group: g,
+      questions: BC.buildPractice(g, state.basics.letters, { lang: book.lang, length: 10, canListen: tts.supported }),
+      pos: 0,
+      score: 0,
+      answered: null,
+      shownAt: Date.now(),
+    };
+    renderPractice();
+  }
+
+  function renderPractice() {
+    const p = practice;
+    const { book, group } = p;
+    if (p.pos >= p.questions.length) {
+      const gp = BC.groupProgress(book.lang, group, state.basics.letters);
+      $app.innerHTML =
+        '<div class="card flash"><div class="front">' + p.score + ' / ' + p.questions.length + '</div>' +
+        '<p class="muted">' + esc(group.title) + ': ' + gp.known + ' / ' + gp.total + ' known</p>' +
+        '<div class="row" style="justify-content:center"><button class="btn primary" id="again">Practice again</button>' +
+        '<a class="btn" href="#/basics/chart/' + esc(group.id) + '">Chart</a><a class="btn" href="#/basics">Basics</a></div></div>';
+      document.getElementById('again').addEventListener('click', () => startPractice(group.id));
+      return;
+    }
+    const cur = p.questions[p.pos];
+    const it = cur.item;
+    const prompt = cur.type === 'read'
+      ? '<div class="tag">How does this sound?</div><div class="front" lang="' + esc(book.lang) + '">' + esc(it.ch) + '</div>'
+      : '<div class="tag">Listen and pick what you hear</div><button class="btn primary" id="listen">🔊 Play</button>';
+    const reveal = p.answered !== null
+      ? '<div class="answer"><span class="target" lang="' + esc(book.lang) + '">' + esc(it.ch) + '</span> — ' + esc(it.rom) + (it.note ? '<div class="small muted">' + esc(it.note) + '</div>' : '') + '</div>'
+      : '';
+    $app.innerHTML =
+      '<div class="study-top"><a class="small" href="#/basics">✕ End</a><span class="small muted">' + esc(book.flag + ' ' + group.title) + ' · ' + (p.pos + 1) + ' / ' + p.questions.length + ' · Score ' + p.score + '</span><span></span></div>' +
+      '<div class="card flash" style="min-height:180px">' + prompt + reveal + '</div>' +
+      '<div class="choices' + (cur.field === 'ch' ? ' grid-choices' : '') + '" style="margin-top:12px">' +
+      cur.options.map((o, i) => {
+        let cls = 'choice';
+        if (p.answered !== null) {
+          if (i === cur.answer) cls += ' correct';
+          else if (i === p.answered) cls += ' wrong';
+        }
+        return '<button class="' + cls + '" data-choice="' + i + '"' + (p.answered !== null ? ' disabled' : '') + (cur.field === 'ch' ? ' lang="' + esc(book.lang) + '"' : '') + '><kbd>' + (i + 1) + '</kbd> ' + esc(o[cur.field]) + '</button>';
+      }).join('') + '</div>' +
+      (p.answered !== null ? '<button class="btn primary" id="next" style="width:100%;margin-top:12px;justify-content:center">Next →</button>' : '');
+    $app.querySelectorAll('[data-choice]').forEach((btn) => btn.addEventListener('click', () => answerPractice(Number(btn.getAttribute('data-choice')))));
+    const listen = document.getElementById('listen');
+    if (listen) listen.addEventListener('click', () => tts.speak(it.say, book.ttsLang));
+    const next = document.getElementById('next');
+    if (next) next.addEventListener('click', nextPractice);
+    if (cur.type === 'listen' && p.answered === null) tts.speak(it.say, book.ttsLang);
+  }
+
+  function answerPractice(i) {
+    const p = practice;
+    const cur = p.questions[p.pos];
+    if (p.answered !== null || !cur || i >= cur.options.length) return;
+    p.answered = i;
+    const ok = i === cur.answer;
+    if (ok) p.score += 1;
+    const key = BC.itemKey(p.book.lang, p.group.id, cur.item);
+    state.basics.letters[key] = BC.recordAnswer(state.basics.letters[key], ok);
+    recordBasicsAnswer(p.book, ok, p.shownAt);
+    save();
+    renderPractice();
+    if (cur.type === 'read' && cur.item.say) tts.speak(cur.item.say, p.book.ttsLang);
+  }
+
+  function nextPractice() {
+    practice.pos += 1;
+    practice.answered = null;
+    practice.shownAt = Date.now();
+    renderPractice();
+  }
+
+  // ----- Lessons -----
+
+  let lesson = null;
+
+  function viewLesson(lessonId) {
+    const book = activeBook();
+    const b = basicsFor(book);
+    const idx = b ? b.lessons.findIndex((l) => l.id === lessonId) : -1;
+    if (idx < 0) return viewBasics();
+    const l = b.lessons[idx];
+    lesson = {
+      book,
+      l,
+      idx,
+      shownAt: Date.now(),
+      // Options are shuffled once per visit; `a` in the data is always the first option.
+      qs: l.quiz.map((q) => {
+        const order = shuffle(q.o.map((_, i) => i));
+        return { q, order, answer: order.indexOf(q.a), picked: null };
+      }),
+    };
+    renderLesson();
+  }
+
+  function renderLesson() {
+    const { book, l, idx, qs } = lesson;
+    const lessons = basicsFor(book).lessons;
+    const prev = lessons[idx - 1];
+    const next = lessons[idx + 1];
+    const done = state.basics.lessons[lessonKey(book, l)];
+    const answered = qs.filter((x) => x.picked !== null).length;
+    const correct = qs.filter((x) => x.picked === x.answer).length;
+    const kindLabel = l.kind === 'grammar' ? 'Core grammar' : 'Pronunciation & reading';
+    const hasRom = l.examples.some((e) => e.r);
+    $app.innerHTML =
+      '<p class="small"><a href="#/basics">← Basics</a></p>' +
+      '<p class="small muted">' + esc(book.flag + ' ' + book.language) + ' · ' + kindLabel + (done ? ' · <span style="color:var(--good)">Done ✓</span>' : '') + '</p>' +
+      '<h1>' + esc(l.title) + '</h1>' +
+      '<p class="muted">' + esc(l.summary) + '</p>' +
+      '<div class="card lesson-body">' +
+      l.body.map((para) => '<p>' + esc(para) + '</p>').join('') +
+      (l.patterns ? '<div class="patterns">' + l.patterns.map((pt) => '<div class="pattern" lang="' + esc(book.lang) + '">' + esc(pt) + '</div>').join('') + '</div>' : '') +
+      (l.tables || []).map((t) =>
+        '<div class="table-wrap"><h3>' + esc(t.title) + '</h3><table class="table"><thead><tr>' + t.head.map((h) => '<th>' + esc(h) + '</th>').join('') + '</tr></thead><tbody>' +
+        t.rows.map((r) => '<tr>' + r.map((c) => '<td lang="' + esc(book.lang) + '">' + esc(c) + '</td>').join('') + '</tr>').join('') + '</tbody></table></div>'
+      ).join('') +
+      '</div>' +
+      '<div class="card table-wrap" style="margin-top:16px"><h2>Examples</h2><table class="table"><tbody>' +
+      l.examples.map((e, i) =>
+        '<tr><td>' + '<div class="target" lang="' + esc(book.lang) + '">' + esc(e.t) + '</div>' + (hasRom && e.r ? '<div class="rom">' + esc(e.r) + '</div>' : '') + '</td>' +
+        '<td lang="vi">' + esc(e.v) + '</td>' +
+        '<td><button class="btn small icon-btn" data-ex="' + i + '" aria-label="Play audio">🔊</button></td></tr>'
+      ).join('') +
+      '</tbody></table></div>' +
+      '<div class="card" style="margin-top:16px"><h2>Check yourself</h2>' +
+      qs.map((x, qi) =>
+        '<div class="lesson-q"><p><strong>' + (qi + 1) + '.</strong> ' + esc(x.q.q) + '</p><div class="choices">' +
+        x.order.map((oi, pos) => {
+          let cls = 'choice';
+          if (x.picked !== null) {
+            if (pos === x.answer) cls += ' correct';
+            else if (pos === x.picked) cls += ' wrong';
+          }
+          return '<button class="' + cls + '" data-q="' + qi + '" data-o="' + pos + '"' + (x.picked !== null ? ' disabled' : '') + '>' + esc(x.q.o[oi]) + '</button>';
+        }).join('') + '</div>' +
+        (x.picked !== null && x.q.why ? '<p class="small muted" style="margin-top:6px">' + esc(x.q.why) + '</p>' : '') +
+        '</div>'
+      ).join('') +
+      (answered === qs.length
+        ? (correct === qs.length
+          ? '<p class="notice" style="color:var(--good)">All correct — lesson done ✓</p>'
+          : '<p class="notice">' + correct + ' / ' + qs.length + ' correct. <button class="btn small" id="retry">Try again</button></p>')
+        : '') +
+      '</div>' +
+      '<div class="row spread" style="margin-top:12px">' +
+      (prev ? '<a class="btn small" href="#/basics/lesson/' + esc(prev.id) + '">← ' + esc(prev.title) + '</a>' : '<span></span>') +
+      (next ? '<a class="btn small' + (answered === qs.length ? ' primary' : '') + '" href="#/basics/lesson/' + esc(next.id) + '">' + esc(next.title) + ' →</a>' : '<a class="btn small" href="#/basics">Back to basics</a>') +
+      '</div>';
+
+    $app.querySelectorAll('[data-ex]').forEach((btn) =>
+      btn.addEventListener('click', () => tts.speak(l.examples[Number(btn.getAttribute('data-ex'))].t, book.ttsLang))
+    );
+    $app.querySelectorAll('[data-q]').forEach((btn) =>
+      btn.addEventListener('click', () => answerLesson(Number(btn.getAttribute('data-q')), Number(btn.getAttribute('data-o'))))
+    );
+    const retry = document.getElementById('retry');
+    if (retry) retry.addEventListener('click', () => viewLesson(l.id));
+  }
+
+  function answerLesson(qi, pos) {
+    const x = lesson.qs[qi];
+    if (!x || x.picked !== null) return;
+    x.picked = pos;
+    const ok = pos === x.answer;
+    recordBasicsAnswer(lesson.book, ok, lesson.shownAt);
+    lesson.shownAt = Date.now();
+    const qs = lesson.qs;
+    if (qs.every((q) => q.picked === q.answer)) {
+      state.basics.lessons[lessonKey(lesson.book, lesson.l)] = { done: Date.now() };
+    }
+    save();
+    const y = window.scrollY;
+    renderLesson();
+    window.scrollTo(0, y);
   }
 
   // ---------- Language switcher (top bar) ----------
@@ -854,7 +1184,9 @@
       setActiveBook($lang.value);
       // Pages tied to one book go back to Today; the others re-render for the new language.
       const { name } = currentRoute();
-      if (['book', 'chapter', 'study', 'quiz'].includes(name) && location.hash !== '#/') location.hash = '#/';
+      const { args } = currentRoute();
+      if (name === 'basics' && args.length) location.hash = '#/basics';
+      else if (['book', 'chapter', 'study', 'quiz'].includes(name) && location.hash !== '#/') location.hash = '#/';
       else route();
     });
   }
@@ -872,10 +1204,17 @@
     if (tts.supported) speechSynthesis.cancel();
     if (name !== 'study') session = null;
     if (name !== 'quiz') quiz = null;
+    if (name !== 'basics') practice = lesson = null;
     const navName = { book: 'library', chapter: 'library', study: 'dashboard' }[name] || name;
     document.querySelectorAll('[data-nav]').forEach((a) => a.classList.toggle('active', a.getAttribute('data-nav') === navName));
 
     switch (name) {
+      case 'basics':
+        if (args[0] === 'chart') viewChart(args[1]);
+        else if (args[0] === 'practice') startPractice(args[1]);
+        else if (args[0] === 'lesson') viewLesson(args[1]);
+        else viewBasics();
+        break;
       case 'library': viewLibrary(); break;
       case 'book': viewBook(args[0]); break;
       case 'chapter': viewChapter(args[0], Number(args[1])); break;
