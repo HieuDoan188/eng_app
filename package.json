@@ -1,0 +1,12 @@
+{
+  "name": "lang-track",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Personal language study app: learn vocabulary from books with spaced repetition and track your daily routine.",
+  "scripts": {
+    "build:data": "node scripts/build-books.js",
+    "test": "node --test tests/*.test.js",
+    "serve": "npx --yes http-server -c-1 -p 8080 ."
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,1043 @@
+# Format: "## <chapter no>|<Vietnamese title>|<Korean title>" starts a chapter;
+# each sentence line is "<no>|<Korean>|<romanization>|<Vietnamese>".
+## 1|Chào hỏi & Giới thiệu|인사 & 소개
+1|안녕하세요.|Annyeonghaseyo|Xin chào.
+2|안녕하십니까?|Annyeonghasimnikka?|Xin chào (trang trọng).
+3|안녕!|Annyeong!|Chào! (thân mật)
+4|좋은 아침이에요.|Joeun achimieyo|Chào buổi sáng.
+5|좋은 저녁이에요.|Joeun jeonyeogieyo|Chào buổi tối.
+6|잘 자요.|Jal jayo|Chúc ngủ ngon.
+7|처음 뵙겠습니다.|Cheoeum boepgesseumnida|Rất vui được gặp bạn.
+8|이름이 뭐예요?|Ireumi mwoyeyo?|Tên bạn là gì?
+9|제 이름은 ~입니다.|Je ireumeun ~imnida|Tên tôi là ~.
+10|잘 지내세요?|Jal jinaeseyo?|Bạn có khỏe không?
+11|잘 지내요, 감사합니다.|Jal jinaeyo, gamsahamnida|Tôi khỏe, cảm ơn.
+12|어디서 오셨어요?|Eodiseo osyeosseoyo?|Bạn đến từ đâu?
+13|베트남에서 왔어요.|Beteunameso wasseoyo|Tôi đến từ Việt Nam.
+14|오랜만이에요!|Oraenmanieyo!|Lâu rồi không gặp!
+15|반갑습니다.|Bangapseumnida|Rất vui được gặp.
+16|잠깐만요.|Jamkkanmanyo|Chờ một chút.
+17|나중에 봐요.|Najunge bwayo|Gặp lại sau nhé.
+18|또 봐요.|Tto bwayo|Gặp lại nhé.
+19|조심하세요.|Josimhaseyo|Bảo trọng nhé.
+20|안녕히 가세요.|Annyeonghi gaseyo|Tạm biệt (khi người kia ra về).
+21|안녕히 계세요.|Annyeonghi gyeseyo|Tạm biệt (khi mình ra về).
+22|실례합니다.|Sillyehamnida|Xin lỗi / Xin phép.
+23|들어오세요.|Deureoseyo|Xin mời vào.
+24|어서 오세요.|Eoseo oseyo|Chào mừng bạn đến.
+25|다녀오겠습니다.|Danyeoogesseumnida|Tôi đi đây nhé.
+## 2|Lịch sự & Phép xã giao|예절
+26|감사합니다.|Gamsahamnida|Cảm ơn.
+27|고마워요.|Gomawoyo|Cảm ơn (thân mật).
+28|천만에요.|Cheonmaneyo|Không có gì.
+29|괜찮아요.|Gwaenchanayo|Không sao.
+30|미안합니다.|Mianhamnida|Tôi xin lỗi.
+31|죄송합니다.|Joesonghamnida|Tôi thành thật xin lỗi.
+32|부탁합니다.|Butakamnida|Làm ơn.
+33|네.|Ne|Vâng.
+34|아니요.|Aniyo|Không.
+35|맞아요.|Majayo|Đúng rồi.
+36|알겠어요.|Algesseoyo|Tôi hiểu rồi.
+37|잠깐요.|Jamkkanyo|Chờ một chút.
+38|먼저 가세요.|Meonjeo gaseyo|Mời bạn đi trước.
+39|잘 먹겠습니다.|Jal meokgesseumnida|Tôi xin phép dùng bữa.
+40|잘 먹었습니다.|Jal meogeotsseumnida|Cảm ơn vì bữa ăn ngon.
+41|수고하세요.|Sugohaseyo|Cảm ơn vì đã làm việc chăm chỉ.
+42|어떻게 지내세요?|Eotteoke jinaeseyo?|Dạo này bạn thế nào?
+43|별일 없어요.|Byeolil eopseoyo|Không có gì đặc biệt.
+44|덕분에요.|Deokbuneyo|Nhờ có bạn.
+45|오늘 수고했어요.|Oneul sugohesseoyo|Hôm nay bạn đã vất vả.
+46|도움이 필요하세요?|Doumeul piryohaseyo?|Bạn có cần giúp đỡ không?
+47|도와드릴게요.|Dowadeurilgeyo|Tôi sẽ giúp bạn.
+48|괜찮으세요?|Gwaenchaneuseyo?|Bạn có ổn không?
+49|걱정하지 마세요.|Geokjeongaji maseyo|Đừng lo lắng.
+50|고생하셨습니다.|Gosaengasyeosseumnida|Bạn đã vất vả rồi.
+## 3|Hỏi đường|길 묻기
+51|~은/는 어디에 있어요?|~eun/neun eodie isseoyo?|~ ở đâu?
+52|화장실이 어디에 있어요?|Hwajangsili eodie isseoyo?|Nhà vệ sinh ở đâu?
+53|이 근처에 ~가 있어요?|I geuncheoe ~ga isseoyo?|Gần đây có ~ không?
+54|길을 잃었어요.|Gireul ireosseoyo|Tôi bị lạc rồi.
+55|~까지 어떻게 가요?|~kkaji eotteoke gayo?|Đến ~ như thế nào?
+56|직진하세요.|Jikjinhaseyo|Đi thẳng.
+57|오른쪽으로 도세요.|Oreunjjogeuro doseyo|Rẽ phải.
+58|왼쪽으로 도세요.|Oenjjogeuro doseyo|Rẽ trái.
+59|가까워요?|Gakkawoyo?|Gần không?
+60|멀어요?|Meoreoyo?|Xa không?
+61|걸어갈 수 있어요?|Georeogal su isseoyo?|Đi bộ được không?
+62|지도를 보여 주세요.|Jidoreul boyeo juseyo|Cho tôi xem bản đồ.
+63|여기가 어디에요?|Yeogiga eodieyo?|Đây là ở đâu?
+64|~옆에 있어요.|~yeopie isseoyo|Nó ở cạnh ~.
+65|~앞에 있어요.|~apse isseoyo|Nó ở phía trước ~.
+66|~뒤에 있어요.|~dwie isseoyo|Nó ở phía sau ~.
+67|모퉁이에서 도세요.|Motungieseo doseyo|Rẽ ở góc đường.
+68|~분 걸어요.|~bun georeoyo|Đi bộ ~ phút.
+69|지하철역이 어디에 있어요?|Jihacheolyeogi eodie isseoyo?|Ga tàu điện ngầm ở đâu?
+70|버스 정류장이 어디에 있어요?|Beoseu jeongnyujangi eodie isseoyo?|Trạm xe buýt ở đâu?
+## 4|Mua sắm|쇼핑
+71|이거 얼마예요?|Igeo eolmayeyo?|Cái này giá bao nhiêu?
+72|너무 비싸요.|Neomu bissayo|Đắt quá.
+73|더 싼 것 있어요?|Deo ssan geot isseoyo?|Có cái gì rẻ hơn không?
+74|이걸 주세요.|Igeol juseyo|Cho tôi cái này.
+75|다른 사이즈 있어요?|Dareun saijeu isseoyo?|Có kích cỡ khác không?
+76|입어봐도 돼요?|Ibeobwado dwaeyo?|Tôi có thể thử không?
+77|신용카드 받아요?|Sinyongkadeu badayo?|Có thể dùng thẻ tín dụng không?
+78|영수증 주세요.|Yeongsujeung juseyo|Làm ơn cho tôi hóa đơn.
+79|환불하고 싶어요.|Hwanbulhago sipeoyo|Tôi muốn hoàn tiền.
+80|교환하고 싶어요.|Gyohwanhago sipeoyo|Tôi muốn đổi hàng.
+81|봉투 주세요?|Bongtu juseyo?|Cho tôi túi.
+82|이 색깔 있어요?|I saekkal isseoyo?|Màu này có không?
+83|할인해 주세요.|Harinhae juseyo|Giảm giá cho tôi.
+84|거스름돈 주세요.|Geoseureumdoneun juseyo|Trả tiền thừa.
+85|재고 있어요?|Jaego isseoyo?|Còn hàng không?
+86|세일은 언제예요?|Seireun eonjeyeyo?|Khi nào có giảm giá?
+87|선물 포장해 주세요.|Seonmul pojanghae juseyo|Gói quà tặng hộ tôi.
+88|면세 되나요?|Myeonse doenayo?|Có miễn thuế không?
+89|계산대는 어디에 있어요?|Gyesandaeneun eodie isseoyo?|Quầy thanh toán ở đâu?
+90|그냥 구경할게요.|Geunyang gugyeonghalgeoyo|Tôi chỉ xem thôi.
+## 5|Nhà hàng & Ăn uống|식사
+91|두 명이에요.|Du myeongiieyo|Hai người.
+92|메뉴판 주세요.|Menyupan juseyo|Cho tôi xem menu.
+93|주문할게요.|Jumunhalgeoyo|Tôi muốn đặt món.
+94|뭘 추천해요?|Mwol chucheonhaeyo?|Bạn giới thiệu gì?
+95|매워요?|Maewoyo?|Có cay không?
+96|알레르기가 있어요.|Allereugeuga isseoyo|Tôi bị dị ứng.
+97|계산서 주세요.|Gyesanseo juseyo|Cho tôi hóa đơn.
+98|맛있어요!|Masisseoyo!|Ngon quá!
+99|물 주세요.|Mul juseyo|Cho tôi nước.
+100|고기 빼주세요.|Gogi ppaejuseyo|Không có thịt.
+101|덜 맵게 해주세요.|Deol maepge haejuseyo|Làm ít cay hơn.
+102|따로따로 계산해 주세요.|Ttarottaro gyesanhae juseyo|Thanh toán riêng.
+103|예약하고 싶어요.|Yeyakhago sipeoyo|Tôi muốn đặt bàn.
+104|포장해 주세요.|Pojanghae juseyo|Gói mang về.
+105|오늘의 특별 메뉴는 뭐예요?|Oneulyi teukbyeol menyuneun mwoyeyo?|Hôm nay có món đặc biệt gì?
+106|이 요리가 뭐예요?|I yoriga mwoyeyo?|Món này là gì?
+107|접시 주세요.|Jeopsi juseyo|Cho tôi thêm đĩa.
+108|잠깐만 기다려 주세요.|Jamkkanman gidaryeo juseyo|Chờ một chút.
+109|정말 맛있었어요.|Jeongmal masisseotseoyo|Thực sự rất ngon.
+110|혼자세요?|Honjaseyo?|Bạn ăn một mình?
+## 6|Giao thông & Du lịch|교통 & 여행
+111|~까지 표 한 장 주세요.|~kkaji pyo han jang juseyo|Cho tôi một vé đến ~.
+112|기차는 몇 시에 출발해요?|Gichaneun myeot sie chulbalhaeyo?|Tàu xuất phát lúc mấy giờ?
+113|편도 표.|Pyeondo pyo|Vé một chiều.
+114|왕복 표.|Wangbok pyo|Vé khứ hồi.
+115|이 자리 비었어요?|I jari bieosseoyo?|Chỗ này có trống không?
+116|몇 번 플랫폼이에요?|Myeot beon peullaetpomieyo?|Sân ga số mấy?
+117|택시 불러 주세요.|Taeksi bulleo juseyo|Gọi taxi hộ tôi.
+118|이 주소로 가주세요.|I jusoro gajuseyo|Đưa tôi đến địa chỉ này.
+119|요금이 얼마예요?|Yogeumi eolmayeyo?|Giá vé bao nhiêu?
+120|비행기를 놓쳤어요.|Bihaenggireul notchyeosseoyo|Tôi lỡ máy bay.
+121|짐을 잃어버렸어요.|Jimeul ireobeoryeosseoyo|Tôi mất hành lý.
+122|체크인은 어디서 해요?|Cheukineun eodiseo haeyo?|Làm thủ tục ở đâu?
+123|환승해야 해요?|Hwanseunghaeya haeyo?|Có phải chuyển tuyến không?
+124|창가 자리 주세요.|Changgwa jari juseyo|Tôi muốn ghế cạnh cửa sổ.
+125|어디서 내려야 해요?|Eodiseo naeryeoya haeyo?|Tôi nên xuống ở đâu?
+126|직항 있어요?|Jikhang isseoyo?|Có chuyến bay thẳng không?
+127|다음 역은 어디예요?|Daeum yeogeun eodiyeyo?|Ga tiếp theo là đâu?
+128|지하철역이 어디에 있어요?|Jihacheolyeogi eodie isseoyo?|Ga tàu điện ngầm ở đâu?
+129|교통카드 사는 곳이 어디에요?|Gyotongkadeu saneun gosi eodieyo?|Chỗ mua thẻ giao thông ở đâu?
+130|공항까지 얼마나 걸려요?|Gonghanggaji eolmana geollyeoyo?|Đến sân bay mất bao lâu?
+## 7|Sức khỏe & Bệnh viện|건강 & 병원
+131|몸이 안 좋아요.|Momi an joayo|Tôi cảm thấy không khỏe.
+132|머리가 아파요.|Meoriga apayo|Tôi bị đau đầu.
+133|배가 아파요.|Baega apayo|Tôi bị đau bụng.
+134|열이 있어요.|Yeori isseoyo|Tôi bị sốt.
+135|의사 선생님을 만나고 싶어요.|Uisa seonsaengnimeul mannago sipeoyo|Tôi muốn gặp bác sĩ.
+136|구급차를 불러 주세요!|Gugeupchareul bulleo juseyo!|Gọi xe cấp cứu!
+137|아파요.|Apayo|Tôi đau.
+138|이 약에 알레르기가 있어요.|I yage allereugeuga isseoyo|Tôi dị ứng thuốc này.
+139|하루에 몇 번 먹어야 해요?|Harue myeot beon meogeoya haeyo?|Uống mấy lần một ngày?
+140|처방전 써 주세요.|Cheobangjeoneul sseo juseyo|Làm ơn kê đơn thuốc.
+141|예약하고 싶어요.|Yeyakhago sipeoyo|Tôi muốn đặt lịch hẹn.
+142|어디가 아파요?|Eoiga apayo?|Đau ở đâu?
+143|주사가 필요해요?|Jusaga piryohaeyo?|Có cần tiêm không?
+144|심각해요?|Simgakaeyo?|Có nghiêm trọng không?
+145|다리를 다쳤어요.|Darireul dachyeosseoyo|Tôi bị thương ở chân.
+146|목이 아파요.|Mogi apayo|Tôi đau họng.
+147|하루에 두 번 드세요.|Harue du beon deuseyo|Uống thuốc hai lần một ngày.
+148|좀 쉬세요.|Jom swiseyo|Hãy nghỉ ngơi một chút.
+149|입원해야 해요.|Ibwonhaeya haeyo|Phải nhập viện.
+150|빨리 나으세요.|Ppalli naeuseyo|Mau khỏe lại nhé.
+## 8|Công việc & Văn phòng|직장 & 사무실
+151|회의가 몇 시에 시작해요?|Hoeiga myeot sie sijakaeyo?|Cuộc họp bắt đầu lúc mấy giờ?
+152|보고서를 보내 주세요.|Bogoseoreul bonae juseyo|Gửi báo cáo cho tôi.
+153|오늘 늦을 것 같아요.|Oneul neujeul geot gatayo|Hôm nay tôi sẽ đến muộn.
+154|마감일이 내일이에요.|Magamilyi naeirieyo|Hạn chót là ngày mai.
+155|일정을 바꿀 수 있어요?|Iljeongeulyeul bakkul su isseoyo?|Có thể đổi lịch không?
+156|휴가를 내고 싶어요.|Hyugareul naego sipeoyo|Tôi muốn xin nghỉ phép.
+157|이 서류를 확인해 주세요.|I seoryureul hwaginhae juseyo|Kiểm tra tài liệu này.
+158|프린터가 고장났어요.|Peurinteoga gojangnaesseoyo|Máy in bị hỏng.
+159|오늘 면접이 있어요.|Oneul myeonjebi isseoyo|Hôm nay tôi có phỏng vấn.
+160|월급날이 언제예요?|Woregeugnari eonjeyeyo?|Ngày trả lương là khi nào?
+161|오늘 재택근무 할 수 있어요?|Oneul jaetaekgeunmu hal su isseoyo?|Hôm nay làm việc ở nhà được không?
+162|여기에 서명해 주세요.|Yeogie seomyeonghae juseyo|Ký vào đây.
+163|시스템이 다운됐어요.|Siseuteomi daundwaesseoyo|Hệ thống đang bị lỗi.
+164|다시 한번 설명해 주세요.|Dasi hanbeon seolmyeonghae juseyo|Giải thích lại một lần được không?
+165|나중에 연락할게요.|Najunge yeollakalgeoyo|Tôi sẽ liên lạc sau.
+166|화상 통화를 설정합시다.|Hwasang tonghwareul seoljeonghampsida|Hãy thiết lập cuộc gọi hội nghị.
+167|이 직책에 지원하고 싶어요.|I jikchage jiwonhago sipeoyo|Tôi muốn ứng tuyển vào vị trí này.
+168|이메일에 나를 참조해 주세요.|Imeile nareul chamjohae juseyo|Hãy CC tôi vào email.
+169|프로젝트는 예정대로예요.|Peurojekeuteuneun yejeongdaeroyeyo|Dự án đúng tiến độ.
+170|승진했어요!|Seungjinhesseoyo!|Tôi được thăng chức!
+## 9|Học tập & Giáo dục|학습 & 교육
+171|다시 한번 말해 주세요.|Dasi hanbeon malhae juseyo|Nói lại một lần nữa.
+172|이해가 안 돼요.|Ihaega an dwaeyo|Tôi không hiểu.
+173|좀 더 천천히 말해 주세요.|Jom deo cheoncheonhi malhae juseyo|Nói chậm hơn.
+174|어떻게 읽어요?|Eotteoke igeoyo?|Đọc như thế nào?
+175|이 단어가 무슨 뜻이에요?|I daneoga museun tteusieyo?|Từ này có nghĩa là gì?
+176|펜 빌려도 돼요?|Pen billyeodo dwaeyo?|Mượn bút được không?
+177|시험이 언제예요?|Siheomi eonjeyeyo?|Khi nào thi?
+178|더 공부해야 해요.|Deo gongbuhaeya haeyo|Phải học nhiều hơn.
+179|숙제 도와줄 수 있어요?|Sukje dowajul su isseoyo?|Giúp tôi làm bài tập được không?
+180|시험에 떨어졌어요.|Siheome tteoreojyeosseoyo|Tôi trượt thi.
+181|합격했어요!|Hapgyeokaesseoyo!|Tôi đậu rồi!
+182|도서관이 어디에 있어요?|Doseogwani eodie isseoyo?|Thư viện ở đâu?
+183|이 책 빌려도 돼요?|I chaek billyeodo dwaeyo?|Mượn quyển sách này được không?
+184|숙제 제출해 주세요.|Sukje jechulhae juseyo|Nộp bài tập.
+185|오늘 수업이 없어요.|Oneul sueobi eopseoyo|Hôm nay không có lớp.
+186|경제학을 전공하고 있어요.|Gyeongjehageul jeonggonghago isseoyo|Tôi học chuyên ngành kinh tế.
+187|학기가 언제 시작해요?|Hakgiga eonje sijakaeyo?|Học kỳ bắt đầu khi nào?
+188|장학금에 지원하고 싶어요.|Janghakgeume jiwonhago sipeoyo|Tôi muốn đăng ký học bổng.
+189|이것은 시험에 나와요?|Igeoseun siheome nawayo?|Cái này có trong bài kiểm tra không?
+190|지금 몇 챕터예요?|Jigeum myeot chaepteoyeyo?|Hiện đang học chương mấy?
+## 10|Điện thoại & Công nghệ|전화 & 기술
+191|전화 좀 빌려도 될까요?|Jeonhwa jom billyeodo doelkkayo?|Mượn điện thoại được không?
+192|휴대폰 배터리가 없어요.|Hyudaepone baeteoriga eopseoyo|Điện thoại hết pin.
+193|여기서 충전할 수 있어요?|Yeogiseo chungjeonhal su isseoyo?|Sạc điện ở đây được không?
+194|와이파이 있어요?|Waipai isseoyo?|Có Wi-Fi không?
+195|와이파이 비밀번호가 뭐예요?|Waipai bimilbeonhoga mwoyeyo?|Mật khẩu Wi-Fi là gì?
+196|컴퓨터가 고장났어요.|Keompyuteoga gojangnaesseoyo|Máy tính bị hỏng.
+197|문자 보내 주세요.|Munja bonae juseyo|Gửi tin nhắn.
+198|나중에 다시 전화할게요.|Najunge dasi jeonhwahalgeoyo|Tôi sẽ gọi lại.
+199|들려요?|Deullyeoyo?|Bạn có nghe thấy không?
+200|이메일 보낼게요.|Imeileul bonaelgeyo|Tôi sẽ gửi email.
+201|인터넷이 느려요.|Inteonesyi neulyeoyo|Internet chậm.
+202|비밀번호를 잊어버렸어요.|Bimilbeonhoreul ijeobeoryeosseoyo|Tôi quên mật khẩu.
+203|어떻게 다운로드해요?|Eotteoke daulloduhaeyo?|Tải về như thế nào?
+204|휴대폰이 멈췄어요.|Hyudaeponi meomchwosseoyo|Điện thoại bị đơ.
+205|영상 통화 할 수 있어요?|Yeongsang tonghwa hal su isseoyo?|Gọi video được không?
+206|프린터가 연결이 안 돼요.|Peurinteoga yeongyeori an dwaeyo|Máy in không kết nối được.
+207|앱을 설치해 주세요.|Apeul seolchihae juseyo|Cài app này được không?
+208|웹사이트가 안 열려요.|Wepsaiteura an yeollyeoyo|Không mở được trang web.
+209|신호가 안 잡혀요.|Sinhoga an japhyeoyo|Không có sóng.
+210|문자를 남겨 주세요.|Munjareul namgyeo juseyo|Để lại tin nhắn.
+## 11|Cảm xúc & Trạng thái|감정 & 상태
+211|기뻐요.|Gippeoyo|Tôi vui.
+212|슬퍼요.|Seulpeoyo|Tôi buồn.
+213|피곤해요.|Pigonhaeyo|Tôi mệt.
+214|배고파요.|Baegopayo|Tôi đói.
+215|목말라요.|Mongmallayo|Tôi khát.
+216|심심해요.|Simsimhaeyo|Tôi chán.
+217|신나요!|Sinnayo!|Tôi hào hứng!
+218|긴장돼요.|Ginjangdwaeyo|Tôi hồi hộp.
+219|화가 났어요.|Hwaga nasseoyo|Tôi tức giận.
+220|헷갈려요.|Hetgallyeoyo|Tôi bối rối.
+221|놀랐어요.|Nollasseoyo|Tôi ngạc nhiên.
+222|실망했어요.|Silmanghaesseoyo|Tôi thất vọng.
+223|감사해요.|Gamsahaeyo|Tôi biết ơn.
+224|당신이 자랑스러워요.|Dangsini jarangseureowoyo|Tôi tự hào về bạn.
+225|외로워요.|Oerowoyo|Tôi cô đơn.
+226|오늘 기분이 좋아요.|Oneul gibuni joayo|Hôm nay tôi cảm thấy tốt.
+227|스트레스를 받아요.|Seuteureseureul badayo|Tôi đang bị căng thẳng.
+228|기분이 좋아요.|Gibuni joayo|Tôi cảm thấy tốt.
+229|걱정이 돼요.|Geokjeong doeyo|Tôi đang lo lắng.
+230|웃음이 나와요.|Useumi nawayo|Tôi không nhịn cười được.
+## 12|Thời tiết|날씨
+231|오늘 날씨가 어때요?|Oneul nalssiga eottaeyo?|Thời tiết hôm nay thế nào?
+232|맑아요.|Malgayo|Trời nắng.
+233|비가 와요.|Biga wayo|Đang mưa.
+234|오늘 많이 추워요.|Oneul manhi chuwoyo|Hôm nay rất lạnh.
+235|덥고 습해요.|Deobgo seupaeyo|Nóng và ẩm.
+236|태풍이 오고 있어요.|Taepungi ogo isseoyo|Có bão đang đến.
+237|내일 비가 올까요?|Naeil biga olkkayo?|Ngày mai có mưa không?
+238|눈이 와요.|Nuni wayo|Đang có tuyết rơi.
+239|우산 챙겨 가세요.|Usan chaenggyeo gaseyo|Mang ô theo nhé.
+240|날씨가 좋네요.|Nalssiga jonneyo|Thời tiết đẹp nhỉ.
+241|바람이 불어요.|Barami bureoyo|Trời có gió.
+242|안개가 짙어요.|Angaega jiteoyo|Sương mù dày.
+243|많이 추워요.|Manhi chuwoyo|Rất lạnh.
+244|오늘 기온이 몇 도예요?|Oneul gioni myeot doyeyo?|Nhiệt độ hôm nay là bao nhiêu?
+245|무지개가 떴어요!|Mujigaega tteodseoyo!|Có cầu vồng!
+246|일기 예보에서 비가 온다고 해요.|Ilgi yeboeseo biga ondago haeyo|Dự báo thời tiết nói sẽ có mưa.
+247|하늘이 흐려요.|Haneuri heulyeoyo|Trời âm u.
+248|하늘이 맑아요.|Haneuri malgayo|Bầu trời trong xanh.
+249|눈이 쌓여요.|Nuni ssahyeoyo|Tuyết đang tích tụ.
+250|정말 좋은 날씨네요!|Jeongmal joeun nalssineyo!|Thật là ngày đẹp trời!
+## 13|Gia đình & Mối quan hệ|가족 & 인간관계
+251|형제자매가 있어요?|Hyeongjejamae isseoyo?|Bạn có anh chị em không?
+252|남동생이 두 명 있어요.|Namdongsaengi du myeong isseoyo|Tôi có hai em trai.
+253|결혼하셨어요?|Gyeolhonhasyeosseoyo?|Bạn đã kết hôn chưa?
+254|미혼이에요.|Mihoniieyo|Tôi còn độc thân.
+255|자녀가 몇 명이에요?|Janyeoga myeot myeongiieyo?|Bạn có mấy con?
+256|부모님이 은퇴하셨어요.|Bumonimi euntoehasyeosseoyo|Bố mẹ tôi đã về hưu.
+257|가족이 보고 싶어요.|Gajogi bogo sipeoyo|Tôi nhớ gia đình.
+258|내년에 결혼해요.|Naenyeone gyeolhonhaeyo|Chúng tôi sẽ kết hôn vào năm tới.
+259|그녀는 제 여자친구예요.|Geunyeoneun je yeojachinguyeyo|Cô ấy là bạn gái tôi.
+260|그는 제 남편이에요.|Geuneun je nampyeoniieyo|Anh ấy là chồng tôi.
+261|우리는 공통점이 많아요.|Urineun gongtongjeomi manayo|Chúng tôi có nhiều điểm chung.
+262|하노이에서 자랐어요.|Hanoieseo jarasseoyo|Tôi lớn lên ở Hà Nội.
+263|할머니가 연로하세요.|Halmeoniga yeollohaseyo|Bà tôi rất cao tuổi.
+264|우리는 친한 친구예요.|Urineun chinhan chinguyeyo|Chúng tôi là bạn thân.
+265|그녀는 제 언니 같아요.|Geunyeoneun je eonni gatayo|Cô ấy như chị gái của tôi.
+266|헤어졌어요.|Heeeojyeosseoyo|Chúng tôi chia tay.
+267|아기를 기다리고 있어요.|Agireul gidarigo isseoyo|Họ đang chờ đón em bé.
+268|아들이 다섯 살이에요.|Adeuri daseot sariieyo|Con trai tôi năm tuổi.
+269|외동이에요.|Oedongieyo|Tôi là con một.
+270|가족이 가장 중요해요.|Gajogi gajang jungyohaeyo|Gia đình là trên hết.
+## 14|Sở thích & Hoạt động|취미 & 활동
+271|여가 시간에 뭐해요?|Yeoga sigane mwohaeyo?|Rảnh bạn làm gì?
+272|책 읽는 걸 좋아해요.|Chaek ingneun geol joahaeyo|Tôi thích đọc sách.
+273|음악 듣는 걸 정말 좋아해요.|Eumak deunneun geol jeongmal joahaeyo|Tôi rất thích nghe nhạc.
+274|운동해요?|Undonghaeyo?|Bạn có chơi thể thao không?
+275|매일 아침 조깅해요.|Maeil achim joginghaeyo|Tôi chạy bộ mỗi sáng.
+276|영화 보는 걸 좋아해요.|Yeonghwa boneun geol joahaeyo|Tôi thích xem phim.
+277|요리를 배우고 있어요.|Yorireul baeygo isseoyo|Tôi đang học nấu ăn.
+278|여행을 좋아해요.|Yeohaengeul joahaeyo|Tôi thích du lịch.
+279|기타를 쳐요.|Gitareul chyeoyo|Tôi chơi đàn guitar.
+280|그림 그리는 걸 좋아해요.|Geurim geurineun geol joahaeyo|Tôi thích vẽ.
+281|일주일에 세 번 요가해요.|Iljuire se beon yogahaeyo|Tôi tập yoga ba lần một tuần.
+282|축구를 열정적으로 좋아해요.|Chukgureul yeoljeongjeogeuro joahaeyo|Tôi rất mê bóng đá.
+283|자연에서 하이킹하는 걸 좋아해요.|Jayeoneseo haikinganeun geol joahaeyo|Tôi thích đi bộ trong tự nhiên.
+284|게임에 많은 시간을 써요.|Geime manheun siganeul sseoyo|Tôi dành nhiều thời gian chơi game.
+285|우표를 모아요.|Upyoreul moayo|Tôi sưu tập tem.
+286|사진 찍는 걸 좋아해요.|Sajin jjingneun geol joahaeyo|Tôi thích chụp ảnh.
+287|매주 주말에 수영해요.|Maeju jumare suyeonghaeyo|Tôi bơi mỗi cuối tuần.
+288|댄스 교실에 다녀요.|Daenseu gyosirye danyeoyo|Tôi học lớp nhảy.
+289|정원 가꾸기를 좋아해요.|Jeongwon gakkugireul joahaeyo|Tôi thích làm vườn.
+290|봉사활동을 좋아해요.|Bongsahwaldong joahaeyo|Tôi thích tình nguyện.
+## 15|Hẹn hò & Kế hoạch|약속 & 계획
+291|오늘 저녁에 시간 있어요?|Oneul jeonyeoge sigan isseoyo?|Tối nay bạn rảnh không?
+292|저녁 식사 하러 갈래요?|Jeonyeok siksa hareo gallaeyo?|Đi ăn tối không?
+293|일곱 시에 만나요.|Ilgop sie mannayo|Gặp nhau lúc bảy giờ nhé.
+294|어디서 만날까요?|Eodiseo mannalkkayo?|Gặp nhau ở đâu nhé?
+295|십 분 후에 도착해요.|Sip bun hue dochakaeyo|Mười phút nữa đến.
+296|내일로 바꿀 수 있어요?|Naeillo bakkul su isseoyo?|Chuyển sang ngày mai được không?
+297|죄송해요, 못 갈 것 같아요.|Joesonghaeyo, mot gal geot gatayo|Xin lỗi, tôi không thể đến được.
+298|영화 보러 가요.|Yeonghwa boreo gayo|Đi xem phim nhé.
+299|언제가 편해요?|Eonjega pyeonhaeyo?|Khi nào tiện cho bạn?
+300|여덟 시에 데리러 갈게요.|Yeodeol sie deripeo galgeyo|Tôi đón bạn lúc tám giờ.
+301|늦지 마세요!|Neutji maseyo!|Đừng đến muộn!
+302|커피 마시러 가요.|Keopi masireo gayo|Đi uống cà phê nhé.
+303|파티에 와요?|Patie wayo?|Bạn có đến bữa tiệc không?
+304|나중에 합류할게요.|Najunge hamnyuhalgeoyo|Tôi đến sau.
+305|저녁 여덟 시부터예요.|Jeonyeok yeodeol sibuteoyeyo|Bắt đầu lúc tám giờ tối.
+306|이미 약속이 있어요.|Imi yakssogi isseoyo|Tôi đã có kế hoạch rồi.
+307|다음 주에 해요.|Daeum jue haeyo|Để tuần sau nhé.
+308|좋은 계획이에요!|Joeun gyehoegieyo!|Kế hoạch tốt đó!
+309|기대하고 있어요.|Gidaehago isseoyo|Tôi rất mong đợi.
+310|그때 봐요!|Geuttae bwayo!|Hẹn gặp nhé!
+## 16|Ý kiến & Quan điểm|의견 & 관점
+311|제 의견으로는.|Je uigyeoneuroneun|Theo ý kiến của tôi.
+312|~라고 생각해요.|~rago saenggakaeyo|Tôi nghĩ rằng ~.
+313|동의해요.|Donguihaeyo|Tôi đồng ý.
+314|동의하지 않아요.|Donguihaji anayo|Tôi không đồng ý.
+315|좋은 지적이에요.|Joeun jijeogieyo|Điểm tốt đó.
+316|그 말이 맞아요.|Geu mari majayo|Đúng như bạn nói.
+317|그건 좀 다른 것 같아요.|Geugeon jom dareun geot gatayo|Cái đó có vẻ hơi khác.
+318|생각해볼게요.|Saenggakaebolgeyo|Để tôi suy nghĩ.
+319|말이 돼요.|Mari dwaeyo|Điều đó có lý.
+320|완전히 동의해요.|Wanjeonhi donguihaeyo|Tôi hoàn toàn đồng ý.
+321|솔직히 말하면.|Soljikhi malhamyeon|Thành thật mà nói.
+322|제 관점에서는.|Je gwanjeomeseuneun|Theo góc nhìn của tôi.
+323|그건 사람마다 달라요.|Geugeon saramada dallayo|Điều đó tùy từng người.
+324|간단하게 말할 수 없어요.|Gandanahage malhal su eopseoyo|Không thể nói đơn giản như vậy.
+325|좋은 논점이에요.|Joeun nonjeomieyo|Lập luận tốt nhỉ.
+326|그런 식으로 생각해본 적 없어요.|Geureon sigeuro saenggakaebon jeok eopseoyo|Tôi chưa nghĩ theo cách đó.
+327|이것에 대해 어떻게 생각해요?|Igeose daehae eotteoke saenggakaeyo?|Bạn nghĩ gì về điều này?
+328|좀 더 생각해볼게요.|Jom deo saenggakaebolgeyo|Cho tôi suy nghĩ thêm.
+329|~라고 믿어요.|~rago mideoyo|Tôi tin rằng ~.
+330|그건 잘못된 것 같아요.|Geugeon jalmotdoen geot gatayo|Tôi nghĩ điều đó sai.
+## 17|Khẩn cấp & An toàn|긴급상황 & 안전
+331|도와주세요!|Dowajuseyo!|Cứu tôi với!
+332|경찰을 불러 주세요!|Gyeongchareul bulleo juseyo!|Gọi cảnh sát!
+333|사고가 났어요.|Sagoga nasseoyo|Đã xảy ra tai nạn.
+334|다친 사람이 있어요?|Dachin sarami isseoyo?|Có ai bị thương không?
+335|즉시 도움이 필요해요.|Jeuksi doumi piryohaeyo|Tôi cần giúp đỡ ngay.
+336|움직이지 마세요!|Umjigiji maseyo!|Đừng cử động!
+337|위험해요!|Wiheomhaeyo!|Nguy hiểm!
+338|소매치기를 당했어요.|Somaechigireul danghaesseoyo|Tôi bị móc túi.
+339|지갑을 잃어버렸어요.|Jigabeul ireobeoryeosseoyo|Tôi mất ví.
+340|여권을 도둑맞았어요.|Yeokwoneul dodungnajasseoyo|Hộ chiếu bị đánh cắp.
+341|불이야!|Buriya!|Cháy!
+342|건물에서 나가세요!|Geonmureoseo nagaseyo!|Thoát khỏi tòa nhà!
+343|비상구가 어디에 있어요?|Bisangguga eodie isseoyo?|Lối thoát khẩn cấp ở đâu?
+344|대사관에 연락해야 해요.|Daesagwane yeollakaeya haeyo|Tôi phải liên hệ đại sứ quán.
+345|침착하세요.|Chimchakaseyo|Bình tĩnh lại.
+346|사고를 당했어요.|Sagoreul danghaesseoyo|Tôi vừa gặp tai nạn.
+347|여기에 의사 선생님 있어요?|Yeogie uisa seonsaengnim isseoyo?|Ở đây có bác sĩ không?
+348|도움을 불러줄 수 있어요?|Doumeul bulleojul su isseoyo?|Gọi giúp đỡ được không?
+349|당황하지 마세요.|Danghwangaji maseyo|Đừng hoảng loạn.
+350|그 사람한테서 멀리 가세요.|Geu saramhanteseo meolli gaseyo|Tránh xa người đó.
+## 18|Thời gian & Lịch|시간 & 달력
+351|지금 몇 시예요?|Jigeum myeot siyeyo?|Bây giờ là mấy giờ?
+352|세 시예요.|Se siyeyo|Ba giờ.
+353|오늘 무슨 요일이에요?|Oneul museun yoiriieyo?|Hôm nay là thứ mấy?
+354|오늘은 월요일이에요.|Oneureun woryoiriieyo|Hôm nay là thứ Hai.
+355|오늘 날짜가 어떻게 돼요?|Oneul naljjaga eotteoke dwaeyo?|Hôm nay là ngày mấy?
+356|4월 15일이에요.|Sawol siboiriieyo|Ngày mười lăm tháng Tư.
+357|다음 주에 또 봐요.|Daeum jue tto bwayo|Tuần sau gặp lại nhé.
+358|한 시간 후에 회의가 있어요.|Han sigan hue hoeiga isseoyo|Một tiếng nữa có cuộc họp.
+359|금방 돌아올게요.|Geumbang doraolgeoyo|Tôi sẽ quay lại ngay.
+360|1995년에 태어났어요.|Cheongubaekgusibo nyeone taeeonasseoyo|Tôi sinh năm 1995.
+361|곧 자정이에요.|Got jajeongiieyo|Gần nửa đêm rồi.
+362|가게가 아홉 시에 열어요.|Gagega ahop sie yeoreoyo|Cửa hàng mở lúc chín giờ.
+363|정오 전에 도착할게요.|Jeongo jeone dochakalgeyo|Đến trước buổi trưa.
+364|이른 아침에 만날 수 있어요?|Ireun achime mannal su isseoyo?|Có thể gặp sáng sớm không?
+365|작년 일이에요.|Jangnyeon irieyo|Chuyện năm ngoái.
+366|오늘 안에 끝낼게요.|Oneul ane kkeunnaelgeyo|Hoàn thành trong hôm nay.
+367|시간이 충분해요.|Sigani chungbunhaeyo|Thời gian rất dư dả.
+368|시간이 정말 빠르네요.|Sigani jeongmal ppareyneyo|Thời gian trôi nhanh nhỉ.
+369|늦고 있어요.|Neutgo isseoyo|Tôi đang trễ.
+370|제때 와 주세요.|Jettae wa juseyo|Hãy đến đúng giờ.
+## 19|Nhà ở & Ngân hàng|주거 & 금융
+371|전세예요, 자가예요?|Jeonseyeyo, jagayeyo?|Bạn thuê hay sở hữu nhà?
+372|월세가 얼마예요?|Wollsega eolmayeyo?|Tiền thuê nhà là bao nhiêu?
+373|가구가 있어요?|Gaguga isseoyo?|Có nội thất không?
+374|룸메이트를 찾고 있어요.|Rummeiteureul chatgo isseoyo|Tôi đang tìm người ở chung.
+375|난방이 고장났어요.|Nanbange gojangnaesseoyo|Máy sưởi bị hỏng.
+376|몇 층이에요?|Myeot cheungiieyo?|Ở tầng mấy?
+377|주차장이 포함돼요?|Juchajangyi pohamdwaeyo?|Có chỗ đỗ xe không?
+378|파이프에서 물이 새요.|Paipeuseo muri saeyo|Ống nước đang rò rỉ.
+379|침실이 몇 개예요?|Chamsiri myeot gaeyeyo?|Có mấy phòng ngủ?
+380|이 동네는 조용해요.|I dongneneun joyonghaeyo|Khu phố này yên tĩnh.
+381|계좌를 개설하고 싶어요.|Gyejwareul gaeseorhago sipeoyo|Tôi muốn mở tài khoản.
+382|돈을 이체하고 싶어요.|Doneul ichaehago sipeoyo|Tôi muốn chuyển tiền.
+383|잔액을 알고 싶어요.|Janaekeul algo sipeoyo|Tôi muốn biết số dư.
+384|현금을 인출하고 싶어요.|Hyeongeumeul inchulhago sipeoyo|Tôi muốn rút tiền.
+385|가장 가까운 ATM이 어디에 있어요?|Gajang gakkaun ATMi eodie isseoyo?|ATM gần nhất ở đâu?
+386|카드가 거절됐어요.|Kadeura geojeoldwaesseoyo|Thẻ bị từ chối.
+387|환율이 얼마예요?|Hwanyuri eolmayeyo?|Tỷ giá là bao nhiêu?
+388|할부로 낼 수 있어요?|Halburo nael su isseoyo?|Có thể trả góp không?
+389|이자율이 얼마예요?|Ijayuri eolmayeyo?|Lãi suất là bao nhiêu?
+390|수수료가 있어요?|Susuryoga isseoyo?|Có phí giao dịch không?
+## 20|Diễn đạt hàng ngày|일상 표현
+391|정말요?|Jeongmalyo?|Thật sao?
+392|말도 안 돼요!|Maldo an dwaeyo!|Không thể nào!
+393|농담이에요?|Nongdamieyo?|Bạn đùa à?
+394|대단해요!|Daedanhaeyo!|Tuyệt vời!
+395|정말 끔찍해요.|Jeongmal kkeumjjikaeyo|Thật kinh khủng.
+396|잘했어요!|Jalhaesseoyo!|Làm tốt lắm!
+397|행운을 빌어요!|Haenguneul bireoyo!|Chúc may mắn!
+398|조심하세요!|Josimhaseyo!|Bảo trọng!
+399|좋은 하루 보내세요!|Joeun haru bonaeseyo!|Chúc một ngày tốt lành!
+400|당신도요!|Dangsindo yo!|Bạn cũng vậy nhé!
+401|안타깝네요!|Antakkapneyo!|Thật đáng tiếc!
+402|믿을 수가 없어요!|Mideul suga eopseoyo!|Tôi không thể tin được!
+403|맞아요.|Majayo|Bạn đúng rồi.
+404|신경 쓰지 마세요.|Singyeong sseuji maseyo|Đừng bận tâm.
+405|당신한테 달려 있어요.|Dangsinhante dallyeo isseoyo|Tùy bạn thôi.
+406|전혀 모르겠어요.|Jeonhyeo moreugeseoyo|Tôi không có ý kiến gì.
+407|알겠어요!|Algesseoyo!|Hiểu rồi!
+408|가자!|Gaja!|Đi thôi!
+409|물론이죠.|Mullonjyo|Tất nhiên.
+410|괜찮아요, 문제없어요.|Gwaenchanayo, munjeeoyo|Không sao, không có vấn đề.
+## 21|Câu nâng cao & Phức tạp|고급 표현
+411|제 말은 ~라는 뜻이에요.|Je mareun ~raneun tteusieyo|Điều tôi muốn nói là ~.
+412|다시 말해서.|Dasi malhaeseo|Nói cách khác.
+413|예를 들면.|Yereul deulmyeon|Ví dụ như.
+414|즉, ~입니다.|Jeuk, ~imnida|Tức là ~.
+415|요약하자면.|Yoyakajamyeon|Tóm lại.
+416|그런데.|Geuronde|Tuy nhiên.
+417|반면에.|Banmyeone|Mặt khác.
+418|결과적으로.|Gyeolgwajeogeuro|Do đó.
+419|일반적으로 말하면.|Ilbanjeogeuro malhamyeon|Nói chung.
+420|우선.|Useon|Trước tiên.
+421|게다가.|Gedaga|Ngoài ra.
+422|반대로.|Bandaero|Trái lại.
+423|말할 것도 없이.|Malhal geotdo eopssi|Không cần phải nói thì cũng biết.
+424|주목할 것은.|Jumokhal geoseun|Đáng chú ý là.
+425|제가 아는 한.|Jega aneun han|Theo như tôi biết.
+426|그런 의미에서.|Geureon uimieseo|Theo nghĩa đó.
+427|모든 것을 고려하면.|Modeun geoseul goryeohamyeon|Xét tất cả.
+428|자주.|Jaju|Thường thì.
+429|의심할 여지 없이.|Uisimhal yeoji eopssi|Không còn nghi ngờ gì.
+430|간단히 말해서.|Gandanhi malhaeseo|Nói ngắn gọn.
+## 22|Văn hóa Hàn Quốc|한국 문화
+431|한국 문화를 좋아해요.|Hanguk munhwareul joahaeyo|Tôi thích văn hóa Hàn Quốc.
+432|한복이 정말 아름다워요.|Hanbogi jeongmal areumdawoyo|Hanbok thật đẹp.
+433|김치를 정말 좋아해요.|Gimchireul jeongmal joahaeyo|Tôi rất thích kimchi.
+434|비빔밥이 맛있어요.|Bibimbabi masisseoyo|Bibimbap rất ngon.
+435|삼겹살을 먹고 싶어요.|Samgyeopssareul meokgo sipeoyo|Tôi muốn ăn thịt ba chỉ nướng.
+436|한국 드라마를 좋아해요.|Hanguk deuramareul joahaeyo|Tôi thích phim Hàn Quốc.
+437|K-POP을 들어요.|K-POPeul deulleoyo|Tôi nghe K-POP.
+438|한국어를 배우고 있어요.|Hangugeo baeygo isseoyo|Tôi đang học tiếng Hàn.
+439|서울에 가보고 싶어요.|Seoure gabogo sipeoyo|Tôi muốn đến Seoul.
+440|한국 음식이 정말 맛있어요.|Hanguk eumsigi jeongmal masisseoyo|Ẩm thực Hàn Quốc rất ngon.
+441|찜질방에 가고 싶어요.|Jjimjilbange gago sipeoyo|Tôi muốn đến jjimjilbang (phòng xông hơi).
+442|노래방에 가요.|Noraebange gayo|Đi noraebang (karaoke) nhé.
+443|PC방이 재미있어요.|PC bange jaemiisseoyo|PC bang (quán net) rất vui.
+444|한국 사람들은 정말 친절해요.|Hanguk saramdeureun jeongmal chinjeolhaeyo|Người Hàn Quốc rất thân thiện.
+445|빨리빨리 문화가 있어요.|Ppallippalli munhwaga isseoyo|Có văn hóa "nhanh nhanh".
+446|눈치가 중요해요.|Nunchiga jungyohaeyo|Nhận thức tình huống rất quan trọng.
+447|한국의 사계절이 아름다워요.|Hangugyeui sagyejeori areumdawoyo|Bốn mùa của Hàn Quốc thật đẹp.
+448|추석에 가족이 모여요.|Chuseoge gajogi moyeoyo|Gia đình sum họp vào Chuseok.
+449|설날에 세뱃돈을 받아요.|Seolnare sebaetdoneul badayo|Nhận tiền lì xì vào năm mới.
+450|한국의 야경이 정말 아름다워요.|Hangugye yagyeongi jeongmal areumdawoyo|Cảnh đêm của Hàn Quốc thật đẹp.
+## 23|Học tiếng Hàn|한국어 공부
+451|한국어를 공부하고 있어요.|Hangugeo gongbuhago isseoyo|Tôi đang học tiếng Hàn.
+452|한국어는 어렵지만 재미있어요.|Hangugeoneun oryeopjiman jaemiisseoyo|Tiếng Hàn khó nhưng thú vị.
+453|더 연습해야 해요.|Deo yeonseupaeya haeyo|Phải luyện tập nhiều hơn.
+454|한글을 배웠어요.|Hangeulieul baewosseoyo|Tôi đã học bảng chữ cái Hangul.
+455|TOPIK 시험을 준비하고 있어요.|TOPIK siheomeul junbihago isseoyo|Tôi đang chuẩn bị thi TOPIK.
+456|한국 드라마로 공부해요.|Hanguk deuramaro gongbuhaeyo|Tôi học qua phim Hàn Quốc.
+457|K-POP 때문에 한국어를 시작했어요.|K-POP ttaemune hangugeo sijakkaeosseoyo|Tôi bắt đầu học tiếng Hàn vì K-POP.
+458|웹툰을 한국어로 읽어요.|Webttuneul hangugeo ilgeoyo|Tôi đọc webtoon bằng tiếng Hàn.
+459|한국인 친구를 사귀고 싶어요.|Hangugin chingureul saguigo sipeoyo|Tôi muốn kết bạn với người Hàn.
+460|언어 교환 파트너를 찾고 있어요.|Eoneo gyohwan pateuneoreul chatgo isseoyo|Tôi đang tìm đối tác trao đổi ngôn ngữ.
+461|실수를 두려워하지 않아요.|Silsureul duryeoworaji anayo|Tôi không sợ mắc lỗi.
+462|자신감 있게 말해요.|Jasingam itge malhaeyo|Nói tự tin nhé.
+463|작은 발전도 좋아요.|Jageun baljeonbdo joayo|Tiến bộ nhỏ cũng tốt.
+464|어제보다 조금 나아졌어요.|Eojeboda jogeum naajyeosseoyo|Tôi tốt hơn một chút so với hôm qua.
+465|한국어는 어렵지만 포기하지 않아요.|Hangugeoneun oryeopjiman pogihaji anayo|Tiếng Hàn khó nhưng tôi không bỏ cuộc.
+466|전달하는 것이 중요해요.|Jeondalaneun geosi jungyohaeyo|Điều quan trọng là truyền đạt được.
+467|조금씩 나아지고 있어요.|Jogeumssik naajigo isseoyo|Đang dần dần tiến bộ.
+468|원어민과 이야기하고 싶어요.|Woneomingwa iyagihago sipeoyo|Tôi muốn nói chuyện với người bản ngữ.
+469|한국어 학원에 다녀요.|Hangugeo hagwone danyeoyo|Tôi đang theo học viện tiếng Hàn.
+470|매일 새로운 단어를 하나 외워요.|Maeil saeroun danoeoreul hana oeweoyo|Mỗi ngày học một từ mới.
+## 24|Cảm xúc sâu sắc & Triết lý|깊은 감정 & 철학
+471|자신을 믿어요.|Jasineul mideoyo|Hãy tin vào bản thân.
+472|당신은 할 수 있어요.|Dangsineun hal su isseoyo|Bạn nhất định làm được.
+473|포기하지 마세요, 거의 다 왔어요.|Pogihaji maseyo, georui da wasseoyo|Đừng bỏ cuộc, chỉ còn một chút nữa.
+474|실패를 두려워하지 마세요.|Silpaereul duryeoworaji maseyo|Đừng sợ thất bại.
+475|매일이 새로운 시작이에요.|Maeriri saeroun sijagiieyo|Mỗi ngày là một khởi đầu mới.
+476|지금의 당신으로 충분해요.|Jigeumye dangsineuro chungbunhaeyo|Bạn hiện tại là đủ rồi.
+477|당신은 혼자가 아니에요.|Dangsineun honjaga anieyo|Bạn không cô đơn.
+478|있는 그대로의 당신이 좋아요.|Inneun geudaeroyeui dangsini joayo|Tôi thích bạn như bạn vốn là.
+479|자신의 장점을 찾아보세요.|Jasinye jangjeomeul chatabo seyo|Hãy tìm ra điểm tốt của bản thân.
+480|모든 사람은 특별한 존재예요.|Modeun sarameun teukbyeolhan jonjaeyeyo|Mỗi người đều là sự tồn tại đặc biệt.
+481|웃음을 잊지 마세요.|Useumeul itji maseyo|Đừng quên nụ cười.
+482|생명을 소중히 여기세요.|Saengmyeongeul sojunghi yeogiseyo|Hãy trân trọng sinh mệnh.
+483|친절한 세상을 만들어요.|Chinjeolhan sesangeul mandeuleoyo|Hãy tạo ra một thế giới tử tế.
+484|작은 행동이 세상을 바꿔요.|Jageun haengdongyi sesangeul bakkwoyo|Hành động nhỏ thay đổi thế giới.
+485|모두 함께.|Modu hamkke|Tất cả cùng nhau.
+486|내일도 좋은 날이 되길.|Naeildo joeun nari doegil|Mong ngày mai cũng là ngày tốt lành.
+487|꿈은 계속돼요.|Kkumeun gyesoktdwaeyo|Giấc mơ tiếp tục.
+488|언어는 마음의 거울이에요.|Eoneo maumeui georuriieyo|Ngôn ngữ là gương phản chiếu tâm hồn.
+489|한국어로 꿈을 이루겠어요.|Hangugero kkumeul irugessseoyo|Tôi sẽ thực hiện ước mơ bằng tiếng Hàn.
+490|언제나 배움을 멈추지 않겠어요.|Eonjena baeumeul meomchuji angessseoyo|Tôi sẽ mãi mãi không ngừng học hỏi.
+## 25|Câu tổng hợp|종합 표현
+491|마지막으로.|Majimageuro|Cuối cùng.
+492|요약하면.|Yoyakahamyeon|Tóm lại.
+493|결론적으로.|Gyeollonjeogeuro|Kết luận lại.
+494|이 경험에서 배운 것은.|I gyeongheomeseo baeun geoseun|Điều tôi học được từ kinh nghiệm này.
+495|돌이켜보면.|Dorikkeoremyeon|Nhìn lại thì.
+496|가장 중요한 것은.|Gajang jungyohan geoseun|Điều quan trọng nhất là.
+497|모든 것을 고려하면.|Modeun geoseul goryeohamyeon|Xét tất cả.
+498|끝맺음으로.|Kkeunmajeeumeuro|Để kết lại.
+499|처음부터 끝까지, 감사합니다.|Cheoeumeuro kkeudkkaji, gamsahamnida|Từ đầu đến cuối, cảm ơn.
+500|한국어와 함께 멋진 인생을.|Hangugeowa hamkke meotjin insaengeul|Cuộc đời tươi đẹp cùng tiếng Hàn.
+## 26|Câu hội thoại thực tế|실제 대화
+501|어디 사세요?|Eodi saseyo?|Bạn sống ở đâu?
+502|서울에 살아요.|Seoure sarayo|Tôi sống ở Seoul.
+503|한국에 온 지 얼마나 됐어요?|Hankuge on ji eolmana dwaesseoyo?|Bạn đến Hàn được bao lâu?
+504|화장실이 어디에요?|Hwajangsili eodieyo?|Nhà vệ sinh ở đâu?
+505|영어 할 줄 알아요?|Yeongeo hal jul arayo?|Bạn nói được tiếng Anh không?
+506|한국어밖에 못 해요.|Hangugeobakke mot haeyo|Tôi chỉ nói được tiếng Hàn.
+507|뜻을 모르겠어요.|Tteuseul moreugessseoyo|Tôi không hiểu nghĩa.
+508|어떻게 읽어요?|Eotteoke ilgeoyo?|Đọc như thế nào?
+509|한글을 읽을 수 없어요.|Hangeulieul ilgeul su eopseoyo|Tôi không đọc được Hangul.
+510|한국에 처음 왔어요.|Hankuge cheoeum wasseoyo|Tôi đến Hàn lần đầu tiên.
+511|무엇을 하고 싶어요?|Mueoseul hago sipeoyo?|Bạn muốn làm gì?
+512|이름이 뭐예요?|Ireumi mwoyeyo?|Tên bạn là gì?
+513|나이가 어떻게 되세요?|Naiga eotteoke dweseyo?|Bạn bao nhiêu tuổi?
+514|스물세 살이에요.|Seumulse sariieyo|Tôi hai mươi ba tuổi.
+515|직업이 뭐예요?|Jigeobi mwoyeyo?|Nghề nghiệp của bạn là gì?
+516|학생이에요.|Haksaengiieyo|Tôi là sinh viên.
+517|회사원이에요.|Hwesawoniieyo|Tôi là nhân viên công ty.
+518|프리랜서예요.|Peurilaenseoyeyo|Tôi là freelancer.
+519|선생님이에요.|Seonsaengnimieyo|Tôi là giáo viên.
+520|의사예요.|Uisayeyo|Tôi là bác sĩ.
+## 27|Ước mơ & Tương lai|꿈 & 미래
+521|언젠가 세계를 여행하고 싶어요.|Eonjengga segyereul yeohaenghago sipeoyo|Một ngày nào đó tôi muốn du lịch vòng quanh thế giới.
+522|내 꿈은 ~이에요.|Nae kkumeun ~ieyo|Ước mơ của tôi là ~.
+523|언젠가 내 집을 갖고 싶어요.|Eonjengga nae jibeul gatgo sipeoyo|Tôi hy vọng sẽ có nhà riêng.
+524|시간이 더 있으면 좋겠어요.|Sigani deo isseumyeon joketsseoyo|Giá như tôi có nhiều thời gian hơn.
+525|항상 그림을 배우고 싶었어요.|Hangsang geurimeul baeygo siweosseoyo|Tôi luôn muốn học vẽ.
+526|그녀의 꿈은 과학자가 되는 거예요.|Geunyeoye kkumeun gwahakjaga doe neun geoyeyo|Ước mơ của cô ấy là trở thành nhà khoa học.
+527|~하면 어떨까요?|~hamyeon eotteolkkayo?|Nếu ~ thì sao?
+528|언젠가 모두가 평화롭게 살길 바래요.|Eonjengga moduga pyeonghwaropge salkil baraeyo|Tôi hy vọng một ngày nào đó mọi người sống trong hòa bình.
+529|제 가장 큰 꿈은 변화를 만드는 거예요.|Je gajang keun kkumeun byeonhwareul mandeuneun geoyeyo|Ước mơ lớn nhất là tạo ra sự thay đổi.
+530|시간을 돌릴 수 있다면, ~할 거예요.|Siganeul dollil su itdamyeon, ~hal geoyeyo|Nếu có thể quay lại quá khứ, tôi sẽ ~.
+## 28|So sánh|비교
+531|이게 저것보다 나아요.|Ige jeogeosboda naayo|Cái này tốt hơn cái đó.
+532|그녀는 언니보다 키가 커요.|Geunyeoneun eonniboda kiga keoyo|Cô ấy cao hơn chị gái.
+533|이게 제가 먹어본 것 중 제일 맛있어요.|Ige jega meogeobon geot jung jeil masisseoyo|Đây là ngon nhất tôi từng ăn.
+534|그는 누구보다 빨리 달려요.|Geuneun nuguboda ppalli dallyeoyo|Anh ấy chạy nhanh hơn ai.
+535|오늘이 어제보다 더 더워요.|Oneuri eojeboda deo deeoyo|Hôm nay nóng hơn hôm qua.
+536|이 방법이 훨씬 더 효율적이에요.|I bangbeopi hwolssin deo hyoyuljeogiieyo|Phương pháp này hiệu quả hơn nhiều.
+537|생각했던 것보다 어렵지 않아요.|Saenggakaedon geotboda oryeopji anayo|Không khó như tôi nghĩ.
+538|많을수록 즐거워요.|Manheulssurok jeulgeowoyo|Càng đông càng vui.
+539|이건 두 배 비싸요.|Igeon du bae bissayo|Cái này đắt gấp đôi.
+540|그녀가 단연코 가장 재능 있어요.|Geunyeoga danyeonko gajang jaeneung isseoyo|Cô ấy tài năng nhất.
+## 29|Yêu cầu & Đề nghị|요청 & 제안
+541|부탁 드려도 될까요?|Butak deuryeodo doelkkayo?|Bạn có thể giúp tôi một việc không?
+542|도움이 필요하세요?|Doumi piryohaseyo?|Bạn có muốn được giúp đỡ không?
+543|필요한 게 있으면 말해요.|Piryohan ge isseumyeon malhaeyo|Hãy cho tôi biết nếu bạn cần gì.
+544|저것 좀 건네줄 수 있어요?|Jeogeot jom geonnejul su isseoyo?|Bạn có thể đưa cái đó cho tôi không?
+545|마실 것 드릴까요?|Masil geot deurilkkayo?|Tôi có thể mời bạn uống gì đó không?
+546|제안을 드리고 싶어요.|Jeanheul deurigo sipeoyo|Tôi muốn đề xuất một ý kiến.
+547|창문 좀 열어 주실 수 있어요?|Changmun jom yeoreo jusil su isseoyo?|Bạn có phiền mở cửa sổ không?
+548|화장실을 써도 될까요?|Hwajangireul sseodo doelkkayo?|Tôi có thể dùng phòng tắm không?
+549|돈 좀 빌려줄 수 있어요?|Don jom billyeojul su isseoyo?|Bạn có thể cho tôi mượn tiền không?
+550|저희와 함께하실래요?|Jeohuiwa hamkkehasillaeyo?|Bạn có muốn tham gia cùng chúng tôi không?
+## 30|Câu cuối & Tổng kết|마무리
+551|정말 대화가 즐거웠어요.|Jeongmal daehwaga jeulgeowosseoyo|Thật vui khi được nói chuyện.
+552|이제 가야 해요.|Ije gaya haeyo|Tôi phải đi rồi.
+553|연락하고 지내요.|Yeollakago jinae yo|Hãy giữ liên lạc nhé.
+554|곧 또 얘기해요.|Got tto yaegihaeyo|Sớm nói chuyện lại nhé.
+555|건강하세요.|Geonganghaseyo|Hãy giữ gìn sức khỏe.
+556|가족에게 안부 전해요.|Gajoge anbu jeonhaeyo|Chào hỏi gia đình bạn.
+557|만나서 즐거웠어요.|Mannaseo jeulgeowosseoyo|Thật vui được gặp bạn.
+558|안녕히 가세요!|Annyeonghi gaseyo!|Tạm biệt!
+559|나중에 봐요!|Najunge bwayo!|Gặp lại sau!
+560|다음에 또 봐요!|Daeume tto bwayo!|Đến lần sau nhé!
+## 31|Câu bổ sung thực tế|실용적인 보충 표현
+561|이름을 다시 한번 말해 주세요.|Ireomeul dasi hanbeon malhae juseyo|Nói lại tên được không?
+562|이해했어요.|Ihaehesseoyo|Tôi đã hiểu.
+563|잘 모르겠어요.|Jal moreugessseoyo|Tôi không chắc lắm.
+564|맞는 것 같아요.|Manneun geot gatayo|Có vẻ đúng.
+565|확실하지 않아요.|Hwaksilhaji anayo|Tôi không chắc.
+566|더 생각해볼게요.|Deo saenggakaebolgeyo|Tôi sẽ suy nghĩ thêm.
+567|바꿔서 말하면.|Bakkwoseo malhamyeon|Nói cách khác thì.
+568|그렇게 생각해요?|Geureooke saenggakaeyo?|Bạn nghĩ vậy à?
+569|제가 틀렸나요?|Jega teullyeonnayo?|Tôi đã sai à?
+570|다시 한번 확인해 주세요.|Dasi hanbeon hwaginhae juseyo|Xác nhận lại một lần nữa.
+## 32|Chủ đề xã hội|사회 주제
+571|모든 사람은 평등한 권리를 가져야 해요.|Modeun sarameun pyeongdeunghan gwonrireul gajyeoya haeyo|Mọi người đều xứng đáng có quyền bình đẳng.
+572|교육은 중요해요.|Gyoyugeun jungyohaeyo|Giáo dục rất quan trọng.
+573|환경을 보호해야 해요.|Hwanggyeongeul bohohaeya haeyo|Nên bảo vệ môi trường.
+574|기후 변화는 실제 문제예요.|Gihu byeonhwaneun silje munje yeyo|Biến đổi khí hậu là vấn đề thực sự.
+575|서로 도와야 해요.|Seoro dowaya haeyo|Chúng ta cần hỗ trợ lẫn nhau.
+576|차별은 잘못된 거예요.|Chabyeoreun jalmotdoen geoyeyo|Phân biệt đối xử là sai.
+577|평화는 값을 매길 수 없어요.|Pyeonghwaneun gapseul maegil su eopseoyo|Hòa bình là vô giá.
+578|우리는 다양한 세상에 살아요.|Urineun dayanghan sesange sarayo|Chúng ta sống trong một thế giới đa dạng.
+579|플라스틱 사용을 줄여야 해요.|Peullaseutik sayongeul juryeoya haeyo|Nên giảm sử dụng nhựa.
+580|재활용합시다.|Jaehwaryonghapsida|Hãy cùng tái chế.
+## 33|Thiên nhiên & Môi trường|자연 & 환경
+581|가을 숲이 아름다워요.|Gaeul sufi areumdawoyo|Rừng rất đẹp vào mùa thu.
+582|물을 아껴쓰세요.|Mureul akktyeosse seyo|Hãy tiết kiệm nước.
+583|바다에는 생명이 가득해요.|Badaeneun saengmyeongyi gadeukhaeyo|Đại dương chứa đầy sự sống.
+584|자연을 정말 좋아해요.|Jayeoneul jeongmal joahaeyo|Tôi rất yêu thiên nhiên.
+585|산이 정말 장관이에요.|Sani jeongmal janggwaniieyo|Những ngọn núi thật ngoạn mục.
+586|새가 지저귀고 있어요.|Saega jijeoguigo isseoyo|Những con chim đang hót.
+587|여기에 야생 동물이 많아요.|Yeogie yasaeng dongmuri manayo|Có rất nhiều động vật hoang dã ở đây.
+588|하이킹하러 가요.|Haikinghapeo gayo|Hãy đi bộ leo núi.
+589|하늘이 맑고 파래요.|Haneuri malkgo paraeyo|Bầu trời trong xanh.
+590|무지개가 정말 예뻐요!|Mujigaega jeongmal yeppeoyo!|Cầu vồng thật đẹp!
+## 34|Thể thao|스포츠
+591|축구 해요.|Chukgu haeyo|Chơi bóng đá nào.
+592|매일 헬스장에 가요.|Maeil helseujangeo gayo|Tôi đi gym mỗi ngày.
+593|경기에서 누가 이겼어요?|Gyeonggieseo nuga igyeosseoyo?|Ai thắng trận đấu?
+594|스코어가 2대1이에요.|Seukoeoga 2dae1iieyo|Tỷ số là hai một.
+595|마라톤을 위해 훈련하고 있어요.|Maratoneul wihae hunnyeonhago isseoyo|Tôi đang luyện tập cho marathon.
+596|그녀가 세계 기록을 깼어요.|Geunyeoga segye girokgeul kkaeosseoyo|Cô ấy phá kỷ lục thế giới.
+597|달리기보다 수영을 더 좋아해요.|Dalligiboda suyeongeul deo joahaeyo|Tôi thích bơi hơn chạy bộ.
+598|팀이 정말 잘 했어요.|Timi jeongmal jal haesseoyo|Đội chơi rất tốt.
+599|먼저 준비 운동을 해야 해요.|Meonjeo junbi undongyi haeya haeyo|Tôi cần khởi động trước.
+600|포기하지 마세요!|Pogihaji maseyo!|Đừng bỏ cuộc!
+## 35|Câu cảm hứng & Động lực|동기 부여
+601|열심히 하면 반드시 됩니다.|Yeolsimhi hamyeon bandeusi doemnida|Cố gắng hết sức thì nhất định thành công.
+602|오늘의 나는 어제보다 더 강해요.|Oneulye naneun eojeboda deo ganghaeyo|Bản thân hôm nay mạnh hơn hôm qua.
+603|실패는 성공의 어머니예요.|Silpaeneun seonggongye eomoniyeyo|Thất bại là mẹ thành công.
+604|자신을 믿으세요.|Jasineul mideuseyo|Hãy tin vào bản thân.
+605|당신은 충분히 잘하고 있어요.|Dangsineun chungbunhi jalhago isseoyo|Bạn đang làm đủ tốt rồi.
+606|작은 진전도 진전이에요.|Jageun jinjeondo jinjeoniieyo|Tiến bộ nhỏ cũng là tiến bộ.
+607|가야 할 길이 멀지만 즐거운 여정이에요.|Gaya hal giri meoljiman jeulgeoun yeojeongiieyo|Còn đường dài nhưng là hành trình vui vẻ.
+608|매일 새로운 기회예요.|Maeil saeroun gihwoyeyo|Mỗi ngày là cơ hội mới.
+609|스스로를 칭찬해 주세요.|Seuseuroreul chingchaenhae juseyo|Hãy khen ngợi bản thân.
+610|오늘도 수고했어요, 나 자신!|Oneuldo sugohasseoyo, na jasin!|Hôm nay cũng cảm ơn bản thân đã cố gắng!
+611|절대 포기하지 마세요.|Jeoldae pogihaji maseyo|Tuyệt đối đừng bỏ cuộc.
+612|꿈은 반드시 이루어져요.|Kkumeun bandeusi irueojyeoyo|Ước mơ nhất định sẽ thành hiện thực.
+613|한국어로 세상이 넓어져요.|Hangugero sesangi neolbeojyeoyo|Qua tiếng Hàn, thế giới mở rộng.
+614|언어는 마음과 마음을 잇는 다리예요.|Eoneo maumgwa maumeul inneun dariyeyo|Ngôn ngữ là cầu nối giữa tâm hồn với tâm hồn.
+615|공부는 힘들지만 즐거워요.|Gongbuneun himdeuljiman jeulgeowoyo|Học tập vất vả nhưng vui vẻ.
+616|배움의 기쁨을 잊지 마세요.|Baeumeul gippeumeul itji maseyo|Đừng quên niềm vui học hỏi.
+617|노력한 자신을 칭찬해요.|Noryeokhan jasineul chingchaenhaeyo|Khen ngợi bản thân đã nỗ lực.
+618|한국어가 있어서 행복해요, 정말로.|Hangueoga isseoseo haengbokaeyo, jeongmallo|Thật sự hạnh phúc khi có tiếng Hàn.
+619|이제까지 계속 배우겠어요.|Ijekkaji gyesok baeygessseoyo|Sẽ tiếp tục học mãi mãi.
+620|한국어의 세계는 넓어요.|Hangugeyeye segyeneun neolbeoyo|Thế giới tiếng Hàn thật rộng lớn.
+## 36|Lời kết|마지막 인사
+621|처음부터 끝까지 읽어주셔서 정말 감사해요.|Cheoeumeuro kkeudkkaji ilgeojusyeoseo jeongmal gamsahaeyo|Thực sự cảm ơn đã đọc từ đầu đến cuối.
+622|오늘도 정말 수고하셨어요.|Oneuldo jeongmal sugohasyeosseoyo|Hôm nay thực sự đã vất vả rồi.
+623|잘 자요, 좋은 꿈 꾸세요.|Jal jayo, joeun kkum kkuseyo|Chúc ngủ ngon, mơ đẹp nhé.
+624|내일도 건강하세요.|Naeildo geonganghaseyo|Ngày mai cũng hãy khỏe mạnh.
+625|내일 또 얘기해요.|Naeil tto yaegihaeyo|Ngày mai nói chuyện tiếp nhé.
+626|오늘 정말 감사했어요.|Oneul jeongmal gamsahaesseoyo|Hôm nay thực sự cảm ơn bạn.
+627|당신과 이야기할 수 있어서 좋았어요.|Dansingwa iyagiral su isseoseo joasseoyo|Thật vui khi được nói chuyện với bạn.
+628|한국어를 정말 사랑해요.|Hangugeoreul jeongmal saranghaeyo|Tôi thực sự yêu tiếng Hàn.
+629|계속 배우겠어요.|Gyesok baeygessseoyo|Tôi sẽ tiếp tục học.
+630|언제까지나 한국어와 함께.|Eonjekkajina hangugeowa hamkke|Mãi mãi cùng với tiếng Hàn.
+631|안녕히 계세요, 또 봐요!|Annyeonghi gyeseyo, tto bwayo!|Tạm biệt, gặp lại nhé!
+632|고마워요, 정말로.|Gomawoyo, jeongmallo|Cảm ơn, thực sự.
+633|다음에 또 만나요.|Daeume tto mannayo|Hẹn gặp lại lần sau.
+634|건강하고 행복하세요.|Geonganghago haengbokaseyo|Hãy khỏe mạnh và hạnh phúc.
+635|항상 응원해요.|Hangsang eungwonhaeyo|Tôi luôn cổ vũ bạn.
+636|꿈을 향해 나아가세요.|Kkumeul hyanghae naagaseyo|Hãy tiến về phía ước mơ.
+637|한국어로 세상을 넓히세요.|Hangugero sesangeul neolhiseyo|Hãy mở rộng thế giới bằng tiếng Hàn.
+638|오늘의 배움이 내일의 힘이 돼요.|Oneulye baeumi naeilye himi dwaeyo|Việc học hôm nay trở thành sức mạnh ngày mai.
+639|작은 걸음도 앞으로 나아가는 거예요.|Jageun georeumdo apeuro naaganeun geoyeyo|Bước nhỏ cũng là tiến về phía trước.
+640|함께여서 더 강해요.|Hamkkeyeoseo deo ganghaeyo|Cùng nhau thì mạnh hơn.
+## 37|Tình yêu & Cảm xúc|사랑 & 감정
+641|사랑해요.|Saranghaeyo|Tôi yêu bạn.
+642|당신은 제게 소중한 사람이에요.|Dangsineun jege sojunghan saramiieyo|Bạn rất quan trọng với tôi.
+643|보고 싶어요.|Bogo sipeoyo|Tôi nhớ bạn.
+644|당신과 함께 있으면 행복해요.|Dansingwa hamkke isseumyeon haengbokaeyo|Ở cạnh bạn tôi hạnh phúc.
+645|저와 사귀실래요?|Jeowa saguissillaeyo?|Bạn có muốn hẹn hò với tôi không?
+646|항상 당신 생각이 나요.|Hangsang dangsin saenggagi nayo|Tôi luôn nghĩ đến bạn.
+647|당신은 저에게 특별한 존재예요.|Dangsineun joere teukbyeolhan jonjaeyeyo|Bạn rất đặc biệt với tôi.
+648|당신에게 끌려요.|Dangsine kkeullyeoyo|Tôi đang bị thu hút bởi bạn.
+649|우리는 잘 어울려요.|Urineun jal eoullyeoyo|Chúng ta hợp với nhau.
+650|영원히 함께해요.|Yeongwonhi hamkkehaeyo|Hãy luôn ở bên nhau mãi.
+## 38|Tục ngữ & Thành ngữ Hàn|한국 속담 & 관용어
+651|급할수록 돌아가라.|Geuphalsurok doragara|Càng vội càng phải đi vòng (Dục tốc bất đạt).
+652|가는 말이 고와야 오는 말이 곱다.|Ganeun mari gowaya oneun mari gopda|Lời nói phải ngọt ngào thì mới nhận được lời ngọt.
+653|세 살 버릇 여든까지 간다.|Se sal beoreut yeodeunkkaji ganda|Tính nết ba tuổi theo đến tám mươi.
+654|티끌 모아 태산.|Tikkeul moa taesan|Tích tiểu thành đại.
+655|시작이 반이다.|Sijagi banida|Bắt đầu là đã được một nửa.
+656|가는 날이 장날.|Ganeun nari jannal|Đúng ngày chợ phiên (Đúng lúc).
+657|백지장도 맞들면 낫다.|Baekjijangdo matdeulmyeon natda|Tờ giấy trắng cũng nhẹ hơn khi hai người cùng khiêng.
+658|공든 탑이 무너지랴.|Gongdeun tabi muneojirya|Tháp xây công phu sao lại đổ (Công sức bỏ ra không phí).
+659|낮말은 새가 듣고 밤말은 쥐가 듣는다.|Natmareun saega deutgo bammareun jwiga deunneunda|Lời nói ban ngày chim nghe, ban đêm chuột nghe (Hãy cẩn thận lời nói).
+660|호랑이도 제 말 하면 온다.|Horangido je mal hamyeon onda|Nói đến hổ thì hổ đến (Nói đến ai thì người đó xuất hiện).
+## 39|Câu thực hành nâng cao|고급 연습
+661|이 점에 대해 좀 더 자세히 설명해 주실 수 있어요?|I jeome daehae jom deo jasehi seolmyeonghae jusil su isseoyo?|Bạn có thể giải thích điểm này chi tiết hơn được không?
+662|다른 방식으로 말씀해 주실 수 있어요?|Dareun bangsikeuro malsseumaehae jusil su isseoyo?|Bạn có thể nói theo cách khác không?
+663|요점이 뭐예요?|Yojeomi mwoyeyo?|Trọng điểm là gì?
+664|결국 어떻게 됐어요?|Gyeolguk eotteoke dwaesseoyo?|Cuối cùng chuyện gì xảy ra?
+665|이 상황을 어떻게 처리할 거예요?|I sanghwangeul eotteoke cheorihal geoyeyo?|Bạn sẽ xử lý tình huống này như thế nào?
+666|증거가 있어요?|Jeunggeoga isseoyo?|Bạn có bằng chứng không?
+667|어떻게 확인할 수 있어요?|Eotteoke hwaginal su isseoyo?|Làm sao xác nhận được?
+668|주요 요점을 요약해 주세요.|Juyo yojeomeul yoyakae juseyo|Tóm tắt các điểm chính.
+669|이 의견에 찬성하세요 아니면 반대하세요?|I uigyeone chanseonghaseyo animyeon bandaehaseyo?|Bạn tán thành hay phản đối ý kiến này?
+670|이것이 어떻게 작동해요?|Igeosi eotteoke jakdonghaeyo?|Điều này hoạt động như thế nào?
+## 40|Câu cuối cùng|마지막 1000번째
+671|한국어를 통해 세상이 더 넓어졌어요.|Hangugereul tonghae sesangi deo neolbeojyeosseoyo|Qua tiếng Hàn, thế giới rộng lớn hơn.
+672|언어 배우기는 자신에 대한 투자예요.|Eoneo baeugineun jasine daehan tujayeyo|Học ngôn ngữ là đầu tư cho bản thân.
+673|매일 조금씩 나아지면 충분해요.|Maeil jogeumssik naajimyeon chungbunhaeyo|Mỗi ngày tiến bộ một chút là đủ.
+674|실수해도 괜찮아요, 그게 배움이에요.|Silsuhaedo gwaenchanayo, geuge baeumiieyo|Mắc lỗi cũng không sao, đó là việc học.
+675|한국어는 제 인생을 바꿨어요.|Hangugeoneun je insaengeul bakkwosseoyo|Tiếng Hàn đã thay đổi cuộc đời tôi.
+676|언어를 배우면 새로운 사람을 만나요.|Eoneroreul baeumyeon saeroun sarameul mannayo|Học ngôn ngữ giúp gặp những người mới.
+677|한국어로 친구를 사귈 수 있어요.|Hangugero chingureul sagwil su isseoyo|Có thể kết bạn bằng tiếng Hàn.
+678|포기하지 않는 것이 가장 중요해요.|Pogihaji anneun geosi gajang jungyohaeyo|Điều quan trọng nhất là không bỏ cuộc.
+679|모든 노력은 헛되지 않아요.|Modeun noryeogeun heotdoeji anayo|Mọi nỗ lực đều không vô ích.
+680|꿈은 반드시 이루어진다.|Kkumeun bandeusi irueojinda|Ước mơ nhất định sẽ thành hiện thực.
+681|함께라서 더 즐거워요.|Hamkkeyeoseo deo jeulgeowoyo|Cùng nhau thì vui hơn.
+682|당신의 응원이 힘이 돼요.|Dangsineui eungwoni himi dwaeyo|Sự cổ vũ của bạn là sức mạnh cho tôi.
+683|한국어로 꿈을 이루길 바래요.|Hangugero kkumeul irugil baraeyo|Mong bạn thực hiện ước mơ bằng tiếng Hàn.
+684|오늘도 내일도 계속 배워요.|Oneuldo naeildo gyesok baeweoyo|Hôm nay lẫn ngày mai hãy tiếp tục học.
+685|이 책이 도움이 됐으면 좋겠어요.|I chaegi doumi dwaesseumyeon jokessseoyo|Hy vọng cuốn sách này có ích.
+686|언제나 한국어와 함께해요.|Eojena hangugeowa hamkkehaeyo|Luôn cùng với tiếng Hàn.
+687|작은 성취를 자축해요.|Jageun seongtwijireul jachukaeyo|Hãy ăn mừng những thành tựu nhỏ.
+688|자신감을 갖고 말하세요.|Jasingameul gatgo malhaseyo|Hãy nói với sự tự tin.
+689|언어는 마음의 창이에요.|Eoneo maumeui changiieyo|Ngôn ngữ là cửa sổ của tâm hồn.
+690|한국어로 생각할 수 있게 됐어요.|Hangugero saenggakhal su itge dwaesseoyo|Tôi đã có thể suy nghĩ bằng tiếng Hàn.
+691|유창해지는 건 시간이 걸려요.|Yuchanghaejineun geon sigani geollyeoyo|Trở nên thành thạo cần thời gian.
+692|하지만 즐기면서 하면 빨리 늘어요.|Hajiman jeulgimyeonseo hamyeon ppalli neureoyo|Nhưng nếu tận hưởng thì sẽ tiến bộ nhanh.
+693|한국어는 아름다운 언어예요.|Hangugeoneun areumdaun eoneoyeyo|Tiếng Hàn là ngôn ngữ đẹp.
+694|한글은 과학적인 문자예요.|Hangeupeun gwahakjeogin munjayeyo|Hangul là chữ viết khoa học.
+695|억양이 아름다워요.|Eogyangi areumdawoyo|Ngữ điệu rất đẹp.
+696|경어를 쓰는 게 중요해요.|Gyeongereul sseuneun ge jungyohaeyo|Dùng kính ngữ rất quan trọng.
+697|존댓말을 잘 배워요.|Jondaetmareul jal baeweoyo|Hãy học tốt ngôn ngữ lịch sự.
+698|매일 조금씩, 반드시 됩니다.|Maeil jogeumssik, bandeusi doemnida|Mỗi ngày một chút, nhất định thành công.
+699|한국어 여정을 계속해요.|Hangugeo yeojeongeul gyesokhaeyo|Hãy tiếp tục hành trình tiếng Hàn.
+700|언젠가 어딘가에서, 또 만나요.|Eonjengga eodingaeseo, tto mannayo|Hẹn gặp lại ở đâu đó một ngày nào đó.
+## 41|Câu bổ sung 701-1000|추가 표현
+701|안녕하세요, 처음 뵙겠습니다!|Annyeonghaseyo, cheoeum boepgesseumnida!|Xin chào, rất vui được gặp bạn lần đầu!
+702|잘 부탁드립니다.|Jal butakdeurimnida|Mong được nhờ vả.
+703|오늘 날씨가 참 좋네요.|Oneul nalssiga cham jonneyo|Hôm nay thời tiết thật đẹp nhỉ.
+704|점심은 드셨어요?|Jeomsimeun deusyeosseoyo?|Bạn đã ăn trưa chưa?
+705|어디 가세요?|Eodi gaseyo?|Bạn đi đâu vậy?
+706|뭐 하고 계세요?|Mwo hago gyeseyo?|Bạn đang làm gì vậy?
+707|요즘 어떠세요?|Yojeum eotteoseyo?|Dạo này bạn thế nào?
+708|많이 바쁘세요?|Manhi bappeyseyo?|Bạn có bận nhiều không?
+709|주말 잘 보내셨어요?|Jumal jal bonaekyeosseoyo?|Bạn có cuối tuần vui không?
+710|맛있는 거 먹었어요?|Masinneun geo meogeosseoyo?|Bạn đã ăn gì ngon chưa?
+711|한국에 오신 적 있어요?|Hankuge osin jeok isseoyo?|Bạn đã từng đến Hàn Quốc chưa?
+712|한국어 잘 하시네요!|Hangugeo jal hasinneyo!|Bạn nói tiếng Hàn giỏi quá!
+713|아직 배우는 중이에요.|Ajik baeuneun jungiieyo|Tôi vẫn đang học.
+714|감사해요, 많이 부족해요.|Gamsahaeyo, manhi bujokaeyo|Cảm ơn, nhưng tôi còn kém lắm.
+715|열심히 공부하고 있어요.|Yeolsimhi gongbuhago isseoyo|Tôi đang học chăm chỉ.
+716|매일 연습하려고 해요.|Maeil yeonseupalryeogo haeyo|Tôi cố gắng luyện tập mỗi ngày.
+717|한국 노래를 들으면서 배워요.|Hanguk noraereul deureumyeonseo baeweoyo|Tôi học bằng cách nghe nhạc Hàn.
+718|드라마 보면서 듣기를 연습해요.|Deurama bomyeonseo deutgireul yeonseupaeyo|Tôi luyện nghe qua xem phim.
+719|한국어 일기를 써요.|Hangugeo ilgireul sseoyo|Tôi viết nhật ký bằng tiếng Hàn.
+720|언어 교환 앱을 사용해요.|Eoneo gyohwan apeul sayonghaeyo|Tôi dùng app trao đổi ngôn ngữ.
+721|이 단어가 어떻게 발음해요?|I daneoga eotteoke bareumhaeyo?|Từ này phát âm như thế nào?
+722|이 문법이 맞아요?|I munbeopi majayo?|Ngữ pháp này có đúng không?
+723|자연스러운 표현이 뭐예요?|Jayeonseureoun pyoheoni mwoyeyo?|Cách diễn đạt tự nhiên là gì?
+724|원어민처럼 말하고 싶어요.|Woneomincheoreom malhago sipeoyo|Tôi muốn nói như người bản ngữ.
+725|발음이 어려워요.|Bareumi oryeowoyo|Phát âm thật khó.
+726|받침이 어렵네요.|Batchimi oryeopneyo|Phụ âm cuối thật khó nhỉ.
+727|존댓말과 반말의 차이가 뭐예요?|Jondaetmalgwa banmarye chaiga mwoyeyo?|Sự khác biệt giữa kính ngữ và ngôn ngữ thân mật là gì?
+728|경어를 언제 써야 해요?|Gyeongereul eonje sseoya haeyo?|Khi nào dùng kính ngữ?
+729|한국어에 재미있는 표현이 많아요.|Hangugeoe jaemiinneun pyoheoni manayo|Tiếng Hàn có nhiều cách diễn đạt thú vị.
+730|이 노래 가사를 이해해요.|I norae gasareul ihaehaeyo|Tôi hiểu lời bài hát này.
+731|자막 없이 드라마를 봐요.|Jamak eopsi deuramareul bwayo|Tôi xem phim không cần phụ đề.
+732|한국어 실력이 늘었어요.|Hangugeo sillyogi neureosseoyo|Trình độ tiếng Hàn đã cải thiện rồi.
+733|앞으로도 계속 노력할게요.|Apeuroudo gyesok noryeokalgeyo|Tôi sẽ tiếp tục cố gắng.
+734|한국어 때문에 한국이 더 좋아졌어요.|Hangugeo ttaemune hankugi deo joajyeosseoyo|Nhờ tiếng Hàn, tôi thích Hàn Quốc hơn.
+735|한국 문화를 더 잘 이해해요.|Hanguk munhwareul deo jal ihaehaeyo|Tôi hiểu văn hóa Hàn Quốc hơn.
+736|언어는 문화를 여는 열쇠예요.|Eoneo munhwareul yeoneun yeolsoeyeyo|Ngôn ngữ là chìa khóa mở cửa văn hóa.
+737|한국어 공부가 정말 보람 있어요.|Hangugeo gongbuga jeongmal boram isseoyo|Học tiếng Hàn thực sự có giá trị.
+738|계속 도전할게요.|Gyesok dojeonhalgeyo|Tôi sẽ tiếp tục thách thức.
+739|다음 목표는 TOPIK 4급이에요.|Daeum mokpyoneun TOPIK 4geubi ieyo|Mục tiêu tiếp theo là TOPIK cấp 4.
+740|포기는 없어요!|Pogineun eopseoyo!|Không có chuyện bỏ cuộc!
+741|오늘도 한 단어 더 외웠어요.|Oneuldo han daneo deo oewosseoyo|Hôm nay cũng học thuộc thêm một từ.
+742|작은 성취도 소중해요.|Jageun seongtwiedo sojunghaeyo|Thành tựu nhỏ cũng quý giá.
+743|한국어를 사랑해요!|Hangugeoreul saranghaeyo!|Tôi yêu tiếng Hàn!
+744|이 공부가 제 삶을 바꿨어요.|I gongbuga je salmeul bakkwosseoyo|Việc học này đã thay đổi cuộc đời tôi.
+745|언어 배움은 끝이 없어요.|Eoneo baeumeun kkeudi eopseoyo|Việc học ngôn ngữ không có điểm cuối.
+746|그래서 더 재미있어요.|Geuraeseo deo jaemiisseoyo|Vì thế mà càng thú vị hơn.
+747|한국어와 함께 계속 나아가요.|Hangugeowa hamkke gyesok naagayo|Cùng với tiếng Hàn, tiếp tục tiến lên.
+748|오늘도 열심히 했어요.|Oneuldo yeolsimhi haesseoyo|Hôm nay cũng đã cố gắng.
+749|내일은 더 잘할 거예요.|Naeireuneun deo jal hal geoyeyo|Ngày mai sẽ làm tốt hơn.
+750|결코 포기하지 않을 거예요.|Gyeolko pogihaji aneul geoyeyo|Tôi sẽ không bao giờ bỏ cuộc.
+751|감사합니다, 이 여정에서.|Gamsahamnida, i yeojeongeseo|Cảm ơn trong hành trình này.
+752|좋은 스승님들께 감사해요.|Joeun seuseungnimdeulkke gamsahaeyo|Cảm ơn những người thầy tốt.
+753|언어 공동체가 정말 따뜻해요.|Eoneo gongdongchega jeongmal ttatteuthaeyo|Cộng đồng ngôn ngữ thực sự ấm áp.
+754|서로 배우면서 성장해요.|Seoro baeuumyeonseo seongjjanghaeyo|Cùng nhau học hỏi và phát triển.
+755|한국어는 제 두 번째 집이에요.|Hangugeoneun je du beonjjae jibiieyo|Tiếng Hàn là ngôi nhà thứ hai của tôi.
+756|매일 조금씩 더 나아져요.|Maeil jogeumssik deo naajyeoyo|Mỗi ngày dần dần tiến bộ hơn.
+757|이 노력이 언젠가 꽃을 피울 거예요.|I noryeogi eonjengga kkocheul piul geoyeyo|Nỗ lực này một ngày sẽ nở hoa.
+758|한국어로 꿈꿀 수 있어요.|Hangugero kkumkkul su isseoyo|Tôi có thể mơ bằng tiếng Hàn.
+759|이 언어가 제 삶을 풍요롭게 해요.|I eoneoga je salmeul pungyoropge haeyo|Ngôn ngữ này làm cho cuộc đời tôi phong phú hơn.
+760|정말로, 감사해요.|Jeongmallo, gamsahaeyo|Thực sự, cảm ơn.
+761|처음 시작할 때가 기억나요.|Cheoeum sijachal ttaega gieongnoyo|Tôi nhớ lúc mới bắt đầu.
+762|많이 발전했어요.|Manhi baljeonhaesseoyo|Tôi đã tiến bộ nhiều.
+763|앞으로 더 많이 배울 거예요.|Apeuro deo manhi baeul geoyeyo|Tôi sẽ học được nhiều hơn trong tương lai.
+764|이 여정은 아직 끝나지 않았어요.|I yeojeongeun ajik kkeunnaji anasseoyo|Hành trình này chưa kết thúc.
+765|계속 나아가겠어요.|Gyesok naagagessseoyo|Tôi sẽ tiếp tục tiến lên.
+766|한국어는 제 보물이에요.|Hangugeoneun je bomurieyo|Tiếng Hàn là kho báu của tôi.
+767|이 언어를 만난 것이 행운이에요.|I eoneroreul mannan geosi haengunieyo|Thật may mắn khi gặp được ngôn ngữ này.
+768|당신과 함께 공부할 수 있어서 좋아요.|Dansingwa hamkke gongbuhal su isseoseo joayo|Thật tốt khi có thể học cùng bạn.
+769|언어를 통해 마음이 통해요.|Eoneroreul tonghae maumi tonghaeyo|Qua ngôn ngữ, tâm hồn giao tiếp.
+770|한국어로 세상을 더 아름답게 봐요.|Hangugero sesangeul deo areumdapge bwayo|Qua tiếng Hàn, thấy thế giới đẹp hơn.
+771|이 문장들이 여러분에게 도움이 됐으면 해요.|I munjandeuri yeoreobune doumi dwaesseumyeon haeyo|Mong những câu này có ích cho mọi người.
+772|꾸준히 공부하세요.|Kkujunhi gongbuhaseyo|Hãy học kiên trì.
+773|포기하지 마시고, 계속하세요.|Pogihaji masigo, gyesokhaseyo|Đừng bỏ cuộc, hãy tiếp tục.
+774|한국어의 매력에 푹 빠져 있어요.|Hangugeyeui maeryoge puk ppajyeo isseoyo|Tôi đang chìm đắm trong sức hấp dẫn của tiếng Hàn.
+775|오늘도 좋은 하루 보내세요.|Oneuldo joeun haru bonaeseyo|Hôm nay cũng chúc bạn một ngày tốt lành.
+776|다음에 더 좋은 내용으로 만나요.|Daume deo joeun naeyongeuro mannayo|Hẹn gặp lại với nội dung tốt hơn.
+777|한국어로 세계를 연결해요.|Hangugero segyereul yeonggyeolhaeyo|Kết nối thế giới qua tiếng Hàn.
+778|언어는 사람을 이어주는 다리예요.|Eoneo sarameul ieojuneun dariyeyo|Ngôn ngữ là cây cầu nối người với người.
+779|마음을 열고 배워요.|Maumeul yeolgo baeweoyo|Hãy học với tâm hồn rộng mở.
+780|열린 마음으로 세상을 만나요.|Yeollin maumeuro sesangeul mannayo|Hãy gặp gỡ thế giới với tâm hồn rộng mở.
+781|한국어 여정을 응원해요.|Hangugeo yeojeongeul eungwonhaeyo|Tôi cổ vũ cho hành trình tiếng Hàn của bạn.
+782|언제나 응원하고 있어요.|Eojena eungwonhago isseoyo|Tôi luôn cổ vũ bạn.
+783|잘 할 수 있어요, 믿어요.|Jal hal su isseoyo, mideoyo|Bạn làm được, tôi tin.
+784|당신의 한국어는 날마다 좋아지고 있어요.|Dansinye hangugeoneun nalmada joajigo isseoyo|Tiếng Hàn của bạn đang tốt lên mỗi ngày.
+785|끝까지 함께해요.|Kkeudkkaji hamkkehaeyo|Hãy cùng nhau đến cuối.
+786|포기하면 안 돼요. 지금까지 잘 해왔잖아요.|Pogihameun an dwaeyo. Jigeumkkaji jal haewatjanayo|Không được bỏ cuộc. Cho đến nay bạn đã làm tốt rồi mà.
+787|천천히 가도 괜찮아요.|Cheoncheonhi gado gwaenchanayo|Đi chậm cũng không sao.
+788|중요한 건 멈추지 않는 거예요.|Jungyohan geon meomchuji anneun geoyeyo|Điều quan trọng là không dừng lại.
+789|한 걸음씩 앞으로.|Han georeumsik apeuro|Từng bước một tiến về phía trước.
+790|한국어로 더 넓은 세상을 만나요.|Hangugero deo neolbeun sesangeul mannayo|Gặp gỡ thế giới rộng lớn hơn qua tiếng Hàn.
+791|이 여정에 함께해서 감사해요.|I yeojeonge hamkkehaeceo gamsahaeyo|Cảm ơn đã cùng nhau trong hành trình này.
+792|앞으로도 잘 부탁드려요.|Apeuroudo jal butakdeuryeoyo|Mong tiếp tục được nhờ vả.
+793|한국어와 오래오래 함께해요.|Hangugeowa oraeorae hamkkehaeyo|Hãy gắn bó lâu dài với tiếng Hàn.
+794|배움은 끝이 없고, 그게 아름다운 거예요.|Baeumeun kkeudi eopgo, geuge areumdaun geoyeyo|Việc học không có điểm cuối, và đó là điều đẹp đẽ.
+795|오늘도 수고했어요!|Oneuldo sugohaesseoyo!|Hôm nay cũng đã vất vả rồi!
+796|내일도 파이팅!|Naeildo paiting!|Ngày mai cũng cố lên!
+797|한국어로 꿈꾸는 날이 올 거예요.|Hangugero kkumkkuneun nari ol geoyeyo|Ngày mơ bằng tiếng Hàn sẽ đến.
+798|그날을 향해 오늘도 열심히.|Geunareul hyanghae oneuldo yeolsimhi|Hướng về ngày đó, hôm nay cũng cố gắng.
+799|한국어, 사랑해요!|Hanku geo, saranghaeyo!|Tiếng Hàn, tôi yêu bạn!
+800|이 천 개의 문장이 첫 발걸음이에요.|I cheon gaeyeui munjangi cheot balgeoreomiieyo|Một nghìn câu này là bước đi đầu tiên.
+801|다음엔 더 많은 표현을 배워요.|Daeumen deo manheun pyoheoneul baeweoyo|Lần tới hãy học thêm nhiều cách diễn đạt.
+802|한국어는 끝없는 바다예요.|Hangugeoneun kkeudeomneun badayeyo|Tiếng Hàn là một đại dương vô tận.
+803|그 바다를 함께 항해해요.|Geu badareul hamkke hanghaehaeyo|Hãy cùng nhau vượt đại dương đó.
+804|한국어의 아름다움을 느껴보세요.|Hangugeyeye areumdaumeul neukkyeobo seyo|Hãy cảm nhận vẻ đẹp của tiếng Hàn.
+805|언어 하나가 인생을 바꿀 수 있어요.|Eoneo hanaga insaengeul bakkul su isseoyo|Một ngôn ngữ có thể thay đổi cuộc đời.
+806|한국어가 그 언어예요.|Hangugeoga geu eoneoyeyo|Tiếng Hàn chính là ngôn ngữ đó.
+807|잊지 마세요, 오늘도 잘 하고 있어요.|Itji maseyo, oneuldo jal hago isseoyo|Đừng quên, hôm nay bạn cũng đang làm tốt.
+808|스스로를 믿어요.|Seuseuroreul mideoyo|Hãy tin vào bản thân.
+809|당신은 생각보다 훨씬 잘 해요.|Dangsineun saenggakboda hwolssin jal haeyo|Bạn làm tốt hơn bạn nghĩ nhiều.
+810|계속 나아가세요, 응원해요.|Gyesok naagaseyo, eungwonhaeyo|Hãy tiếp tục tiến, tôi cổ vũ bạn.
+811|오늘의 노력이 내일의 실력이 돼요.|Oneulye noryeogi naeilye sillyeogi dwaeyo|Nỗ lực hôm nay trở thành thực lực ngày mai.
+812|한국어 공부를 즐겨요!|Hangugeo gongbureul jeulgyeoyo!|Hãy tận hưởng việc học tiếng Hàn!
+813|매일매일 조금씩 더.|Maeilmaeil jogeumssik deo|Mỗi ngày thêm một chút.
+814|그것만으로도 충분해요.|Geugeotmaneurodo chungbunhaeyo|Chỉ vậy thôi cũng đủ rồi.
+815|여러분, 화이팅!|Yeoreobun, hwaiting!|Mọi người, cố lên!
+816|한국어와 여러분의 여정을 응원해요.|Hangugeowa yeoreobunye yeojeongeul eungwonhaeyo|Tôi cổ vũ cho hành trình của mọi người cùng tiếng Hàn.
+817|처음 인사로 돌아가서: 안녕하세요!|Cheoeum insaro doragaseo: Annyeonghaseyo!|Quay lại lời chào đầu tiên: Xin chào!
+818|그리고 마지막 인사: 감사합니다!|Geurigo majimak insa: Gamsahamnida!|Và lời tạm biệt cuối: Cảm ơn!
+819|이 천 개의 문장과 함께한 시간이 즐거웠어요.|I cheon gaeyeye munjangwa hamkkehan sigani jeulgeowosseoyo|Thời gian cùng một nghìn câu này thật vui.
+820|한국어로 더 멋진 세상을 만들어요.|Hangugero deo meotjin sesangeul mandeuleoyo|Hãy tạo ra một thế giới tươi đẹp hơn bằng tiếng Hàn.
+821|서로를 이해하면 세상이 더 좋아져요.|Seororeul ihaehameun sesangi deo joajyeoyo|Khi hiểu nhau thì thế giới sẽ tốt hơn.
+822|언어는 그 이해를 돕는 도구예요.|Eoneo geu ihaereul donneun doguyeyo|Ngôn ngữ là công cụ giúp cho sự hiểu biết đó.
+823|한국어를 배우는 여러분이 자랑스러워요.|Hangugeo baeyneun yeoreobuni jarangseureowoyo|Tôi tự hào về những người đang học tiếng Hàn.
+824|끝까지 읽어주셔서 정말 감사해요.|Kkeudkkaji ilgeojusyeoseo jeongmal gamsahaeyo|Thực sự cảm ơn đã đọc đến cuối.
+825|다시 한번, 안녕히 계세요!|Dasi hanbeon, annyeonghi gyeseyo!|Một lần nữa, tạm biệt!
+826|또 만나요, 한국어와 함께!|Tto mannayo, hangugeowa hamkke!|Gặp lại nhé, cùng với tiếng Hàn!
+827|한국어 여정은 계속됩니다.|Hangugeo yeojeongeun gyesoktdoemnida|Hành trình tiếng Hàn vẫn tiếp tục.
+828|멈추지 말고 나아가세요.|Meomchuji malgo naagaseyo|Đừng dừng lại, hãy tiến về phía trước.
+829|오늘도, 내일도, 영원히 한국어.|Oneuldo, naeildo, yeongwonhi hangugeo|Hôm nay, ngày mai, mãi mãi là tiếng Hàn.
+830|함께라서 더 힘이 나요.|Hamkkeyeoseo deo himi nayo|Vì có nhau nên càng có thêm sức mạnh.
+831|오늘도 수고하셨습니다.|Oneuldo sugohasyeosseumnida|Hôm nay cũng đã vất vả rồi ạ.
+832|건강하고 행복하게 지내세요.|Geonganghago haengbokage jinaeseyo|Hãy sống khỏe mạnh và hạnh phúc.
+833|한국어로 모든 꿈을 이루세요.|Hangugero modeun kkumeul iruseyo|Hãy thực hiện mọi ước mơ bằng tiếng Hàn.
+834|이 순간이 새로운 시작이에요.|I sungani saeroun sijagieyo|Khoảnh khắc này là một khởi đầu mới.
+835|앞으로도 잘 부탁드립니다!|Apeuroudo jal butakdeurimnida!|Từ nay mong được nhờ vả nhiều!
+836|행복한 한국어 공부 되세요!|Haengbokan hangugeo gongbu dweseyo!|Chúc bạn học tiếng Hàn vui vẻ!
+837|언제나 응원합니다!|Eojena eungwonhamnida!|Tôi luôn luôn cổ vũ bạn!
+838|화이팅!|Hwaiting!|Cố lên!
+839|사랑합니다, 한국어!|Saranghamnida, hangugeo!|Tôi yêu tiếng Hàn!
+840|1000번째 문장까지 감사합니다.|Cheon beonjjae munjanggaji gamsahamnida|Cảm ơn đến câu thứ một nghìn.
+841|모든 문장에 마음을 담았어요.|Modeun munjanre maumeul damasseoyo|Tôi đã đặt tâm huyết vào từng câu.
+842|이 1000개의 문장이 도움이 됐으면 해요.|I cheon gaeyeye munjangyi doumi dwaesseumyeon haeyo|Mong 1000 câu này có ích cho bạn.
+843|매일 조금씩 이 문장들을 읽어보세요.|Maeil jogeumssik i munjangdeureul ilgeoboseyo|Mỗi ngày hãy đọc từng câu một chút.
+844|그러면 한국어 실력이 빨리 늘 거예요.|Geureomeun hangugeo sillyogi ppalli neul geoyeyo|Như vậy trình độ tiếng Hàn sẽ tăng nhanh.
+845|언어는 반복이 중요해요.|Eoneo banbogyi jungyohaeyo|Lặp đi lặp lại rất quan trọng trong học ngôn ngữ.
+846|꾸준히, 그게 가장 중요해요.|Kkujunhi, geuge gajang jungyohaeyo|Kiên trì, đó là điều quan trọng nhất.
+847|한국어 마스터가 될 수 있어요.|Hangugeo maseuteo ga doel su isseoyo|Bạn có thể trở thành người thành thạo tiếng Hàn.
+848|믿고 공부하세요.|Mitgo gongbuhaseyo|Hãy tin tưởng và học thôi.
+849|이 여정이 끝날 때, 돌아보면 자랑스러울 거예요.|I yeojeongi kkeudnal ttae, dorabomyeon jarangseureoul geoyeyo|Khi hành trình này kết thúc, nhìn lại bạn sẽ tự hào.
+850|그날을 향해, 오늘도 한 걸음.|Geunareul hyanghae, oneuldo han georeum|Hướng về ngày đó, hôm nay cũng một bước.
+851|포기는 없어요, 앞으로만 가요.|Pogineun eopseoyo, apeuroman gayo|Không có chuyện bỏ cuộc, chỉ tiến về phía trước.
+852|실력은 반드시 늘어요.|Sillyogeun bandeusi neureoyo|Thực lực nhất định sẽ tăng.
+853|열심히 하는 당신을 응원해요.|Yeolsimhi haneun dangsineul eungwonhaeyo|Tôi cổ vũ bạn đang cố gắng.
+854|한국어 공부, 정말 의미 있어요.|Hangugeo gongbu, jeongmal uimi isseoyo|Học tiếng Hàn thực sự có ý nghĩa.
+855|언어를 통해 더 나은 사람이 돼요.|Eoneroreul tonghae deo naeun sarami dwaeyo|Qua ngôn ngữ, trở thành người tốt hơn.
+856|세상을 더 넓게 보게 돼요.|Sesangeul deo neolpge boge dwaeyo|Nhìn thấy thế giới rộng lớn hơn.
+857|한국어, 고마워요!|Hangugeo, gomawoyo!|Tiếng Hàn, cảm ơn bạn!
+858|앞으로도 잘 부탁해요, 한국어!|Apeuroudo jal butakaeyo, hangugeo!|Từ nay mong nhờ vả nhiều nhé, tiếng Hàn!
+859|이 공부가 값진 시간이었어요.|I gongbuga gapjin siganieosseoyo|Việc học này là thời gian đáng giá.
+860|정말 감사하고, 또 만나요!|Jeongmal gamsahago, tto mannayo!|Thực sự cảm ơn và hẹn gặp lại!
+861|한국어로 꿈꾸는 그 날까지!|Hangugero kkumkkuneun geu nalkkaji!|Cho đến ngày mơ được bằng tiếng Hàn!
+862|매일매일 성장하는 여러분!|Maeilmaeil seongjjaneun yeoreobun!|Mọi người đang phát triển mỗi ngày!
+863|지금이 바로 시작하기 좋은 때예요.|Jigeumi baro sijakagi joeun ttaeyeyo|Bây giờ chính là thời điểm tốt để bắt đầu.
+864|시작이 반이라고 했잖아요.|Sijagi banirago haetjanayo|Người ta đã nói bắt đầu là được một nửa mà.
+865|그 반을 이미 했어요, 잘하고 있어요.|Geu baneul imi haesseoyo, jalhago isseoyo|Nửa đó bạn đã làm rồi, bạn đang làm tốt.
+866|남은 반도 힘내세요!|Nameun bando himnaeseyo!|Nửa còn lại cũng cố lên!
+867|한국어와 함께 더 행복해요.|Hangugeowa hamkke deo haengbokaeyo|Với tiếng Hàn, tôi hạnh phúc hơn.
+868|그 행복을 여러분도 느끼길 바래요.|Geu haengbogeul yeoreobundo neukkigil baraeyo|Mong mọi người cũng cảm nhận được hạnh phúc đó.
+869|한국어는 선물이에요.|Hangugeoneun seonmurieyo|Tiếng Hàn là một món quà.
+870|그 선물을 소중히 간직하세요.|Geu seonmureul sojunghi ganjikaseyo|Hãy trân trọng giữ gìn món quà đó.
+871|이제 정말 마지막이에요.|Ije jeongmal majimaiieyo|Bây giờ thực sự đến phần cuối rồi.
+872|하지만 배움은 계속돼요.|Hajiman baeumeun gyesok dwaeyo|Nhưng việc học vẫn tiếp tục.
+873|이 1000개의 문장은 시작이에요.|I cheon gaeyeye munjangeun sijagieyo|1000 câu này chỉ là bắt đầu.
+874|더 많은 것을 배워 나가세요.|Deo manheun geoseul baewo nagaseyo|Hãy tiếp tục học thêm nhiều hơn.
+875|한국어 마스터를 향해 화이팅!|Hangugeo maseutereul hyanghae hwaiting!|Hướng đến thành thạo tiếng Hàn, cố lên!
+876|오늘의 노력이 결실을 맺을 거예요.|Oneulye noryeogi gyeolsireul maeteul geoyeyo|Nỗ lực hôm nay sẽ đơm hoa kết trái.
+877|기다리고 기대해요, 그날을.|Gidarigo gidaehaeyo, geunareul|Tôi đang chờ đợi và mong đợi ngày đó.
+878|오늘도 수고하셨어요.|Oneuldo sugohasyeosseoyo|Hôm nay cũng đã vất vả rồi.
+879|내일도 파이팅 하세요!|Naeildo paiting haseyo!|Ngày mai cũng cố lên!
+880|그럼, 또 봐요!|Geureom, tto bwayo!|Vậy thì, gặp lại nhé!
+881|한국어의 아름다움을 전 세계에 알려주세요.|Hangugeyeye areumdaumeul jeon segyee allyeojuseyo|Hãy giới thiệu vẻ đẹp tiếng Hàn ra toàn thế giới.
+882|여러분이 그 다리가 돼 주세요.|Yeoreobuni geu dariga dwae juseyo|Hãy là cây cầu nối đó.
+883|문화와 언어를 연결하는 사람이 돼요.|Munhwawa eoneroreul yeonggyeolaneun sarami dwaeyo|Hãy trở thành người kết nối văn hóa và ngôn ngữ.
+884|그게 한국어를 배우는 진정한 의미예요.|Geuge hangugeoreul baeyneun jinjeongan uimiyeyo|Đó là ý nghĩa thực sự của việc học tiếng Hàn.
+885|감사합니다, 정말로.|Gamsahamnida, jeongmallo|Cảm ơn, thực sự.
+886|이 여정을 함께해서 영광이에요.|I yeojeongeul hamkkehaeceo yeonggwangiieyo|Thật vinh dự khi được cùng nhau trong hành trình này.
+887|앞으로도 많은 가르침 부탁드려요.|Apeuroudo manheun gareuchim butakdeuryeoyo|Từ nay mong được nhiều sự chỉ dạy.
+888|한국어로 더 멋진 세상을 그려봐요.|Hangugero deo meotjin sesangeul geuryeobwayo|Hãy vẽ nên một thế giới tươi đẹp hơn bằng tiếng Hàn.
+889|꿈을 향해, 오늘도 한 발짝.|Kkumeul hyanghae, oneuldo han baljjak|Hướng về ước mơ, hôm nay cũng một bước.
+890|잊지 마세요, 당신은 할 수 있어요!|Itji maseyo, dangsineun hal su isseoyo!|Đừng quên, bạn làm được!
+891|한국어가 여러분의 삶을 풍요롭게 해줄 거예요.|Hangugeoga yeoreobunye salmeul pungyoropge haejul geoyeyo|Tiếng Hàn sẽ làm cho cuộc đời mọi người phong phú hơn.
+892|그 여정을 두려워하지 마세요.|Geu yeojeongeul duryeoworaji maseyo|Đừng sợ hành trình đó.
+893|즐겁게, 자유롭게 배워요.|Jeulgeopge, jayuropge baeweoyo|Học một cách vui vẻ và tự do.
+894|언어는 자유예요.|Eoneo jayuyeyo|Ngôn ngữ là tự do.
+895|그 자유를 만끽하세요.|Geu jayureul maneullikkaseyo|Hãy tận hưởng sự tự do đó.
+896|마지막으로, 한국어 사랑해요!|Majimageuro, hangugeo saranghaeyo!|Cuối cùng, tôi yêu tiếng Hàn!
+897|여러분도 한국어를 사랑해 주세요!|Yeoreobundo hangugeo saranghae juseyo!|Mọi người cũng hãy yêu tiếng Hàn nhé!
+898|그 사랑이 이 언어를 더 아름답게 해요.|Geu sarangi i eoneroreul deo areumdapge haeyo|Tình yêu đó làm cho ngôn ngữ này càng đẹp hơn.
+899|오늘도 내일도, 한국어와 함께 행복하세요.|Oneuldo naeildo, hangugeowa hamkke haengbokaseyo|Hôm nay lẫn ngày mai, hãy hạnh phúc cùng tiếng Hàn.
+900|안녕히 계세요, 그리고 감사합니다!|Annyeonghi gyeseyo, geurigo gamsahamnida!|Tạm biệt, và cảm ơn!
+901|행복한 하루 보내세요!|Haengbokan haru bonaeseyo!|Chúc một ngày hạnh phúc!
+902|오늘 하루도 수고하셨어요!|Oneul haruedo sugohasyeosseoyo!|Hôm nay cả ngày bạn đã vất vả rồi!
+903|자신을 칭찬해 주세요!|Jasineul chingchaenhae juseyo!|Hãy khen ngợi bản thân!
+904|오늘도 잘 해냈어요!|Oneuldo jal haenaesseoyo!|Hôm nay cũng đã làm tốt rồi!
+905|한국어 정복, 화이팅!|Hangugeo jeongbok, hwaiting!|Chinh phục tiếng Hàn, cố lên!
+906|포기 없이, 앞으로!|Pogi eopsi, apeuro!|Không bỏ cuộc, tiến lên!
+907|꾸준함이 곧 실력이에요.|Kkujunami got sillyogieyo|Kiên trì chính là thực lực.
+908|오늘의 당신이 내일의 당신을 만들어요.|Oneulye dangsini naeilye dangsineul mandeuleoyo|Bản thân hôm nay tạo nên bản thân ngày mai.
+909|더 나은 내일을 위해, 오늘 열심히.|Deo naeun naeireul wihae, oneul yeolsimhi|Vì một ngày mai tốt hơn, hôm nay hãy cố gắng.
+910|한국어로 빛나는 미래를 그려요.|Hangugero bitnaneun miraereul geuryeoyo|Hãy vẽ nên tương lai tươi sáng bằng tiếng Hàn.
+911|성공은 반드시 옵니다.|Seonggongeun bandeusi omnida|Thành công nhất định sẽ đến.
+912|그날을 위해 오늘 한 발짝.|Geunareul wihae oneul han baljjak|Vì ngày đó, hôm nay một bước.
+913|함께해서 더 강해요.|Hamkkeyeoseo deo ganghaeyo|Cùng nhau thì mạnh hơn.
+914|혼자가 아니에요.|Honjaga anieyo|Bạn không cô đơn.
+915|모두 함께 한국어를 배워요.|Modu hamkke hangugeo baeweoyo|Cùng nhau học tiếng Hàn.
+916|이 길이 즐겁고 아름다워요.|I giri jeulgeopgo areumdawoyo|Con đường này vui vẻ và đẹp đẽ.
+917|한국어를 통해 하나가 돼요.|Hangugereul tonghae hanaga dwaeyo|Qua tiếng Hàn, chúng ta trở thành một.
+918|언어는 우리를 하나로 묶어줘요.|Eoneo urireul hanaro mukkeojweoyo|Ngôn ngữ kết nối chúng ta thành một.
+919|한국어로 마음을 전해요.|Hangugero maumeul jeonhaeyo|Truyền đạt tâm hồn qua tiếng Hàn.
+920|그 마음이 세상을 따뜻하게 해요.|Geu maumi sesangeul ttatteuthage haeyo|Tâm hồn đó làm cho thế giới ấm áp hơn.
+921|오늘도 감사해요!|Oneuldo gamsahaeyo!|Hôm nay cũng cảm ơn!
+922|내일도 만나요!|Naeildo mannayo!|Ngày mai gặp lại!
+923|한국어 여정은 계속됩니다!|Hangugeo yeojeongeun gyesoktdoemnida!|Hành trình tiếng Hàn vẫn tiếp tục!
+924|멈추지 말고, 계속 가세요!|Meomchuji malgo, gyesok gaseyo!|Đừng dừng lại, hãy tiếp tục!
+925|당신의 한국어가 빛날 거예요!|Dansinye hangugeoga bitnal geoyeyo!|Tiếng Hàn của bạn sẽ tỏa sáng!
+926|오늘 1000문장을 완성했어요!|Oneul cheon munjangeul wanseonghaesseoyo!|Hôm nay đã hoàn thành 1000 câu!
+927|정말 대단해요!|Jeongmal daedanhaeyo!|Thật tuyệt vời!
+928|자랑스러워요!|Jarangseureowoyo!|Tự hào quá!
+929|이제 연습만 남았어요.|Ije yeonseupman namaesseoyo|Bây giờ chỉ còn luyện tập thôi.
+930|화이팅, 한국어 마스터!|Hwaiting, hangugeo maseuteo!|Cố lên, người thành thạo tiếng Hàn tương lai!
+931|진심으로 응원해요.|Jinsimeuro eungwonhaeyo|Tôi thành tâm cổ vũ bạn.
+932|이 1000문장이 빛을 발하길.|I cheon munjangyi bicheul balhagil|Mong 1000 câu này tỏa sáng.
+933|한국어로 세상과 소통해요.|Hangugero sesangwa sotongahaeyo|Giao tiếp với thế giới bằng tiếng Hàn.
+934|그 소통이 세상을 바꿔요.|Geu sotongyi sesangeul bakkwoyo|Sự giao tiếp đó thay đổi thế giới.
+935|작은 것부터 시작해요.|Jageun geotbuteo sijakaeyo|Hãy bắt đầu từ những điều nhỏ.
+936|꾸준히 하다 보면 어느새 잘하게 돼요.|Kkujunhi hada bomyeon eoneusae jalage dwaeyo|Kiên trì rồi tự nhiên sẽ giỏi.
+937|오늘도 한 문장 더!|Oneuldo han munjang deo!|Hôm nay cũng thêm một câu nữa!
+938|내일도 한 문장 더!|Naeildo han munjang deo!|Ngày mai cũng thêm một câu nữa!
+939|이렇게 하다 보면 어느새 고수가 돼요.|Ireoke hada bomyeon eoneusae gosura dwaeyo|Cứ làm như vậy rồi sẽ trở thành cao thủ lúc nào không hay.
+940|한국어 고수를 향해, 화이팅!|Hangugeo gosureul hyanghae, hwaiting!|Hướng đến cao thủ tiếng Hàn, cố lên!
+941|마지막 60개 문장이에요.|Majimak yuksip gae munjangieyo|Đây là 60 câu cuối cùng.
+942|함께 마무리해요.|Hamkke mamurihaeyo|Hãy cùng nhau kết thúc.
+943|한국어를 배우는 모든 분들께 감사드려요.|Hangugeo baeyneun modeun bundeurkke gamsadeuryeoyo|Cảm ơn tất cả những người đang học tiếng Hàn.
+944|이 노력이 반드시 보상받을 거예요.|I noryeogi bandeusi bosangbadeul geoyeyo|Nỗ lực này nhất định sẽ được đền đáp.
+945|열심히 한 자신에게 박수를 보내요.|Yeolsimhi han jasine baksureul bonaeyo|Hãy vỗ tay cho bản thân đã cố gắng.
+946|한국어는 평생 친구가 될 거예요.|Hangugeoneun pyeongsaeng chinguga doel geoyeyo|Tiếng Hàn sẽ trở thành người bạn suốt đời.
+947|그 친구를 소중히 아껴주세요.|Geu chingureul sojunghi akkyeojuseyo|Hãy trân trọng người bạn đó.
+948|오늘의 노력이 내일의 기쁨이 돼요.|Oneulye noryeogi naeilye gippeumi dwaeyo|Nỗ lực hôm nay trở thành niềm vui ngày mai.
+949|1000개의 문장, 1000번의 배움.|Cheon gaeyeye munjang, cheon beonye baeum|1000 câu, 1000 lần học hỏi.
+950|이 모든 것이 당신의 것이에요.|I modeun geosi dansinye geosieyo|Tất cả những điều này đều là của bạn.
+951|자유롭게 사용하세요.|Jayuropge sayonghaseyo|Hãy sử dụng tự do.
+952|한국어로 당신만의 이야기를 만들어요.|Hangugero dansinmanye iyagireul mandeuleoyo|Hãy tạo nên câu chuyện của riêng bạn bằng tiếng Hàn.
+953|그 이야기가 세상에서 가장 특별해요.|Geu iyagiga sesangeseo gajang teukbyeolaeyo|Câu chuyện đó là đặc biệt nhất trên đời.
+954|당신이 주인공이에요.|Dangsini juingongiieyo|Bạn là nhân vật chính.
+955|한국어는 그 이야기를 쓰는 펜이에요.|Hangugeoneun geu iyagireul sseuneun peniieyo|Tiếng Hàn là cây bút để viết câu chuyện đó.
+956|아름다운 이야기를 써나가세요.|Areumdaun iyagireul sseonagaseyo|Hãy viết nên câu chuyện đẹp.
+957|한국어와 함께 더 멋진 사람이 돼요.|Hangugeowa hamkke deo meotjin sarami dwaeyo|Cùng với tiếng Hàn, trở thành người tuyệt vời hơn.
+958|그 여정을 두려워하지 말고, 즐겨요.|Geu yeojeongeul duryeoworaji malgo, jeulgyeoyo|Đừng sợ hành trình đó, hãy tận hưởng.
+959|마지막으로 한 번 더: 화이팅!|Majimageuro han beon deo: hwaiting!|Lần cuối một lần nữa: Cố lên!
+960|그리고 마지막: 감사합니다!|Geurigo majimak: gamsahamnida!|Và câu cuối: Cảm ơn!
+961|한국어를 배우는 것은 세상을 여는 열쇠예요.|Hangugeo baeyneun geoseun sesangeul yeoneun yeolsoeyeyo|Học tiếng Hàn là chìa khóa mở cửa thế giới.
+962|오늘부터 시작해도 늦지 않아요.|Oneulbuteo sijakaedo neutji anayo|Bắt đầu từ hôm nay cũng không muộn.
+963|한 걸음씩, 천천히, 그러나 꾸준히.|Han georeumsik, cheoncheonhi, geurona kkujunhi|Từng bước, từ từ, nhưng kiên trì.
+964|그것이 가장 좋은 방법이에요.|Geugeosi gajang joeun bangbeogiieyo|Đó là phương pháp tốt nhất.
+965|한국어와의 인연에 감사해요.|Hangugeowaye inyeone gamsahaeyo|Cảm ơn cái duyên với tiếng Hàn.
+966|이 인연이 아름다운 결실을 맺길.|I inyeoni areumdaun gyeolsireul maetgil|Mong cái duyên này đơm hoa kết trái đẹp.
+967|한국어로 세상을 더 아름답게 봐요.|Hangugero sesangeul deo areumdapge bwayo|Nhìn thế giới đẹp hơn qua tiếng Hàn.
+968|오늘도, 내일도, 모레도 한국어!|Oneuldo, naeildo, moredo hangugeo!|Hôm nay, ngày mai, ngày kia, tiếng Hàn!
+969|포기하지 않는 여러분을 응원해요!|Pogihaji anneun yeoreobyneul eungwonhaeyo!|Tôi cổ vũ những ai không bỏ cuộc!
+970|마지막 30개 문장이에요.|Majimak samsip gae munjangieyo|Đây là 30 câu cuối.
+971|오늘도 잘 해주셔서 감사해요.|Oneuldo jal haejusyeoseo gamsahaeyo|Cảm ơn đã làm tốt hôm nay.
+972|내일도 기대되는 하루가 될 거예요.|Naeildo gidaedoeneun haruga doel geoyeyo|Ngày mai cũng sẽ là một ngày đáng mong đợi.
+973|한국어 공부를 계속하는 여러분!|Hangugeo gongbureul gyesokaneun yeoreobun!|Những người tiếp tục học tiếng Hàn!
+974|정말 멋져요!|Jeongmal meotjyeoyo!|Thật tuyệt vời!
+975|언어를 배우는 용기가 대단해요.|Eoneroreul baeyneun yonggiga daedanhaeyo|Dũng cảm học ngôn ngữ thật đáng ngưỡng mộ.
+976|그 용기를 계속 가지세요.|Geu yonggireul gyesok gajiseyo|Hãy giữ mãi dũng cảm đó.
+977|한국어가 여러분의 세상을 바꿀 거예요.|Hangugeoga yeoreobunye sesangeul bakkul geoyeyo|Tiếng Hàn sẽ thay đổi thế giới của mọi người.
+978|그 변화를 기대해요.|Geu byeonhwareul gidaehaeyo|Tôi mong đợi sự thay đổi đó.
+979|함께라서 행복해요.|Hamkkeyeoseo haengbokaeyo|Vì có nhau nên hạnh phúc.
+980|한국어로 연결된 우리.|Hangugero yeonggyeoldoen uri|Chúng ta được kết nối qua tiếng Hàn.
+981|이 연결이 오래가길 바래요.|I yeonggyeori oraegagil baraeyo|Mong sự kết nối này kéo dài mãi.
+982|한국어로 더 넓은 세상에서 만나요.|Hangugero deo neolbeun sesangeseo mannayo|Hãy gặp nhau trong một thế giới rộng lớn hơn bằng tiếng Hàn.
+983|오늘 이 마지막 문장들을 읽는 여러분.|Oneul i majimak munjangeul ingneun yeoreobun|Mọi người đang đọc những câu cuối này hôm nay.
+984|정말 대단하고 훌륭해요!|Jeongmal daedanhago hullyunghaeyo!|Thực sự tuyệt vời và xuất sắc!
+985|이 1000개의 문장을 모두 읽었어요.|I cheon gaeyeye munjangeul modu ilgeosseoyo|Bạn đã đọc hết 1000 câu này rồi.
+986|그것만으로도 이미 대단해요.|Geugeotmaneurodo imi daedanhaeyo|Chỉ vậy thôi cũng đã tuyệt vời rồi.
+987|앞으로 더 많이 배울 여러분!|Apeuro deo manhi baeul yeoreobun!|Mọi người sẽ học được nhiều hơn nữa phía trước!
+988|그 미래가 기대돼요!|Geu miraega gidaedwaeyo!|Tôi mong đợi tương lai đó!
+989|한국어와 함께하는 인생이 빛날 거예요.|Hangugeowa hamkkeaneun insaengi bitnal geoyeyo|Cuộc đời cùng với tiếng Hàn sẽ tỏa sáng.
+990|그 빛을 세상에 비추세요.|Geu bicheul sesange bichuseyo|Hãy chiếu ánh sáng đó ra thế giới.
+991|마지막 10개 문장이에요.|Majimak sip gae munjangieyo|Đây là 10 câu cuối.
+992|이 여정을 함께해서 정말 좋았어요.|I yeojeongeul hamkkehaeceo jeongmal joasseoyo|Thực sự rất vui khi được cùng nhau trong hành trình này.
+993|앞으로도 잘 부탁드려요.|Apeuroudo jal butakdeuryeoyo|Từ nay mong được nhờ vả nhiều.
+994|한국어 마스터를 향해 계속 달려요!|Hangugeo maseutereul hyanghae gyesok dallyeoyo!|Hãy tiếp tục chạy về phía thành thạo tiếng Hàn!
+995|오늘도 내일도 파이팅!|Oneuldo naeildo paiting!|Hôm nay cũng ngày mai cũng cố lên!
+996|한국어, 사랑해요!|Hangugeo, saranghaeyo!|Tiếng Hàn, tôi yêu bạn!
+997|여러분 모두 화이팅!|Yeoreobun modu hwaiting!|Mọi người đều cố lên!
+998|감사하고, 또 만나요!|Gamsahago, tto mannayo!|Cảm ơn và hẹn gặp lại!
+999|한국어와 함께 멋진 하루하루를 보내세요.|Hangugeowa hamkke meotjin haruharureul bonaeseyo|Hãy trải qua những ngày tuyệt vời cùng tiếng Hàn.
+1000|언젠가 어딘가에서 다시 만나요, 한국어와 함께!|Eonjengga eodingaeseo dasi mannayo, hangugeowa hamkke!|Hẹn gặp lại ở đâu đó một ngày nào đó, cùng với tiếng Hàn!
