@@ -17,6 +17,17 @@ Switch language with the selector in the top bar. Each language keeps its own pr
 
 ## Features
 
+- **Basics** (start here for a new language): a short course for each language, written in Vietnamese.
+  - **Alphabet & sounds**: tap-to-hear charts and practice rounds (see the letter and pick its sound, or listen and pick the letter). The app tracks each letter, and 3 correct answers in a row count it as known.
+    - Korean: Hangul consonants, double consonants, vowels, compound vowels and patchim.
+    - Japanese: hiragana, dakuten, yōon and katakana.
+    - Chinese: tones, initials, finals and 20 common radicals.
+    - Russian: Cyrillic letters in 3 groups (familiar, look-alikes that sound different, new).
+    - Spanish: vowels, familiar consonants and special letters.
+  - **Pronunciation & reading**: 5 lessons per language covering reading rules such as liaison and nasalization (Korean), long vowels and っ (Japanese), tone sandhi (Chinese), stress and vowel reduction (Russian), and stress and accent marks (Spanish).
+  - **Core grammar**: 10–11 lessons per language with explanations, patterns, conjugation tables, examples with audio, and check questions. A lesson is done when you answer all its questions correctly.
+  - The Today page shows your Basics progress and the next step.
+
 - **Today dashboard**: a daily goal ring, your study streak, cards due now, book progress, a **Your languages** overview (progress, what's due and a Study button for each language) and an activity heatmap.
 - **Flashcards with spaced repetition** (simplified SM-2). You grade each card Again / Hard / Good / Easy, and the app schedules its next review. Each button shows the next interval before you press it.
   - Card directions: sentence → meaning, meaning → sentence, or mixed.
@@ -49,7 +60,9 @@ index.html              app shell
 css/styles.css          styles (light + dark)
 js/srs.js               spaced-repetition scheduler (pure, unit-tested)
 js/tracker.js           daily log / streak / calendar (pure, unit-tested)
-js/app.js               UI: router, views, study session, quiz, settings
+js/basics-core.js       Basics practice logic (pure, unit-tested)
+js/app.js               UI: router, views, study session, quiz, basics, settings
+data/basics/*.js        Basics courses: alphabet groups + lessons per language
 data/raw/*.txt          book transcriptions (source of truth)
 data/books/*.js         generated book files loaded by the app
 scripts/build-books.js  raw .txt -> data/books/*.js
@@ -69,6 +82,25 @@ tests/                  node:test unit tests
 3. Run `npm run build:data`, then add a `<script src="data/books/<id>.js">` line to `index.html`.
 4. Run `npm test`.
 
+## Basics data
+
+Each `data/basics/<lang>.js` registers `window.LT_BASICS[<lang>]`, where `<lang>` is the book's `lang` code:
+
+```js
+{
+  intro: '…',
+  groups: [{ id, title, native, desc, modes?: ['read', 'listen'],
+             items: [{ ch, rom, say, set?, name?, note?, listen?: false }] }],
+  lessons: [{ id, kind: 'pronunciation' | 'grammar', title, summary, body: ['…'],
+              patterns?: ['…'], tables?: [{ title, head: [], rows: [[]] }],
+              examples: [{ t, r, v }], quiz: [{ q, o: ['…'], a: 0, why? }] }],
+}
+```
+
+- `ch` is the letter shown, `rom` its sound, and `say` the text the speech voice reads.
+- Items with the same `set` are used as wrong options for each other (look-alikes and sound-alikes).
+- In `quiz`, `a` is the index of the correct option. The app shuffles the options when it shows them.
+
 ## Development
 
 ```bash
@@ -79,4 +111,5 @@ npm run build:data   # regenerate data/books after editing data/raw
 ## Roadmap
 
 - **Phase 1 (done):** sentence learning from books with SRS, quiz, audio and routine tracking. Five languages: Korean, Japanese, Chinese, Russian and Spanish.
+- **Basics (done):** alphabet and sound practice, pronunciation rules and core grammar for each language.
 - **Next ideas:** more books (English vocabulary books), typing and dictation practice, word-level vocabulary extracted from the sentences, a study reminder and calendar, sync across devices, and an installable PWA for offline use.
