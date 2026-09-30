@@ -51,6 +51,18 @@ npm run serve        # http://localhost:8080
 
 It also works on GitHub Pages: turn Pages on for the repo root.
 
+### Install on a phone
+
+LangTrack is a PWA (installable web app). It has a web app manifest (`manifest.webmanifest`) and a service worker (`sw.js`) that caches every app file, so after the first visit it opens offline.
+
+1. Host it over https, for example with GitHub Pages (Settings → Pages → Deploy from a branch → your branch, `/ (root)`).
+2. On Android, open the site in Chrome, then use the menu (⋮) → **Install app** (or **Add to Home screen**).
+3. On iPhone, open it in Safari, then Share → **Add to Home Screen**.
+
+Updates arrive in the background: open the app once while online, and the new version loads the next time you open it. When you add or remove app files, update the `ASSETS` list and bump `VERSION` in `sw.js`.
+
+Progress is stored on the device. To move it between devices, use Settings → Export / Import.
+
 > Audio uses the voices installed on your device. If a language has no voice, install one in your OS language settings. Android and iOS include voices for all five languages.
 
 ## Project layout
